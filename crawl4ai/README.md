@@ -58,3 +58,21 @@ crawl4ai-setup
 crawl4ai-download-models
 
 ```
+
+## Crawl4AI CLI Guide
+
+### Basic Usage
+
+```bash
+# Basic crawling
+crwl https://example.com
+
+# Get markdown output
+crwl https://example.com -o markdown -O output/example.com.md
+
+# Verbose JSON output with cache bypass
+crwl https://example.com -o json -v --bypass-cache
+
+# See usage examples
+crwl --example
+```
