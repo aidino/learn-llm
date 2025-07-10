@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "crawl4ai>=0.6.3",
     "langdetect>=1.0.9",
     "nltk>=3.9.1",
     "pip>=25.1.1",
