@@ -26,7 +26,7 @@ async def main():
     
     async with AsyncWebCrawler(config=browser_config) as crawler:
         result = await crawler.arun(
-            url="https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025.jsp",
+            url="https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html",
             config=run_config
         )
         # Different content formats

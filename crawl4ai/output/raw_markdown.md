@@ -1,146 +1,1387 @@
-![](https://www.vietjack.com/images/loading-cg.gif)
-![Học Toán 12 Thầy Trường | Ôn thi Tốt nghiệp THPT cùng Thầy Trần Xuân Trường](https://www.vietjack.com/tai-lieu-mon-toan/images/tai-lieu-mon-toan-lop-5.PNG)
-  * Đề thi vào lớp 6 Toán
-  * [Tài liệu môn Toán lớp 5](https://www.vietjack.com/tai-lieu-mon-toan/tai-lieu-mon-toan-lop-5.jsp)
-  * [**Bộ đề thi vào 6 môn Toán (cả nước)**](https://www.vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp)
-  * [30+ Đề thi tuyển sinh vào lớp 6 môn Toán 2025](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-tuyen-sinh-vao-lop-6-mon-toan-nam-2025.jsp)
-  * [**Đề thi vào lớp 6 môn Toán Hà Nội**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-ha-noi.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Amsterdam](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-amsterdam.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Archimedes](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-archimedes.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Marie Curie](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-marie-curie.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Ngôi Sao](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-ngoi-sao.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS&THPT Nguyễn Tất Thành](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-thpt-nguyen-tat-thanh.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS Cầu Giấy](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-cau-giay.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS Nam Từ Liêm](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-nam-tu-liem.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS Thanh Xuân](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-thanh-xuan.jsp)
-  * [**Đề thi vào lớp 6 môn Toán Tp Hồ Chí Minh**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-tp-ho-chi-minh.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-chuyen-tran-dai-nghia.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Lê Lợi](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-le-loi.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường Trần Quốc Toản 1](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-tran-quoc-toan-1.jsp)
-  * [**Đề thi vào lớp 6 môn Toán Hà Tĩnh**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-ha-tinh.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-le-van-thiem.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS Hoàng Xuân Hãn](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-hoang-xuan-han.jsp)
-  * [**Đề thi vào lớp 6 môn Toán Vĩnh Phúc**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-vinh-phuc.jsp)
-  * [Đề thi vào lớp 6 môn Toán trường THCS Tam Dương](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-mon-toan-truong-thcs-tam-duong.jsp)
-  * [**Các dạng Toán ôn thi vào 6 chọn lọc**](https://www.vietjack.com/tai-lieu-mon-toan/cac-dang-toan-on-thi-vao-lop-6.jsp)
-  * [Các bài toán về số tự nhiên và chữ số có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-so-tu-nhien-va-chu-so-co-loi-giai.jsp)
-  * [Các bài toán về dấu hiệu chia hết có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-dau-hieu-chia-het-co-loi-giai.jsp)
-  * [Các bài toán về trung bình cộng có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-trung-binh-cong-co-loi-giai.jsp)
-  * [Các bài toán Tìm hai số khi biết tổng và hiệu có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-tim-hai-so-khi-biet-tong-va-hieu-co-loi-giai.jsp)
-  * [Các dạng toán có lời văn về phân số có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-dang-toan-co-loi-van-ve-phan-so-co-loi-giai.jsp)
-  * [Các bài toán về dãy số viết theo quy luật có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-day-so-viet-theo-quy-luat-co-loi-giai.jsp)
-  * [Các bài toán về Tỉ số phần trăm có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-ti-so-phan-tram-co-loi-giai.jsp)
-  * [Các bài toán Tính giá trị của biểu thức có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-tinh-gia-tri-cua-bieu-thuc-co-loi-giai.jsp)
-  * [Các bài toán tìm x có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-tim-x-co-loi-giai.jsp)
-  * [Các bài toán đánh số trang sách có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-danh-so-trang-sach-co-loi-giai.jsp)
-  * [Các bài toán về tính tuổi có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-tinh-tuoi-co-loi-giai.jsp)
-  * [Các bài toán trồng cây có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-trong-cay-co-loi-giai.jsp)
-  * [Các bài toán công việc chung – công việc riêng có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-cong-viec-chung-cong-viec-rieng-co-loi-giai.jsp)
-  * [Các bài toán về chuyển động có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-ve-chuyen-dong-co-loi-giai.jsp)
-  * [Cách giải toán bằng sơ đồ Ven có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cach-giai-toan-bang-so-do-ven-co-loi-giai.jsp)
-  * [Cách giải bài toán tính ngược từ cuối có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cach-giai-bai-toan-tinh-nguoc-tu-cuoi-co-loi-giai.jsp)
-  * [Cách giải bài toán bằng phương pháp giả thiết tạm](https://www.vietjack.com/tai-lieu-mon-toan/cach-giai-bai-toan-bang-phuong-phap-gia-thiet-tam.jsp)
-  * [Các bài toán suy luận logic có lời giải](https://www.vietjack.com/tai-lieu-mon-toan/cac-bai-toan-suy-luan-logic-co-loi-giai.jsp)
-  * [Cách giải các bài toán về chu vi và diện tích các hình](https://www.vietjack.com/tai-lieu-mon-toan/cach-giai-cac-bai-toan-ve-chu-vi-va-dien-tich-cac-hinh.jsp)
-  * [Cách giải bài toán tỉ lệ thuận, tỉ lệ nghịch cực hay](https://www.vietjack.com/tai-lieu-mon-toan/cach-giai-bai-toan-ti-le-thuan-ti-le-nghich-cuc-hay.jsp)
-  * [Cách giải bài toán về Hình hộp chữ nhật – Hình lập phương cực hay](https://www.vietjack.com/tai-lieu-mon-toan/cach-giai-bai-toan-ve-hinh-hop-chu-nhat-hinh-lap-phuong-cuc-hay.jsp)
+[ ![](https://loigiaihay.com/themes/style/images/logolgh.png) ](https://loigiaihay.com/ "loigiaihay.com")
+  * [Lớp 12](https://loigiaihay.com/lop-12.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 12
+      * [Soạn văn - Kết nối tri thức](https://loigiaihay.com/soan-van-12-ket-noi-tri-thuc-c1737.html "Soạn văn - Kết nối tri thức")
+      * [Soạn văn - Cánh diều](https://loigiaihay.com/soan-van-12-canh-dieu-c1738.html "Soạn văn - Cánh diều")
+      * [Soạn văn - Chân trời sáng tạo](https://loigiaihay.com/soan-van-12-chan-troi-sang-tao-c1739.html "Soạn văn - Chân trời sáng tạo")
+      * [Tác giả tác phẩm](https://loigiaihay.com/tac-gia-tac-pham-lop-12-c1851.html "Tác giả tác phẩm")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-12-ket-noi-tri-thuc-c1848.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [Tóm tắt, bố cục Văn - Cánh diều](https://loigiaihay.com/tom-tat-bo-cuc-van-12-canh-dieu-c1849.html "Tóm tắt, bố cục Văn - Cánh diều")
+      * [Tóm tắt, bố cục Văn - Chân trời sáng tạo](https://loigiaihay.com/tom-tat-bo-cuc-van-12-chan-troi-sang-tao-c1850.html "Tóm tắt, bố cục Văn - Chân trời sáng tạo")
+      * [SBT Văn - Kết nối tri thức](https://loigiaihay.com/sbt-van-12-ket-noi-tri-thuc-c1885.html "SBT Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 12
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-12-ket-noi-tri-thuc-c1783.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-12-canh-dieu-c1785.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-12-chan-troi-sang-tao-c1784.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cùng khám phá](https://loigiaihay.com/sgk-toan-12-cung-kham-pha-c1791.html "SGK Toán - Cùng khám phá")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sbt-toan-12-ket-noi-tri-thuc-c1959.html "SBT Toán - Kết nối tri thức")
+      * [SBT Toán - Cánh diều](https://loigiaihay.com/sbt-toan-12-canh-dieu-c1954.html "SBT Toán - Cánh diều")
+      * [SBT Toán - Chân trời sáng tạo](https://loigiaihay.com/sbt-toan-12-chan-troi-sang-tao-c1960.html "SBT Toán - Chân trời sáng tạo")
+      * [Chuyên đề học tập Toán - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-toan-12-ket-noi-tri-thuc-c2023.html "Chuyên đề học tập Toán - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 12
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-12-global-success-c1752.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Friends Global](https://loigiaihay.com/tieng-anh-12-friends-global-c1753.html "Tiếng Anh - Friends Global")
+      * [Tiếng Anh - iLearn Smart World](https://loigiaihay.com/tieng-anh-12-ilearn-smart-world-c1754.html "Tiếng Anh - iLearn Smart World")
+      * [Tiếng Anh - Bright](https://loigiaihay.com/tieng-anh-12-bright-c1755.html "Tiếng Anh - Bright")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-12-english-discovery-c1756.html "Tiếng Anh - English Discovery")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-anh-12-global-success-ket-noi-tri-thuc-c1833.html "SBT Global Success")
+      * [SBT Friends Global](https://loigiaihay.com/sbt-tieng-anh-12-friends-global-chan-troi-sang-tao-c1840.html "SBT Friends Global")
+      * [SBT iLearn Smart World](https://loigiaihay.com/sbt-tieng-anh-12-ilearn-smart-world-c1841.html "SBT iLearn Smart World")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-ly.png) Vật lí 12
+      * [SGK Vật Lí - Kết nối tri thức](https://loigiaihay.com/sgk-vat-li-12-ket-noi-tri-thuc-c1732.html "SGK Vật Lí - Kết nối tri thức")
+      * [SGK Vật Lí - Cánh diều](https://loigiaihay.com/sgk-vat-li-12-canh-dieu-c1734.html "SGK Vật Lí - Cánh diều")
+      * [SGK Vật Lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-vat-li-12-chan-troi-sang-tao-c1735.html "SGK Vật Lí - Chân trời sáng tạo")
+      * [SBT Vật lí - Kết nối tri thức](https://loigiaihay.com/sbt-vat-li-12-ket-noi-tri-thuc-c1936.html "SBT Vật lí - Kết nối tri thức")
+      * [SBT Vật lí - Cánh diều](https://loigiaihay.com/sbt-vat-li-12-canh-dieu-c1937.html "SBT Vật lí - Cánh diều")
+      * [SBT Vật lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-vat-li-12-chan-troi-sang-tao-c1938.html "SBT Vật lí - Chân trời sáng tạo")
+      * [Chuyên đề học tập Lí - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-li-12-ket-noi-tri-thuc-c1873.html "Chuyên đề học tập Lí - Kết nối tri thức")
+      * [Chuyên đề học tập Lí - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-li-12-canh-dieu-c1874.html "Chuyên đề học tập Lí - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-hoa.png) Hóa học 12
+      * [SGK Hóa - Kết nối tri thức](https://loigiaihay.com/sgk-hoa-12-ket-noi-tri-thuc-c1745.html "SGK Hóa - Kết nối tri thức")
+      * [SGK Hóa - Cánh diều](https://loigiaihay.com/sgk-hoa-12-canh-dieu-c1746.html "SGK Hóa - Cánh diều")
+      * [SGK Hóa - Chân trời sáng tạo](https://loigiaihay.com/sgk-hoa-12-chan-troi-sang-tao-c1747.html "SGK Hóa - Chân trời sáng tạo")
+      * [SBT Hóa - Kết nối tri thức](https://loigiaihay.com/sbt-hoa-12-ket-noi-tri-thuc-c1882.html "SBT Hóa - Kết nối tri thức")
+      * [SBT Hóa - Cánh diều](https://loigiaihay.com/sbt-hoa-12-canh-dieu-c1886.html "SBT Hóa - Cánh diều")
+      * [SBT Hóa - Chân trời sáng tạo](https://loigiaihay.com/sbt-hoa-12-chan-troi-sang-tao-c1884.html "SBT Hóa - Chân trời sáng tạo")
+      * [Chuyên đề học tập Hóa - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-12-ket-noi-tri-thuc-c1893.html "Chuyên đề học tập Hóa - Kết nối tri thức")
+      * [Chuyên đề học tập Hóa - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-12-canh-dieu-c1894.html "Chuyên đề học tập Hóa - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Sinh học 12
+      * [SGK Sinh - Kết nối tri thức](https://loigiaihay.com/sgk-sinh-12-ket-noi-tri-thuc-c1776.html "SGK Sinh - Kết nối tri thức")
+      * [SGK Sinh - Cánh diều](https://loigiaihay.com/sgk-sinh-12-canh-dieu-c1778.html "SGK Sinh - Cánh diều")
+      * [SGK Sinh - Chân trời sáng tạo](https://loigiaihay.com/sgk-sinh-12-chan-troi-sang-tao-c1779.html "SGK Sinh - Chân trời sáng tạo")
+      * [Trắc nghiệm Sinh - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-sinh-12-ket-noi-tri-thuc-c1926.html "Trắc nghiệm Sinh - Kết nối tri thức")
+      * [Trắc nghiệm Sinh - Cánh diều](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-sinh-12-canh-dieu-c1928.html "Trắc nghiệm Sinh - Cánh diều")
+      * [Trắc nghiệm Sinh - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-sinh-12-chan-troi-sang-tao-c1929.html "Trắc nghiệm Sinh - Chân trời sáng tạo")
+      * [Chuyên đề học tập Sinh - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-12-ket-noi-tri-thuc-c1931.html "Chuyên đề học tập Sinh - Kết nối tri thức")
+      * [Chuyên đề học tập Sinh - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-12-canh-dieu-c1932.html "Chuyên đề học tập Sinh - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử 12
+      * [SGK Lịch sử - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-12-ket-noi-tri-thuc-c1824.html "SGK Lịch sử - Kết nối tri thức")
+      * [SGK Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-12-chan-troi-sang-tao-c1826.html "SGK Lịch sử - Chân trời sáng tạo")
+      * [SGK Lịch sử - Cánh diều](https://loigiaihay.com/sgk-lich-su-12-canh-dieu-c1825.html "SGK Lịch sử - Cánh diều")
+      * [SBT Lịch sử - Cánh diều](https://loigiaihay.com/sbt-lich-su-12-canh-dieu-c2246.html "SBT Lịch sử - Cánh diều")
+      * [Đề thi, đề kiểm tra Lịch sử - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-lich-su-lop-12-ket-noi-tri-thuc-c2248.html "Đề thi, đề kiểm tra Lịch sử - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/de-thi-de-kiem-tra-lich-su-lop-12-chan-troi-sang-tao-c2250.html "Đề thi, đề kiểm tra Lịch sử - Chân trời sáng tạo")
+      * [Đề thi, đề kiểm tra Lịch sử - Cánh diều](https://loigiaihay.com/de-thi-de-kiem-tra-lich-su-lop-12-canh-dieu-c2251.html "Đề thi, đề kiểm tra Lịch sử - Cánh diều")
+      * [Chuyên đề học tập Lịch sử - Kết nối tri thức ](https://loigiaihay.com/chuyen-de-hoc-tap-lich-su-12-ket-noi-tri-thuc-c2452.html "Chuyên đề học tập Lịch sử - Kết nối tri thức ")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-dia.png) Địa lí 12
+      * [SGK Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-dia-li-lop-12-ket-noi-tri-thuc-c1859.html "SGK Địa lí - Kết nối tri thức")
+      * [SGK Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-dia-li-lop-12-chan-troi-sang-tao-c1860.html "SGK Địa lí - Chân trời sáng tạo")
+      * [SGK Địa lí - Cánh diều](https://loigiaihay.com/sgk-dia-li-lop-12-canh-dieu-c1861.html "SGK Địa lí - Cánh diều")
+      * [SBT Địa lí - Cánh diều](https://loigiaihay.com/sbt-dia-li-12-canh-dieu-c1993.html "SBT Địa lí - Cánh diều")
+      * [Đề thi, đề kiểm tra Địa lí - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-dia-li-lop-12-ket-noi-tri-thuc-c2249.html "Đề thi, đề kiểm tra Địa lí - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Địa lí - Chân trời sáng tạo](https://loigiaihay.com/de-thi-de-kiem-tra-dia-li-lop-12-chan-troi-sang-tao-c2256.html "Đề thi, đề kiểm tra Địa lí - Chân trời sáng tạo")
+      * [Đề thi, đề kiểm tra Địa lí - Cánh diều](https://loigiaihay.com/de-thi-de-kiem-tra-dia-li-lop-12-canh-dieu-c2257.html "Đề thi, đề kiểm tra Địa lí - Cánh diều")
+      * [SBT Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-dia-li-12-chan-troi-sang-tao-c2285.html "SBT Địa lí - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * GD kinh tế và pháp luật 12
+      * [SGK Giáo dục kinh tế và pháp luật - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-12-ket-noi-tri-thuc-c1879.html "SGK Giáo dục kinh tế và pháp luật - Kết nối tri thức")
+      * [SGK Giáo dục kinh tế và pháp luật - Chân trời sáng tạo](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-12-chan-troi-sang-tao-c1880.html "SGK Giáo dục kinh tế và pháp luật - Chân trời sáng tạo")
+      * [SGK Giáo dục kinh tế và pháp luật - Cánh diều](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-12-canh-dieu-c1881.html "SGK Giáo dục kinh tế và pháp luật - Cánh diều")
+      * [SBT Giáo dục kinh tế và pháp luật - Cánh diều](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-12-canh-dieu-c2242.html "SBT Giáo dục kinh tế và pháp luật - Cánh diều")
+      * [SBT Giáo dục kinh tế và pháp luật - Chân trời sáng tạo](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-12-chan-troi-sang-tao-c2287.html "SBT Giáo dục kinh tế và pháp luật - Chân trời sáng tạo")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-12-ket-noi-tri-thuc-c2440.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Kết nối tri thức")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-12-canh-dieu-c2441.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Cánh diều")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-12-chan-troi-sang-tao-c2442.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 12
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-12-ket-noi-tri-thuc-c1813.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-12-canh-dieu-c1814.html "SGK Công nghệ - Cánh diều")
+      * [Chuyên đề học tập Công nghệ - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-cong-nghe-12-ket-noi-tri-thuc-c2483.html "Chuyên đề học tập Công nghệ - Kết nối tri thức")
+      * [Chuyên đề học tập Công nghệ - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-cong-nghe-12-canh-dieu-c2484.html "Chuyên đề học tập Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 12
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-12-canh-dieu-c1845.html "SGK Tin học - Cánh diều")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-12-chan-troi-sang-tao-c1846.html "SGK Tin học - Chân trời sáng tạo")
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-12-ket-noi-tri-thuc-c1847.html "SGK Tin học - Kết nối tri thức")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-hoc-12-ket-noi-tri-thuc-c2268.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học - Cánh diều](https://loigiaihay.com/sbt-tin-hoc-12-canh-dieu-c2275.html "SBT Tin học - Cánh diều")
+      * [SBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/sbt-tin-hoc-12-chan-troi-sang-tao-c2288.html "SBT Tin học - Chân trời sáng tạo")
+      * [Chuyên đề học tập Tin - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-tin-12-ket-noi-tri-thuc-c2475.html "Chuyên đề học tập Tin - Kết nối tri thức")
+      * [Chuyên đề học tập Tin - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-tin-12-chan-troi-sang-tao-c2476.html "Chuyên đề học tập Tin - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-12.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 12
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-12-ket-noi-tri-thuc-c1802.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-12-canh-dieu-c1803.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-12-chan-troi-sang-tao-ban-1-c1804.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-12-chan-troi-sang-tao-ban-2-c1805.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2")
+    * GD Quốc phòng và An ninh 12
+      * [SGK Giáo dục quốc phòng và an ninh - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-quoc-phong-va-an-ninh-12-ket-noi-tri-thuc-c1816.html "SGK Giáo dục quốc phòng và an ninh - Kết nối tri thức")
+      * [SGK Giáo dục quốc phòng và an ninh - Cánh diều](https://loigiaihay.com/sgk-giao-duc-quoc-phong-va-an-ninh-12-canh-dieu-c1817.html "SGK Giáo dục quốc phòng và an ninh - Cánh diều")
+    * Giáo dục thể chất 12
+      * [SGK Giáo dục thể chất - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-the-chat-12-ket-noi-tri-thuc-c1967.html "SGK Giáo dục thể chất - Kết nối tri thức")
+      * [SGK Giáo dục thể chất - Cánh diều](https://loigiaihay.com/sgk-giao-duc-the-chat-12-canh-dieu-c2218.html "SGK Giáo dục thể chất - Cánh diều")
+    * Giáo dục địa phương 12
+      * [Tài liệu Giáo dục địa phương](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-12-c2347.html "Tài liệu Giáo dục địa phương")
+    * Đề thi, đề kiểm tra 12
+      * [Tổng hợp đề thi, đề kiểm tra ](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-12-c1221.html "Tổng hợp đề thi, đề kiểm tra ")
+  * [Lớp 11](https://loigiaihay.com/lop-11.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 11
+      * [Soạn văn - Kết nối tri thức - chi tiết](https://loigiaihay.com/soan-van-11-ket-noi-tri-thuc-chi-tiet-c1360.html "Soạn văn - Kết nối tri thức - chi tiết")
+      * [Soạn văn - Kết nối tri thức - siêu ngắn](https://loigiaihay.com/soan-van-11-ket-noi-tri-thuc-sieu-ngan-c1361.html "Soạn văn - Kết nối tri thức - siêu ngắn")
+      * [Soạn văn - Cánh Diều - chi tiết](https://loigiaihay.com/soan-van-11-canh-dieu-chi-tiet-c1362.html "Soạn văn - Cánh Diều - chi tiết")
+      * [Soạn văn - Cánh Diều - siêu ngắn](https://loigiaihay.com/soan-van-11-canh-dieu-sieu-ngan-c1363.html "Soạn văn - Cánh Diều - siêu ngắn")
+      * [Soạn văn - Chân trời sáng tạo - chi tiết](https://loigiaihay.com/soan-van-11-chan-troi-sang-tao-chi-tiet-c1364.html "Soạn văn - Chân trời sáng tạo - chi tiết")
+      * [Soạn văn - Chân trời sáng tạo - siêu ngắn](https://loigiaihay.com/soan-van-11-chan-troi-sang-tao-sieu-ngan-c1365.html "Soạn văn - Chân trời sáng tạo - siêu ngắn")
+      * [Tác giả tác phẩm](https://loigiaihay.com/tac-gia-tac-pham-lop-11-c1435.html "Tác giả tác phẩm")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-11-ket-noi-tri-thuc-c1708.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 11
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-11-ket-noi-tri-thuc-c1370.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-11-canh-dieu-c1371.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-11-chan-troi-sang-tao-c1372.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cùng khám phá](https://loigiaihay.com/sgk-toan-11-cung-kham-pha-c1441.html "SGK Toán - Cùng khám phá")
+      * [Chuyên đề học tập Toán - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-toan-11-ket-noi-tri-thuc-c1572.html "Chuyên đề học tập Toán - Kết nối tri thức")
+      * [Chuyên đề học tập Toán - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-toan-11-canh-dieu-c1574.html "Chuyên đề học tập Toán - Cánh diều")
+      * [Chuyên đề học tập Toán - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-toan-11-chan-troi-sang-tao-c1575.html "Chuyên đề học tập Toán - Chân trời sáng tạo")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sbt-toan-11-ket-noi-tri-thuc-c1567.html "SBT Toán - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 11
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-11-global-success-c1404.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Friends Global](https://loigiaihay.com/tieng-anh-11-friends-global-c1409.html "Tiếng Anh - Friends Global")
+      * [Tiếng Anh - iLearn Smart Wolrd](https://loigiaihay.com/tieng-anh-11-ilearn-smart-wolrd-c1406.html "Tiếng Anh - iLearn Smart Wolrd")
+      * [Tiếng Anh - Bright](https://loigiaihay.com/tieng-anh-11-bright-c1416.html "Tiếng Anh - Bright")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-11-english-discovery-c1419.html "Tiếng Anh - English Discovery")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-anh-11-global-success-ket-noi-tri-thuc-c1577.html "SBT Global Success")
+      * [SBT Friends Global](https://loigiaihay.com/sbt-tieng-anh-11-friends-global-chan-troi-sang-tao-c1579.html "SBT Friends Global")
+      * [SBT iLearn Smart World](https://loigiaihay.com/sbt-tieng-anh-11-ilearn-smart-world-c1580.html "SBT iLearn Smart World")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-ly.png) Vật lí 11
+      * [SGK Vật Lí - Kết nối tri thức](https://loigiaihay.com/sgk-vat-li-11-ket-noi-tri-thuc-c1366.html "SGK Vật Lí - Kết nối tri thức")
+      * [SGK Vật Lí - Cánh diều](https://loigiaihay.com/sgk-vat-li-11-canh-dieu-c1369.html "SGK Vật Lí - Cánh diều")
+      * [SGK Vật Lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-vat-li-11-chan-troi-sang-tao-c1368.html "SGK Vật Lí - Chân trời sáng tạo")
+      * [Chuyên đề học tập Lí - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-li-11-ket-noi-tri-thuc-c1554.html "Chuyên đề học tập Lí - Kết nối tri thức")
+      * [Chuyên đề học tập Lí - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-li-11-canh-dieu-c1556.html "Chuyên đề học tập Lí - Cánh diều")
+      * [Chuyên đề học tập Lí - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-li-11-chan-troi-sang-tao-c1555.html "Chuyên đề học tập Lí - Chân trời sáng tạo")
+      * [SBT Vật lí - Kết nối tri thức](https://loigiaihay.com/sbt-vat-li-11-ket-noi-tri-thuc-c1557.html "SBT Vật lí - Kết nối tri thức")
+      * [SBT Vật lí - Cánh diều](https://loigiaihay.com/sbt-vat-li-11-canh-dieu-c1562.html "SBT Vật lí - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-hoa.png) Hóa học 11
+      * [SGK Hóa học - Kết nối tri thức](https://loigiaihay.com/sgk-hoa-hoc-11-ket-noi-tri-thuc-c1431.html "SGK Hóa học - Kết nối tri thức")
+      * [SGK Hóa học - Cánh diều](https://loigiaihay.com/sgk-hoa-hoc-11-canh-dieu-c1433.html "SGK Hóa học - Cánh diều")
+      * [SGK Hóa học - Chân trời sáng tạo](https://loigiaihay.com/sgk-hoa-hoc-11-chan-troi-sang-tao-c1432.html "SGK Hóa học - Chân trời sáng tạo")
+      * [Chuyên đề học tập Hóa - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-11-ket-noi-tri-thuc-c1495.html "Chuyên đề học tập Hóa - Kết nối tri thức")
+      * [Chuyên đề học tập Hóa - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-11-canh-dieu-c1497.html "Chuyên đề học tập Hóa - Cánh diều")
+      * [Chuyên đề học tập Hóa - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-11-chan-troi-sang-tao-c1500.html "Chuyên đề học tập Hóa - Chân trời sáng tạo")
+      * [SBT Hóa - Kết nối tri thức](https://loigiaihay.com/sbt-hoa-11-ket-noi-tri-thuc-c1584.html "SBT Hóa - Kết nối tri thức")
+      * [SBT Hóa - Cánh diều](https://loigiaihay.com/sbt-hoa-11-canh-dieu-c1585.html "SBT Hóa - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Sinh học 11
+      * [SGK Sinh - Kết nối tri thức](https://loigiaihay.com/sgk-sinh-11-ket-noi-tri-thuc-c1388.html "SGK Sinh - Kết nối tri thức")
+      * [SGK Sinh - Cánh diều](https://loigiaihay.com/sgk-sinh-11-canh-dieu-c1389.html "SGK Sinh - Cánh diều")
+      * [SGK Sinh - Chân trời sáng tạo](https://loigiaihay.com/sgk-sinh-11-chan-troi-sang-tao-c1434.html "SGK Sinh - Chân trời sáng tạo")
+      * [Chuyên đề học tập Sinh - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-11-ket-noi-tri-thuc-c1569.html "Chuyên đề học tập Sinh - Kết nối tri thức")
+      * [Chuyên đề học tập Sinh - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-11-canh-dieu-c1576.html "Chuyên đề học tập Sinh - Cánh diều")
+      * [Chuyên đề học tập Sinh - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-11-chan-troi-sang-tao-c1573.html "Chuyên đề học tập Sinh - Chân trời sáng tạo")
+      * [SBT Sinh - Kết nối tri thức](https://loigiaihay.com/sbt-sinh-lop-11-ket-noi-tri-thuc-c1559.html "SBT Sinh - Kết nối tri thức")
+      * [SBT Sinh - Cánh diều](https://loigiaihay.com/sbt-sinh-lop-11-canh-dieu-c1566.html "SBT Sinh - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 11
+      * [SBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-11-ket-noi-tri-thuc-c2361.html "SBT Hoạt động trải nghiệm - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-11-ket-noi-tri-thuc-c1519.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-11-canh-dieu-c1520.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-11-chan-troi-sang-tao-c1521.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-11-chan-troi-sang-tao-ban-2-c1603.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2")
+      * [SBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-11-canh-dieu-c2365.html "SBT Hoạt động trải nghiệm - Cánh diều")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 1) ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-11-chan-troi-sang-tao-ban-1-c2393.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 1\) ")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 2) ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-11-chan-troi-sang-tao-ban-2-c2400.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 2\) ")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử 11
+      * [SGK Lịch sử - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-11-ket-noi-tri-thuc-c1425.html "SGK Lịch sử - Kết nối tri thức")
+      * [SGK Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-11-chan-troi-sang-tao-c1426.html "SGK Lịch sử - Chân trời sáng tạo")
+      * [SGK Lịch sử - Cánh diều](https://loigiaihay.com/sgk-lich-su-11-canh-dieu-c1427.html "SGK Lịch sử - Cánh diều")
+      * [SBT Lịch sử - Kết nối tri thức](https://loigiaihay.com/sbt-lich-su-11-ket-noi-tri-thuc-c2231.html "SBT Lịch sử - Kết nối tri thức")
+      * [SBT Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/sbt-lich-su-11-chan-troi-sang-tao-c2232.html "SBT Lịch sử - Chân trời sáng tạo")
+      * [SBT Lịch sử - Cánh diều](https://loigiaihay.com/sbt-lich-su-11-canh-dieu-c2233.html "SBT Lịch sử - Cánh diều")
+      * [Đề thi, đề kiểm tra Lịch sử - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-lich-su-lop-11-ket-noi-tri-thuc-c2380.html "Đề thi, đề kiểm tra Lịch sử - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/de-thi-de-kiem-tra-lich-su-lop-11-chan-troi-sang-tao-c2381.html "Đề thi, đề kiểm tra Lịch sử - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-dia.png) Địa lí 11
+      * [SGK Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-dia-li-lop-11-ket-noi-tri-thuc-c1599.html "SGK Địa lí - Kết nối tri thức")
+      * [SGK Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-dia-li-lop-11-chan-troi-sang-tao-c1601.html "SGK Địa lí - Chân trời sáng tạo")
+      * [SGK Địa lí - Cánh diều](https://loigiaihay.com/sgk-dia-li-lop-11-canh-dieu-c1719.html "SGK Địa lí - Cánh diều")
+      * [SBT Địa lí - Kết nối tri thức](https://loigiaihay.com/sbt-dia-li-11-ket-noi-tri-thuc-c2235.html "SBT Địa lí - Kết nối tri thức")
+      * [SBT Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-dia-li-11-chan-troi-sang-tao-c2236.html "SBT Địa lí - Chân trời sáng tạo")
+      * [SBT Địa lí - Cánh diều](https://loigiaihay.com/sbt-dia-li-11-canh-dieu-c2237.html "SBT Địa lí - Cánh diều")
+      * [Đề thi, đề kiểm tra Địa lí - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-dia-li-lop-11-ket-noi-tri-thuc-c2261.html "Đề thi, đề kiểm tra Địa lí - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Địa lí - Chân trời sáng tạo](https://loigiaihay.com/de-thi-de-kiem-tra-dia-li-lop-11-chan-troi-sang-tao-c2262.html "Đề thi, đề kiểm tra Địa lí - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * GD kinh tế và pháp luật 11
+      * [SGK Giáo dục kinh tế và pháp luật - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-11-ket-noi-tri-thuc-c1589.html "SGK Giáo dục kinh tế và pháp luật - Kết nối tri thức")
+      * [SGK Giáo dục kinh tế và pháp luật - Chân trời sáng tạo](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-11-chan-troi-sang-tao-c1590.html "SGK Giáo dục kinh tế và pháp luật - Chân trời sáng tạo")
+      * [SGK Giáo dục kinh tế và pháp luật - Cánh diều](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-11-canh-dieu-c1591.html "SGK Giáo dục kinh tế và pháp luật - Cánh diều")
+      * [SBT Giáo dục kinh tế và pháp luật - Kết nối tri thức](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-11-ket-noi-tri-thuc-c2234.html "SBT Giáo dục kinh tế và pháp luật - Kết nối tri thức")
+      * [SBT Giáo dục kinh tế và pháp luật - Chân trời sáng tạo](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-11-chan-troi-sang-tao-c2238.html "SBT Giáo dục kinh tế và pháp luật - Chân trời sáng tạo")
+      * [SBT Giáo dục kinh tế và pháp luật - Cánh diều](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-11-canh-dieu-c2239.html "SBT Giáo dục kinh tế và pháp luật - Cánh diều")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-11-ket-noi-tri-thuc-c2449.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Kết nối tri thức")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-11-chan-troi-sang-tao-c2450.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-11.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 11
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-11-ket-noi-tri-thuc-c1493.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-11-canh-dieu-c1524.html "SGK Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 11
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-11-ket-noi-tri-thuc-c1587.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-11-canh-dieu-c1588.html "SGK Tin học - Cánh diều")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-hoc-11-ket-noi-tri-thuc-c2289.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học - Cánh diều](https://loigiaihay.com/sbt-tin-hoc-11-canh-dieu-c2302.html "SBT Tin học - Cánh diều")
+      * [Chuyên đề học tập Tin - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-tin-11-ket-noi-tri-thuc-c2478.html "Chuyên đề học tập Tin - Kết nối tri thức")
+      * [Chuyên đề học tập Tin - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-tin-11-canh-dieu-c2480.html "Chuyên đề học tập Tin - Cánh diều")
+    * Giáo dục thể chất 11
+      * [SGK Giáo dục thể chất - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-the-chat-11-ket-noi-tri-thuc-c1494.html "SGK Giáo dục thể chất - Kết nối tri thức")
+      * [SGK Giáo dục thể chất - Cánh diều](https://loigiaihay.com/sgk-giao-duc-the-chat-11-canh-dieu-c1496.html "SGK Giáo dục thể chất - Cánh diều")
+    * GD Quốc phòng và An ninh 11
+      * [SGK Giáo dục quốc phòng và an ninh - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-quoc-phong-va-an-ninh-11-ket-noi-tri-thuc-c1501.html "SGK Giáo dục quốc phòng và an ninh - Kết nối tri thức")
+      * [SGK Giáo dục quốc phòng và an ninh - Cánh diều](https://loigiaihay.com/sgk-giao-duc-quoc-phong-va-an-ninh-11-canh-dieu-c1502.html "SGK Giáo dục quốc phòng và an ninh - Cánh diều")
+    * Giáo dục địa phương 11
+      * [Tài liệu Giáo dục địa phương ](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-11-c2324.html "Tài liệu Giáo dục địa phương ")
+    * Đề thi, đề kiểm tra 11
+      * [Tổng hợp đề thi, đề kiểm tra](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-11-c1224.html "Tổng hợp đề thi, đề kiểm tra")
+  * [Lớp 10](https://loigiaihay.com/lop-10.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 10
+      * [Soạn văn - Kết nối tri thức - siêu ngắn](https://loigiaihay.com/soan-van-10-kntt-sieu-ngan-c812.html "Soạn văn - Kết nối tri thức - siêu ngắn")
+      * [Soạn văn - Kết nối tri thức - chi tiết](https://loigiaihay.com/soan-van-10-ket-noi-tri-thuc-chi-tiet-c851.html "Soạn văn - Kết nối tri thức - chi tiết")
+      * [Soạn văn - Chân trời sáng tạo - siêu ngắn](https://loigiaihay.com/soan-van-10-chan-troi-sang-tao-sieu-ngan-c886.html "Soạn văn - Chân trời sáng tạo - siêu ngắn")
+      * [Soạn văn - Chân trời sáng tạo - chi tiết](https://loigiaihay.com/soan-van-10-chan-troi-sang-tao-chi-tiet-c887.html "Soạn văn - Chân trời sáng tạo - chi tiết")
+      * [Soạn văn - Cánh Diều - siêu ngắn](https://loigiaihay.com/soan-van-10-canh-dieu-sieu-ngan-c852.html "Soạn văn - Cánh Diều - siêu ngắn")
+      * [Soạn văn - Cánh Diều - chi tiết](https://loigiaihay.com/soan-van-10-canh-dieu-chi-tiet-c853.html "Soạn văn - Cánh Diều - chi tiết")
+      * [Tác giả tác phẩm](https://loigiaihay.com/tac-gia-tac-pham-lop-10-ket-noi-tri-thuc-c879.html "Tác giả tác phẩm")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-10-ket-noi-tri-thuc-c1976.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 10
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-10-ket-noi-tri-thuc-c811.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-10-chan-troi-sang-tao-c868.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-10-canh-dieu-c859.html "SGK Toán - Cánh diều")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sbt-toan-10-ket-noi-tri-thuc-c1007.html "SBT Toán - Kết nối tri thức")
+      * [SBT Toán - Chân trời sáng tạo](https://loigiaihay.com/sbt-toan-10-chan-troi-sang-tao-c1090.html "SBT Toán - Chân trời sáng tạo")
+      * [SBT Toán - Cánh diều](https://loigiaihay.com/sbt-toan-10-canh-dieu-c1126.html "SBT Toán - Cánh diều")
+      * [Chuyên đề học tập Toán - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-toan-10-ket-noi-tri-thuc-c1161.html "Chuyên đề học tập Toán - Kết nối tri thức")
+      * [Chuyên đề học tập Toán - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-toan-10-chan-troi-sang-tao-c1162.html "Chuyên đề học tập Toán - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 10
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-10-global-success-c818.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Friends Global](https://loigiaihay.com/tieng-anh-10-friends-global-c867.html "Tiếng Anh - Friends Global")
+      * [Tiếng Anh - iLearn Smart World](https://loigiaihay.com/tieng-anh-10-ilearn-smart-world-c934.html "Tiếng Anh - iLearn Smart World")
+      * [Tiếng Anh - English Discovery ](https://loigiaihay.com/tieng-anh-10-english-discovery-c946.html "Tiếng Anh - English Discovery ")
+      * [Tiếng Anh - Bright](https://loigiaihay.com/tieng-anh-10-bright-c1014.html "Tiếng Anh - Bright")
+      * [Tiếng Anh - Explore New Worlds](https://loigiaihay.com/tieng-anh-10-explore-new-worlds-c947.html "Tiếng Anh - Explore New Worlds")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-anh-10-global-success-ket-noi-tri-thuc-c1094.html "SBT Global Success")
+      * [SBT Friends Global](https://loigiaihay.com/sbt-tieng-anh-10-friends-global-chan-troi-sang-tao-c1104.html "SBT Friends Global")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-ly.png) Vật lí 10
+      * [SGK Vật Lí - Kết nối tri thức](https://loigiaihay.com/sgk-vat-li-10-ket-noi-tri-thuc-c804.html "SGK Vật Lí - Kết nối tri thức")
+      * [SGK Vật Lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-vat-li-10-chan-troi-sang-tao-c805.html "SGK Vật Lí - Chân trời sáng tạo")
+      * [SGK Vật Lí - Cánh diều](https://loigiaihay.com/sgk-vat-li-10-canh-dieu-c806.html "SGK Vật Lí - Cánh diều")
+      * [SBT Vật lí - Kết nối tri thức](https://loigiaihay.com/sbt-vat-li-10-ket-noi-tri-thuc-c1011.html "SBT Vật lí - Kết nối tri thức")
+      * [SBT Vật lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-vat-li-10-chan-troi-sang-tao-c1012.html "SBT Vật lí - Chân trời sáng tạo")
+      * [SBT Vật lí - Cánh diều](https://loigiaihay.com/sbt-vat-li-10-canh-dieu-c1013.html "SBT Vật lí - Cánh diều")
+      * [Trắc nghiệm Lí - Kết nối tri thức ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-li-10-ket-noi-tri-thuc-c942.html "Trắc nghiệm Lí - Kết nối tri thức ")
+      * [Bài tập trắc nghiệm Lí - Kết nối tri thức](https://loigiaihay.com/bai-tap-trac-nghiem-li-10-ket-noi-tri-thuc-c1333.html "Bài tập trắc nghiệm Lí - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-hoa.png) Hóa học 10
+      * [SGK Hóa - Kết nối tri thức](https://loigiaihay.com/sgk-hoa-10-ket-noi-tri-thuc-c828.html "SGK Hóa - Kết nối tri thức")
+      * [SGK Hóa - Chân trời sáng tạo](https://loigiaihay.com/sgk-hoa-10-chan-troi-sang-tao-c870.html "SGK Hóa - Chân trời sáng tạo")
+      * [SGK Hóa - Cánh diều](https://loigiaihay.com/sgk-hoa-10-canh-dieu-c862.html "SGK Hóa - Cánh diều")
+      * [SBT Hóa - Kết nối tri thức](https://loigiaihay.com/sbt-hoa-10-ket-noi-tri-thuc-c1108.html "SBT Hóa - Kết nối tri thức")
+      * [SBT Hóa - Chân trời sáng tạo](https://loigiaihay.com/sbt-hoa-10-chan-troi-sang-tao-c1087.html "SBT Hóa - Chân trời sáng tạo")
+      * [SBT Hóa 10 - Cánh diều](https://loigiaihay.com/sbt-hoa-10-canh-dieu-c1159.html "SBT Hóa 10 - Cánh diều")
+      * [Chuyên đề học tập Hóa - Kết nối tri thức ](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-10-ket-noi-tri-thuc-c1138.html "Chuyên đề học tập Hóa - Kết nối tri thức ")
+      * [Chuyên đề học tập Hóa 10 – Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-hoa-10-chan-troi-sang-tao-c1158.html "Chuyên đề học tập Hóa 10 – Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Sinh học 10
+      * [SGK Sinh - Kết nối tri thức](https://loigiaihay.com/sgk-sinh-10-ket-noi-tri-thuc-c854.html "SGK Sinh - Kết nối tri thức")
+      * [SGK Sinh - Chân trời sáng tạo](https://loigiaihay.com/sgk-sinh-10-chan-troi-sang-tao-c871.html "SGK Sinh - Chân trời sáng tạo")
+      * [SGK Sinh - Cánh diều](https://loigiaihay.com/sgk-sinh-10-canh-dieu-c855.html "SGK Sinh - Cánh diều")
+      * [SBT Sinh - Kết nối tri thức](https://loigiaihay.com/sbt-sinh-lop-10-ket-noi-tri-thuc-c1120.html "SBT Sinh - Kết nối tri thức")
+      * [SBT Sinh - Chân trời sáng tạo](https://loigiaihay.com/sbt-sinh-lop-10-chan-troi-sang-tao-c1122.html "SBT Sinh - Chân trời sáng tạo")
+      * [SBT Sinh - Cánh diều](https://loigiaihay.com/sbt-sinh-lop-10-canh-dieu-c1125.html "SBT Sinh - Cánh diều")
+      * [Chuyên đề học tập Sinh - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-10-ket-noi-tri-thuc-c1149.html "Chuyên đề học tập Sinh - Kết nối tri thức")
+      * [Chuyên đề học tập Sinh - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-sinh-10-chan-troi-sang-tao-c1150.html "Chuyên đề học tập Sinh - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử 10
+      * [SGK Lịch sử - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-10-ket-noi-tri-thuc-voi-cuoc-song-c824.html "SGK Lịch sử - Kết nối tri thức")
+      * [SGK Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-10-chan-troi-sang-tao-c869.html "SGK Lịch sử - Chân trời sáng tạo")
+      * [SGK Lịch sử - Cánh Diều](https://loigiaihay.com/sgk-lich-su-10-canh-dieu-c850.html "SGK Lịch sử - Cánh Diều")
+      * [SBT Lịch sử - Kết nối tri thức](https://loigiaihay.com/sbt-lich-su-10-ket-noi-tri-thuc-c1086.html "SBT Lịch sử - Kết nối tri thức")
+      * [SBT Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/sbt-lich-su-10-chan-troi-sang-tao-c1088.html "SBT Lịch sử - Chân trời sáng tạo")
+      * [SBT Lịch sử - Cánh Diều](https://loigiaihay.com/sbt-lich-su-10-canh-dieu-c1089.html "SBT Lịch sử - Cánh Diều")
+      * [Chuyên đề học tập Lịch sử - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-lich-su-10-ket-noi-tri-thuc-c1177.html "Chuyên đề học tập Lịch sử - Kết nối tri thức")
+      * [Trắc nghiệm Sử - kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-su-10-ket-noi-tri-thuc-c943.html "Trắc nghiệm Sử - kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-dia.png) Địa lí 10
+      * [SGK Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-dia-li-lop-10-ket-noi-tri-thuc-c810.html "SGK Địa lí - Kết nối tri thức")
+      * [SGK Địa lí - Cánh Diều](https://loigiaihay.com/sgk-dia-li-lop-10-canh-dieu-c846.html "SGK Địa lí - Cánh Diều")
+      * [SGK Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-dia-li-lop-10-chan-troi-sang-tao-c803.html "SGK Địa lí - Chân trời sáng tạo")
+      * [SBT Địa lí - Kết nối tri thức](https://loigiaihay.com/sbt-dia-li-10-ket-noi-tri-thuc-c1009.html "SBT Địa lí - Kết nối tri thức")
+      * [SBT Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-dia-li-10-chan-troi-sang-tao-c1010.html "SBT Địa lí - Chân trời sáng tạo")
+      * [Trắc nghiệm Địa lí - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-dia-li-lop-10-kntt-c954.html "Trắc nghiệm Địa lí - Kết nối tri thức")
+      * [Trắc nghiệm Địa lí - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-dia-li-lop-10-ctst-c1002.html "Trắc nghiệm Địa lí - Chân trời sáng tạo")
+      * [Trắc nghiệm Địa lí - Cánh Diều](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-dia-li-lop-10-cd-c1003.html "Trắc nghiệm Địa lí - Cánh Diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 10
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-10-ket-noi-tri-thuc-c897.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Cánh Diều](https://loigiaihay.com/sgk-tin-hoc-10-canh-dieu-c906.html "SGK Tin học - Cánh Diều")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-10-ket-noi-tri-thuc-c1156.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học 10 - Cánh diều](https://loigiaihay.com/sbt-tin-hoc-10-canh-dieu-c2433.html "SBT Tin học 10 - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 10
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-10-ket-noi-tri-thuc-c899.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-10-canh-dieu-c900.html "SGK Công nghệ - Cánh diều")
+      * [Chuyên đề học tập Công nghệ - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-cong-nghe-10-ket-noi-tri-thuc-c2481.html "Chuyên đề học tập Công nghệ - Kết nối tri thức")
+      * [Chuyên đề học tập Công nghệ - Cánh diều](https://loigiaihay.com/chuyen-de-hoc-tap-cong-nghe-10-canh-dieu-c2482.html "Chuyên đề học tập Công nghệ - Cánh diều")
+    * GD kinh tế và pháp luật 10
+      * [SGK Giáo dục kinh tế và pháp luật - KNTT](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-10-ket-noi-tri-thuc-c921.html "SGK Giáo dục kinh tế và pháp luật - KNTT")
+      * [SGK Giáo dục kinh tế và pháp luật - CTST](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-10-chan-troi-sang-tao-c922.html "SGK Giáo dục kinh tế và pháp luật - CTST")
+      * [SGK Giáo dục kinh tế và pháp luật - Cánh diều](https://loigiaihay.com/sgk-giao-duc-kinh-te-va-phap-luat-10-canh-dieu-c923.html "SGK Giáo dục kinh tế và pháp luật - Cánh diều")
+      * [SBT Giáo dục kinh tế và pháp luật - Kết nối tri thức](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-10-ket-noi-tri-thuc-c2280.html "SBT Giáo dục kinh tế và pháp luật - Kết nối tri thức")
+      * [SBT Giáo dục kinh tế và pháp luật - Chân trời sáng tạo](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-10-chan-troi-sang-tao-c2281.html "SBT Giáo dục kinh tế và pháp luật - Chân trời sáng tạo")
+      * [SBT Giáo dục kinh tế và pháp luật - Cánh diều](https://loigiaihay.com/sbt-giao-duc-kinh-te-va-phap-luat-10-canh-dieu-c2282.html "SBT Giáo dục kinh tế và pháp luật - Cánh diều")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Kết nối tri thức](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-10-ket-noi-tri-thuc-c2469.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Kết nối tri thức")
+      * [Chuyên đề học tập Giáo dục kinh tế pháp luật - Chân trời sáng tạo](https://loigiaihay.com/chuyen-de-hoc-tap-giao-duc-kinh-te-phap-luat-10-chan-troi-sang-tao-c2470.html "Chuyên đề học tập Giáo dục kinh tế pháp luật - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-10.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 10
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/hoat-dong-trai-nghiem-huong-nghiep-lop-10-c917.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-10-chan-troi-sang-tao-c918.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh Diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-10-canh-dieu-c919.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh Diều")
+      * [SBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-10-ket-noi-tri-thuc-c2367.html "SBT Hoạt động trải nghiệm - Kết nối tri thức")
+      * [SBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-10-canh-dieu-c2384.html "SBT Hoạt động trải nghiệm - Cánh diều")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 1) ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-10-chan-troi-sang-tao-ban-1-c2388.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 1\) ")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 2) ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-10-chan-troi-sang-tao-ban-2-c2401.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 2\) ")
+    * Giáo dục thể chất 10
+      * [SGK Giáo dục thể chất - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-the-chat-10-ket-noi-tri-thuc-c1151.html "SGK Giáo dục thể chất - Kết nối tri thức")
+      * [SGK Giáo dục thể chất - Cánh diều](https://loigiaihay.com/sgk-giao-duc-the-chat-10-canh-dieu-c1152.html "SGK Giáo dục thể chất - Cánh diều")
+    * GD Quốc phòng và An ninh 10
+      * [SGK Giáo dục quốc phòng và an ninh - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-quoc-phong-va-an-ninh-10-ket-noi-tri-thuc-c1166.html "SGK Giáo dục quốc phòng và an ninh - Kết nối tri thức")
+      * [SGK Giáo dục quốc phòng và an ninh - Cánh diều](https://loigiaihay.com/sgk-giao-duc-quoc-phong-va-an-ninh-10-canh-dieu-c1167.html "SGK Giáo dục quốc phòng và an ninh - Cánh diều")
+    * Giáo dục địa phương 10
+      * [Tài liệu Giáo dục địa phương](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-10-c2323.html "Tài liệu Giáo dục địa phương")
+    * Đề thi, đề kiểm tra 10
+      * [Tổng hợp đề thi, đề kiểm tra ](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-10-c1227.html "Tổng hợp đề thi, đề kiểm tra ")
+  * [Lớp 9](https://loigiaihay.com/lop-9.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 9
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-9-ket-noi-tri-thuc-c1748.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-9-chan-troi-sang-tao-c1749.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-9-canh-dieu-c1750.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Cùng khám phá](https://loigiaihay.com/sgk-toan-9-cung-kham-pha-c1751.html "SGK Toán - Cùng khám phá")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sbt-toan-9-ket-noi-tri-thuc-c1876.html "SBT Toán - Kết nối tri thức")
+      * [SBT Toán - Chân trời sáng tạo](https://loigiaihay.com/sbt-toan-9-chan-troi-sang-tao-c1877.html "SBT Toán - Chân trời sáng tạo")
+      * [SBT Toán - Cánh diều](https://loigiaihay.com/sbt-toan-9-canh-dieu-c1878.html "SBT Toán - Cánh diều")
+      * [Vở thực hành Toán](https://loigiaihay.com/vo-thuc-hanh-toan-9-c1866.html "Vở thực hành Toán")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-9.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 9
+      * [Soạn văn - Kết nối tri thức](https://loigiaihay.com/soan-van-9-ket-noi-tri-thuc-c1740.html "Soạn văn - Kết nối tri thức")
+      * [Soạn văn - Chân trời sáng tạo](https://loigiaihay.com/soan-van-9-chan-troi-sang-tao-c1743.html "Soạn văn - Chân trời sáng tạo")
+      * [Soạn văn - Cánh diều](https://loigiaihay.com/soan-van-9-canh-dieu-c1742.html "Soạn văn - Cánh diều")
+      * [Tác giả - Tác phẩm văn](https://loigiaihay.com/tac-gia-tac-pham-van-9-c1789.html "Tác giả - Tác phẩm văn")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-9-ket-noi-tri-thuc-c1799.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [Tóm tắt, bố cục Văn - Chân trời sáng tạo](https://loigiaihay.com/tom-tat-bo-cuc-van-9-chan-troi-sang-tao-c1801.html "Tóm tắt, bố cục Văn - Chân trời sáng tạo")
+      * [Tóm tắt, bố cục Văn - Cánh diều](https://loigiaihay.com/tom-tat-bo-cuc-van-9-canh-dieu-c1800.html "Tóm tắt, bố cục Văn - Cánh diều")
+      * [SBT Văn - Kết nối tri thức](https://loigiaihay.com/sbt-van-9-ket-noi-tri-thuc-c1913.html "SBT Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-9.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 9
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-9-global-success-c1757.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Friends Plus](https://loigiaihay.com/tieng-anh-9-friends-plus-c1758.html "Tiếng Anh - Friends Plus")
+      * [Tiếng Anh - iLearn Smart World](https://loigiaihay.com/tieng-anh-9-ilearn-smart-world-c1759.html "Tiếng Anh - iLearn Smart World")
+      * [Tiếng Anh - Right on!](https://loigiaihay.com/tieng-anh-9-right-on-c1760.html "Tiếng Anh - Right on!")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-9-english-discovery-c1761.html "Tiếng Anh - English Discovery")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-anh-9-global-success-ket-noi-tri-thuc-c1834.html "SBT Global Success")
+      * [SBT Friends Plus](https://loigiaihay.com/sbt-tieng-anh-9-friends-plus-chan-troi-sang-tao-c1835.html "SBT Friends Plus")
+      * [SBT iLearn Smart World](https://loigiaihay.com/sbt-tieng-anh-9-ilearn-smart-world-c1836.html "SBT iLearn Smart World")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-9.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Khoa học tự nhiên 9
+      * [SGK Khoa học tự nhiên - Kết nối tri thức](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-9-ket-noi-tri-thuc-c1744.html "SGK Khoa học tự nhiên - Kết nối tri thức")
+      * [SGK Khoa học tự nhiên - Cánh diều](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-9-canh-dieu-c1733.html "SGK Khoa học tự nhiên - Cánh diều")
+      * [SGK Khoa học tự nhiên 9 Chân trời sáng tạo](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-9-chan-troi-sang-tao-c1736.html "SGK Khoa học tự nhiên 9 Chân trời sáng tạo")
+      * [SBT KHTN - Kết nối tri thức](https://loigiaihay.com/sbt-khtn-lop-9-ket-noi-tri-thuc-c1939.html "SBT KHTN - Kết nối tri thức")
+      * [SBT KHTN - Cánh diều](https://loigiaihay.com/sbt-khtn-lop-9-canh-dieu-c1940.html "SBT KHTN - Cánh diều")
+      * [SBT KHTN - Chân trời sáng tạo](https://loigiaihay.com/sbt-khtn-lop-9-chan-troi-sang-tao-c1942.html "SBT KHTN - Chân trời sáng tạo")
+      * [Trắc nghiệm KHTN - Kết nối tri thức ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-khtn-9-ket-noi-tri-thuc-c1924.html "Trắc nghiệm KHTN - Kết nối tri thức ")
+      * [Trắc nghiệm KHTN - Cánh diều](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-khtn-9-canh-dieu-c1925.html "Trắc nghiệm KHTN - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-9.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử và Địa lí 9
+      * [SGK Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-va-dia-li-9-ket-noi-tri-thuc-c1827.html "SGK Lịch sử và Địa lí - Kết nối tri thức")
+      * [SGK Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/sgk-lich-su-va-dia-ly-9-canh-dieu-c1828.html "SGK Lịch sử và Địa lí - Cánh diều")
+      * [SGK Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-va-dia-li-9-chan-troi-sang-tao-c1829.html "SGK Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [SBT Lịch sử - Cánh diều](https://loigiaihay.com/sbt-lich-su-9-canh-dieu-c2357.html "SBT Lịch sử - Cánh diều")
+      * [SBT Địa lí - Kết nối tri thức](https://loigiaihay.com/sbt-dia-li-9-ket-noi-tri-thuc-c2374.html "SBT Địa lí - Kết nối tri thức")
+      * [SBT Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-dia-li-9-chan-troi-sang-tao-c2375.html "SBT Địa lí - Chân trời sáng tạo")
+      * [SBT Đia lí - Cánh diều](https://loigiaihay.com/sbt-dia-li-9-canh-dieu-c2366.html "SBT Đia lí - Cánh diều")
+      * [Đề thi, kiểm tra Lịch Sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/de-thi-kiem-tra-lich-su-va-dia-li-lop-9-ket-noi-tri-thuc-c2258.html "Đề thi, kiểm tra Lịch Sử và Địa lí - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-9.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-gdcd.png) GDCD 9
+      * [Giáo dục công dân - Kết nối tri thức](https://loigiaihay.com/giao-duc-cong-dan-9-ket-noi-tri-thuc-c1818.html "Giáo dục công dân - Kết nối tri thức")
+      * [Giáo dục công dân - Chân trời sáng tạo](https://loigiaihay.com/giao-duc-cong-dan-9-chan-troi-sang-tao-c1819.html "Giáo dục công dân - Chân trời sáng tạo")
+      * [Giáo dục công dân - Cánh diều](https://loigiaihay.com/giao-duc-cong-dan-9-canh-dieu-c1820.html "Giáo dục công dân - Cánh diều")
+      * [SBT GDCD - Chân trời sáng tạo](https://loigiaihay.com/sbt-gdcd-lop-9-chan-troi-sang-tao-c2284.html "SBT GDCD - Chân trời sáng tạo")
+      * [SBT GDCD - Cánh diều](https://loigiaihay.com/sbt-gdcd-lop-9-canh-dieu-c2286.html "SBT GDCD - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 9
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-9-ket-noi-tri-thuc-c1821.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-9-canh-dieu-c1822.html "SGK Tin học - Cánh diều")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-9-chan-troi-sang-tao-c1823.html "SGK Tin học - Chân trời sáng tạo")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-hoc-9-ket-noi-tri-thuc-c2252.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/sbt-tin-hoc-9-chan-troi-sang-tao-c2253.html "SBT Tin học - Chân trời sáng tạo")
+      * [SBT Tin học - Cánh diều](https://loigiaihay.com/sbt-tin-hoc-9-canh-dieu-c2254.html "SBT Tin học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 9
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-9-ket-noi-tri-thuc-c1810.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sgk-cong-nghe-9-chan-troi-sang-tao-c1811.html "SGK Công nghệ - Chân trời sáng tạo")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-9-canh-dieu-c1812.html "SGK Công nghệ - Cánh diều")
+      * [SBT Công nghệ - Cánh diều](https://loigiaihay.com/sbt-cong-nghe-9-canh-dieu-c2432.html "SBT Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 9
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-9-ket-noi-tri-thuc-c1862.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-9-canh-dieu-c1863.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-9-chan-troi-sang-tao-ban-1-c1864.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-9-chan-troi-sang-tao-ban-2-c1865.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2")
+    * Giáo dục địa phương 9
+      * [Tài liệu Giáo dục địa phương](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-9-c2339.html "Tài liệu Giáo dục địa phương")
+    * Đề thi, đề kiểm tra 9
+      * [Tổng hợp đề thi, đề kiểm tra ](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-9-c1225.html "Tổng hợp đề thi, đề kiểm tra ")
+      * [Tổng hợp đề thi vào 10 ](https://loigiaihay.com/tong-hop-de-thi-vao-10-c2406.html "Tổng hợp đề thi vào 10 ")
+  * [Lớp 8](https://loigiaihay.com/lop-8.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 8
+      * [Soạn văn chi tiết - KNTT](https://loigiaihay.com/soan-van-8-ket-noi-tri-thuc-chi-tiet-c1381.html "Soạn văn chi tiết - KNTT")
+      * [Soạn văn siêu ngắn - KNTT](https://loigiaihay.com/soan-van-8-ket-noi-tri-thuc-sieu-ngan-c1382.html "Soạn văn siêu ngắn - KNTT")
+      * [Soạn văn chi tiết - CTST](https://loigiaihay.com/soan-van-8-chan-troi-sang-tao-chi-tiet-c1383.html "Soạn văn chi tiết - CTST")
+      * [Soạn văn siêu ngắn - CTST](https://loigiaihay.com/soan-van-8-chan-troi-sang-tao-sieu-ngan-c1384.html "Soạn văn siêu ngắn - CTST")
+      * [Soạn văn chi tiết - Cánh diều](https://loigiaihay.com/soan-van-8-canh-dieu-chi-tiet-c1385.html "Soạn văn chi tiết - Cánh diều")
+      * [Soạn văn siêu ngắn - Cánh diều](https://loigiaihay.com/soan-van-8-canh-dieu-sieu-ngan-c1386.html "Soạn văn siêu ngắn - Cánh diều")
+      * [Tác giả - Tác phẩm văn](https://loigiaihay.com/tac-gia-tac-pham-van-8-c1429.html "Tác giả - Tác phẩm văn")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-8-ket-noi-tri-thuc-c1711.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-8.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 8
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-8-ket-noi-tri-thuc-c1390.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-8-chan-troi-sang-tao-c1391.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-8-canh-dieu-c1392.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Cùng khám phá](https://loigiaihay.com/sgk-toan-8-cung-kham-pha-c1439.html "SGK Toán - Cùng khám phá")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sbt-toan-8-ket-noi-tri-thuc-c1540.html "SBT Toán - Kết nối tri thức")
+      * [SBT Toán - Chân trời sáng tạo](https://loigiaihay.com/sbt-toan-8-chan-troi-sang-tao-c1541.html "SBT Toán - Chân trời sáng tạo")
+      * [SBT Toán - Cánh diều](https://loigiaihay.com/sbt-toan-8-canh-dieu-c1542.html "SBT Toán - Cánh diều")
+      * [Vở thực hành Toán](https://loigiaihay.com/vo-thuc-hanh-toan-8-c1543.html "Vở thực hành Toán")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-8.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 8
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-8-global-success-c1405.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Friends Plus](https://loigiaihay.com/tieng-anh-8-friends-plus-c1415.html "Tiếng Anh - Friends Plus")
+      * [Tiếng Anh - iLearn Smart World](https://loigiaihay.com/tieng-anh-8-ilearn-smart-world-c1407.html "Tiếng Anh - iLearn Smart World")
+      * [Tiếng Anh - Right on!](https://loigiaihay.com/tieng-anh-8-right-on-c1420.html "Tiếng Anh - Right on!")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-8-english-discovery-c1418.html "Tiếng Anh - English Discovery")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-anh-8-global-success-ket-noi-tri-thuc-c1550.html "SBT Global Success")
+      * [SBT Friends Plus](https://loigiaihay.com/sbt-tieng-anh-8-friends-plus-chan-troi-sang-tao-c1560.html "SBT Friends Plus")
+      * [SBT iLearn Smart World](https://loigiaihay.com/sbt-tieng-anh-8-ilearn-smart-world-c1563.html "SBT iLearn Smart World")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-8.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Khoa học tự nhiên 8
+      * [SGK Khoa học tự nhiên - Kết nối tri thức](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-8-ket-noi-tri-thuc-c1378.html "SGK Khoa học tự nhiên - Kết nối tri thức")
+      * [SGK Khoa học tự nhiên - Chân trời sáng tạo](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-8-chan-troi-sang-tao-c1379.html "SGK Khoa học tự nhiên - Chân trời sáng tạo")
+      * [SGK Khoa học tự nhiên - Cánh diều](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-8-canh-dieu-c1380.html "SGK Khoa học tự nhiên - Cánh diều")
+      * [SBT KHTN - Kết nối tri thức](https://loigiaihay.com/sbt-khtn-lop-8-ket-noi-tri-thuc-c1583.html "SBT KHTN - Kết nối tri thức")
+      * [SBT KHTN - Cánh diều](https://loigiaihay.com/sbt-khtn-lop-8-canh-dieu-c1564.html "SBT KHTN - Cánh diều")
+      * [Vở thực hành Khoa học tự nhiên](https://loigiaihay.com/vo-thuc-hanh-khoa-hoc-tu-nhien-8-c1578.html "Vở thực hành Khoa học tự nhiên")
+      * [Đề thi, đề kiểm tra KHTN - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-khtn-lop-8-ket-noi-tri-thuc-c1642.html "Đề thi, đề kiểm tra KHTN - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra KHTN - Cánh diều](https://loigiaihay.com/de-thi-de-kiem-tra-khtn-lop-8-canh-dieu-c1643.html "Đề thi, đề kiểm tra KHTN - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-8.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử và Địa lí 8
+      * [SGK Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-8-ket-noi-tri-thuc-c1604.html "SGK Lịch sử và Địa lí - Kết nối tri thức")
+      * [SGK Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-8-canh-dieu-c1605.html "SGK Lịch sử và Địa lí - Cánh diều")
+      * [SGK Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-8-chan-troi-sang-tao-c1615.html "SGK Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [SBT Lịch sử - Kết nối tri thức](https://loigiaihay.com/sbt-lich-su-8-ket-noi-tri-thuc-c2240.html "SBT Lịch sử - Kết nối tri thức")
+      * [SBT Địa lí - Kết nối tri thức](https://loigiaihay.com/sbt-dia-li-8-ket-noi-tri-thuc-c2241.html "SBT Địa lí - Kết nối tri thức")
+      * [SBT Lịch sử - Chân trời sáng tạo](https://loigiaihay.com/sbt-lich-su-8-chan-troi-sang-tao-c2255.html "SBT Lịch sử - Chân trời sáng tạo")
+      * [SBT Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-dia-li-8-chan-troi-sang-tao-c2264.html "SBT Địa lí - Chân trời sáng tạo")
+      * [SBT Lịch sử - Cánh diều](https://loigiaihay.com/sbt-lich-su-8-canh-dieu-c2265.html "SBT Lịch sử - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-8.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-gdcd.png) GDCD 8
+      * [Giáo dục công dân - Kết nối tri thức](https://loigiaihay.com/giao-duc-cong-dan-8-ket-noi-tri-thuc-c1592.html "Giáo dục công dân - Kết nối tri thức")
+      * [Giáo dục công dân - Chân trời sáng tạo](https://loigiaihay.com/giao-duc-cong-dan-8-chan-troi-sang-tao-c1593.html "Giáo dục công dân - Chân trời sáng tạo")
+      * [Giáo dục công dân - Cánh diều](https://loigiaihay.com/giao-duc-cong-dan-8-canh-dieu-c1594.html "Giáo dục công dân - Cánh diều")
+      * [SBT GDCD - Kết nối tri thức](https://loigiaihay.com/sbt-gdcd-lop-8-ket-noi-tri-thuc-c2243.html "SBT GDCD - Kết nối tri thức")
+      * [SBT GDCD - Chân trời sáng tạo](https://loigiaihay.com/sbt-gdcd-lop-8-chan-troi-sang-tao-c2244.html "SBT GDCD - Chân trời sáng tạo")
+      * [SBT GDCD - Cánh diều](https://loigiaihay.com/sbt-gdcd-lop-8-canh-dieu-c2245.html "SBT GDCD - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 8
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-8-ket-noi-tri-thuc-c1529.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sgk-cong-nghe-8-chan-troi-sang-tao-c1531.html "SGK Công nghệ - Chân trời sáng tạo")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-8-canh-dieu-c1526.html "SGK Công nghệ - Cánh diều")
+      * [SBT Công nghệ - Kết nối tri thức](https://loigiaihay.com/sbt-cong-nghe-lop-8-ket-noi-tri-thuc-c2308.html "SBT Công nghệ - Kết nối tri thức")
+      * [SBT Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sbt-cong-nghe-lop-8-chan-troi-sang-tao-c2309.html "SBT Công nghệ - Chân trời sáng tạo")
+      * [SBT Công nghệ - Cánh diều](https://loigiaihay.com/sbt-cong-nghe-lop-8-canh-dieu-c2314.html "SBT Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 8
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-8-ket-noi-tri-thuc-c2219.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-8-chan-troi-sang-tao-c2220.html "SGK Tin học - Chân trời sáng tạo")
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-8-canh-dieu-c2221.html "SGK Tin học - Cánh diều")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-hoc-8-ket-noi-tri-thuc-c2267.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/sbt-tin-hoc-8-chan-troi-sang-tao-c2276.html "SBT Tin học - Chân trời sáng tạo")
+      * [SBT Tin học - Cánh diều](https://loigiaihay.com/sbt-tin-hoc-8-canh-dieu-c2277.html "SBT Tin học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 8
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-8-ket-noi-tri-thuc-c1489.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-8-canh-dieu-c1499.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh diều")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-8-chan-troi-sang-tao-c1505.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 1")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-8-chan-troi-sang-tao-ban-2-c1597.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo Bản 2")
+      * [SBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-8-ket-noi-tri-thuc-c2358.html "SBT Hoạt động trải nghiệm - Kết nối tri thức")
+      * [SBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-8-canh-dieu-c2359.html "SBT Hoạt động trải nghiệm - Cánh diều")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 1) ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-8-chan-troi-sang-tao-ban-1-c2383.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 1\) ")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 2)](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-8-chan-troi-sang-tao-ban-2-c2403.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 2\)")
+    * ![](https://loigiaihay.com/themes/style/images/i-nhac.png) Âm nhạc 8
+      * [SGK Âm nhạc - Kết nối tri thức](https://loigiaihay.com/sgk-am-nhac-8-ket-noi-tri-thuc-c1512.html "SGK Âm nhạc - Kết nối tri thức")
+      * [SGK Âm nhạc - Chân trời sáng tạo](https://loigiaihay.com/sgk-am-nhac-8-chan-troi-sang-tao-c1513.html "SGK Âm nhạc - Chân trời sáng tạo")
+      * [SGK Âm nhạc - Cánh diều](https://loigiaihay.com/sgk-am-nhac-8-canh-dieu-c1515.html "SGK Âm nhạc - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-mythuat.png) Mỹ thuật 8
+      * [SGK Mĩ thuật - Kết nối tri thức](https://loigiaihay.com/sgk-mi-thuat-8-ket-noi-tri-thuc-c1490.html "SGK Mĩ thuật - Kết nối tri thức")
+      * [SGK Mĩ thuật - Chân trời sáng tạo bản 1](https://loigiaihay.com/sgk-mi-thuat-8-chan-troi-sang-tao-c1491.html "SGK Mĩ thuật - Chân trời sáng tạo bản 1")
+      * [SGK Mĩ thuật - Cánh diều](https://loigiaihay.com/sgk-mi-thuat-8-canh-dieu-c1492.html "SGK Mĩ thuật - Cánh diều")
+      * [SGK Mĩ thuật - Chân trời sáng tạo bản 2](https://loigiaihay.com/sgk-mi-thuat-8-chan-troi-sang-tao-ban-2-c1598.html "SGK Mĩ thuật - Chân trời sáng tạo bản 2")
+    * Giáo dục thể chất 8
+      * [SGK Giáo dục thể chất - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-the-chat-8-ket-noi-tri-thuc-c1498.html "SGK Giáo dục thể chất - Kết nối tri thức")
+      * [SGK Giáo dục thể chất - Cánh diều](https://loigiaihay.com/sgk-giao-duc-the-chat-8-canh-dieu-c1504.html "SGK Giáo dục thể chất - Cánh diều")
+      * [SGK Giáo dục thể chất - Chân trời sáng tạo](https://loigiaihay.com/sgk-giao-duc-the-chat-8-chan-troi-sang-tao-c1506.html "SGK Giáo dục thể chất - Chân trời sáng tạo")
+    * Giáo dục địa phương 8
+      * [Đề thi, đề kiểm tra Giáo dục địa phương](https://loigiaihay.com/de-thi-de-kiem-tra-giao-duc-dia-phuong-8-c2312.html "Đề thi, đề kiểm tra Giáo dục địa phương")
+      * [Tài liệu Giáo dục địa phương ](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-8-c2340.html "Tài liệu Giáo dục địa phương ")
+    * Đề thi, đề kiểm tra 8
+      * [Tổng hợp đề thi, đề kiểm tra](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-8-c1226.html "Tổng hợp đề thi, đề kiểm tra")
+  * [Lớp 7](https://loigiaihay.com/lop-7.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 7
+      * [Soạn văn siêu ngắn - KNTT](https://loigiaihay.com/soan-van-7-ket-noi-tri-thuc-sieu-ngan-c830.html "Soạn văn siêu ngắn - KNTT")
+      * [Soạn văn chi tiết - KNTT](https://loigiaihay.com/soan-van-7-ket-noi-tri-thuc-chi-tiet-c839.html "Soạn văn chi tiết - KNTT")
+      * [Soạn văn siêu ngắn - CTST](https://loigiaihay.com/soan-van-7-chan-troi-sang-tao-sieu-ngan-c832.html "Soạn văn siêu ngắn - CTST")
+      * [Soạn văn chi tiết - CTST](https://loigiaihay.com/soan-van-7-chan-troi-sang-tao-chi-tiet-c843.html "Soạn văn chi tiết - CTST")
+      * [Soạn văn siêu ngắn - Cánh diều](https://loigiaihay.com/soan-van-7-canh-dieu-sieu-ngan-c835.html "Soạn văn siêu ngắn - Cánh diều")
+      * [Soạn văn chi tiết - Cánh diều](https://loigiaihay.com/soan-van-7-canh-dieu-chi-tiet-c836.html "Soạn văn chi tiết - Cánh diều")
+      * [Tác giả - Tác phẩm văn](https://loigiaihay.com/tac-gia-tac-pham-van-7-c875.html "Tác giả - Tác phẩm văn")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-7-ket-noi-tri-thuc-c2016.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-7.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 7
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-7-ket-noi-tri-thuc-c807.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-7-chan-troi-sang-tao-c808.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-7-canh-dieu-c809.html "SGK Toán - Cánh diều")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sach-bai-tap-toan-7-ket-noi-tri-thuc-c1004.html "SBT Toán - Kết nối tri thức")
+      * [SBT Toán - Chân trời sáng tạo](https://loigiaihay.com/sach-bai-tap-toan-7-chan-troi-sang-tao-c1005.html "SBT Toán - Chân trời sáng tạo")
+      * [SBT Toán - Cánh diều](https://loigiaihay.com/sach-bai-tap-toan-7-canh-dieu-c1006.html "SBT Toán - Cánh diều")
+      * [Trắc nghiệm Toán - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-7-ket-noi-tri-thuc-c552.html "Trắc nghiệm Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán- Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-7-chan-troi-sang-tao-c951.html "Trắc nghiệm Toán- Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-7.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 7
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-lop-7-global-success-c139.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Friends Plus](https://loigiaihay.com/tieng-anh-7-friends-plus-c866.html "Tiếng Anh - Friends Plus")
+      * [Tiếng Anh - iLearn Smart World](https://loigiaihay.com/tieng-anh-7-ilearn-smart-world-c903.html "Tiếng Anh - iLearn Smart World")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-7-english-discovery-c909.html "Tiếng Anh - English Discovery")
+      * [Tiếng Anh - Right on!](https://loigiaihay.com/tieng-anh-7-right-on-c916.html "Tiếng Anh - Right on!")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-anh-7-global-success-ket-noi-tri-thuc-c1093.html "SBT Global Success")
+      * [SBT Friends Plus](https://loigiaihay.com/sbt-tieng-anh-7-friends-plus-chan-troi-sang-tao-c1117.html "SBT Friends Plus")
+      * [SBT iLearn Smart World](https://loigiaihay.com/sbt-tieng-anh-7-ilearn-smart-world-c1118.html "SBT iLearn Smart World")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-7.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Khoa học tự nhiên 7
+      * [SGK Khoa học tự nhiên - Kết nối tri thức](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-7-ket-noi-tri-thuc-c856.html "SGK Khoa học tự nhiên - Kết nối tri thức")
+      * [SGK Khoa học tự nhiên - Chân trời sáng tạo](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-7-chan-troi-sang-tao-c857.html "SGK Khoa học tự nhiên - Chân trời sáng tạo")
+      * [SGK Khoa học tự nhiên - Cánh diều](https://loigiaihay.com/sgk-khoa-hoc-tu-nhien-7-canh-dieu-c858.html "SGK Khoa học tự nhiên - Cánh diều")
+      * [SBT KHTN - Kết nối tri thức](https://loigiaihay.com/sbt-khtn-lop-7-ket-noi-tri-thuc-c1091.html "SBT KHTN - Kết nối tri thức")
+      * [SBT KHTN - Chân trời sáng tạo](https://loigiaihay.com/sbt-khtn-lop-7-chan-troi-sang-tao-c1092.html "SBT KHTN - Chân trời sáng tạo")
+      * [SBT KHTN - Cánh diều](https://loigiaihay.com/sbt-khtn-lop-7-canh-dieu-c1129.html "SBT KHTN - Cánh diều")
+      * [Trắc nghiệm KHTN - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-khtn-7-ket-noi-tri-thuc-c953.html "Trắc nghiệm KHTN - Kết nối tri thức")
+      * [Bài tập trắc nghiệm Khoa học tự nhiên - Kết nối tri thức](https://loigiaihay.com/bai-tap-trac-nghiem-khoa-hoc-tu-nhien-7-ket-noi-tri-thuc-c1269.html "Bài tập trắc nghiệm Khoa học tự nhiên - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-7.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử và Địa lí 7
+      * [SGK Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-7-ket-noi-tri-thuc-c829.html "SGK Lịch sử và Địa lí - Kết nối tri thức")
+      * [SGK Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-7-chan-troi-sang-tao-c825.html "SGK Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [SGK Lịch sử và Địa lí - Cánh Diều](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-7-canh-dieu-c845.html "SGK Lịch sử và Địa lí - Cánh Diều")
+      * [SBT Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/sbt-lich-su-va-dia-li-7-ket-noi-tri-thuc-c1095.html "SBT Lịch sử và Địa lí - Kết nối tri thức")
+      * [SBT Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sbt-lich-su-va-dia-li-7-chan-troi-sang-tao-c1096.html "SBT Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [SBT Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/sbt-lich-su-va-dia-li-7-canh-dieu-c1351.html "SBT Lịch sử và Địa lí - Cánh diều")
+      * [Trắc nghiệm Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-lich-su-va-dia-li-7-ket-noi-tri-thuc-c983.html "Trắc nghiệm Lịch sử và Địa lí - Kết nối tri thức")
+      * [Trắc nghiệm Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-lich-su-va-dia-li-7-chan-troi-sang-tao-c984.html "Trắc nghiệm Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-7.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 7
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-7-ket-noi-tri-thuc-c896.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Cánh Diều](https://loigiaihay.com/sgk-tin-hoc-7-canh-dieu-c907.html "SGK Tin học - Cánh Diều")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-7-chan-troi-sang-tao-c895.html "SGK Tin học - Chân trời sáng tạo")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-hoc-7-ket-noi-tri-thuc-c1157.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/sbt-tin-hoc-7-chan-troi-sang-tao-c2278.html "SBT Tin học - Chân trời sáng tạo")
+      * [SBT Tin học - Cánh diều](https://loigiaihay.com/sbt-tin-hoc-7-canh-dieu-c2279.html "SBT Tin học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 7
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-7-ket-noi-tri-thuc-c892.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sgk-cong-nghe-7-chan-troi-sang-tao-c901.html "SGK Công nghệ - Chân trời sáng tạo")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-7-canh-dieu-c902.html "SGK Công nghệ - Cánh diều")
+      * [SBT Công nghệ - Kết nối tri thức ](https://loigiaihay.com/sbt-cong-nghe-7-ket-noi-tri-thuc-c2353.html "SBT Công nghệ - Kết nối tri thức ")
+      * [SBT Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sbt-cong-nghe-7-chan-troi-sang-tao-c2354.html "SBT Công nghệ - Chân trời sáng tạo")
+      * [SBT Công nghệ - Cánh diều](https://loigiaihay.com/sbt-cong-nghe-7-canh-dieu-c2355.html "SBT Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-gdcd.png) GDCD 7
+      * [SGK GDCD - KNTT](https://loigiaihay.com/sgk-giao-duc-cong-dan-7-ket-noi-tri-thuc-c924.html "SGK GDCD - KNTT")
+      * [SGK GDCD - CTST](https://loigiaihay.com/sgk-giao-duc-cong-dan-7-chan-troi-sang-tao-c925.html "SGK GDCD - CTST")
+      * [SGK GDCD - Cánh diều](https://loigiaihay.com/sgk-giao-duc-cong-dan-7-canh-dieu-c926.html "SGK GDCD - Cánh diều")
+      * [Bài tập tình huống GDCD](https://loigiaihay.com/bai-tap-tinh-huong-giao-duc-cong-dan-7-c470.html "Bài tập tình huống GDCD")
+      * [SBT GDCD - Kết nối tri thức](https://loigiaihay.com/sbt-gdcd-lop-7-ket-noi-tri-thuc-c2290.html "SBT GDCD - Kết nối tri thức")
+      * [SBT GDCD - Chân trời sáng tạo](https://loigiaihay.com/sbt-gdcd-lop-7-chan-troi-sang-tao-c2291.html "SBT GDCD - Chân trời sáng tạo")
+      * [SBT GDCD - Cánh diều](https://loigiaihay.com/sbt-gdcd-lop-7-canh-dieu-c2293.html "SBT GDCD - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 7
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 1)](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-7-chan-troi-sang-tao-c2379.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 1\)")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-7-ket-noi-tri-thuc-c930.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh Diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-7-canh-dieu-c920.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Cánh Diều")
+      * [SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-7-chan-troi-sang-tao-c1130.html "SGK Hoạt động trải nghiệm, hướng nghiệp - Chân trời sáng tạo")
+      * [SBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-7-canh-dieu-c2360.html "SBT Hoạt động trải nghiệm - Cánh diều")
+      * [SBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-7-ket-noi-tri-thuc-c2376.html "SBT Hoạt động trải nghiệm - Kết nối tri thức")
+      * [SBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 2) ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-7-chan-troi-sang-tao-ban-2-c2404.html "SBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 2\) ")
+    * ![](https://loigiaihay.com/themes/style/images/i-nhac.png) Âm nhạc 7
+      * [Âm nhạc - Kết nối tri thức](https://loigiaihay.com/sgk-am-nhac-7-ket-noi-tri-thuc-c911.html "Âm nhạc - Kết nối tri thức")
+      * [Âm nhạc - Chân trời sáng tạo](https://loigiaihay.com/sgk-am-nhac-7-chan-troi-sang-tao-c913.html "Âm nhạc - Chân trời sáng tạo")
+      * [Âm nhạc - Cánh diều](https://loigiaihay.com/sgk-am-nhac-7-canh-dieu-c912.html "Âm nhạc - Cánh diều")
+    * Giáo dục địa phương 7
+      * [Đề thi, đề kiểm tra Giáo dục địa phương 7](https://loigiaihay.com/de-thi-de-kiem-tra-giao-duc-dia-phuong-7-c2307.html "Đề thi, đề kiểm tra Giáo dục địa phương 7")
+      * [Tài liệu Giáo dục địa phương](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-7-c2316.html "Tài liệu Giáo dục địa phương")
+    * Đề thi, đề kiểm tra 7
+      * [Tổng hợp đề thi, đề kiểm tra](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-7-c1230.html "Tổng hợp đề thi, đề kiểm tra")
+  * [Lớp 6](https://loigiaihay.com/lop-6.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn 6
+      * [Soạn văn siêu ngắn - KNTT](https://loigiaihay.com/soan-van-6-ket-noi-tri-thuc-voi-cuoc-song-sieu-ngan-c632.html "Soạn văn siêu ngắn - KNTT")
+      * [Soạn văn chi tiết - KNTT](https://loigiaihay.com/soan-van-6-ket-noi-tri-thuc-voi-cuoc-song-chi-tiet-c630.html "Soạn văn chi tiết - KNTT")
+      * [Soạn văn siêu ngắn - CTST](https://loigiaihay.com/soan-van-6-chan-troi-sang-tao-sieu-ngan-c627.html "Soạn văn siêu ngắn - CTST")
+      * [Soạn văn chi tiết - CTST](https://loigiaihay.com/soan-van-6-chan-troi-sang-tao-chi-tiet-c629.html "Soạn văn chi tiết - CTST")
+      * [Soạn văn siêu ngắn - Cánh diều](https://loigiaihay.com/soan-van-6-canh-dieu-sieu-ngan-c633.html "Soạn văn siêu ngắn - Cánh diều")
+      * [Soạn văn chi tiết - Cánh diều](https://loigiaihay.com/soan-van-6-canh-dieu-chi-tiet-c635.html "Soạn văn chi tiết - Cánh diều")
+      * [Tác giả - Tác phẩm văn](https://loigiaihay.com/tac-gia-tac-pham-van-6-sgk-moi-c653.html "Tác giả - Tác phẩm văn")
+      * [Tóm tắt, bố cục Văn - Kết nối tri thức](https://loigiaihay.com/tom-tat-bo-cuc-van-6-ket-noi-tri-thuc-c2013.html "Tóm tắt, bố cục Văn - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-6.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 6
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/toan-lop-6-ket-noi-tri-thuc-voi-cuoc-song-c643.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/toan-lop-6-chan-troi-sang-tao-c641.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/toan-lop-6-canh-dieu-c642.html "SGK Toán - Cánh diều")
+      * [SBT Toán - Kết nối tri thức](https://loigiaihay.com/sach-bai-tap-toan-6-ket-noi-tri-thuc-c663.html "SBT Toán - Kết nối tri thức")
+      * [SBT Toán - Chân trời sáng tạo](https://loigiaihay.com/sach-bai-tap-toan-lop-6-chan-troi-sang-tao-c662.html "SBT Toán - Chân trời sáng tạo")
+      * [SBT Toán - Cánh diều](https://loigiaihay.com/sach-bai-tap-toan-6-canh-dieu-c675.html "SBT Toán - Cánh diều")
+      * [Trắc nghiệm Toán - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-6-ket-noi-tri-thuc-c553.html "Trắc nghiệm Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-6-chan-troi-sang-tao-c778.html "Trắc nghiệm Toán - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-6.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 6
+      * [Global Success (Pearson)](https://loigiaihay.com/tieng-anh-6-Global-Success-ket-noi-tri-thuc-c645.html "Global Success \(Pearson\)")
+      * [Tiếng Anh - Friends plus](https://loigiaihay.com/tieng-anh-6-chan-troi-sang-tao-friends-plus-c644.html "Tiếng Anh - Friends plus")
+      * [Tiếng Anh - iLearn Smart World](https://loigiaihay.com/tieng-anh-6-ilearn-smart-world-c647.html "Tiếng Anh - iLearn Smart World")
+      * [Tiếng Anh - Right on](https://loigiaihay.com/tieng-anh-6-right-on-c649.html "Tiếng Anh - Right on")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-6-english-discovery-c648.html "Tiếng Anh - English Discovery")
+      * [Tiếng Anh - Explore English](https://loigiaihay.com/tieng-anh-6-canh-dieu-explore-english-c646.html "Tiếng Anh - Explore English")
+      * [SBT Global Success](https://loigiaihay.com/sbt-tieng-ang-6-global-success-c688.html "SBT Global Success")
+      * [SBT Friends Plus](https://loigiaihay.com/sbt-tieng-anh-6-friends-plus-c689.html "SBT Friends Plus")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-6.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Khoa học tự nhiên 6
+      * [SGK KHTN - Kết nối tri thức](https://loigiaihay.com/khoa-hoc-tu-nhien-lop-6-ket-noi-tri-thuc-voi-cuoc-song-c615.html "SGK KHTN - Kết nối tri thức")
+      * [ SGK KHTN - Chân trời sáng tạo](https://loigiaihay.com/khoa-hoc-tu-nhien-lop-6-chan-troi-sang-tao-c616.html " SGK KHTN - Chân trời sáng tạo")
+      * [SGK KHTN - Cánh Diều](https://loigiaihay.com/khoa-hoc-tu-nhien-lop-6-canh-dieu-c610.html "SGK KHTN - Cánh Diều")
+      * [SBT KHTN - Kết nối tri thức](https://loigiaihay.com/sach-bai-tap-khoa-hoc-tu-nhien-lop-6-kntt-c665.html "SBT KHTN - Kết nối tri thức")
+      * [SBT KHTN - Chân trời sáng tạo](https://loigiaihay.com/sach-bai-tap-khoa-hoc-tu-nhien-lop-6-ctst-c660.html "SBT KHTN - Chân trời sáng tạo")
+      * [SBT KHTN - Cánh Diều](https://loigiaihay.com/sach-bai-tap-khoa-hoc-tu-nhien-lop-6-cd-c678.html "SBT KHTN - Cánh Diều")
+      * [Trắc nghiệm KHTN - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-khtn-6-ket-noi-tri-thuc-c772.html "Trắc nghiệm KHTN - Kết nối tri thức")
+      * [Trắc nghiệm KHTN - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-khtn-6-chan-troi-sang-tao-c774.html "Trắc nghiệm KHTN - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-6.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử và Địa lí 6
+      * [SGK Lịch sử và Địa lí - KNTT](https://loigiaihay.com/lich-su-va-dia-li-lop-6-ket-noi-tri-thuc-c618.html "SGK Lịch sử và Địa lí - KNTT")
+      * [SGK Lịch sử và Địa lí - CTST](https://loigiaihay.com/lich-su-va-dia-li-lop-6-chan-troi-sang-tao-c617.html "SGK Lịch sử và Địa lí - CTST")
+      * [SGK Lịch sử và Địa lí - Cánh Diều](https://loigiaihay.com/lich-su-va-dia-li-lop-6-canh-dieu-c620.html "SGK Lịch sử và Địa lí - Cánh Diều")
+      * [SBT Lịch sử và Địa lí - KNTT](https://loigiaihay.com/sach-bai-tap-lich-su-va-dia-li-6-ket-noi-tri-thuc-c658.html "SBT Lịch sử và Địa lí - KNTT")
+      * [SBT Lịch sử và Địa lí - CTST](https://loigiaihay.com/sach-bai-tap-lich-su-va-dia-li-lop-6-chan-troi-sang-tao-c657.html "SBT Lịch sử và Địa lí - CTST")
+      * [SBT Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/sach-bai-tap-lich-su-va-dia-li-lop-6-canh-dieu-c676.html "SBT Lịch sử và Địa lí - Cánh diều")
+      * [Trắc nghiệm Lịch sử và Địa Lí - KNTT](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-su-6-c564.html "Trắc nghiệm Lịch sử và Địa Lí - KNTT")
+      * [Trắc nghiệm Lịch Sử và Địa Lí - CTST](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-lich-su-va-dia-li-6-ctst-c796.html "Trắc nghiệm Lịch Sử và Địa Lí - CTST")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-6.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-gdcd.png) GDCD 6
+      * [SGK GDCD - KNTT](https://loigiaihay.com/sgk-giao-duc-cong-dan-lop-6-ket-noi-tri-thuc-c654.html "SGK GDCD - KNTT")
+      * [SGK GDCD - CTST](https://loigiaihay.com/sgk-gdcd-lop-6-chan-troi-sang-tao-c655.html "SGK GDCD - CTST")
+      * [SGK GDCD - Cánh Diều](https://loigiaihay.com/sgk-gdcd-lop-6-canh-dieu-c667.html "SGK GDCD - Cánh Diều")
+      * [SBT GDCD - Kết nối tri thức](https://loigiaihay.com/sbt-gdcd-lop-6-ket-noi-tri-thuc-c731.html "SBT GDCD - Kết nối tri thức")
+      * [SBT GDCD - Chân trời sáng tạo](https://loigiaihay.com/sbt-gdcd-lop-6-chan-troi-sang-tao-c732.html "SBT GDCD - Chân trời sáng tạo")
+      * [SBT GDCD - Cánh diều](https://loigiaihay.com/sbt-gdcd-lop-6-canh-dieu-c733.html "SBT GDCD - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 6
+      * [Công nghệ - Kết nối tri thức](https://loigiaihay.com/cong-nghe-lop-6-ket-noi-tri-thuc-c713.html "Công nghệ - Kết nối tri thức")
+      * [Công nghệ - Cánh Diều](https://loigiaihay.com/cong-nghe-lop-6-canh-dieu-c696.html "Công nghệ - Cánh Diều")
+      * [Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/cong-nghe-lop-6-chan-troi-sang-tao-c705.html "Công nghệ - Chân trời sáng tạo")
+      * [SBT Công nghệ - Kết nối tri thức](https://loigiaihay.com/sbt-cong-nghe-lop-6-ket-noi-tri-thuc-c724.html "SBT Công nghệ - Kết nối tri thức")
+      * [ SBT Công nghệ - Cánh diều](https://loigiaihay.com/sbt-cong-nghe-lop-6-canh-dieu-c738.html " SBT Công nghệ - Cánh diều")
+      * [SBT Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sbt-cong-nghe-lop-6-chan-troi-sang-tao-c737.html "SBT Công nghệ - Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 6
+      * [Tin học - Kết nối tri thức + chân trời sáng tạo](https://loigiaihay.com/tin-hoc-lop-6-ket-noi-tri-thuc-c697.html "Tin học - Kết nối tri thức + chân trời sáng tạo")
+      * [Tin học - Cánh Diều](https://loigiaihay.com/tin-hoc-lop-6-canh-dieu-c708.html "Tin học - Cánh Diều")
+      * [SBT Tin học - Kết nối tri thức](https://loigiaihay.com/sbt-tin-hoc-lop-6-ket-noi-tri-thuc-c707.html "SBT Tin học - Kết nối tri thức")
+      * [SBT Tin học - Cánh Diều](https://loigiaihay.com/sbt-tin-hoc-lop-6-canh-dieu-c714.html "SBT Tin học - Cánh Diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 6
+      * [SGK Trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/hoat-dong-trai-nghiem-huong-nghiep-lop-6-ket-noi-tri-thuc-c698.html "SGK Trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SGK Trải nghiệm, hướng nghiệp - Chân trời sáng tạo](https://loigiaihay.com/hoat-dong-trai-nghiem-huong-nghiep-lop-6-chan-troi-sang-tao-c699.html "SGK Trải nghiệm, hướng nghiệp - Chân trời sáng tạo")
+      * [SGK Trải nghiệm, hướng nghiệp - Cánh diều](https://loigiaihay.com/hoat-dong-trai-nghiem-huong-nghiep-lop-6-canh-dieu-c700.html "SGK Trải nghiệm, hướng nghiệp - Cánh diều")
+      * [SBT Trải nghiệm, hướng nghiệp - Kết nối tri thức](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-huong-nghiep-lop-6-ket-noi-tri-thuc-c729.html "SBT Trải nghiệm, hướng nghiệp - Kết nối tri thức")
+      * [SBT Trải nghiệm, hướng nghiệp - Chân trời sáng tạo](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-huong-nghiep-lop-6-chan-troi-sang-tao-c728.html "SBT Trải nghiệm, hướng nghiệp - Chân trời sáng tạo")
+      * [Thực hành Trải nghiệm, hướng nghiệp - Cánh diều](https://loigiaihay.com/thuc-hanh-hoat-dong-trai-nghiem-huong-nghiep-lop-6-canh-dieu-c730.html "Thực hành Trải nghiệm, hướng nghiệp - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-nhac.png) Âm nhạc 6
+      * [Âm nhạc - Kết nối tri thức](https://loigiaihay.com/am-nhac-lop-6-ket-noi-tri-thuc-c715.html "Âm nhạc - Kết nối tri thức")
+      * [Âm nhạc - Cánh Diều](https://loigiaihay.com/am-nhac-lop-6-canh-dieu-c709.html "Âm nhạc - Cánh Diều")
+      * [Âm nhạc: Chân trời sáng tạo](https://loigiaihay.com/am-nhac-lop-6-chan-troi-sang-tao-c740.html "Âm nhạc: Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-mythuat.png) Mỹ thuật 6
+      * [Mĩ thuật - Kết nối tri thức](https://loigiaihay.com/mi-thuat-lop-6-ket-noi-tri-thuc-c706.html "Mĩ thuật - Kết nối tri thức")
+      * [Mĩ thuật - Chân trời sáng tạo](https://loigiaihay.com/mi-thuat-lop-6-chan-troi-sang-tao-c725.html "Mĩ thuật - Chân trời sáng tạo")
+      * [Mĩ thuật - Cánh diều](https://loigiaihay.com/mi-thuat-lop-6-canh-dieu-c726.html "Mĩ thuật - Cánh diều")
+    * Giáo dục địa phương 6
+      * [Đề thi, đề kiểm tra Giáo dục địa phương](https://loigiaihay.com/de-thi-de-kiem-tra-giao-duc-dia-phuong-6-c2306.html "Đề thi, đề kiểm tra Giáo dục địa phương")
+      * [Tài liệu Giáo dục địa phương ](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-6-c2315.html "Tài liệu Giáo dục địa phương ")
+    * Đề thi, đề kiểm tra 6
+      * [Tổng hợp đề thi, đề kiểm tra](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-6-c1232.html "Tổng hợp đề thi, đề kiểm tra")
+  * [Lớp 5](https://loigiaihay.com/lop-5.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 5
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-5-ket-noi-tri-thuc-c1728.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-5-chan-troi-sang-tao-c1729.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-5-canh-dieu-c1730.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Bình Minh](https://loigiaihay.com/sgk-toan-5-binh-minh-c1731.html "SGK Toán - Bình Minh")
+      * [VBT Toán - Kết nối tri thức](https://loigiaihay.com/vo-bai-tap-toan-lop-5-ket-noi-tri-thuc-c1950.html "VBT Toán - Kết nối tri thức")
+      * [VBT Toán - Cánh diều](https://loigiaihay.com/vo-bai-tap-toan-lop-5-canh-dieu-c1872.html "VBT Toán - Cánh diều")
+      * [Trắc nghiệm Toán - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-5-ket-noi-tri-thuc-c1951.html "Trắc nghiệm Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-5-chan-troi-sang-tao-c1952.html "Trắc nghiệm Toán - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-5.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tiếng việt 5
+      * [Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/tieng-viet-5-ket-noi-tri-thuc-c1786.html "Tiếng Việt - Kết nối tri thức")
+      * [Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/tieng-viet-5-chan-troi-sang-tao-c1787.html "Tiếng Việt - Chân trời sáng tạo")
+      * [Tiếng Việt - Cánh diều](https://loigiaihay.com/tieng-viet-5-canh-dieu-c1788.html "Tiếng Việt - Cánh diều")
+      * [VBT Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/vo-bai-tap-tieng-viet-lop-5-ket-noi-tri-thuc-c1945.html "VBT Tiếng Việt - Kết nối tri thức")
+      * [VBT Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/vo-bai-tap-tieng-viet-lop-5-chan-troi-sang-tao-c1981.html "VBT Tiếng Việt - Chân trời sáng tạo")
+      * [VBT Tiếng Việt - Cánh diều](https://loigiaihay.com/vo-bai-tap-tieng-viet-lop-5-canh-dieu-c1897.html "VBT Tiếng Việt - Cánh diều")
+      * [Văn mẫu lớp 5](https://loigiaihay.com/van-mau-lop-5-c329.html "Văn mẫu lớp 5")
+      * [Đề thi, đề kiểm tra Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-5-ket-noi-tri-thuc-c1994.html "Đề thi, đề kiểm tra Tiếng Việt - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-5.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 5
+      * [Tiếng Anh - Global Success ](https://loigiaihay.com/tieng-anh-5-global-success-c1762.html "Tiếng Anh - Global Success ")
+      * [Tiếng Anh - Family and Friends](https://loigiaihay.com/tieng-anh-5-family-and-friends-c1763.html "Tiếng Anh - Family and Friends")
+      * [Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/tieng-anh-5-ilearn-smart-start-c1764.html "Tiếng Anh - iLearn Smart Start")
+      * [Tiếng Anh - Explore Our World](https://loigiaihay.com/tieng-anh-5-explore-our-world-c1765.html "Tiếng Anh - Explore Our World")
+      * [Tiếng Anh - Phonics Smart](https://loigiaihay.com/tieng-anh-5-phonics-smart-c1766.html "Tiếng Anh - Phonics Smart")
+      * [SBT Tiếng Anh - Global Success](https://loigiaihay.com/sach-bai-tap-tieng-anh-5-global-success-c1867.html "SBT Tiếng Anh - Global Success")
+      * [SBT Tiếng Anh - Family and Friends](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-5-family-and-friends-c1868.html "SBT Tiếng Anh - Family and Friends")
+      * [SBT Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-5-ilearn-smart-start-c1869.html "SBT Tiếng Anh - iLearn Smart Start")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-5.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử và Địa lí 5
+      * [SGK Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-5-ket-noi-tri-thuc-c1830.html "SGK Lịch sử và Địa lí - Kết nối tri thức")
+      * [SGK Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-5-canh-dieu-c1831.html "SGK Lịch sử và Địa lí - Cánh diều")
+      * [SGK Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-5-chan-troi-sang-tao-c1832.html "SGK Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [VBT Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/vbt-lich-su-va-dia-li-5-ket-noi-tri-thuc-c2333.html "VBT Lịch sử và Địa lí - Kết nối tri thức")
+      * [VBT Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/vbt-lich-su-va-dia-li-5-canh-dieu-c2351.html "VBT Lịch sử và Địa lí - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Khoa học 5
+      * [SGK Khoa học - Kết nối tri thức](https://loigiaihay.com/sgk-khoa-hoc-5-ket-noi-tri-thuc-c1856.html "SGK Khoa học - Kết nối tri thức")
+      * [SGK Khoa học - Chân trời sáng tạo](https://loigiaihay.com/sgk-khoa-hoc-5-chan-troi-sang-tao-c1857.html "SGK Khoa học - Chân trời sáng tạo")
+      * [SGK Khoa học - Cánh diều](https://loigiaihay.com/sgk-khoa-hoc-5-canh-dieu-c1858.html "SGK Khoa học - Cánh diều")
+      * [VBT Khoa học - Kết nối tri thức](https://loigiaihay.com/vbt-khoa-hoc-lop-5-ket-noi-tri-thuc-c2198.html "VBT Khoa học - Kết nối tri thức")
+      * [VBT Khoa học - Chân trời sáng tạo](https://loigiaihay.com/vbt-khoa-hoc-lop-5-chan-troi-sang-tao-c2320.html "VBT Khoa học - Chân trời sáng tạo")
+      * [VBT Khoa học - Cánh diều](https://loigiaihay.com/vbt-khoa-hoc-lop-5-canh-dieu-c2328.html "VBT Khoa học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Đạo đức 5
+      * [SGK Đạo đức - Kết nối tri thức](https://loigiaihay.com/sgk-dao-duc-5-ket-noi-tri-thuc-c1852.html "SGK Đạo đức - Kết nối tri thức")
+      * [SGK Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/sgk-dao-duc-5-chan-troi-sang-tao-c1853.html "SGK Đạo đức - Chân trời sáng tạo")
+      * [SGK Đạo đức - Cánh diều](https://loigiaihay.com/sgk-dao-duc-5-canh-dieu-c1855.html "SGK Đạo đức - Cánh diều")
+      * [VBT Đạo đức - Kết nối tri thức](https://loigiaihay.com/vbt-dao-duc-5-ket-noi-tri-thuc-c2429.html "VBT Đạo đức - Kết nối tri thức")
+      * [VBT Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/vbt-dao-duc-5-chan-troi-sang-tao-c2430.html "VBT Đạo đức - Chân trời sáng tạo")
+      * [VBT Đạo đức - Cánh diều](https://loigiaihay.com/vbt-dao-duc-5-canh-dieu-c2431.html "VBT Đạo đức - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 5
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-5-canh-dieu-c1815.html "SGK Tin học - Cánh diều")
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-5-ket-noi-tri-thuc-c1843.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-5-chan-troi-sang-tao-c1844.html "SGK Tin học - Chân trời sáng tạo")
+      * [VBT Tin học - Kết nối tri thức](https://loigiaihay.com/vbt-tin-hoc-5-ket-noi-tri-thuc-c2313.html "VBT Tin học - Kết nối tri thức")
+      * [VBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/vbt-tin-hoc-5-chan-troi-sang-tao-c2318.html "VBT Tin học - Chân trời sáng tạo")
+      * [VBT Tin học - Cánh diều](https://loigiaihay.com/vbt-tin-hoc-5-canh-dieu-c2321.html "VBT Tin học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 5
+      * [SGK Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-ket-noi-tri-thuc-c1806.html "SGK Hoạt động trải nghiệm - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-canh-dieu-c1807.html "SGK Hoạt động trải nghiệm - Cánh diều")
+      * [SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 1](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban-1-c1808.html "SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 1")
+      * [SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 2](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban-2-c1809.html "SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 2")
+      * [VBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-5-ket-noi-tri-thuc-c2405.html "VBT Hoạt động trải nghiệm - Kết nối tri thức")
+      * [VBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-5-canh-dieu-c2407.html "VBT Hoạt động trải nghiệm - Cánh diều")
+      * [VBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 1)](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban1-c2408.html "VBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 1\)")
+      * [VBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 2)](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban-2-c2412.html "VBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 2\)")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 5
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-5-ket-noi-tri-thuc-c2215.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sgk-cong-nghe-5-chan-troi-sang-tao-c2216.html "SGK Công nghệ - Chân trời sáng tạo")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-5-canh-dieu-c2217.html "SGK Công nghệ - Cánh diều")
+      * [VBT Công nghệ - Kết nối tri thức](https://loigiaihay.com/vbt-cong-nghe-5-ket-noi-tri-thuc-c2428.html "VBT Công nghệ - Kết nối tri thức")
+    * Đề thi, đề kiểm tra 5
+      * [Đề thi vào lớp 6](https://loigiaihay.com/de-thi-vao-lop-6-c1417.html "Đề thi vào lớp 6")
+      * [Tổng hợp đề thi, đề kiểm tra ](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-5-c1228.html "Tổng hợp đề thi, đề kiểm tra ")
+  * [Lớp 4](https://loigiaihay.com/lop-4.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 4
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-4-ket-noi-tri-thuc-c1398.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-4-chan-troi-sang-tao-c1399.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-4-canh-dieu-c1400.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Bình Minh](https://loigiaihay.com/sgk-toan-4-binh-minh-c1440.html "SGK Toán - Bình Minh")
+      * [VBT Toán - Kết nối tri thức](https://loigiaihay.com/vo-bai-tap-toan-lop-4-ket-noi-tri-thuc-c1548.html "VBT Toán - Kết nối tri thức")
+      * [Vở thực hành Toán](https://loigiaihay.com/vo-thuc-hanh-toan-4-c1553.html "Vở thực hành Toán")
+      * [Trắc nghiệm Toán - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-4-ket-noi-tri-thuc-c1468.html "Trắc nghiệm Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán - Cánh diều](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-4-canh-dieu-c1469.html "Trắc nghiệm Toán - Cánh diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-4.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tiếng việt 4
+      * [Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/tieng-viet-4-ket-noi-tri-thuc-c1424.html "Tiếng Việt - Kết nối tri thức")
+      * [Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/tieng-viet-4-chan-troi-sang-tao-c1436.html "Tiếng Việt - Chân trời sáng tạo")
+      * [Tiếng Việt - Cánh diều](https://loigiaihay.com/tieng-viet-4-canh-dieu-c1437.html "Tiếng Việt - Cánh diều")
+      * [VBT Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/vbt-tieng-viet-lop-4-ket-noi-tri-thuc-c1665.html "VBT Tiếng Việt - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-4-ket-noi-tri-thuc-c1796.html "Đề thi, đề kiểm tra Tiếng Việt - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-4-chan-troi-sang-tao-c1797.html "Đề thi, đề kiểm tra Tiếng Việt - Chân trời sáng tạo")
+      * [Đề thi, đề kiểm tra Tiếng Việt - Cánh diều](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-4-canh-dieu-c1798.html "Đề thi, đề kiểm tra Tiếng Việt - Cánh diều")
+      * [Ôn hè Tiếng Việt](https://loigiaihay.com/on-tap-he-tieng-viet-lop-4-c910.html "Ôn hè Tiếng Việt")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-4.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 4
+      * [Tiếng Anh - Global Sucess](https://loigiaihay.com/tieng-anh-4-global-success-c1367.html "Tiếng Anh - Global Sucess")
+      * [Tiếng Anh - Family and Friends ](https://loigiaihay.com/tieng-anh-4-family-and-friends-c1373.html "Tiếng Anh - Family and Friends ")
+      * [Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/tieng-anh-4-ilearn-smart-start-c1374.html "Tiếng Anh - iLearn Smart Start")
+      * [Tiếng Anh - Phonics Smart](https://loigiaihay.com/tieng-anh-4-phonics-smart-c1375.html "Tiếng Anh - Phonics Smart")
+      * [Tiếng Anh - Explore Our World](https://loigiaihay.com/tieng-anh-4-explore-our-world-c1376.html "Tiếng Anh - Explore Our World")
+      * [SBT Tiếng Anh - Global Success](https://loigiaihay.com/sbt-tieng-anh-4-global-success-c1544.html "SBT Tiếng Anh - Global Success")
+      * [SBT Tiếng Anh - Family and Friends](https://loigiaihay.com/sbt-tieng-anh-4-family-and-friends-c1545.html "SBT Tiếng Anh - Family and Friends")
+      * [SBT Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/sbt-tieng-anh-4-ilearn-smart-start-c1546.html "SBT Tiếng Anh - iLearn Smart Start")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-4.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-su.png) Lịch sử và Địa lí 4
+      * [SGK Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-c1633.html "SGK Lịch sử và Địa lí - Kết nối tri thức")
+      * [SGK Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-4-chan-troi-sang-tao-c1634.html "SGK Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [SGK Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-4-canh-dieu-c1635.html "SGK Lịch sử và Địa lí - Cánh diều")
+      * [VBT Lịch sử và Địa lí - Kết nối tri thức](https://loigiaihay.com/vbt-lich-su-va-dia-li-4-ket-noi-tri-thuc-c2304.html "VBT Lịch sử và Địa lí - Kết nối tri thức")
+      * [VBT Lịch sử và Địa lí - Chân trời sáng tạo](https://loigiaihay.com/vbt-lich-su-va-dia-li-4-chan-troi-sang-tao-c2310.html "VBT Lịch sử và Địa lí - Chân trời sáng tạo")
+      * [VBT Lịch sử và Địa lí - Cánh diều](https://loigiaihay.com/vbt-lich-su-va-dia-li-4-canh-dieu-c2311.html "VBT Lịch sử và Địa lí - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-sinh.png) Khoa học 4
+      * [SGK Khoa học - Kết nối tri thức](https://loigiaihay.com/sgk-khoa-hoc-4-ket-noi-tri-thuc-c1616.html "SGK Khoa học - Kết nối tri thức")
+      * [SGK Khoa học - Chân trời sáng tạo](https://loigiaihay.com/sgk-khoa-hoc-4-chan-troi-sang-tao-c1617.html "SGK Khoa học - Chân trời sáng tạo")
+      * [SGK Khoa học - Cánh diều](https://loigiaihay.com/sgk-khoa-hoc-4-canh-dieu-c1618.html "SGK Khoa học - Cánh diều")
+      * [VBT Khoa học - Kết nối tri thức](https://loigiaihay.com/vbt-khoa-hoc-lop-4-ket-noi-tri-thuc-c2327.html "VBT Khoa học - Kết nối tri thức")
+      * [VBT Khoa học - Chân trời sáng tạo ](https://loigiaihay.com/vbt-khoa-hoc-4-chan-troi-sang-tao-c2343.html "VBT Khoa học - Chân trời sáng tạo ")
+      * [VBT Khoa học - Cánh diều](https://loigiaihay.com/vbt-khoa-hoc-lop-4-canh-dieu-c2350.html "VBT Khoa học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Đạo đức 4
+      * [SGK Đạo đức - Kết nối tri thức](https://loigiaihay.com/sgk-dao-duc-4-ket-noi-tri-thuc-c1619.html "SGK Đạo đức - Kết nối tri thức")
+      * [SGK Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/sgk-dao-duc-4-chan-troi-sang-tao-c1620.html "SGK Đạo đức - Chân trời sáng tạo")
+      * [SGK Đạo đức - Cánh diều](https://loigiaihay.com/sgk-dao-duc-4-canh-dieu-c1621.html "SGK Đạo đức - Cánh diều")
+      * [VBT Đạo đức - Kết nối tri thức](https://loigiaihay.com/vbt-dao-duc-4-ket-noi-tri-thuc-c2337.html "VBT Đạo đức - Kết nối tri thức")
+      * [VBT Đạo đức 4 - Chân trời sáng tạo](https://loigiaihay.com/vbt-dao-duc-4-chan-troi-sang-tao-c2338.html "VBT Đạo đức 4 - Chân trời sáng tạo")
+      * [VBT Đạo đức - Cánh diều](https://loigiaihay.com/vbt-dao-duc-4-canh-dieu-c2342.html "VBT Đạo đức - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 4
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-4-ket-noi-tri-thuc-c2222.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-4-chan-troi-sang-tao-c2223.html "SGK Tin học - Chân trời sáng tạo")
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-4-canh-dieu-c2224.html "SGK Tin học - Cánh diều")
+      * [VBT Tin học - Kết nối tri thức ](https://loigiaihay.com/vbt-tin-hoc-4-ket-noi-tri-thuc-voi-cuoc-song-c2356.html "VBT Tin học - Kết nối tri thức ")
+      * [VBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/vbt-tin-hoc-4-chan-troi-sang-tao-c2369.html "VBT Tin học - Chân trời sáng tạo")
+      * [VBT Tin học - Cánh diều](https://loigiaihay.com/vbt-tin-hoc-4-canh-dieu-c2370.html "VBT Tin học - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 4
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-4-ket-noi-tri-thuc-c1535.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sgk-cong-nghe-4-chan-troi-sang-tao-c1532.html "SGK Công nghệ - Chân trời sáng tạo")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-4-canh-dieu-c1534.html "SGK Công nghệ - Cánh diều")
+      * [VBT Công nghệ - Kết nối tri thức](https://loigiaihay.com/vbt-cong-nghe-4-ket-noi-tri-thuc-c2421.html "VBT Công nghệ - Kết nối tri thức")
+      * [VBT Công nghệ - Chân trời sáng tạo ](https://loigiaihay.com/vbt-cong-nghe-4-chan-troi-sang-tao-c2422.html "VBT Công nghệ - Chân trời sáng tạo ")
+      * [VBT Công nghệ - Cánh diều](https://loigiaihay.com/vbt-cong-nghe-4-canh-dieu-c2426.html "VBT Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 4
+      * [SGK Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-4-ket-noi-tri-thuc-c1522.html "SGK Hoạt động trải nghiệm - Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-4-canh-dieu-c1523.html "SGK Hoạt động trải nghiệm - Cánh diều")
+      * [SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 1](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-4-chan-troi-sang-tao-c1507.html "SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 1")
+      * [SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 2](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-huong-nghiep-4-chan-troi-sang-tao-ban-2-c1596.html "SGK Hoạt động trải nghiệm - Chân trời sáng tạo Bản 2")
+      * [VBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-4-ket-noi-tri-thuc-c2413.html "VBT Hoạt động trải nghiệm - Kết nối tri thức")
+      * [VBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-4-canh-dieu-c2414.html "VBT Hoạt động trải nghiệm - Cánh diều")
+      * [VBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 1) ](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-4-chan-troi-sang-tao-ban-1-c2415.html "VBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 1\) ")
+      * [VBT Hoạt động trải nghiệm - Chân trời sáng tạo (Bản 2) ](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-4-chan-troi-sang-tao-ban-2-c2417.html "VBT Hoạt động trải nghiệm - Chân trời sáng tạo \(Bản 2\) ")
+    * ![](https://loigiaihay.com/themes/style/images/i-nhac.png) Âm nhạc 4
+      * [SGK Âm nhạc - Kết nối tri thức](https://loigiaihay.com/sgk-am-nhac-4-ket-noi-tri-thuc-c1503.html "SGK Âm nhạc - Kết nối tri thức")
+      * [SGK Âm nhạc - Chân trời sáng tạo](https://loigiaihay.com/sgk-am-nhac-4-chan-troi-sang-tao-c1508.html "SGK Âm nhạc - Chân trời sáng tạo")
+      * [SGK Âm nhạc - Cánh diều](https://loigiaihay.com/sgk-am-nhac-4-canh-dieu-c1517.html "SGK Âm nhạc - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-mythuat.png) Mỹ thuật 4
+      * [SGK Mĩ thuật - Kết nối tri thức](https://loigiaihay.com/sgk-mi-thuat-4-ket-noi-tri-thuc-c1514.html "SGK Mĩ thuật - Kết nối tri thức")
+      * [SGK Mĩ thuật - Cánh diều](https://loigiaihay.com/sgk-mi-thuat-4-canh-dieu-c1516.html "SGK Mĩ thuật - Cánh diều")
+      * [SGK Mĩ thuật - Chân trời sáng tạo bản 1](https://loigiaihay.com/sgk-mi-thuat-4-chan-troi-sang-tao-c1518.html "SGK Mĩ thuật - Chân trời sáng tạo bản 1")
+      * [SGK Mĩ thuật - Chân trời sáng tạo bản 2](https://loigiaihay.com/sgk-mi-thuat-4-chan-troi-sang-tao-ban-2-c1595.html "SGK Mĩ thuật - Chân trời sáng tạo bản 2")
+    * Giáo dục thể chất 4
+      * [SGK Giáo dục thể chất - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-the-chat-4-ket-noi-tri-thuc-c1511.html "SGK Giáo dục thể chất - Kết nối tri thức")
+      * [SGK Giáo dục thể chất - Cánh diều](https://loigiaihay.com/sgk-giao-duc-the-chat-4-canh-dieu-c1509.html "SGK Giáo dục thể chất - Cánh diều")
+      * [SGK Giáo dục thể chất - Chân trời sáng tạo](https://loigiaihay.com/sgk-giao-duc-the-chat-4-chan-troi-sang-tao-c1510.html "SGK Giáo dục thể chất - Chân trời sáng tạo")
+    * Giáo dục địa phương 4
+      * [Tài liệu Giáo dục địa phương](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-4-c2335.html "Tài liệu Giáo dục địa phương")
+    * Đề thi, đề kiểm tra 4
+      * [Tổng hợp đề thi, đề kiểm tra ](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-4-c1231.html "Tổng hợp đề thi, đề kiểm tra ")
+  * [Lớp 3](https://loigiaihay.com/lop-3.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 3
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-3-ket-noi-tri-thuc-c813.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-3-chan-troi-sang-tao-c860.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-3-canh-dieu-c861.html "SGK Toán - Cánh diều")
+      * [VBT Toán - Kết nối tri thức](https://loigiaihay.com/vo-bai-tap-toan-lop-3-ket-noi-tri-thuc-c1008.html "VBT Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-3-ket-noi-tri-thuc-c967.html "Trắc nghiệm Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán - Cánh diều](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-3-canh-dieu-c974.html "Trắc nghiệm Toán - Cánh diều")
+      * [Trắc nghiệm Toán - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-3-chan-troi-sang-tao-c990.html "Trắc nghiệm Toán - Chân trời sáng tạo")
+      * [Đề thi, đề kiểm tra Toán - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-toan-lop-3-ket-noi-tri-thuc-c1215.html "Đề thi, đề kiểm tra Toán - Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-3.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tiếng việt 3
+      * [Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/tieng-viet-3-ket-noi-tri-thuc-c847.html "Tiếng Việt - Kết nối tri thức")
+      * [Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/tieng-viet-3-chan-troi-sang-tao-c848.html "Tiếng Việt - Chân trời sáng tạo")
+      * [Tiếng Việt - Cánh diều](https://loigiaihay.com/tieng-viet-3-canh-dieu-c849.html "Tiếng Việt - Cánh diều")
+      * [VBT Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/vbt-tieng-viet-lop-3-ket-noi-tri-thuc-c1106.html "VBT Tiếng Việt - Kết nối tri thức")
+      * [VBT Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/vbt-tieng-viet-lop-3-chan-troi-sang-tao-c1107.html "VBT Tiếng Việt - Chân trời sáng tạo")
+      * [VBT Tiếng Việt - Cánh diều ](https://loigiaihay.com/vbt-tieng-viet-lop-3-canh-dieu-c1349.html "VBT Tiếng Việt - Cánh diều ")
+      * [Đề thi, đề kiểm tra Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-3-ket-noi-tri-thuc-c2269.html "Đề thi, đề kiểm tra Tiếng Việt - Kết nối tri thức")
+      * [Đề thi, đề kiểm tra Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-3-chan-troi-sang-tao-c2271.html "Đề thi, đề kiểm tra Tiếng Việt - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-3.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 3
+      * [Tiếng Anh - Global Success](https://loigiaihay.com/tieng-anh-3-global-success-c864.html "Tiếng Anh - Global Success")
+      * [Tiếng Anh - Family and Friends](https://loigiaihay.com/tieng-anh-3-family-and-friends-c865.html "Tiếng Anh - Family and Friends")
+      * [Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/tieng-anh-3-ilearn-smart-start-c889.html "Tiếng Anh - iLearn Smart Start")
+      * [Tiếng Anh - Explore Our World](https://loigiaihay.com/tieng-anh-3-explore-our-world-c890.html "Tiếng Anh - Explore Our World")
+      * [Tiếng Anh - Phonics Smart](https://loigiaihay.com/tieng-anh-3-phonics-smart-c891.html "Tiếng Anh - Phonics Smart")
+      * [SBT Tiếng Anh - Global Success](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-3-ket-noi-tri-thuc-c1100.html "SBT Tiếng Anh - Global Success")
+      * [SBT Tiếng Anh - Family and Friends](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-3-family-and-friends-c1101.html "SBT Tiếng Anh - Family and Friends")
+      * [SBT Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-3-ilearn-smart-start-c1102.html "SBT Tiếng Anh - iLearn Smart Start")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-3.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tự nhiên và xã hội 3
+      * [VBT Tự nhiên và xã hội - Cánh diều](https://loigiaihay.com/vbt-tu-nhien-va-xa-hoi-3-canh-dieu-c2322.html "VBT Tự nhiên và xã hội - Cánh diều")
+      * [Tự nhiên và xã hội - Kết nối tri thức](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-3-ket-noi-tri-thuc-c1110.html "Tự nhiên và xã hội - Kết nối tri thức")
+      * [Tự nhiên và xã hội - Chân trời sáng tạo](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-3-chan-troi-sang-tao-c1111.html "Tự nhiên và xã hội - Chân trời sáng tạo")
+      * [Tự nhiên và xã hội - Cánh diều](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-3-canh-dieu-c1112.html "Tự nhiên và xã hội - Cánh diều")
+      * [VBT Tự nhiên và xã hội - Kết nối tri thức](https://loigiaihay.com/vbt-tu-nhien-va-xa-hoi-3-ket-noi-tri-thuc-c2317.html "VBT Tự nhiên và xã hội - Kết nối tri thức")
+      * [VBT Tự nhiên và xã hội - Chân trời sáng tạo](https://loigiaihay.com/vbt-tu-nhien-va-xa-hoi-3-chan-troi-sang-tao-c2319.html "VBT Tự nhiên và xã hội - Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Đạo đức 3
+      * [SGK Đạo đức - Kết nối tri thức](https://loigiaihay.com/sgk-dao-duc-3-ket-noi-tri-thuc-c2214.html "SGK Đạo đức - Kết nối tri thức")
+      * [SGK Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/sgk-dao-duc-3-chan-troi-sang-tao-c2225.html "SGK Đạo đức - Chân trời sáng tạo")
+      * [SGK Đạo đức - Cánh diều](https://loigiaihay.com/sgk-dao-duc-3-canh-dieu-c2226.html "SGK Đạo đức - Cánh diều")
+      * [VBT Đạo đức - Kết nối tri thức](https://loigiaihay.com/vbt-dao-duc-3-ket-noi-tri-thuc-c2329.html "VBT Đạo đức - Kết nối tri thức")
+      * [VBT Đạo đức - Cánh diều](https://loigiaihay.com/vbt-dao-duc-3-canh-dieu-c2330.html "VBT Đạo đức - Cánh diều")
+      * [VBT Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/vbt-dao-duc-3-chan-troi-sang-tao-c2334.html "VBT Đạo đức - Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-tin.png) Tin học 3
+      * [SGK Tin học - Kết nối tri thức](https://loigiaihay.com/sgk-tin-hoc-3-ket-noi-tri-thuc-c940.html "SGK Tin học - Kết nối tri thức")
+      * [SGK Tin học - Chân trời sáng tạo](https://loigiaihay.com/sgk-tin-hoc-3-chan-troi-sang-tao-c938.html "SGK Tin học - Chân trời sáng tạo")
+      * [SGK Tin học - Cánh diều](https://loigiaihay.com/sgk-tin-hoc-3-canh-dieu-c915.html "SGK Tin học - Cánh diều")
+      * [VBT Tin học - Kết nối tri thức](https://loigiaihay.com/vbt-tin-hoc-3-ket-noi-tri-thuc-c2371.html "VBT Tin học - Kết nối tri thức")
+      * [VBT Tin học - Chân trời sáng tạo](https://loigiaihay.com/vbt-tin-hoc-3-chan-troi-sang-tao-c2372.html "VBT Tin học - Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 3
+      * [SGK Hoạt động trải nghiệm- Kết nối tri thức](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-3-ket-noi-tri-thuc-c927.html "SGK Hoạt động trải nghiệm- Kết nối tri thức")
+      * [SGK Hoạt động trải nghiệm- Chân trời sáng tạo](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-3-chan-troi-sang-tao-c929.html "SGK Hoạt động trải nghiệm- Chân trời sáng tạo")
+      * [SGK Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-3-canh-dieu-c928.html "SGK Hoạt động trải nghiệm - Cánh diều")
+      * [VBT Hoạt động trải nghệm - Kết nối tri thức](https://loigiaihay.com/vbt-hoat-dong-trai-nghem-3-ket-noi-tri-thuc-c2418.html "VBT Hoạt động trải nghệm - Kết nối tri thức")
+      * [VBT Hoạt động trải nghiệm - Chân trời sáng tạo ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-3-chan-troi-sang-tao-c2419.html "VBT Hoạt động trải nghiệm - Chân trời sáng tạo ")
+      * [VBT Hoạt động trải nghiệm - Cánh diều](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-3-canh-dieu-c2420.html "VBT Hoạt động trải nghiệm - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-cong-nghe.png) Công nghệ 3
+      * [SGK Công nghệ - Kết nối tri thức](https://loigiaihay.com/sgk-cong-nghe-3-ket-noi-tri-thuc-c2227.html "SGK Công nghệ - Kết nối tri thức")
+      * [SGK Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/sgk-cong-nghe-3-chan-troi-sang-tao-c2228.html "SGK Công nghệ - Chân trời sáng tạo")
+      * [SGK Công nghệ - Cánh diều](https://loigiaihay.com/sgk-cong-nghe-3-canh-dieu-c2229.html "SGK Công nghệ - Cánh diều")
+      * [VBT Công nghệ - Kết nối tri thức](https://loigiaihay.com/vbt-cong-nghe-3-ket-noi-tri-thuc-c2348.html "VBT Công nghệ - Kết nối tri thức")
+      * [VBT Công nghệ - Chân trời sáng tạo](https://loigiaihay.com/vbt-cong-nghe-3-chan-troi-sang-tao-c2349.html "VBT Công nghệ - Chân trời sáng tạo")
+      * [VBT Công nghệ - Cánh diều](https://loigiaihay.com/vbt-cong-nghe-3-canh-dieu-c2352.html "VBT Công nghệ - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-nhac.png) Âm nhạc 3
+      * [Âm nhạc - Kết nối tri thức](https://loigiaihay.com/sgk-am-nhac-3-ket-noi-tri-thuc-c935.html "Âm nhạc - Kết nối tri thức")
+      * [Âm nhạc - Chân trời sáng tạo](https://loigiaihay.com/sgk-am-nhac-3-chan-troi-sang-tao-c937.html "Âm nhạc - Chân trời sáng tạo")
+      * [Âm nhạc - Cánh diều](https://loigiaihay.com/sgk-am-nhac-3-canh-dieu-c936.html "Âm nhạc - Cánh diều")
+    * Giáo dục thể chất 3
+      * [SGK Giáo dục thể chất - Kết nối tri thức](https://loigiaihay.com/sgk-giao-duc-the-chat-ket-noi-tri-thuc-c2434.html "SGK Giáo dục thể chất - Kết nối tri thức")
+      * [SGK Giáo dục thể chất - Chân trời sáng tạo](https://loigiaihay.com/sgk-giao-duc-the-chat-3-chan-troi-sang-tao-c2435.html "SGK Giáo dục thể chất - Chân trời sáng tạo")
+      * [SGK Giáo dục thể chất - Cánh diều](https://loigiaihay.com/sgk-giao-duc-the-chat-3-canh-dieu-c2437.html "SGK Giáo dục thể chất - Cánh diều")
+    * Giáo dục địa phương 3
+      * [Tài liệu Giáo dục địa phương ](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-3-c2341.html "Tài liệu Giáo dục địa phương ")
+  * [Lớp 2](https://loigiaihay.com/lop-2.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 2
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/toan-lop-2-ket-noi-tri-thuc-voi-cuoc-song-c625.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/toan-lop-2-chan-troi-sang-tao-c624.html "SGK Toán - Chân trời sáng tạo")
+      * [SGK Toán - Cánh Diều](https://loigiaihay.com/toan-lop-2-canh-dieu-c626.html "SGK Toán - Cánh Diều")
+      * [VBT Toán - KNTT](https://loigiaihay.com/Vo-bai-tap-toan-2-Ket-noi-tri-thuc-c659.html "VBT Toán - KNTT")
+      * [VBT Toán - CTST](https://loigiaihay.com/Vo-bai-tap-toan-2-Chan-troi-sang-tao-c672.html "VBT Toán - CTST")
+      * [Trắc nghiệm Toán - Kết nối tri thức](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-2-kntt-c785.html "Trắc nghiệm Toán - Kết nối tri thức")
+      * [Trắc nghiệm Toán - Chân trời sáng tạo](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-2-ctst-c786.html "Trắc nghiệm Toán - Chân trời sáng tạo")
+      * [Trắc nghiệm Toán - Cánh Diều](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-2-canh-dieu-c787.html "Trắc nghiệm Toán - Cánh Diều")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-2.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tiếng việt 2
+      * [Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/tieng-viet-2-ket-noi-tri-thuc-voi-cuoc-song-c640.html "Tiếng Việt - Kết nối tri thức")
+      * [Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/tieng-viet-2-chan-troi-sang-tao-c639.html "Tiếng Việt - Chân trời sáng tạo")
+      * [Tiếng Việt - Cánh Diều](https://loigiaihay.com/tieng-viet-2-canh-dieu-c636.html "Tiếng Việt - Cánh Diều")
+      * [Văn mẫu - Kết nối tri thức](https://loigiaihay.com/van-mau-lop-2-ket-noi-tri-thuc-voi-cuoc-song-c682.html "Văn mẫu - Kết nối tri thức")
+      * [Văn mẫu - Chân trời sáng tạo](https://loigiaihay.com/van-mau-lop-2-chan-troi-sang-tao-c684.html "Văn mẫu - Chân trời sáng tạo")
+      * [Văn mẫu - Cánh diều](https://loigiaihay.com/van-mau-lop-2-canh-dieu-c683.html "Văn mẫu - Cánh diều")
+      * [VBT Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/vbt-tieng-viet-lop-2-kntt-c664.html "VBT Tiếng Việt - Kết nối tri thức")
+      * [VBT Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/vbt-tieng-viet-lop-2-ctst-c668.html "VBT Tiếng Việt - Chân trời sáng tạo")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-2.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 2
+      * [Tiếng Anh - Kết nối tri thức](https://loigiaihay.com/tieng-anh-2-ket-noi-tri-thuc-voi-cuoc-song-c622.html "Tiếng Anh - Kết nối tri thức")
+      * [Tiếng Anh - Family and Friends](https://loigiaihay.com/tieng-anh-2-chan-troi-sang-tao-c621.html "Tiếng Anh - Family and Friends")
+      * [Tiếng Anh - iLearn Smart Start](https://loigiaihay.com/tieng-anh-2-ilearn-smart-start-c741.html "Tiếng Anh - iLearn Smart Start")
+      * [Tiếng Anh - Phonics Smart ](https://loigiaihay.com/tieng-anh-2-phonics-smart-c651.html "Tiếng Anh - Phonics Smart ")
+      * [Tiếng Anh - English Discovery](https://loigiaihay.com/tieng-anh-2-english-discovery-c652.html "Tiếng Anh - English Discovery")
+      * [Tiếng Anh - Explore Our World](https://loigiaihay.com/tieng-anh-2-explore-our-world-canh-dieu-c623.html "Tiếng Anh - Explore Our World")
+      * [Family & Friends Special](https://loigiaihay.com/family-friends-special-grade-2-c231.html "Family & Friends Special")
+      * [SBT Kết nối tri thức](https://loigiaihay.com/sbt-tieng-anh-2-ket-noi-tri-thuc-c745.html "SBT Kết nối tri thức")
+      * [ >> Xem thêm ](https://loigiaihay.com/lop-2.html "Xem thêm")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tự nhiên và xã hội 2
+      * [Tự nhiên và xã hội - Kết nối tri thức](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-2-ket-noi-tri-thuc-voi-cuoc-song-c687.html "Tự nhiên và xã hội - Kết nối tri thức")
+      * [Tự nhiên và xã hội - Chân trời sáng tạo](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-2-chan-troi-sang-tao-c685.html "Tự nhiên và xã hội - Chân trời sáng tạo")
+      * [Tự nhiên và xã hội - Cánh diều](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-2-canh-dieu-c686.html "Tự nhiên và xã hội - Cánh diều")
+      * [VBT Tự nhiên và xã hội - Kết nối tri thức](https://loigiaihay.com/vo-bai-tap-tu-nhien-va-xa-hoi-lop-2-ket-noi-tri-thuc-c752.html "VBT Tự nhiên và xã hội - Kết nối tri thức")
+      * [VBT Tự nhiên và xã hội - Cánh diều](https://loigiaihay.com/vo-bai-tap-tu-nhien-va-xa-hoi-canh-dieu-c753.html "VBT Tự nhiên và xã hội - Cánh diều")
+      * [VBT Tự nhiên và xã hội - Chân trời sáng tạo](https://loigiaihay.com/vo-bai-tap-tu-nhien-va-xa-hoi-lop-2-chan-troi-sang-tao-c754.html "VBT Tự nhiên và xã hội - Chân trời sáng tạo")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Đạo đức 2
+      * [SGK Đạo đức - Kết nối tri thức](https://loigiaihay.com/sgk-dao-duc-2-ket-noi-tri-thuc-c719.html "SGK Đạo đức - Kết nối tri thức")
+      * [SGK Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/sgk-dao-duc-2-chan-troi-sang-tao-c717.html "SGK Đạo đức - Chân trời sáng tạo")
+      * [SGK Đạo đức - Cánh Diều](https://loigiaihay.com/sgk-dao-duc-lop-2-canh-dieu-c720.html "SGK Đạo đức - Cánh Diều")
+      * [VBT Đạo đức - Kết nối tri thức](https://loigiaihay.com/vbt-dao-duc-lop-2-ket-noi-tri-thuc-c721.html "VBT Đạo đức - Kết nối tri thức")
+      * [VBT Đạo đức - Chân trời sáng tạo](https://loigiaihay.com/vbt-dao-duc-lop-2-chan-troi-sang-tao-c722.html "VBT Đạo đức - Chân trời sáng tạo")
+      * [VBT Đạo đức - Cánh Diều](https://loigiaihay.com/vbt-dao-duc-lop-2-canh-dieu-c723.html "VBT Đạo đức - Cánh Diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-nhac.png) Âm nhạc 2
+      * [Âm nhạc 2 - Kết nối tri thức](https://loigiaihay.com/am-nhac-2-ket-noi-tri-thuc-c704.html "Âm nhạc 2 - Kết nối tri thức")
+      * [Âm nhạc 2 - Chân trời sáng tạo](https://loigiaihay.com/am-nhac-2-chan-troi-sang-tao-c703.html "Âm nhạc 2 - Chân trời sáng tạo")
+      * [Âm nhạc 2 - Cánh diều](https://loigiaihay.com/am-nhac-2-canh-dieu-c702.html "Âm nhạc 2 - Cánh diều")
+      * [VBT Âm nhạc - Kết nối tri thức](https://loigiaihay.com/vbt-am-nhac-lop-2-ket-noi-tri-thuc-c710.html "VBT Âm nhạc - Kết nối tri thức")
+      * [VBT Âm nhạc - Chân trời sáng tạo](https://loigiaihay.com/vbt-am-nhac-lop-2-chan-troi-sang-tao-c711.html "VBT Âm nhạc - Chân trời sáng tạo")
+      * [VBT Âm nhạc - Cánh diều](https://loigiaihay.com/vbt-am-nhac-lop-2-canh-dieu-c712.html "VBT Âm nhạc - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-mythuat.png) Mỹ thuật 2
+      * [Mĩ thuật- Kết nối tri thức](https://loigiaihay.com/mi-thuat-lop-2-ket-noi-tri-thuc-c693.html "Mĩ thuật- Kết nối tri thức")
+      * [Mĩ thuật- Chân trời sáng tạo](https://loigiaihay.com/mi-thuat-2-chan-troi-sang-tao-c694.html "Mĩ thuật- Chân trời sáng tạo")
+      * [Mĩ thuật - Cánh Diều](https://loigiaihay.com/my-thuat-lop-2-canh-dieu-c695.html "Mĩ thuật - Cánh Diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-huong-nghiep.png) HĐ trải nghiệm, hướng nghiệp 2
+      * [VBT Hoạt động trải nghiệm - Chân trời sáng tạo](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-lop-2-chan-troi-sang-tao-c727.html "VBT Hoạt động trải nghiệm - Chân trời sáng tạo")
+      * [VTH Hoạt động trải nghiệm - Cánh Diều](https://loigiaihay.com/vth-hoat-dong-trai-nghiem-lop-2-canh-dieu-c739.html "VTH Hoạt động trải nghiệm - Cánh Diều")
+      * [VBT Hoạt động trải nghiệm - Kết nối tri thức](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-lop-2-ket-noi-tri-thuc-c742.html "VBT Hoạt động trải nghiệm - Kết nối tri thức")
+    * Giáo dục địa phương 2
+      * [Tài liệu Giáo dục địa phương ](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-2-c2344.html "Tài liệu Giáo dục địa phương ")
+  * [Lớp 1](https://loigiaihay.com/lop-1.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tiếng việt 1
+      * [Đề thi, kiểm tra Tiếng Việt](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-1-c609.html "Đề thi, kiểm tra Tiếng Việt")
+      * [SGK Tiếng Việt - Kết nối tri thức](https://loigiaihay.com/sgk-tieng-viet-1-ket-noi-tri-thuc-voi-cuoc-song-c1181.html "SGK Tiếng Việt - Kết nối tri thức")
+      * [SGK Tiếng Việt - Chân trời sáng tạo](https://loigiaihay.com/sgk-tieng-viet-1-chan-troi-sang-tao-c1186.html "SGK Tiếng Việt - Chân trời sáng tạo")
+      * [SGK Tiếng Việt - Cánh diều](https://loigiaihay.com/sgk-tieng-viet-1-canh-dieu-c1350.html "SGK Tiếng Việt - Cánh diều")
+    * ![](https://loigiaihay.com/themes/style/images/i-toan.png) Toán học 1
+      * [SGK Toán - Kết nối tri thức](https://loigiaihay.com/sgk-toan-1-ket-noi-tri-thuc-c1139.html "SGK Toán - Kết nối tri thức")
+      * [SGK Toán - Cánh diều](https://loigiaihay.com/sgk-toan-1-canh-dieu-c1140.html "SGK Toán - Cánh diều")
+      * [SGK Toán - Chân trời sáng tạo](https://loigiaihay.com/sgk-toan-1-chan-troi-sang-tao-c1141.html "SGK Toán - Chân trời sáng tạo")
+      * [Trắc nghiệm Toán](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-1-c798.html "Trắc nghiệm Toán")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh 1
+      * [Chứng chỉ Cambridge Pre A1 Starters](https://loigiaihay.com/chung-chi-starters-c1359.html "Chứng chỉ Cambridge Pre A1 Starters")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Truyện cổ tích 1
+      * [Truyện cổ tích](https://loigiaihay.com/kho-truyen-c2336.html "Truyện cổ tích")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Tự nhiên và xã hội 1
+      * [Tự nhiên & xã hội](https://loigiaihay.com/tu-nhien-va-xa-hoi-lop-1-c467.html "Tự nhiên & xã hội")
+      * [VBT Tự nhiên & xã hội](https://loigiaihay.com/vbt-tu-nhien-va-xa-hoi-1-c468.html "VBT Tự nhiên & xã hội")
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Đạo đức 1
+      * [VBT Đạo Đức](https://loigiaihay.com/vbt-dao-duc-1-c475.html "VBT Đạo Đức")
+    * Giáo dục địa phương 1
+      * [Tài liệu Giáo dục địa phương](https://loigiaihay.com/tai-lieu-giao-duc-dia-phuong-1-c2345.html "Tài liệu Giáo dục địa phương")
+  * [Công cụ](https://loigiaihay.com/congcu.html)
+    * ![](https://loigiaihay.com/themes/style/images/i-van.png) Ngữ văn
+      * [Từ đồng nghĩa, trái nghĩa](https://loigiaihay.com/tu-dong-nghia-trai-nghia-c1410.html "Từ đồng nghĩa, trái nghĩa")
+      * [Thành ngữ Việt Nam](https://loigiaihay.com/thanh-ngu-viet-nam-c1411.html "Thành ngữ Việt Nam")
+      * [Ca dao, tục ngữ](https://loigiaihay.com/ca-dao-tuc-ngu-c1412.html "Ca dao, tục ngữ")
+      * [Chính tả tiếng Việt](https://loigiaihay.com/chinh-ta-tieng-viet-c1790.html "Chính tả tiếng Việt")
+      * [Từ láy](https://loigiaihay.com/tu-lay-c1949.html "Từ láy")
+      * [Kho truyện](https://loigiaihay.com/kho-truyen-c2336.html "Kho truyện")
+    * ![](https://loigiaihay.com/themes/style/images/i-anh.png) Tiếng Anh
+      * [Động từ bất quy tắc](https://loigiaihay.com/dong-tu-bat-quy-tac-c1413.html "Động từ bất quy tắc")
+      * [Cụm động từ (Phrasal verbs)](https://loigiaihay.com/cum-dong-tu-phrasal-verbs-c1414.html "Cụm động từ \(Phrasal verbs\)")
 
 
-# Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025
-[ Trang trước](https://www.vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp) [Trang sau ](https://www.vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp)
-Bài viết đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025 sẽ giúp học sinh củng cố lại kiến thức, nắm vững được cấu trúc đề thi từ đó đạt kết quả cao trong bài thi tuyển sinh môn Toán vào lớp 6.
-## Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025
-Chỉ từ 150k mua trọn bộ đề thi vào lớp 6 môn Toán theo cấu trúc mới bản word có lời giải chi tiết, trình bày đẹp mắt, dễ dàng chỉnh sửa:
-  * **B1:** gửi phí vào tk: `1053587071` - NGUYEN VAN DOAN - Ngân hàng Vietcombank 
-  * **B2:** Nhắn tin tới Zalo để thông báo và nhận đề thi
-
-
-Quảng cáo
-![Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025](https://www.vietjack.com/tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-1.PNG)
-![Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025](https://www.vietjack.com/tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-2.PNG)
-![Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025](https://www.vietjack.com/tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-3.PNG)
-![Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS trọng điểm Bắc Ninh năm 2025](https://www.vietjack.com/tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-4.PNG)
-Xem thêm các đề thi tuyển sinh vào lớp 6 môn Toán các trường trên cả nước khác:
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS Năng khiếu ĐHSP HN năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-nang-khieu-dhsphn-2025.jsp)
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS Archimedes năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-archimedes-2025.jsp)
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS Chu Văn An, THCS Chùa Hang II Thái Nguyên năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-chu-van-an-tn-2025.jsp)
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS và THPT Nguyễn Tất Thành ĐHSP HN năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-thpt-nguyen-tat-thanh-dhsphn-2025.jsp)
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS Vũ Duệ Phú Thọ năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-vu-due-pt-2025.jsp)
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS Lương Thế Vinh Thái Bình năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-luong-the-vinh-tb-2025.jsp)
-  * [**Đề thi tuyển sinh vào lớp 6 môn Toán trường THCS Vĩnh Yên Vĩnh Phúc năm 2025**](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-vinh-yen-vp-2025.jsp)
-
-
-### Sách VietJack thi THPT quốc gia 2025 cho 2k7:
-### TÀI LIỆU FILE WORD DÀNH CHO GIÁO VIÊN VÀ PHỤ HUYNH LỚP 12
-+ Bộ giáo án, đề thi tốt nghiệp THPT, DGNL các trường các trường có lời giải chi tiết 2025 tại 
-+ Hỗ trợ zalo: 
-+ Tổng đài hỗ trợ đăng ký : **084 283 45 85**
-Đã có app VietJack trên điện thoại, giải bài tập SGK, SBT Soạn văn, Văn mẫu, Thi online, Bài giảng....miễn phí. Tải ngay ứng dụng trên Android và iOS. 
-Theo dõi chúng tôi miễn phí trên mạng xã hội facebook và youtube: 
-YouTubeYouTubeYouTube229K
-Nếu thấy hay, hãy động viên và chia sẻ nhé! Các bình luận không phù hợp với **[nội quy bình luận trang web](https://vietjack.com/lien-he/quy-dinh-binh-luan.jsp)** sẽ bị cấm bình luận vĩnh viễn.
-[ Trang trước](https://www.vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp) [Trang sau ](https://www.vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp)
-Đề thi, giáo án các lớp các môn học
-  * [Đề thi lớp 1 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-1/index.jsp)
-  * [Đề thi lớp 2 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-2/index.jsp)
-  * [Đề thi lớp 3 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-3/index.jsp)
-  * [Đề thi lớp 4 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-4/index.jsp)
-  * [Đề thi lớp 5 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-5/index.jsp)
-  * [Đề thi lớp 6 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-6/index.jsp)
-  * [Đề thi lớp 7 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-7/index.jsp)
-  * [Đề thi lớp 8 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-8/index.jsp)
-  * [Đề thi lớp 9 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-9/index.jsp)
-  * [Đề thi lớp 10 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-10/index.jsp)
-  * [Đề thi lớp 11 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-11/index.jsp)
-  * [Đề thi lớp 12 (các môn học)](https://www.vietjack.com/de-kiem-tra-lop-12/index.jsp)
-  * [Giáo án lớp 1 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-1.jsp)
-  * [Giáo án lớp 2 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-2.jsp)
-  * [Giáo án lớp 3 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-3.jsp)
-  * [Giáo án lớp 4 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-4.jsp)
-  * [Giáo án lớp 5 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-5.jsp)
-  * [Giáo án lớp 6 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-6.jsp)
-  * [Giáo án lớp 7 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-7.jsp)
-  * [Giáo án lớp 8 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-8.jsp)
-  * [Giáo án lớp 9 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-9.jsp)
-  * [Giáo án lớp 10 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-10.jsp)
-  * [Giáo án lớp 11 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-11.jsp)
-  * [Giáo án lớp 12 (các môn học)](https://www.vietjack.com/giao-an/giao-an-lop-12.jsp)
-
-
-[ ![Tài liệu giáo viên lop 1-2-3-8](https://www.vietjack.com/git/images/dehocki.png) ](https://khoahoc.vietjack.com/)
-Dịch vụ nổi bật: 
-  * [ ![](https://www.vietjack.com/git/images/gbt.svg) Giải bài tập SGK & SBT ](http://vietjack.com/ "Giải bài tập SGK & SBT")
-  * [ ![](https://www.vietjack.com/git/images/kh.png) Khóa học ](https://khoahoc.vietjack.com/ "Khóa học")
-  * [ ![](https://www.vietjack.com/git/images/exam.svg) Thi online ](https://khoahoc.vietjack.com/trac-nghiem "Thi online")
-  * [ ![](https://www.vietjack.com/git/images/qa.png) Hỏi đáp ](https://hoidapvietjack.com/ "Hỏi đáp")
-
-
-[![](https://www.vietjack.com/git/images/logo4.png)](https://vietjack.com/)
-Trang web chia sẻ nội dung miễn phí dành cho người Việt.
-###  Giải bài tập: 
-**[Lớp 1-2-3](https://www.vietjack.com/series/lop-3.jsp)** **[Lớp 4](https://www.vietjack.com/series/lop-4.jsp)** **[Lớp 5](https://www.vietjack.com/series/lop-5.jsp)** **[Lớp 6](https://www.vietjack.com/series/lop-6.jsp)** **[Lớp 7](https://www.vietjack.com/series/lop-7.jsp)** **[Lớp 8](https://www.vietjack.com/series/lop-8.jsp)** **[Lớp 9](https://www.vietjack.com/series/lop-9.jsp)** **[Lớp 10](https://www.vietjack.com/series/lop-10.jsp)** **[Lớp 11](https://www.vietjack.com/series/lop-11.jsp)** **[Lớp 12](https://www.vietjack.com/series/lop-12.jsp)** **[Lập trình](https://www.vietjack.com/series/it-lap-trinh.jsp)** **[Tiếng Anh](https://www.vietjack.com/series/mon-tieng-anh.jsp)**
-## Chính sách 
-[Chính sách bảo mật ](https://www.vietjack.com/lien-he/chinh-sach-bao-mat-thong-tin.jsp)
-[Hình thức thanh toán](https://www.vietjack.com/lien-he/quy-dinh-va-hinh-thuc-thanh-toan.jsp)
-[Chính sách đổi trả khóa học](https://www.vietjack.com/lien-he/chinh-sach-doi-tra-khoa-hoc.jsp)
-[Chính sách hủy khóa học](https://www.vietjack.com/lien-he/chinh-sach-huy-khoa-hoc.jsp)
-[Tuyển dụng](https://www.vietjack.com/lien-he/tuyen-dung.jsp)
-## Liên hệ với chúng tôi
-Tầng 2, G4 - G5 Tòa nhà Five Star Garden, số 2 Kim Giang, Phường Kim Giang, Quận Thanh Xuân, Hà Nội
-Phone: 084 283 45 85
-Email: 
-CÔNG TY TNHH ĐẦU TƯ VÀ DỊCH VỤ GIÁO DỤC VIETJACK
-Người đại diện: Nguyễn Thanh Tuyền
-Số giấy chứng nhận đăng ký kinh doanh: 0108307822, ngày cấp: 04/06/2018, nơi cấp: Sở Kế hoạch và Đầu tư thành phố Hà Nội.
-2015 © All Rights Reserved. 
-![](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025.jsp)
-[](https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025.jsp)
-![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif)| ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)| ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif)  
----|---|---  
-![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)| ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)| ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)  
-![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)| | ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)  
-![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif)| | ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)| ![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)  
+Tìm kiếm tùy chỉnh
+| Sắp xếp theo:RelevanceRelevanceDate  
 ---|---  
-![](https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif)
+![](https://loigiaihay.com/themes/images/n-arrow-4.png)
+# [Đề thi vào lớp 6 môn toán có đáp án - 9 năm gần nhất](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html)
+Bình chọn: 
+4.2  trên 298 phiếu 
+[ Bài tập phát triển năng lực Toán lớp 5 ](https://loigiaihay.com/bai-tap-phat-trien-nang-luc-toan-lop-5-c1124.html)
+[ Toán nâng cao lớp 5 ](https://loigiaihay.com/toan-nang-cao-lop-5-c1210.html)
+[ Công thức Toán lớp 5 ](https://loigiaihay.com/cong-thuc-toan-lop-5-c1357.html)
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường Amsterdam**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-amsterdam-ha-noi-e30968.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Amsterdam năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-amsterdam-2023-co-dap-an-a142600.html "Đề thi vào lớp 6 môn Toán trường Amsterdam năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Amsterdam năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-amsterdam-2022-co-dap-an-a135015.html "Đề thi vào lớp 6 môn Toán trường Amsterdam năm 2022")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Amsterdam năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-amsterdam-2020-co-dap-an-a135035.html "Đề thi vào lớp 6 môn Toán trường Amsterdam năm 2020")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS & THPT Nguyễn Tất Thành **](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-thpt-nguyen-tat-thanh-ha-noi-e30765.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-nam-2025-co-dap-an-a185630.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2025")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề minh họa vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2025 ](https://loigiaihay.com/de-minh-hoa-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-nam-2025-co-dap-an-a185218.html "Đề minh họa vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2025")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2024 (Mã đề 601) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-nam-2024-ma-de-601-a167469.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2024 \(Mã đề 601\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2024 (Mã đề 602) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-nam-2024-ma-de-602-a167472.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2024 \(Mã đề 602\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-2023-co-dap-an-a140456.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 6. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-2022-co-dap-an-a134574.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2022")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 7. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-2021-co-dap-an-a134579.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2021")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 8. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-2020-co-dap-an-a134582.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2020")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 9. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2019 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-2019-co-dap-an-a134586.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2019")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 10. Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2018 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-2018-co-dap-an-a134598.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tất Thành năm 2018")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 11. Đề minh họa vào lớp 6 môn Toán trường Nguyễn Tất Thành (đề 1) ](https://loigiaihay.com/de-minh-hoa-vao-lop-6-mon-toan-truong-nguyen-tat-thanh-de-1-co-dap-an-a179496.html "Đề minh họa vào lớp 6 môn Toán trường Nguyễn Tất Thành \(đề 1\)")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Cầu Giấy - Hà Nội**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-cau-giay-ha-noi-e30773.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-nam-2025-a186333.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2025")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-nam-2024-a175752.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-nam-2023-a142098.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-co-dap-an-a134606.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2022")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-2021-co-dap-an-a134610.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2021")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 6. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-2020-2021-co-dap-an-a134614.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2020")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 7. Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2019 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-2019-co-dap-an-a134616.html "Đề thi vào lớp 6 môn Toán trường Cầu Giấy năm 2019")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-ha-noi-e30834.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-nam-2024-a164368.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-nam-2023-a136445.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-2022-co-dap-an-a134685.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2022")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-2021-co-dap-an-a134641.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2021")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-2020-co-dap-an-a134727.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2020")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 6. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2019 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-2019-co-dap-an-a134644.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2019")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 7. Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2018 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-luong-the-vinh-2018-2019-co-dap-an-a134728.html "Đề thi vào lớp 6 môn Toán trường Lương Thế Vinh năm 2018")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 8. Đề minh họa môn Toán kì thi vào lớp 6 trường Lương Thế Vinh năm 2020 ](https://loigiaihay.com/de-minh-hoa-mon-toan-ki-thi-vao-lop-6-truong-luong-the-vinh-nam-2020-a179104.html "Đề minh họa môn Toán kì thi vào lớp 6 trường Lương Thế Vinh năm 2020")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 9. Đề khảo sát đánh giá năng lực vào lớp 6 môn Toán trường Lương Thế Vinh năm 2025 (đề 1) ](https://loigiaihay.com/de-khao-sat-danh-gia-nang-luc-vao-lop-6-mon-toan-truong-luong-the-vinh-nam-2025-de-1-a180565.html "Đề khảo sát đánh giá năng lực vào lớp 6 môn Toán trường Lương Thế Vinh năm 2025 \(đề 1\)")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-ha-noi-e30892.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-2024-co-dap-an-a176490.html "Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-2023-co-dap-an-a139833.html "Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-2021-co-dap-an-a134796.html "Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2021")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2019 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-2019-co-dap-an-a134800.html "Đề thi vào lớp 6 môn Toán trường chuyên Ngoại ngữ năm 2019")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ (đề số 1) ](https://loigiaihay.com/de-thi-thu-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-de-so-1-co-dap-an-a179937.html "Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ \(đề số 1\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 6. Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ (đề số 2) ](https://loigiaihay.com/de-thi-thu-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-de-so-2-co-dap-an-a180076.html "Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ \(đề số 2\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 7. Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ (đề số 3) ](https://loigiaihay.com/de-thi-thu-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-de-so-3-co-dap-an-a180920.html "Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ \(đề số 3\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 8. Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ (đề số 4) ](https://loigiaihay.com/de-thi-thu-vao-lop-6-mon-toan-truong-chuyen-ngoai-ngu-de-so-4-co-dap-an-a181911.html "Đề thi thử vào lớp 6 môn Toán trường chuyên Ngoại ngữ \(đề số 4\)")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường Marie Curie**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-marie-curie-ha-noi-e31049.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Marie Curie năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-marie-curie-2023-co-dap-an-a155508.html "Đề thi vào lớp 6 môn Toán trường Marie Curie năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Marie Curie năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-marie-curie-2022-co-dap-an-a135241.html "Đề thi vào lớp 6 môn Toán trường Marie Curie năm 2022")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Marie Curie năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-marie-curie-2020-co-dap-an-a135629.html "Đề thi vào lớp 6 môn Toán trường Marie Curie năm 2020")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Thanh Xuân - Hà Nội**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-thanh-xuan-ha-noi-e32047.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thanh-xuan-nam-2025-a185686.html "Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2025")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thanh-xuan-nam-2024-a175847.html "Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thanh-xuan-nam-2023-a142430.html "Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2023")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thanh-xuan-nam-2022-a142727.html "Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2022")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thanh-xuan-nam-2021-a142751.html "Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2021")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 6. Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2019 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thanh-xuan-nam-2019-a143089.html "Đề thi vào lớp 6 môn Toán trường Thanh Xuân năm 2019")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Nam Từ Liêm - Hà Nội**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nam-tu-liem-ha-noi-e32001.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Nam Từ Liêm năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nam-tu-liem-nam-2025-a186351.html "Đề thi vào lớp 6 môn Toán trường Nam Từ Liêm năm 2025")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường THCS Nam Từ Liêm năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nam-tu-liem-nam-2024-a176078.html "Đề thi vào lớp 6 môn Toán trường THCS Nam Từ Liêm năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường THCS Nam Từ Liêm năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nam-tu-liem-co-dap-an-a141866.html "Đề thi vào lớp 6 môn Toán trường THCS Nam Từ Liêm năm 2023")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Nam Từ Liêm năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nam-tu-liem-nam-2022-a142794.html "Đề thi vào lớp 6 môn Toán trường Nam Từ Liêm năm 2022")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi vào lớp 6 môn Toán trường Nam Từ Liêm năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nam-tu-liem-nam-2020-a143040.html "Đề thi vào lớp 6 môn Toán trường Nam Từ Liêm năm 2020")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường Ngôi Sao**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-ngoi-sao-ha-noi-e34633.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Ngôi Sao năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-ngoi-sao-2025-co-dap-an-a182539.html "Đề thi vào lớp 6 môn Toán trường Ngôi sao năm 2025")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Ngôi Sao năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-ngoi-sao-2023-co-dap-an-a154791.html "Đề thi vào lớp 6 môn Toán trường Ngôi sao năm 2023")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Ngôi Sao năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-ngoi-sao-2021-co-dap-an-a154844.html "Đề thi vào lớp 6 môn Toán trường Ngôi sao năm 2021")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Ngôi Sao năm 2020 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-ngoi-sao-2020-co-dap-an-a154845.html "Đề thi vào lớp 6 môn Toán trường Ngôi sao năm 2020")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề tham khảo môn Toán kì thi học bổng Ngôi Sao Hà Nội (đề 1) ](https://loigiaihay.com/de-tham-khao-mon-toan-ki-thi-hoc-bong-ngoi-sao-ha-noi-de-1-a179732.html "Đề tham khảo môn Toán kì thi học bổng Ngôi Sao Hà Nội \(đề 1\)")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường Archimedes**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-archimedes-ha-noi-e34709.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Archimedes năm 2024 (đề mẫu) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-archimedes-2024-de-mau-co-dap-an-a155569.html "Đề thi vào lớp 6 môn Toán trường Archimedes năm 2024 \(đề mẫu\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Archimedes năm 2022 (bài cơ bản) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-archimedes-2022-bai-co-ban-co-dap-an-a155547.html "Đề thi vào lớp 6 môn Toán trường Archimedes năm 2022 \(bài cơ bản\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường Archimedes năm 2021 (bài nâng cao) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-archimedes-2021-bai-nang-cao-co-dap-an-a154892.html "Đề thi vào lớp 6 môn Toán trường Archimedes năm 2021 \(bài nâng cao\)")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 4. Đề thi vào lớp 6 môn Toán trường Archimedes năm 2020 (bài cơ bản) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-archimedes-2020-bai-co-ban-co-dap-an-a154956.html "Đề thi vào lớp 6 môn Toán trường Archimedes năm 2020 \(bài cơ bản\)")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 5. Đề thi vào lớp 6 môn Toán trường Archimedes năm 2020 (bài nâng cao) ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-archimedes-2020-bai-nang-cao-co-dap-an-a154923.html "Đề thi vào lớp 6 môn Toán trường Archimedes năm 2020 \(bài nâng cao\)")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường Lê Lợi**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-le-loi-ha-noi-e34740.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Lê Lợi năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-le-loi-2024-co-dap-an-a176389.html "Đề thi vào lớp 6 môn Toán trường Lê Lợi năm 2024")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Lê Lợi năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-le-loi-2023-co-dap-an-a155040.html "Đề thi vào lớp 6 môn Toán trường Lê Lợi năm 2023")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa - Hồ Chí Minh**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-tran-dai-nghia-ho-chi-minh-e34818.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-tran-dai-nghia-nam-2024-a168234.html "Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-tran-dai-nghia-2023-co-dap-an-a155516.html "Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa năm 2023")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chuyen-tran-dai-nghia-2022-co-dap-an-a155542.html "Đề thi vào lớp 6 môn Toán trường chuyên Trần Đại Nghĩa năm 2022")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường chuyên Trần Quốc Toản 1 - Hồ Chí Minh**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-tran-quoc-toan-1-ho-chi-minh-e34896.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán thành phố Thủ Đức năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-thanh-pho-thu-duc-nam-2025-co-dap-an-a185401.html "Đề thi vào lớp 6 môn Toán thành phố Thủ Đức năm 2025")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường Trần Quốc Toản 1 năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-tran-quoc-toan-1-nam-2023-co-dap-an-a155686.html "Đề thi vào lớp 6 môn Toán trường Trần Quốc Toản 1 năm 2023")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Tam Dương**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tam-duong-vinh-phuc-e36394.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 trường THCS Tam Dương năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tam-duong-nam-2021-co-dap-an-a164500.html "Đề thi vào lớp 6 trường THCS Tam Dương năm 2021")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm - Hà Tĩnh**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-le-van-thiem-ha-tinh-e36429.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-truong-thcs-le-van-thiem-nam-2024-co-dap-an-a164873.html "Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm năm 2024")
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm năm 2023 ](https://loigiaihay.com/de-thi-vao-lop-6-truong-thcs-le-van-thiem-nam-2023-co-dap-an-a164762.html "Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm năm 2023")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 3. Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm năm 2022 ](https://loigiaihay.com/de-thi-vao-lop-6-truong-thcs-le-van-thiem-nam-2022-co-dap-an-a164869.html "Đề thi vào lớp 6 môn Toán trường THCS Lê Văn Thiêm năm 2022")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Hoàng Xuân Hãn - Hà Tĩnh**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-hoang-xuan-han-ha-tinh-e36457.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 trường THCS Hoàng Xuân Hãn năm 2021 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-le-van-thiem-nam-2022-co-dap-an-a165059.html "Đề thi vào lớp 6 trường THCS Hoàng Xuân Hãn năm 2021")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Trần Mai Ninh - Thanh Hoá**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tran-mai-ninh-thanh-hoa-e40016.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Trần Mai Ninh thành phố Thanh Hoá năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tran-mai-ninh-thanh-pho-thanh-hoa-nam-2025-co-dap-an-a185518.html "Đề thi vào lớp 6 môn Toán trường THCS Trần Mai Ninh thành phố Thanh Hoá năm 2025")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán tỉnh Ninh Bình**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-tinh-ninh-binh-e40029.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Trần Đăng Ninh thành phố Nam Định năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tran-dang-ninh-thanh-pho-nam-dinh-nam-2024-co-dap-an-a185584.html "Đề thi vào lớp 6 môn Toán trường THCS Trần Đăng Ninh thành phố Nam Định năm 2024")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường THCS Trần Đăng Ninh thành phố Nam Định năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tran-dang-ninh-thanh-pho-nam-dinh-nam-2025-co-dap-an-a186847.html "Đề thi vào lớp 6 môn Toán trường THCS Trần Đăng Ninh thành phố Nam Định năm 2025")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán tỉnh Phú Thọ**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-tinh-phu-tho-e40035.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Vũ Duệ tỉnh Phú Thọ năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-vu-due-tinh-phu-tho-nam-2025-co-dap-an-a185676.html "Đề thi vào lớp 6 môn Toán trường THCS Vũ Duệ tỉnh Phú Thọ năm 2025")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường THCS Vĩnh Yên năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-vinh-yen-nam-2025-a186763.html "Đề thi vào lớp 6 môn Toán trường THCS Vĩnh Yên năm 2025")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán tỉnh Hưng Yên**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-tinh-hung-yen-e40178.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Lương Thế Vinh tỉnh Thái Bình năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-luong-the-vinh-tinh-thai-binh-nam-2025-co-dap-an-a186317.html "Đề thi vào lớp 6 môn Toán trường THCS Lương Thế Vinh tỉnh Thái Bình năm 2025")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán thành phố Huế**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-thanh-pho-hue-e40182.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường Nguyễn Tri Phương - Huế năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-nguyen-tri-phuong-hue-nam-2025-a186372.html "Đề thi vào lớp 6 môn Toán trường Nguyễn Tri Phương - Huế năm 2025")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-huu-tho-quan-7-e40219.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-huu-tho-nam-2025-a186597.html "Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2025")
+
+
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 2. Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2024 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-huu-tho-nam-2024-a186596.html "Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2024")
+
+
+## [ ![](https://loigiaihay.com/themes/images/star.png) **Đề thi vào lớp 6 môn Toán tỉnh Ninh Bình**](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-thanh-pho-hai-phong-e40295.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png) 1. Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Huệ - Cẩm Giàng năm 2025 ](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-hue-cam-giang-nam-2025-co-dap-an-a186933.html "Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Huệ - Cẩm Giàng năm 2025")
+
+
+## Các môn khác
+## Môn Toán học
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Toán 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-toan-5-ket-noi-tri-thuc-c1728.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Toán 5 - Chân trời sáng tạo ](https://loigiaihay.com/sgk-toan-5-chan-troi-sang-tao-c1729.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Toán 5 - Cánh diều ](https://loigiaihay.com/sgk-toan-5-canh-dieu-c1730.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Toán 5 - Bình Minh ](https://loigiaihay.com/sgk-toan-5-binh-minh-c1731.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Vở bài tập Toán lớp 5 - Kết nối tri thức ](https://loigiaihay.com/vo-bai-tap-toan-lop-5-ket-noi-tri-thuc-c1950.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Vở bài tập Toán lớp 5 - Cánh diều ](https://loigiaihay.com/vo-bai-tap-toan-lop-5-canh-dieu-c1872.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Trắc nghiệm Toán lớp 5 - Kết nối tri thức ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-5-ket-noi-tri-thuc-c1951.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Trắc nghiệm Toán lớp 5 - Chân trời sáng tạo ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-5-chan-troi-sang-tao-c1952.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Trắc nghiệm Toán lớp 5 - Cánh diều ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-toan-lop-5-canh-dieu-c1953.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Toán lớp 5 - Kết nối tri thức ](https://loigiaihay.com/de-thi-de-kiem-tra-toan-lop-5-ket-noi-tri-thuc-c1990.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Toán lớp 5 - Cánh diều ](https://loigiaihay.com/de-thi-de-kiem-tra-toan-lop-5-canh-dieu-c1991.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Toán lớp 5 - Chân trời sáng tạo ](https://loigiaihay.com/de-thi-de-kiem-tra-toan-lop-5-chan-troi-sang-tao-c1992.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Toán nâng cao lớp 5 ](https://loigiaihay.com/toan-nang-cao-lop-5-c1210.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Công thức Toán lớp 5 ](https://loigiaihay.com/cong-thuc-toan-lop-5-c1357.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Bài tập phát triển năng lực Toán lớp 5 ](https://loigiaihay.com/bai-tap-phat-trien-nang-luc-toan-lop-5-c1124.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Từ điển môn Toán lớp 5 ](https://loigiaihay.com/tu-dien-mon-toan-lop-5-c2399.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Ôn hè Toán lớp 5 ](https://loigiaihay.com/on-he-toan-lop-5-c2438.html)
+
+
+## Môn Tiếng việt
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Việt 5 - Kết nối tri thức ](https://loigiaihay.com/tieng-viet-5-ket-noi-tri-thuc-c1786.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Việt 5 - Chân trời sáng tạo ](https://loigiaihay.com/tieng-viet-5-chan-troi-sang-tao-c1787.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Việt 5 - Cánh diều ](https://loigiaihay.com/tieng-viet-5-canh-dieu-c1788.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Vở bài tập Tiếng Việt lớp 5 - Kết nối tri thức ](https://loigiaihay.com/vo-bai-tap-tieng-viet-lop-5-ket-noi-tri-thuc-c1945.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Vở bài tập Tiếng Việt lớp 5 - Chân trời sáng tạo ](https://loigiaihay.com/vo-bai-tap-tieng-viet-lop-5-chan-troi-sang-tao-c1981.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Vở bài tập Tiếng Việt lớp 5 - Cánh diều ](https://loigiaihay.com/vo-bai-tap-tieng-viet-lop-5-canh-dieu-c1897.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Văn mẫu lớp 5 - chương trình mới ](https://loigiaihay.com/van-mau-lop-5-c329.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Việt lớp 5 - Kết nối tri thức ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-5-ket-noi-tri-thuc-c1994.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Việt lớp 5 - Cánh diều ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-5-canh-dieu-c2019.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Việt lớp 5 - Chân trời sáng tạo ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-viet-lop-5-chan-troi-sang-tao-c2020.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Bài tập phát triển năng lực Tiếng Việt lớp 5 ](https://loigiaihay.com/bai-tap-phat-trien-nang-luc-tieng-viet-lop-5-c1355.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi vào lớp 6 môn Tiếng Việt ](https://loigiaihay.com/de-thi-vao-lop-6-mon-tieng-viet-c1408.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Từ điển môn Tiếng Việt lớp 5 ](https://loigiaihay.com/tu-dien-mon-tieng-viet-lop-5-c2396.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Ôn hè Tiếng Việt lớp 5 ](https://loigiaihay.com/on-he-tieng-viet-lop-5-c2425.html)
+
+
+## Môn Tiếng Anh
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Anh 5 - Global Success  ](https://loigiaihay.com/tieng-anh-5-global-success-c1762.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Anh 5 - Family and Friends ](https://loigiaihay.com/tieng-anh-5-family-and-friends-c1763.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Anh 5 - iLearn Smart Start ](https://loigiaihay.com/tieng-anh-5-ilearn-smart-start-c1764.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Anh 5 - Explore Our World ](https://loigiaihay.com/tieng-anh-5-explore-our-world-c1765.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tiếng Anh 5 - Phonics Smart ](https://loigiaihay.com/tieng-anh-5-phonics-smart-c1766.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Sách bài tập Tiếng Anh 5 - Global Success ](https://loigiaihay.com/sach-bai-tap-tieng-anh-5-global-success-c1867.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Sách bài tập Tiếng Anh lớp 5 - Family and Friends ](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-5-family-and-friends-c1868.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Sách bài tập Tiếng Anh lớp 5 - iLearn Smart Start ](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-5-ilearn-smart-start-c1869.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Sách bài tập Tiếng Anh lớp 5 - Explore Our World ](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-5-explore-our-world-c1870.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Sách bài tập Tiếng Anh lớp 5 - Phonics Smart ](https://loigiaihay.com/sach-bai-tap-tieng-anh-lop-5-phonics-smart-c1871.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Trắc nghiệm Tiếng Anh 5 - Global Success ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-tieng-anh-5-global-success-c1915.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Trắc nghiệm Tiếng Anh 5 - Family and Friends ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-tieng-anh-5-family-and-friends-c1916.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Trắc nghiệm Tiếng Anh 5 - iLearn Smart Start ](https://loigiaihay.com/v2/tu-luyen-trac-nghiem-tieng-anh-5-ilearn-smart-start-c1917.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Anh lớp 5 - Global Success  ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-anh-lop-5-global-success-c2008.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Anh lớp 5 - Family and Friends ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-anh-lop-5-family-and-friends-c2009.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Anh lớp 5 - iLearn Smart Start ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-anh-lop-5-ilearn-smart-start-c2010.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Anh lớp 5 - Explore Our World  ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-anh-lop-5-explore-our-world-c2011.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi, đề kiểm tra Tiếng Anh lớp 5 - Phonics Smart ](https://loigiaihay.com/de-thi-de-kiem-tra-tieng-anh-lop-5-phonics-smart-c2012.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi vào lớp 6 môn Tiếng Anh ](https://loigiaihay.com/de-thi-vao-lop-6-mon-tieng-anh-c1377.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Chứng chỉ Cambridge Pre A1 Starters ](https://loigiaihay.com/chung-chi-starters-c1359.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Ôn hè Anh lớp 5 ](https://loigiaihay.com/on-he-anh-lop-5-c2454.html)
+
+
+## Môn Lịch sử và Địa lí
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Lịch sử và Địa lí lớp 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-5-ket-noi-tri-thuc-c1830.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Lịch sử và Địa lí lớp 5 - Cánh diều ](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-5-canh-dieu-c1831.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Lịch sử và Địa lí lớp 5 - Chân trời sáng tạo ](https://loigiaihay.com/sgk-lich-su-va-dia-li-lop-5-chan-troi-sang-tao-c1832.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Lịch sử và Địa lí 5 - Kết nối tri thức ](https://loigiaihay.com/vbt-lich-su-va-dia-li-5-ket-noi-tri-thuc-c2333.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Lịch sử và Địa lí 5 - Cánh diều ](https://loigiaihay.com/vbt-lich-su-va-dia-li-5-canh-dieu-c2351.html)
+
+
+## Môn Khoa học
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Khoa học 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-khoa-hoc-5-ket-noi-tri-thuc-c1856.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Khoa học 5 - Chân trời sáng tạo ](https://loigiaihay.com/sgk-khoa-hoc-5-chan-troi-sang-tao-c1857.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Khoa học 5 - Cánh diều ](https://loigiaihay.com/sgk-khoa-hoc-5-canh-dieu-c1858.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Khoa học lớp 5 - Kết nối tri thức ](https://loigiaihay.com/vbt-khoa-hoc-lop-5-ket-noi-tri-thuc-c2198.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Khoa học lớp 5 - Chân trời sáng tạo ](https://loigiaihay.com/vbt-khoa-hoc-lop-5-chan-troi-sang-tao-c2320.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Khoa học lớp 5 - Cánh diều ](https://loigiaihay.com/vbt-khoa-hoc-lop-5-canh-dieu-c2328.html)
+
+
+## Môn Đạo đức
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Đạo đức 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-dao-duc-5-ket-noi-tri-thuc-c1852.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Đạo đức 5 - Chân trời sáng tạo ](https://loigiaihay.com/sgk-dao-duc-5-chan-troi-sang-tao-c1853.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Đạo đức 5 - Cánh diều ](https://loigiaihay.com/sgk-dao-duc-5-canh-dieu-c1855.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Đạo đức 5 - Kết nối tri thức ](https://loigiaihay.com/vbt-dao-duc-5-ket-noi-tri-thuc-c2429.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Đạo đức 5 - Chân trời sáng tạo ](https://loigiaihay.com/vbt-dao-duc-5-chan-troi-sang-tao-c2430.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Đạo đức 5 - Cánh diều ](https://loigiaihay.com/vbt-dao-duc-5-canh-dieu-c2431.html)
+
+
+## Môn Tin học
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Tin học 5 - Cánh diều ](https://loigiaihay.com/sgk-tin-hoc-5-canh-dieu-c1815.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Tin học 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-tin-hoc-5-ket-noi-tri-thuc-c1843.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Tin học 5 - Chân trời sáng tạo ](https://loigiaihay.com/sgk-tin-hoc-5-chan-troi-sang-tao-c1844.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Tin học 5 - Kết nối tri thức ](https://loigiaihay.com/vbt-tin-hoc-5-ket-noi-tri-thuc-c2313.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Tin học 5 - Chân trời sáng tạo ](https://loigiaihay.com/vbt-tin-hoc-5-chan-troi-sang-tao-c2318.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Tin học 5 - Cánh diều ](https://loigiaihay.com/vbt-tin-hoc-5-canh-dieu-c2321.html)
+
+
+## Môn HĐ trải nghiệm, hướng nghiệp
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Hoạt động trải nghiệm 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-ket-noi-tri-thuc-c1806.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Hoạt động trải nghiệm 5 - Cánh diều ](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-canh-dieu-c1807.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Hoạt động trải nghiệm 5 - Chân trời sáng tạo Bản 1 ](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban-1-c1808.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Hoạt động trải nghiệm 5 - Chân trời sáng tạo Bản 2 ](https://loigiaihay.com/sgk-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban-2-c1809.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Hoạt động trải nghiệm 5 - Kết nối tri thức ](https://loigiaihay.com/sbt-hoat-dong-trai-nghiem-5-ket-noi-tri-thuc-c2405.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Hoạt động trải nghiệm 5 - Cánh diều ](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-5-canh-dieu-c2407.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Hoạt động trải nghiệm 5 - Chân trời sáng tạo (Bản 1) ](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban1-c2408.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Hoạt động trải nghiệm 5 - Chân trời sáng tạo (Bản 2) ](https://loigiaihay.com/vbt-hoat-dong-trai-nghiem-5-chan-troi-sang-tao-ban-2-c2412.html)
+
+
+## Môn Công nghệ
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Công nghệ 5 - Kết nối tri thức ](https://loigiaihay.com/sgk-cong-nghe-5-ket-noi-tri-thuc-c2215.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Công nghệ 5 - Chân trời sáng tạo ](https://loigiaihay.com/sgk-cong-nghe-5-chan-troi-sang-tao-c2216.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)SGK Công nghệ 5 - Cánh diều ](https://loigiaihay.com/sgk-cong-nghe-5-canh-dieu-c2217.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)VBT Công nghệ 5 - Kết nối tri thức ](https://loigiaihay.com/vbt-cong-nghe-5-ket-noi-tri-thuc-c2428.html)
+
+
+## Môn Đề thi, đề kiểm tra
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Đề thi vào lớp 6 ](https://loigiaihay.com/de-thi-vao-lop-6-c1417.html)
+  * [ ![](https://loigiaihay.com/themes/images/tamgiac.png)Tổng hợp đề thi, đề kiểm tra lớp 5 ](https://loigiaihay.com/tong-hop-de-thi-de-kiem-tra-lop-5-c1228.html)
+
+
+[ TẢI APP ĐỂ XEM OFFLINE](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html)
+[Bài giải mới nhất](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html)
+  * [Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Huệ - Cẩm Giàng năm 2025](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-hue-cam-giang-nam-2025-co-dap-an-a186933.html "Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Huệ - Cẩm Giàng năm 2025")
+  * [Đề thi vào lớp 6 môn Toán trường THCS Trần Đăng Ninh thành phố Nam Định năm 2025](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-tran-dang-ninh-thanh-pho-nam-dinh-nam-2025-co-dap-an-a186847.html "Đề thi vào lớp 6 môn Toán trường THCS Trần Đăng Ninh thành phố Nam Định năm 2025")
+  * [Đề thi vào lớp 6 môn Toán trường THCS Vĩnh Yên năm 2025](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-vinh-yen-nam-2025-a186763.html "Đề thi vào lớp 6 môn Toán trường THCS Vĩnh Yên năm 2025")
+  * [Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2025](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-huu-tho-nam-2025-a186597.html "Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2025")
+  * [Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2024](https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-thcs-nguyen-huu-tho-nam-2024-a186596.html "Đề thi vào lớp 6 môn Toán trường THCS Nguyễn Hữu Thọ - Quận 7 năm 2024")
+
+
+[Liên hệ](https://loigiaihay.com/lienhe.html) [Chính sách](https://loigiaihay.com/policy/vi.html)
+Copyright © **2021 loigiaihay.com**
+|   
+---|---

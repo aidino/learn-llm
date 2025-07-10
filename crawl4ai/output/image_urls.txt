@@ -1,6 +1,0 @@
-../tai-lieu-mon-toan/images/tai-lieu-mon-toan-lop-5.PNG
-../tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-1.PNG
-../tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-2.PNG
-../tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-3.PNG
-../tai-lieu-mon-toan/images/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025-4.PNG
-../git/images/dehocki.png
