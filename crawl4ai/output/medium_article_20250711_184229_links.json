@@ -1,0 +1,455 @@
+{
+  "internal_links": [
+    {
+      "href": "https://medium.com/sitemap/sitemap.xml",
+      "text": "Sitemap",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&source=post_page---top_nav_layout_nav-----------------------global_nav------------------",
+      "text": "Sign in",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/?source=post_page---top_nav_layout_nav-----------------------------------------",
+      "text": "Medium Logo",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---top_nav_layout_nav-----------------------new_post_topnav------------------",
+      "text": "Write",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/search?source=post_page---top_nav_layout_nav-----------------------------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---publication_nav-57b7a1f365ee-9cc01d50a2a0---------------------------------------",
+      "text": "Decoding ML",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fdecodingml&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&collection=Decoding+ML&collectionId=57b7a1f365ee&source=post_page---publication_nav-57b7a1f365ee-9cc01d50a2a0---------------------publication_nav------------------",
+      "text": "Follow publication",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---post_publication_sidebar-57b7a1f365ee-9cc01d50a2a0---------------------------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fcollection%2Fdecodingml&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&collection=Decoding+ML&collectionId=57b7a1f365ee&source=post_page---post_publication_sidebar-57b7a1f365ee-9cc01d50a2a0---------------------post_publication_sidebar------------------",
+      "text": "Follow publication",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---byline--9cc01d50a2a0---------------------------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fdecodingml%2F9cc01d50a2a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&user=Paul+Iusztin&userId=8323de62a1a1&source=---header_actions--9cc01d50a2a0---------------------clap_footer------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9cc01d50a2a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&source=---header_actions--9cc01d50a2a0---------------------bookmark_footer------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D9cc01d50a2a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&source=---header_actions--9cc01d50a2a0---------------------post_audio_button------------------",
+      "text": "Listen",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/tag/ml-system-design?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Ml System Design",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/tag/artificial-intelligence?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Artificial Intelligence",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/tag/machine-learning?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Machine Learning",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/tag/streaming-pipeline?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Streaming Pipeline",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/tag/data-science?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Data Science",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---post_publication_info--9cc01d50a2a0---------------------------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml/followers?source=post_page---post_publication_info--9cc01d50a2a0---------------------------------------",
+      "text": "1.5K followers",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml/a-quick-update-find-us-mostly-on-substack-now-4a74e506cc88?source=post_page---post_publication_info--9cc01d50a2a0---------------------------------------",
+      "text": "Last published Apr 21, 2025",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---post_author_info--9cc01d50a2a0---------------------------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin/followers?source=post_page---post_author_info--9cc01d50a2a0---------------------------------------",
+      "text": "5.7K followers",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin/following?source=post_page---post_author_info--9cc01d50a2a0---------------------------------------",
+      "text": "242 following",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page---post_responses--9cc01d50a2a0---------------------------------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fa-real-time-retrieval-system-for-rag-on-social-media-data-9cc01d50a2a0&source=---post_responses--9cc01d50a2a0---------------------respond_sidebar------------------",
+      "text": "What are your thoughts?",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---author_recirc--9cc01d50a2a0----0---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---author_recirc--9cc01d50a2a0----0---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "Paul Iusztin",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f?source=post_page---author_recirc--9cc01d50a2a0----0---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM TwinFrom data gathering to productionizing LLMs using LLMOps good practices.",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2cc6bb01141f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fan-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f&source=---author_recirc--9cc01d50a2a0----0-----------------bookmark_preview----1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---author_recirc--9cc01d50a2a0----1---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---author_recirc--9cc01d50a2a0----1---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "Paul Iusztin",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml/your-content-is-gold-i-turned-3-years-of-blog-posts-into-an-llm-training-d19c265bdd6e?source=post_page---author_recirc--9cc01d50a2a0----1---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "Your Content is Gold: I Turned 3 Years of Blog Posts into an LLM TrainingA practical guide to building custom instruction datasets for fine-tuning LLMs",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd19c265bdd6e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fyour-content-is-gold-i-turned-3-years-of-blog-posts-into-an-llm-training-d19c265bdd6e&source=---author_recirc--9cc01d50a2a0----1-----------------bookmark_preview----1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---author_recirc--9cc01d50a2a0----2---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---author_recirc--9cc01d50a2a0----2---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "Paul Iusztin",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2?source=post_page---author_recirc--9cc01d50a2a0----2---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "The 4 Advanced RAG Algorithms You Must Know to ImplementImplement from scratch 4 advanced RAG methods to optimize your retrieval and post-retrieval algorithm",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5d0c7f1199d2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdecodingml%2Fthe-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2&source=---author_recirc--9cc01d50a2a0----2-----------------bookmark_preview----1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/data-science-collective?source=post_page---author_recirc--9cc01d50a2a0----3---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---author_recirc--9cc01d50a2a0----3---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "Paul Iusztin",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/data-science-collective/1-building-a-tiktok-like-recommender-a64563262c1a?source=post_page---author_recirc--9cc01d50a2a0----3---------------------1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "Building a TikTok-like recommenderScaling a personalized recommender to millions of items in real-time",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa64563262c1a&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdata-science-collective%2F1-building-a-tiktok-like-recommender-a64563262c1a&source=---author_recirc--9cc01d50a2a0----3-----------------bookmark_preview----1640223a_6ca0_482e_b528_a5607c7794ea--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@pauliusztin?source=post_page---author_recirc--9cc01d50a2a0---------------------------------------",
+      "text": "See all from Paul Iusztin",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/decodingml?source=post_page---author_recirc--9cc01d50a2a0---------------------------------------",
+      "text": "See all from Decoding ML",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@simranjeetsingh1497?source=post_page---read_next_recirc--9cc01d50a2a0----0---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@simranjeetsingh1497/agentic-ai-projects-build-14-hands-on-ai-agents-key-design-patterns-free-b2ae0729e035?source=post_page---read_next_recirc--9cc01d50a2a0----0---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Agentic AI Projects: Build 14 Hands‑On AI Agents + Key Design Patterns [FREE]Explore 14 real-world Agentic AI projects and 2 key tutorials. Learn to build autonomous agents using OpenAI, Gemini, Ollama, and more.",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb2ae0729e035&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40simranjeetsingh1497%2Fagentic-ai-projects-build-14-hands-on-ai-agents-key-design-patterns-free-b2ae0729e035&source=---read_next_recirc--9cc01d50a2a0----0-----------------bookmark_preview----a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/the-algorithmic-minds?source=post_page---read_next_recirc--9cc01d50a2a0----1---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@mlwhiz?source=post_page---read_next_recirc--9cc01d50a2a0----1---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Rahul Agarwal",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/the-algorithmic-minds/tech-professionals-in-the-uk-what-you-need-to-learn-about-personal-finance-for-your-fire-planning-bc1eac59a9c9?source=post_page---read_next_recirc--9cc01d50a2a0----1---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Tech Professionals in the UK — What You Need to Learn About Personal Finance for your FIRE planning?A Journey Through the Trenches for Fellow Tech Brothers and Sisters",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbc1eac59a9c9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-algorithmic-minds%2Ftech-professionals-in-the-uk-what-you-need-to-learn-about-personal-finance-for-your-fire-planning-bc1eac59a9c9&source=---read_next_recirc--9cc01d50a2a0----1-----------------bookmark_preview----a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/towards-finance?source=post_page---read_next_recirc--9cc01d50a2a0----0---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@tinztwins?source=post_page---read_next_recirc--9cc01d50a2a0----0---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Tinz Twins",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/towards-finance/build-an-ai-finance-agent-team-with-phidata-fd6d2d984dc5?source=post_page---read_next_recirc--9cc01d50a2a0----0---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Build an AI Finance Agent Team with phidataLocal Multi-Agent System with Web Access Using Llama 3.1 (Step-by-Step Guide)",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ffd6d2d984dc5&operation=register&redirect=https%3A%2F%2Fblog.towardsfinance.com%2Fbuild-an-ai-finance-agent-team-with-phidata-fd6d2d984dc5&source=---read_next_recirc--9cc01d50a2a0----0-----------------bookmark_preview----a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/stackademic?source=post_page---read_next_recirc--9cc01d50a2a0----1---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@abdul.ahadmahmood555?source=post_page---read_next_recirc--9cc01d50a2a0----1---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Abdul Ahad",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/stackademic/how-i-built-a-custom-ai-document-assistant-that-understands-1000s-of-pdfs-and-talks-like-a-human-ec3aa57f370f?source=post_page---read_next_recirc--9cc01d50a2a0----1---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "How I Built a Custom AI Document Assistant That Understands 1000s of PDFs and Talks Like a HumanForget basic search. I designed a Retrieval-Augmented Generation (RAG) system that reads technical documents, extracts diagrams, interprets…",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fec3aa57f370f&operation=register&redirect=https%3A%2F%2Fblog.stackademic.com%2Fhow-i-built-a-custom-ai-document-assistant-that-understands-1000s-of-pdfs-and-talks-like-a-human-ec3aa57f370f&source=---read_next_recirc--9cc01d50a2a0----1-----------------bookmark_preview----a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/ai-advances?source=post_page---read_next_recirc--9cc01d50a2a0----2---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@manthapavankumar11?source=post_page---read_next_recirc--9cc01d50a2a0----2---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "M K Pavan Kumar",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/ai-advances/building-agentic-rag-pipelines-for-medical-data-with-crewai-and-qdrant-3a00a48fb0d1?source=post_page---read_next_recirc--9cc01d50a2a0----2---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Building Agentic RAG Pipelines for Medical Data with CrewAI and QdrantThis post will demonstrate the construction of a data intake pipeline and RAG agents utilizing Qdrant and Crewai. We consider an existing…",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3a00a48fb0d1&operation=register&redirect=https%3A%2F%2Fai.gopubby.com%2Fbuilding-agentic-rag-pipelines-for-medical-data-with-crewai-and-qdrant-3a00a48fb0d1&source=---read_next_recirc--9cc01d50a2a0----2-----------------bookmark_preview----a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/towards-artificial-intelligence?source=post_page---read_next_recirc--9cc01d50a2a0----3---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/@GaoDalie_AI?source=post_page---read_next_recirc--9cc01d50a2a0----3---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "Gao Dalie (Ilyass)",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/towards-artificial-intelligence/langgraph-deepseek-r1-function-call-agentic-rag-insane-results-b3f878e23a86?source=post_page---read_next_recirc--9cc01d50a2a0----3---------------------a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "LangGraph + DeepSeek-R1 + Function Call + Agentic RAG (Insane Results)In this video, I have a super quick tutorial showing you how to create a multi-agent chatbot using LangGraph, Deepseek-R1, function calling,",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb3f878e23a86&operation=register&redirect=https%3A%2F%2Fpub.towardsai.net%2Flanggraph-deepseek-r1-function-call-agentic-rag-insane-results-b3f878e23a86&source=---read_next_recirc--9cc01d50a2a0----3-----------------bookmark_preview----a7defac2_abfd_40a8_8222_2699c04919ae--------------",
+      "text": "",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/?source=post_page---read_next_recirc--9cc01d50a2a0---------------------------------------",
+      "text": "See more recommendations",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://help.medium.com/hc/en-us?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Help",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/about?autoplay=1&source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "About",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Careers",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://blog.medium.com/?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Blog",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Privacy",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://policy.medium.com/medium-rules-30e5502c4eb4?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Rules",
+      "title": "",
+      "base_domain": "medium.com"
+    },
+    {
+      "href": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----9cc01d50a2a0---------------------------------------",
+      "text": "Terms",
+      "title": "",
+      "base_domain": "medium.com"
+    }
+  ],
+  "external_links": []
+}
