@@ -1,0 +1,74 @@
+[
+  {
+    "Câu hỏi": "Câu 1. Tìm a biết: 2 × a - 3 2 5 = 47 5",
+    "Phương pháp": "Áp dụng kiến thức cơ bản về toán học",
+    "Lời giải": "Thực hiện các bước tính toán theo yêu cầu đề bài",
+    "Đáp án": "a = 6"
+  },
+  {
+    "Câu hỏi": "Câu 2. Tìm số tự nhiên nhỏ nhất chia hết cho 5 và 7. (Đề khác Tìm số tự nhiên nhỏ nhất có hai chữ số chia hết cho 5 và 7).",
+    "Phương pháp": "Áp dụng kiến thức cơ bản về toán học",
+    "Lời giải": "Các số chia hết cho 5 là các số có chữ số tận cùng là 0 hoặc 5 Các số tự nhiên chia hết cho cả 5 và 7 là: 0; 35; 70; 105; ... Vậy số tự nhiên nhỏ nhất có 2 chữ số chia hết cho cả 5 và 7 là 35.",
+    "Đáp án": "35"
+  },
+  {
+    "Câu hỏi": "Câu 3. Tính: 52,39 - 28,23 - 21,77 = ....",
+    "Phương pháp": "Thực hiện phép tính trừ với số thập phân.",
+    "Lời giải": "52,39 - 28,23 - 21,77 = 52,39 - (28,23 - 21,77) = 52,39 - 50 = 2,39 Thực hiện phép tính với phân số. - Rút gọn - Nhóm các phân số cùng mẫu số rồi tính",
+    "Đáp án": "2,39 1"
+  },
+  {
+    "Câu hỏi": "Câu 4. Tính: 3 8 4 48 ... 7 5 7 30 + + - =",
+    "Phương pháp": "Áp dụng kiến thức cơ bản về toán học",
+    "Lời giải": "Thực hiện các bước tính toán theo yêu cầu đề bài",
+    "Đáp án": "1"
+  },
+  {
+    "Câu hỏi": "Câu 5. Điền số thích hợp vào chỗ chấm: 1 tấn 3 tạ = …kg.",
+    "Phương pháp": "Áp dụng cách đổi: 1 tấn = 1 000 kg 1 tạ = 100 kg",
+    "Lời giải": "1 tấn 3 tạ = 1 300 kg.",
+    "Đáp án": "1 300"
+  },
+  {
+    "Câu hỏi": "Câu 6. Tìm hai số tự nhiên có tổng là 1989 và tỉ số là 4 5",
+    "Phương pháp": "Tìm hai số khi biết tổng và tỉ số của hai số đó - Tìm tổng số phần bằng nhau và tìm giá trị của 1 phần. - Tìm số lớn = Giá trị của một phần x số phần của số lớn - Tìm số bé = Tổng hai số - số lớn",
+    "Lời giải": "Theo đề bài, coi số lớn là 5 phần bằng nhau và số 5 bé là 4 phần như vậy. Tổng số phần bằng nhau là: 5 + 4 = 9 (phần) Số lớn là: 1989 : 9 × 5 = 1 105 Số bé là: 1989 - 1 105 = 884",
+    "Đáp án": "1 105 và 884 Hai năm trước mẹ gấp 8 lần tuổi con, hai năm sau tổng số tuổi mẹ và tuổi con là 44. Tìm số"
+  },
+  {
+    "Câu hỏi": "Câu 7. Hai năm trước mẹ gấp 8 lần tuổi con, hai năm sau tổng số tuổi mẹ và tuổi con là 44. Tìm số tuổi mỗi người hiện nay.",
+    "Phương pháp": "nay Tìm tổng số tuổi của mẹ và con hai năm trước = tổng số tuổi mẹ và tuổi con hai năm sau - 2 × 4 Tìm hai số khi biết tổng và tỉ số của hai số đó - Tìm tổng số phần bằng nhau và tìm giá trị của 1 phần. com 0 - Tìm số lớn = Giá trị của một phần x số phần của số lớn - Tìm số bé = Tổng hai số - số lớn",
+    "Lời giải": "Tổng số tuổi của mẹ và con hai năm trước là: 44 - 2 × 4 = 36 (tuổi) Coi tuổi con hai năm trước là 1 phần thì tuổi mẹ hai năm trước là 8 phần như thế Tuổi con hai năm trước là: 36 : (1 + 8) × 4 = 4 (tuổi) Tuổi mẹ hai năm trước là: 36 - 4 = 32 (tuổi) om Tuổi con hiện nay là: 4 + 2 = 6 (tuổi) Tuổi mẹ hiện nay là: 32 + 2 = 34 (tuổi)",
+    "Đáp án": "Mẹ 34 tuổi, con 6 tuổi"
+  },
+  {
+    "Câu hỏi": "Câu 8. Tìm số tự nhiên có 4 chữ số, biết rằng nếu xóa chữ số hàng chục và hàng đơn vị thì được số mới kém số đã cho 4 059 đơn vị.",
+    "Phương pháp": "Bài toán về cấu tạo số Sử dụng kiến thức về dấu hiệu chia hết",
+    "Lời giải": "Gọi số tự nhiên cần tìm là: abcd (a, b, c, d là các chữ số và a khác 0) Theo đề bài, ta có: abcd -ab = 4 059 ab × 100 + cd -ab = 4 059 ab × 99 + cd = 4 059  cd = 4 059 ab × 99 &gt; 0 Vì 4 059 và ab × 99  cùng chia hết cho 99  cd chia hết cho 99 nên cd = 00 hoặc cd = 99 Với cd = 00  ab × 99 + 00 = 4 059  ab = 41. Ta có số 4 100 Với cd = 99  ab × 99 + 99 = 4 059  ab = 40. Ta có số 4 099 com Vậy các số cần tìm là 4 100; 4 099",
+    "Đáp án": "4 100; 4 099"
+  },
+  {
+    "Câu hỏi": "Câu 9. Tìm số lớn nhất có các chữ số khác nhau sao cho tích các chữ số bằng 105.",
+    "Phương pháp": "- Phân tích số 105 thành tích của các số - Sắp xếp các số đó để tạo thành số lớn nhất có các chữ số khác nhau.",
+    "Lời giải": "(Lưu ý: Các mã đề là tìm số lớn nhất có 3 chữ số khác nhau...) Muốn lập được số lớn nhất có các chữ số khác nhau ta cần lập được số có nhiều chữ số khác nhau nhất có thể. Ta có: 105 = 1 × 3 × 5 × 7 Vậy ta lập được số lớn nhất có các chữ số khác nhau thỏa mãn tích các chữ số bằng 105 là: 7531",
+    "Đáp án": "7531"
+  },
+  {
+    "Câu hỏi": "Câu 10. Trường THCS &THPT Lương Thế Vinh bán xúc xích để lập quỹ ủng hộ người khó khăn. Biết buổi sáng bán với giá 10 000 đồng một cây xúc xích. Buổi chiều do hạ giá nên số xúc xích bán được tăng 25%, số tiền thu về tăng 12,5% so với buổi sáng. Tính số tiền bán một cây xúc xích buổi chiều.",
+    "Phương pháp": "Bài toán về tỉ số phần trăm",
+    "Lời giải": "Số lượng xúc xích bán được buổi chiều bằng: 100% + 25% = 125% (số lượng xúc xích bán được buổi sáng) Số tiền thu được buổi chiều bằng: 100% + 12,5% = 112,5% (số tiền thu được buổi sáng) Số tiền bán 1 cây xúc xích buổi chiều bằng: 112,5% : 125% = 90% (số tiền bán 1 cây xúc xích buổi sáng) Số tiền bán 1 cây xúc xích buổi chiều là: 10 000 × 90 : 100 = 9 000 (đồng)",
+    "Đáp án": "9 000 đồng"
+  },
+  {
+    "Câu hỏi": "Câu 11. Cho diện tích mỗi hình vuông bé là 1 cm². Tính tổng diện tích các hình vuông có chứa con mèo.",
+    "Phương pháp": "Tìm số hình vuông có chứa con mèo ở các kích thước khác nhau Tính tổng diện tích các hình vuông vừa tìm được",
+    "Lời giải": "Ta có: Số hình vuông kích thước 1 x 1 là: 1 hình Số hình vuông kích thước 2 x 2 là: 4 hình Số hình vuông kích thước 3 x 3 là: 4 hình Số hình vuông kích thước 4 x 4 là 2 hình Tổng diện tích các hình vuông có chứa con mèo là: (1 × 1) × 1+ (2 × 2) × 4 + (3 × 3) × 4 + (4 × 4) × 2 = 85 (cm²)",
+    "Đáp án": "85 cm²"
+  },
+  {
+    "Câu hỏi": "Câu 12. Cho cạnh hình vuông lớn là 5cm, cạnh của hai hình vuông nhỏ là 3 cm. Tính diện tích phần tô đậm.",
+    "Phương pháp": "- Chia hình tô đậm thành các hình đã biết cách tính diện tích - Tính diện tích từng hình Tính tổng diện tích các hình đó chính là diện tích hình tô đậm",
+    "Lời giải": "Ta đánh dấu các điểm như hình dưới đây: Diện tích phần tô đậm chính bằng tổng diện tích các tam giác ABC, ACD và BCD. Diện tích tam giác ABC là: 5 × 3 : 2 = 7,5 (cm²) 7 Diện tích tam giác ADC là: 5 x 3 : 2 = 7,5 (cm²) Diện tích tam giác BCD là: 3 x 3 : 2 = 4,5 (cm 2 ) Diện tích phần tô đậm là: 7,5 - 7,5 + 4,5 = 19,5 (cm²)",
+    "Đáp án": "19,5 cm²"
+  }
+]
