@@ -1,0 +1,161 @@
+# Cấu hình Crawl4AI cho HƯỚNG DẪN GIẢI CHI TIẾT
+# File: config_crawl.yaml
+
+# Danh sách URLs để crawl song song
+urls:
+  - "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-nam-2023-a142098.html"
+  - "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-vinschool-nam-2023-a142088.html"
+  - "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-chu-van-an-nam-2023-a142073.html"
+  - "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-amsterdam-nam-2023-a142063.html"
+  - "https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-marie-curie-nam-2023-a142058.html"
+
+# Cấu hình crawl song song
+parallel_config:
+  # Số lượng URLs crawl đồng thời tối đa
+  max_concurrent_workers: 3
+  
+  # Timeout cho từng URL (giây)
+  per_url_timeout: 45
+  
+  # Delay giữa batch crawling (giây) 
+  batch_delay: 2
+  
+  # Có crawl tất cả URLs hay dừng khi có lỗi
+  continue_on_error: true
+  
+  # Có hiển thị progress bar
+  show_progress: true
+
+# CSS Selectors cho việc crawl
+selectors:
+  # Selector chính - tìm element với ID cụ thể
+  primary: 'div.box-question[id="sub-question-2"]'
+  
+  # Selector dự phòng - tìm tất cả box-question
+  fallback: ".box-question"
+  
+  # Selector thay thế - các pattern khác có thể chứa nội dung
+  alternative: ".solution-box, [class*='question'], [class*='answer'], [class*='solution']"
+  
+  # Selector cho ID cụ thể (không dùng dấu ngoặc)
+  id_selector: "#sub-question-2"
+
+# Cấu hình crawl chính
+crawl_config:
+  # Các tag HTML sẽ bị loại bỏ
+  excluded_tags:
+    - "script"
+    - "style" 
+    - "nav"
+    - "footer"
+    - "header"
+    - "aside"
+    - "noscript"
+  
+  # Ngưỡng số từ tối thiểu cho một block content
+  word_count_threshold: 3
+  
+  # Loại bỏ links external
+  exclude_external_links: true
+  
+  # Loại bỏ images external  
+  exclude_external_images: true
+  
+  # Loại bỏ social media links
+  exclude_social_media_links: true
+  
+  # Cache mode: BYPASS, ENABLED, READ_ONLY
+  cache_mode: "BYPASS"
+  
+  # Timeout cho việc crawl (giây)
+  timeout: 30
+  
+  # User agent cho requests
+  user_agent: "Mozilla/5.0 (compatible; Crawl4AI/0.6.3; Educational Purpose)"
+
+# Cấu hình output files
+output:
+  # Thư mục lưu kết quả
+  directory: "crawl4ai/output"
+  
+  # Prefix cho tên file
+  prefix: "huong_dan_giai"
+  
+  # Các format file output
+  formats:
+    - "html"
+    - "markdown"  
+    - "json"
+  
+  # Tự động tạo timestamp
+  include_timestamp: true
+  
+  # Tự động tạo thư mục theo ngày
+  create_date_folder: false
+  
+  # Tạo summary file cho tất cả URLs
+  create_summary: true
+
+# Keywords để tìm kiếm và lọc nội dung
+keywords:
+  # Keywords target - nội dung cần tìm
+  target:
+    - "HƯỚNG DẪN GIẢI CHI TIẾT"
+    - "hướng dẫn giải"
+    - "giải chi tiết"
+    - "bài giải"
+    - "cách giải"
+    - "lời giải"
+  
+  # Keywords exclude - nội dung cần loại bỏ
+  exclude:
+    - "quảng cáo"
+    - "advertisement"
+    - "sidebar"
+    - "footer"
+    - "navigation"
+    - "menu"
+    - "banner"
+    - "popup"
+
+# Cấu hình browser (nếu cần)
+browser_config:
+  # Chạy headless hay không
+  headless: true
+  
+  # Viewport size
+  viewport:
+    width: 1920
+    height: 1080
+  
+  # Thời gian chờ page load
+  page_load_timeout: 30
+  
+  # Disable images để tăng tốc độ
+  disable_images: false
+  
+  # Disable JavaScript nếu không cần
+  disable_javascript: false
+
+# Advanced settings
+advanced:
+  # Số lần retry khi thất bại
+  max_retries: 3
+  
+  # Delay giữa các requests (giây)
+  delay_between_requests: 1
+  
+  # Sử dụng proxy (nếu có)
+  use_proxy: false
+  proxy_settings:
+    http: ""
+    https: ""
+  
+  # Log level: DEBUG, INFO, WARNING, ERROR
+  log_level: "INFO"
+  
+  # Lưu raw HTML để debug
+  save_raw_html: false
+  
+  # Verify SSL certificates
+  verify_ssl: true 

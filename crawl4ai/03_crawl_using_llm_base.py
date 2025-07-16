@@ -10,7 +10,10 @@ class DeThiMonToan(BaseModel):
     school_name: str = Field(..., description="Tên của trường cung cấp đề thi")
     url: str = Field(..., description="Đường dẫn đến đề thi")
     
-
+def write_output_to_file(filepath, content):
+    with open(filepath, "w") as f:
+        f.write(content)
+        
 async def extract_structured_data_using_llm(
     provider: str, api_token: str = None, extra_headers: Dict[str, str] = None
 ):
@@ -42,14 +45,17 @@ async def extract_structured_data_using_llm(
 
     async with AsyncWebCrawler(config=browser_config) as crawler:
         result = await crawler.arun(
-            url="https://www.vietjack.com/tai-lieu-mon-toan/de-thi-vao-lop-6-toan-truong-thcs-trong-diem-bn-2025.jsp", config=crawler_config
+            url="https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html", config=crawler_config
         )
         print(result.extracted_content)
+        write_output_to_file('dethilop6.txt', result.extracted_content)
+        
 
 if __name__ == "__main__":
 
     asyncio.run(
         extract_structured_data_using_llm(
-            provider="openai/gpt-4o", api_token=os.getenv("OPENAI_API_KEY")
+            provider="openai/gpt-4o-mini", api_token=os.getenv("OPENAI_API_KEY")
         )
     )
+

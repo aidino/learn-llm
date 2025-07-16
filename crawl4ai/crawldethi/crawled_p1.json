@@ -1,0 +1,2354 @@
+[
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy viết biểu thức tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) của hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, ta có: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 3x + 5 = 20 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 5 từ hai vế: \\( 3x = 20 - 5 \\) hay \\( 3x = 15 \\). Chia cả hai vế cho 3, ta có: \\( x = 5 \\).",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng \\( x^2 - 4x + 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể viết lại thành \\( (x - 2)^2 = 0 \\). Do đó, \\( x - 2 = 0 \\) hay \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\). Chia cả hai vế cho 2, ta có \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( A = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 1) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của phép toán: \\( 3 \\times (4 - 1) = 3 \\times 3 = 9 \\). Sau đó, ta cộng với 2: \\( 2 + 9 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 5x + 6 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể được phân tích thành \\( (x - 2)(x - 3) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = 3 \\).",
+        "result": "2 hoặc 3",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 7 - 3 \\) hay \\( 2x = 4 \\). Chia cả hai vế cho 2, ta có: \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng: \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể viết lại thành: \\( (x - 2)(x + 2) = 0 \\). Do đó, \\( x - 2 = 0 \\) hoặc \\( x + 2 = 0 \\). Vậy \\( x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 3x + 5 = 20 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 3x = 20 - 5 \\) dẫn đến \\( 3x = 15 \\) và \\( x = \\frac{15}{3} = 5 \\).",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích của hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\).",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 4 = 0 \\).",
+        "image_url": null,
+        "solution": "Ta có phương trình \\( x^2 - 4 = 0 \\) \\( \\Rightarrow x^2 = 4 \\) \\( \\Rightarrow x = \\pm 2 \\).",
+        "result": "x = 2 hoặc x = -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong hệ phương trình sau: \\( \\begin{cases} x + y = 10 \\ x - y = 2 \\end{cases} \\).",
+        "image_url": null,
+        "solution": "Từ phương trình thứ nhất, ta có \\( y = 10 - x \\). Thay vào phương trình thứ hai: \\( x - (10 - x) = 2 \\) dẫn đến \\( 2x - 10 = 2 \\) hay \\( 2x = 12 \\) nên \\( x = 6 \\).",
+        "result": "6",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy viết biểu thức tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = d \\times r \\). Thay số vào: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình \\( 2x + 3 = 11 \\).",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 11 - 3 \\) \\( \\Rightarrow 2x = 8 \\) \\( \\Rightarrow x = \\frac{8}{2} = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài 10 cm và chiều rộng 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Thay số vào ta có: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 11 - 3 \\) \\( \\Rightarrow 2x = 8 \\) \\( \\Rightarrow x = \\frac{8}{2} = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm số tự nhiên nhỏ nhất mà khi chia cho 3 thì dư 1, khi chia cho 5 thì dư 2.",
+        "image_url": null,
+        "solution": "Gọi số tự nhiên cần tìm là \\( x \\). Ta có: \\( x \\equiv 1 \\mod 3 \\) và \\( x \\equiv 2 \\mod 5 \\). Giải hệ phương trình này, ta tìm được \\( x = 2 \\) là số nhỏ nhất thỏa mãn.",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\) thì chiều dài là \\( 2x \\). Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\), \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( A = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 4 \\times 2 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 4 \\times 2 = 8 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 8 - 1 = 10 \\).",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( S = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 1) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times (4 - 1) = 3 \\times 3 = 9 \\). Sau đó, ta có: \\( 2 + 9 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tính diện tích hình chữ nhật có chiều dài 5 cm và chiều rộng 3 cm.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = d \\times r \\). Thay số vào công thức: \\( S = 5 \\times 3 = 15 \\) cm².",
+        "result": "15 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Một bể nước có chiều dài là 120cm, chiều rộng 60cm, chiều cao 70cm. Tính thể tích của bể nước.",
+        "image_url": null,
+        "solution": "Thể tích của bể nước được tính bằng công thức: \\( V = l \\times w \\times h \\) trong đó \\( l \\) là chiều dài, \\( w \\) là chiều rộng, và \\( h \\) là chiều cao. Thay số vào công thức: \\( V = 120 \\times 60 \\times 70 = 504000 \\) cm³.",
+        "result": "504000 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Tìm chữ số tận cùng của dãy sau 11 x 13 x 15 x 17 x 19 x... x 2019.",
+        "image_url": null,
+        "solution": "Dãy số này là tích của các số lẻ từ 11 đến 2019. Chữ số tận cùng của tích các số lẻ sẽ là chữ số tận cùng của tích các chữ số tận cùng của từng số. Chữ số tận cùng của các số lẻ là 1, 3, 5, 7, 9. Tích của các chữ số tận cùng này sẽ là \\( 1 \\times 3 \\times 5 \\times 7 \\times 9 = 945 \\), do đó chữ số tận cùng là 5.",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một mảnh đất hình chữ nhật có diện tích là 2020 m². Nếu chiều dài gấp đôi chiều rộng, tính chiều dài và chiều rộng của mảnh đất.",
+        "image_url": null,
+        "solution": "Gọi chiều rộng là \\( w \\), chiều dài là \\( 2w \\). Diện tích được tính bằng công thức: \\( A = l \\times w \\). Ta có: \\( 2w \\times w = 2020 \\) hay \\( 2w^2 = 2020 \\) dẫn đến \\( w^2 = 1010 \\) và \\( w = \\sqrt{1010} \\approx 31.78 \\) m. Chiều dài là \\( 2w \\approx 63.56 \\) m.",
+        "result": "Chiều rộng: 31.78 m, Chiều dài: 63.56 m",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Tổng số gạo kho I và kho II là 46 tấn. Biết 15 lần số gạo kho I bằng 8 lần số gạo kho II. Hỏi kho II chứa bao nhiêu tấn gạo?",
+        "image_url": null,
+        "solution": "Vì 15 lần số gạo kho I bằng 8 lần số gạo kho II nên số gạo kho I bằng \\( \\frac{8}{15} \\) số gạo kho II. Kho II chứa số tấn gạo là: \\( \\frac{46}{8 + 15} \\times 15 = 30 \\) (tấn gạo)",
+        "result": "30 tấn gạo",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tính tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_15.png",
+        "solution": "Số học sinh thích ăn cam và chuối là: \\( 4 + 3 = 7 \\) (học sinh). Số học sinh thích ăn táo và xoài là: \\( 15 + 10 = 25 \\) (học sinh). Tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài là: \\( \\frac{7}{25} = 0,28 = 28\\% \\)",
+        "result": "28%",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Cho hình vuông ABCD. Vẽ nửa đường tròn đường kính AB và 14 đường tròn bán kính AB. Tính diện tích phần tô đậm biết chu vi đường tròn đường kính AB là 37,68 cm.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_17.png",
+        "solution": "Độ dài đoạn thẳng AB là \\( \\frac{37,68}{3,14} = 12 \\) (cm). Bán kính đường tròn đường kính AB là \\( \\frac{12}{2} = 6 \\) (cm). Diện tích nửa đường tròn đường kính AB là \\( \\frac{6 \\times 6 \\times 3,14}{2} = 56,52 \\) (cm²). Diện tích 14 đường tròn bán kính AB là \\( \\frac{12 \\times 12 \\times 3,14}{4} = 113,04 \\) (cm²). Diện tích phần tô đậm là \\( 113,04 - 56,52 = 56,52 \\) (cm²).",
+        "result": "56,52 cm²",
+        "error": false
+    },
+    {
+        "question": "Bài 1. Cho đoạn đường AD có 1 đoạn lên dốc, 1 đoạn xuống dốc, 1 đoạn bằng phẳng. Trong đó, đoạn đường AB = BC, CD = 4km (AB là đoạn đường lên dốc, BC là đoạn đường xuống dốc, CD là đoạn đường bằng phẳng). Biết vận tốc khi lên dốc là 4 km/giờ, vận tốc khi xuống dốc là là 6 km/giờ, vận tốc đi trên đoạn đường bằng phẳng là 5 km/giờ. a) Tính thời gian đi đoạn đường CD. b) Tính độ dài đoạn đường AD, biết người đó đi từ A lúc 5 giờ và đến D lúc 6 giờ 48 phút.",
+        "image_url": null,
+        "solution": "a) Thời gian đi đoạn đường CD là \\( \\frac{4}{5} = 0,8 \\) (giờ) = 48 (phút). b) Thời gian đi hết đoạn đường AC là \\( 6 giờ 48 - 5 - 48 phút = 1 \\) (giờ). Tỉ số vận tốc trên đoạn đường AB so với đoạn đường BC là \\( \\frac{4}{6} = \\frac{2}{3} \\). Trên cùng một quãng đường thì vận tốc tỉ lệ nghịch với thời gian. Vì đoạn đường AB = BC nên tỉ số thời gian đi hết đoạn đường AB so với đoạn đường BC là \\( \\frac{3}{2} \\). Thời gian đi hết đoạn đường AB là \\( \\frac{1}{(2 + 3)} \\times 3 = 0,6 \\) (giờ). Độ dài đoạn đường AB là \\( 0,6 \\times 4 = 2,4 \\) (km). Độ dài đoạn đường AD là \\( 2,4 \\times 2 + 4 = 8,8 \\) (km).",
+        "result": "a) 48 phút; b) 8,8 km",
+        "error": false
+    },
+    {
+        "question": "Bài 2. Bạn Hưng viết 5 số tự nhiên khác nhau trên một vòng tròn sao cho không có 2 hoặc 3 số nào ở vị trí liên tiếp nhau có tổng chia hết cho 3. a) Hãy tìm một bộ 5 số tự nhiên thỏa mãn yêu cầu đề bài và điền vào hình. b) Chứng tỏ trong mỗi bộ 5 số thỏa mãn yêu cầu đề bài có ít nhất 1 số chia hết cho 3.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0620/19_1.png",
+        "solution": "a) Bộ 5 số thỏa mãn yêu cầu như hình vẽ. b) Giả sử cả 5 số đều không chia hết cho 3, khi đó các số này chia 3 dư 1 hoặc chia 3 dư 2. - Xét số a chia 3 dư 1. Khi đó để tổng hai số liên tiếp (có chứa số a) không chia hết cho 3 thì hai số đứng cạnh a phải chia 3 dư 1. Do đó, ta có 3 số liên tiếp cùng chia 3 dư 1, tức là tổng 3 số này chia hết cho 3 (vô lí). - Lập luận tương tự với số chia 3 dư 2, ta thấy vô lí. Vậy trong 5 số luôn có ít nhất 1 số phải chia hết cho 3.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tìm x sao cho 125<¯x,2<134",
+        "image_url": null,
+        "solution": "Ta có 125<¯x,2<134 nên 2,4 < ¯x,2 < 3,25. Do đó 2<x⩽3. Suy ra x=3.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2. An đi học lúc 6 giờ 45 phút, xe bus di chuyển hết 10 phút, thời gian chờ xe bus là 0,5 giờ. Hỏi An đến trường lúc mấy giờ?",
+        "image_url": null,
+        "solution": "Đổi 0,5 giờ = 30 phút. An đến trường lúc: 6 giờ 45 phút + 10 phút + 30 phút = 7 giờ 25 phút.",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tổ gồm 10 công nhân hoàn thành xong một công việc trong 30 ngày. Nếu tổ có 20 công nhân thì hoàn thành công việc trong thời gian bao lâu?",
+        "image_url": null,
+        "solution": "1 công nhân hoàn thành công việc trong thời gian là 30 x 10 = 300 (ngày). 20 công nhân hoàn thành công việc trong thời gian là 300 : 20 = 15 (ngày).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Phòng học có dạng hình hộp chữ nhật chiều dài 7m, chiều rộng 4,5m, chiều cao 3m. Người ta muốn sơn toàn bộ trần nhà và 4 bức tường. Biết tổng diện tích các cửa là 7,5m2, tính diện tích cần sơn.",
+        "image_url": null,
+        "solution": "Diện tích xung quanh của phòng học là (7 + 4,5) x 2 x 3 = 69 (m2). Diện tích trần nhà là: 7 x 4,5 = 31,5 (m2). Diện tích cần sơn là 69 + 31,5 – 7,5 = 93 (m2).",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho A = ¯52xy. Biết A chia hết cho 2 và 9; chia 5 dư 4. Tìm A.",
+        "image_url": null,
+        "solution": "Vì A chia hết cho 2 và chia 9, ta có thể tìm A.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 6. Tổng số gạo kho I và kho II là 46 tấn. Biết 15 lần số gạo kho I bằng 8 lần số gạo kho II. Hỏi kho II chứa bao nhiêu tấn gạo?",
+        "image_url": null,
+        "solution": "Gọi số gạo kho I là x tấn, kho II là y tấn. Ta có hệ phương trình: 15x = 8y và x + y = 46. Giải hệ phương trình để tìm y.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tính tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài?",
+        "image_url": null,
+        "solution": "Giả sử số học sinh thích ăn cam là a, chuối là b, táo là c, xoài là d. Tính tỉ số phần trăm: \\( \\frac{a + b}{c + d} \\times 100\\% \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 8. Cho hình vuông ABCD. Vẽ nửa đường tròn đường kính AB và 14 đường tròn bán kính AB. Tính diện tích phần tô đậm biết chu vi đường tròn đường kính AB là 37,68 cm.",
+        "image_url": null,
+        "solution": "Chu vi đường tròn là \\( C = \\pi d \\), với d là đường kính. Tính diện tích phần tô đậm dựa trên diện tích hình vuông và diện tích các đường tròn.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. Cho đoạn đường AD có 1 đoạn lên dốc, 1 đoạn xuống dốc, 1 đoạn bằng phẳng. Trong đó, đoạn đường AB = BC, CD = 4km (AB là đoạn đường lên dốc, BC là đoạn đường xuống dốc, CD là đoạn đường bằng phẳng). Biết vận tốc khi lên dốc là 4 km/giờ, vận tốc khi xuống dốc là là 6 km/giờ, vận tốc đi trên đoạn đường bằng phẳng là 5 km/giờ. a) Tính thời gian đi đoạn đường CD. b) Tính độ dài đoạn đường AD, biết người đó đi từ A lúc 5 giờ và đến D lúc 6 giờ 48 phút.",
+        "image_url": null,
+        "solution": "a) Thời gian đi đoạn đường CD là \\( t = \\frac{d}{v} = \\frac{4}{5} \\) giờ. b) Tính tổng thời gian và độ dài đoạn đường AD.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 2. Bạn Hưng viết 5 số tự nhiên khác nhau trên một vòng tròn sao cho không có 2 hoặc 3 số nào ở vị trí liên tiếp nhau có tổng chia hết cho 3. a) Hãy tìm một bộ 5 số tự nhiên thỏa mãn yêu cầu đề bài và điền vào hình. b) Chứng tỏ trong mỗi bộ 5 số thỏa mãn yêu cầu đề bài có ít nhất 1 số chia hết cho 3.",
+        "image_url": null,
+        "solution": "a) Một bộ số có thể là {1, 2, 4, 5, 7}. b) Chứng minh bằng cách phân tích các số tự nhiên theo modulo 3.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng: \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Ta có phương trình: \\( x^2 = 4 \\) \\( \\Rightarrow x = \\pm 2 \\).",
+        "result": "x = 2 hoặc x = -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 4 \\times 2 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 4 \\times 2 = 8 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 8 - 1 = 10 \\).",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ hai phía: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai phía cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài là \\( 2x \\), diện tích \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 11 - 3 \\) \\( \\Rightarrow 2x = 8 \\) \\( \\Rightarrow x = \\frac{8}{2} = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy viết biểu thức tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 4 \\times 2 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 4 \\times 2 = 8 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 3 + 8 - 1 = 10 \\).",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\) và \\( x = \\frac{8}{2} = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích của hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy viết biểu thức cho diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích của hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( S = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\) ",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = d \\times r \\). Thay số vào: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\) ",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\), sau đó chia cả hai vế cho 2: \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức \\( S = d \times r \\), với \\( d = 10 \\) cm và \\( r = 5 \\) cm. Vậy \\( S = 10 \times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Thay số vào công thức: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Theo thứ tự thực hiện phép toán, ta có: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\).\\nDo đó, biểu thức trở thành: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\).\\nVậy, \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm số lớn nhất trong các số: 12, 25, 7, 19.",
+        "image_url": null,
+        "solution": "So sánh các số, ta thấy số lớn nhất là 25.",
+        "result": "25",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Một chiếc xe đi từ A đến B với vận tốc 60 km/h. Hỏi sau 2 giờ, xe đi được bao xa?",
+        "image_url": null,
+        "solution": "Quãng đường được tính bằng công thức: \\( D = vận tốc \\times thời gian \\).\\nVậy, \\( D = 60 \\times 2 = 120 \\) km.",
+        "result": "120 km",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Thay số vào công thức: \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm số tự nhiên nhỏ nhất có 3 chữ số.",
+        "image_url": null,
+        "solution": "Số tự nhiên nhỏ nhất có 3 chữ số là 100.",
+        "result": "100",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Một chiếc xe đi từ A đến B với vận tốc 60 km/h. Hỏi sau 2 giờ, chiếc xe đã đi được bao xa?",
+        "image_url": null,
+        "solution": "Quãng đường đi được được tính bằng công thức: \\( D = v \\times t \\). Thay số vào công thức: \\( D = 60 \\times 2 = 120 \\) km.",
+        "result": "120 km",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\) cm, thì diện tích của hình chữ nhật là bao nhiêu?",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Ta có: \\( 2x + 3 = 11 \\) \\( \\Rightarrow 2x = 11 - 3 \\) \\( \\Rightarrow 2x = 8 \\) \\( \\Rightarrow x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Tìm số tự nhiên nhỏ nhất mà khi chia cho 3 thì dư 1, khi chia cho 5 thì dư 2.",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\( x \\). Ta có: \\( x \\equiv 1 \\mod 3 \\) và \\( x \\equiv 2 \\mod 5 \\). Giải hệ phương trình này, ta tìm được \\( x = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 4 \\times 2 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 4 \\times 2 = 8 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 3 + 8 - 1 = 10 \\).",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( S = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( A = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Tìm số tự nhiên nhỏ nhất mà khi chia cho 3 thì dư 1, khi chia cho 5 thì dư 2.",
+        "image_url": null,
+        "solution": "Gọi số tự nhiên cần tìm là \\( x \\). Ta có hệ phương trình: \\( x \\equiv 1 \\mod 3 \\) và \\( x \\equiv 2 \\mod 5 \\). Thử các số tự nhiên: \\( x = 2 \\) không thỏa mãn, \\( x = 5 \\) không thỏa mãn, \\( x = 8 \\) không thỏa mãn, \\( x = 11 \\) thỏa mãn. Vậy số tự nhiên nhỏ nhất là \\( 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Dự trữ trong số ngày là 480 x 25 = 12000 (ngày). Tổng số học sinh sau khi nhậm thêm là 480 + 20 = 500 (học sinh). Số gạo đủ ăn trong số ngày là 12000 : 500 = 24 (ngày).",
+        "image_url": null,
+        "solution": "Số gạo đủ ăn trong số ngày là \\( \\frac{12000}{500} = 24 \\) (ngày).",
+        "result": "24 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 2: a chia hết cho 7 vì a = 77…7 = 7 x 111....1 (2022 chữ số 1).",
+        "image_url": null,
+        "solution": "a chia hết cho 7 vì a = 7 x 111…1 (2022 chữ số 1).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3: a chia hết cho 77 = 7 x 11 vì: a = 7 x 111…1 (2022 chữ số 1) = 7 x 11 x 10101…01.",
+        "image_url": null,
+        "solution": "a chia hết cho 77 = 7 x 11.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 4: Xét 232 = 2 x 4 x 29. Vì a = 777…7 không chia hết cho 2 nên a không chia hết cho 232.",
+        "image_url": null,
+        "solution": "a không chia hết cho 232.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5: Xét 63 = 7 x 9. Mà a có tổng các chữ số là 7 x 2022 = 14154. Tổng các chữ số của 14154 là 1 + 4 + 1 + 5 + 4 = 15 không chia hết cho 9.",
+        "image_url": null,
+        "solution": "Tổng các chữ số của a không chia hết cho 9.",
+        "result": "a không chia hết cho 63.",
+        "error": false
+    },
+    {
+        "question": "Kết luận: a không chia hết cho 232 và 63.",
+        "image_url": null,
+        "solution": null,
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 4 \\times 2 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 4 \\times 2 = 8 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 3 + 8 - 1 = 10 \\).",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( S = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Hằng ngày, bạn Hưng chạy bộ được 1 và 17 km. hỏi trong 1 tuần bạn Hưng chạy được bao nhiêu ki-lô-mét?",
+        "image_url": null,
+        "solution": "Một ngày số km mà Hưng chạy được là 1 + 17 = 18 (km). Trong 1 tuần số km mà Hưng chạy được là: 18 × 7 = 126 (km).",
+        "result": "126 km",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Lớp An có 72% các bạn là nữ. Hỏi số nam lớp An so với cả lớp là bao nhiêu %?",
+        "image_url": null,
+        "solution": "Số nam lớp An chiếm số phần trăm so với cả lớp là 100 % - 72% = 28%.",
+        "result": "28%",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một máy tự động có thể làm 1 dụng cụ trong 1,2 phút. Nếu máy làm 175 dụng cụ và bắt đầu lúc 7 giờ 30 phút thì máy làm xong lúc mấy giờ?",
+        "image_url": null,
+        "solution": "Thời gian máy làm xong 175 dụng cụ là: 175 × 1,2 = 210 (phút). Đổi 210 phút = 3 giờ 30 phút. Thời gian máy tự động làm xong dụng cụ là: 7 giờ 30 phút + 3 giờ 30 phút = 11 giờ.",
+        "result": "11 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Tính diện tích hình tròn có đường kính 7 cm?",
+        "image_url": null,
+        "solution": "Bán kính hình tròn là \\( r = \\frac{7}{2} = 3,5 \\) (cm). Diện tích hình tròn là: \\( S = r \\times r \\times \\pi = 3,5 \\times 3,5 \\times 3,14 = 38,465 \\) (cm²).",
+        "result": "38,465 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Có một hình chữ nhật đã được tăng chiều dài thêm 10% và giảm chiều rộng đi 10% thì diện tích hình chữ nhật đó thay đổi như thế nào?",
+        "image_url": null,
+        "solution": "Chiều dài mới là 100% + 10% = 110%. Chiều rộng mới là 100% - 10% = 90%. Diện tích hình chữ nhật mới sẽ là: \\( 110\\% \\times 90\\% = 99\\% \\times \\text{diện tích ban đầu} \\). Vậy diện tích hình chữ nhật mới bằng 99% diện tích ban đầu.",
+        "result": "99% diện tích ban đầu",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Cả đàn có tất cả 50 con bò và trâu, biết rằng nếu đếm 25 số trâu và 34 số bò thì có tất cả 27 con. Tính số trâu và số bò?",
+        "image_url": null,
+        "solution": "Giả sử số trâu bằng số bò và cùng bằng 25 con thì theo bài ra: 25 × số trâu + 34 × số bò = 25×25+34×25=10+18,75=28,75>27. Vì 34>25 nên để giảm số lượng đi thì số trâu > 25 con; số bò < 25 con. Suy ra số trâu có thể là: 30 ; 35 ; 40 ; 45.",
+        "result": "Số trâu và số bò không xác định cụ thể từ thông tin đã cho.",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Lan đếm số bát đĩa trong tủ thì thấy: – Số đĩa gấp đôi số bát to – Số bát ăn cơm gấp 4 lần số đĩa. Hỏi số bát to nhà Lan bằng bao nhiêu phần trăm số bát ăn cơm?",
+        "image_url": null,
+        "solution": "Gọi số bát tô là 1 phần thì số đĩa là 2 phần, số bát ăn cơm là 8 phần. Phần trăm số bát tô so với số bát ăn là \\( \\frac{1}{8} = 0,125 = 12,5\\% \\).",
+        "result": "12,5%",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Tính diện tích toàn phần hình bên dưới, biết các hình nhỏ đều bằng nhau, chiều dài 4dm, chiều rộng 3dm, chiều cao 3,5 dm.",
+        "image_url": null,
+        "solution": "Coi 6 khối hộp chữ nhật tô màu vàng ghép lại được hình H1. Khối H1 có chiều dài là 12 dm, chiều rộng 6 dm và chiều cao là 3,5 dm. Diện tích xung quanh của khối H1 là \\( (12 + 6) \\times 2 \\times 3,5 = 126 \\) (dm²). Diện tích toàn phần của khối H1 là \\( 126 + 12 \\times 6 \\times 2 = 270 \\) (dm²). Diện xung quanh khối H2 (tô màu xanh) là \\( (4 + 3) \\times 2 \\times 3,5 = 49 \\) (dm²). Diện tích toàn phần của khối H2 là \\( 49 + 4 \\times 3 \\times 2 = 73 \\) (dm²). Ta thấy khối H1 và H2 có 2 mặt chung. Diện tích một mặt chung là \\( 3,5 \\times 3 = 10,5 \\) (dm²). Diện tích toàn phần của hình đã cho là \\( 270 + 73 - 10,5 \\times 2 = 322 \\) (dm²).",
+        "result": "322 dm²",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Một trường bán trú dự trữ gạo đủ cho 480 học sinh ăn trong 25 ngày. Nhà trường mới nhận thêm 20 em học sinh nữa. Hỏi số gạo trên đủ trong bao nhiêu ngày?",
+        "image_url": null,
+        "solution": "1 học sinh ăn hết số gạo đã dự trữ trong 25 ngày, tổng số gạo là 480 × 25 = 12000 suất ăn. Với 500 học sinh, số gạo này sẽ đủ trong \\( \\frac{12000}{500} = 24 \\) ngày.",
+        "result": "24 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Cho a = 77… 7 (Có 2022 chữ số 7). Hỏi a không chia hết cho số nào sau đây: 7; 77; 232; 63?",
+        "image_url": null,
+        "solution": "Số a có dạng \\( a = 7 \\times (10^{2021} + 10^{2020} + ... + 10^0) = 7 \\times \\frac{10^{2022} - 1}{9} \\). Kiểm tra chia hết cho các số 7, 77, 232, 63.",
+        "result": "Không chia hết cho 232.",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể viết lại thành \\( (x - 2)(x + 2) = 0 \\). Do đó, \\( x - 2 = 0 \\) hoặc \\( x + 2 = 0 \\) \\( \\Rightarrow x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\) ",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\), sau đó chia cả hai vế cho 2: \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 4 = 0 \\) ",
+        "image_url": null,
+        "solution": "Ta có phương trình \\( x^2 - 4 = 0 \\) có thể viết lại thành \\( (x - 2)(x + 2) = 0 \\). Do đó, \\( x - 2 = 0 \\) hoặc \\( x + 2 = 0 \\) dẫn đến \\( x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ hai bên: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai bên cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài là \\( 2x \\), diện tích \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 1) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của phép toán: \\( 3 \\times (4 - 1) = 3 \\times 3 = 9 \\). Sau đó, ta cộng với 2: \\( 2 + 9 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\). Chia cả hai vế cho 2, ta có \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 5x + 6 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể được phân tích thành \\( (x - 2)(x - 3) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = 3 \\).",
+        "result": "2 hoặc 3",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 3x + 5 = 20 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 3x = 20 - 5 \\) \\( \\Rightarrow 3x = 15 \\) \\( \\Rightarrow x = \\frac{15}{3} = 5 \\).",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng: \\( x^2 - 4x + 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể viết lại thành: \\( (x - 2)^2 = 0 \\). Do đó, \\( x - 2 = 0 \\) \\( \\Rightarrow x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\) ",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện như sau: \\( 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng \\( x^2 - 4 = 0 \\) ",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( x^2 = 4 \\) \\( \\Rightarrow x = \\pm 2 \\).",
+        "result": "x = 2 hoặc x = -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, ta có: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 3x + 5 = 20 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 5 từ cả hai vế: \\( 3x = 15 \\). Sau đó, chia cả hai vế cho 3: \\( x = 5 \\).",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng: \\( x^2 - 4x + 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể viết lại thành: \\( (x - 2)^2 = 0 \\). Do đó, \\( x - 2 = 0 \\) dẫn đến \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Ta có: \\( 2x + 3 = 7 \\) \\n\\( 2x = 7 - 3 \\) \\n\\( 2x = 4 \\) \\n\\( x = \\frac{4}{2} = 2 \\)",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Ta có: \\( x^2 - 4 = 0 \\) \\n\\( x^2 = 4 \\) \\n\\( x = \\pm 2 \\)",
+        "result": "x = 2 hoặc x = -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong hệ phương trình sau: \\( \\begin{cases} x + y = 10 \\ x - y = 2 \\end{cases} \\).",
+        "image_url": null,
+        "solution": "Từ phương trình thứ nhất, ta có \\( y = 10 - x \\). Thay vào phương trình thứ hai: \\( x - (10 - x) = 2 \\) dẫn đến \\( 2x - 10 = 2 \\) hay \\( 2x = 12 \\) nên \\( x = 6 \\).",
+        "result": "6",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy viết biểu thức cho diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm số lớn nhất trong các số sau: 12, 15, 9, 20, 18.",
+        "image_url": null,
+        "solution": "Số lớn nhất trong các số đã cho là 20.",
+        "result": "20",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Có bao nhiêu số có 2 chữ số mà số đó gấp 4 lần tổng 2 chữ số của nó?",
+        "image_url": null,
+        "solution": "Gọi số có 2 chữ số là \\(10a + b\\) với \\(a\\) là chữ số hàng chục và \\(b\\) là chữ số hàng đơn vị. Ta có: \\(10a + b = 4(a + b)\\). Giải phương trình này: \\(10a + b = 4a + 4b\\) \\Rightarrow 6a = 3b \\Rightarrow 2a = b.\\n\\nVì \\(a\\) là chữ số hàng chục nên \\(1 \\leq a \\leq 9\\) và \\(b\\) là chữ số hàng đơn vị nên \\(0 \\leq b \\leq 9\\).\\n\\nThay \\(b = 2a\\) vào điều kiện trên, ta có: \\(0 \\leq 2a \\leq 9\\) \\Rightarrow \\(0 \\leq a \\leq 4.5\\).\\n\\nVậy \\(a\\) có thể nhận các giá trị: 1, 2, 3, 4.\\n\\nSố lượng số thỏa mãn là 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Một chiếc xe đi từ A đến B với vận tốc 60 km/h. Hỏi sau 2 giờ xe đi được bao xa?",
+        "image_url": null,
+        "solution": "Quãng đường được tính bằng công thức: \\( d = v \\times t \\). Vậy: \\( d = 60 \\times 2 = 120 \\) km.",
+        "result": "120 km",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Tính tổng các số nguyên dương từ 1 đến 100.",
+        "image_url": null,
+        "solution": "Tổng các số nguyên dương từ 1 đến n được tính bằng công thức: \\( S = \\frac{n(n + 1)}{2} \\). Với n = 100, ta có: \\( S = \\frac{100 \\times 101}{2} = 5050 \\).",
+        "result": "5050",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Một đội công nhân có 42 người làm một công việc trong 85 ngày thì xong. A là số có 2024 chữ số 9. B là số bé nhất thỏa mãn để tổng A + B chia hết cho 45.",
+        "image_url": null,
+        "solution": "Để giải bài toán này, trước tiên ta cần tính tổng A + B. Số A có 2024 chữ số 9, tức là A = 999...999 (2024 lần). Để tổng A + B chia hết cho 45, ta cần kiểm tra điều kiện chia hết cho 5 và 9. Đối với chia hết cho 5, B phải kết thúc bằng 0 hoặc 5. Đối với chia hết cho 9, tổng các chữ số của A + B phải chia hết cho 9. Tổng các chữ số của A là 9 * 2024 = 18156. Ta cần tìm B sao cho 18156 + B chia hết cho 9.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2: Xếp 128 hình lập phương nhỏ thành một hình hộp chữ nhật có chiều dài bằng 2 lần chiều rộng. Dung dịch nước muối có chứa 8% muối.",
+        "image_url": null,
+        "solution": "Gọi chiều rộng của hình hộp là x, chiều dài là 2x và chiều cao là h. Thể tích của hình hộp là V = x * 2x * h = 2x^2h. Ta có 128 hình lập phương nhỏ, mỗi hình lập phương có thể tích 1, do đó V = 128. Từ đó, ta có phương trình 2x^2h = 128. Giải phương trình này để tìm x và h.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3: Gỗ tươi chứa 25% nước. Sau khi sấy, lượng nước trong gỗ khô là 4%. Một hình hộp chữ nhật có chiều dài gấp hai lần chiều rộng. Nếu tăng chiều dài lên 5 dm và giữ nguyên chiều rộng thì thể tích của hình hộp sẽ thay đổi như thế nào?",
+        "image_url": null,
+        "solution": "Gọi chiều rộng của hình hộp là w, chiều dài là 2w và chiều cao là h. Thể tích ban đầu là V = 2w^2h. Khi tăng chiều dài lên 5 dm, chiều dài mới là 2w + 5. Thể tích mới là V' = (2w + 5) * w * h. Ta cần so sánh V' với V để tìm sự thay đổi.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 1) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times (4 - 1) = 3 \\times 3 = 9 \\). Sau đó, ta cộng với 2: \\( 2 + 9 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\Rightarrow \\ 2x = 7 - 3 \\Rightarrow \\ 2x = 4 \\Rightarrow \\ x = \\frac{4}{2} = 2.",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng \\( x^2 - 5x + 6 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể được phân tích thành: \\( (x - 2)(x - 3) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = 3 \\).",
+        "result": "2 hoặc 3",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 1) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times (4 - 1) = 3 \\times 3 = 9 \\). Sau đó, ta cộng với 2: \\( 2 + 9 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 5x + 6 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể được phân tích thành: \\( (x - 2)(x - 3) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = 3 \\).",
+        "result": "2 hoặc 3",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Vậy biểu thức trở thành: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Ta có: \\( 2x + 3 = 7 \\) \\Rightarrow 2x = 7 - 3 \\Rightarrow 2x = 4 \\Rightarrow x = \\frac{4}{2} = 2.",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng: \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình \\( x^2 - 4 = 0 \\) có thể viết lại thành \\( (x - 2)(x + 2) = 0 \\). Vậy \\( x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 4 \\times 2 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 4 \\times 2 = 8 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 8 - 1 = 10 \\).",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện như sau: \\( 2x = 7 - 3 \\) hay \\( 2x = 4 \\) và \\( x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích của hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\), sau đó chia cả hai vế cho 2: \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Ta có phương trình \\( x^2 - 4 = 0 \\) có thể viết lại thành \\( (x - 2)(x + 2) = 0 \\). Vậy \\( x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\). Chia cả hai vế cho 2, ta có \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 4 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể viết lại thành \\( (x - 2)(x + 2) = 0 \\). Do đó, \\( x - 2 = 0 \\) hoặc \\( x + 2 = 0 \\) dẫn đến \\( x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của các phép toán: \\( 3 \\times 4 = 12 \\), sau đó \\( 2 + 12 - 5 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\) ",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 7 - 3 \\) dẫn đến \\( 2x = 4 \\), sau đó chia cả hai vế cho 2: \\( x = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 4 = 0 \\) ",
+        "image_url": null,
+        "solution": "Ta có phương trình \\( x^2 - 4 = 0 \\) có thể viết lại thành \\( (x - 2)(x + 2) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = -2 \\).",
+        "result": "2 và -2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 3x + 5 = 20 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 3x = 20 - 5 \\) \\( \\Rightarrow 3x = 15 \\) \\( \\Rightarrow x = \\frac{15}{3} = 5 \\).",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích của hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 2) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times (4 - 2) = 3 \\times 2 = 6 \\). Sau đó, ta có: \\( 2 + 6 = 8 \\).",
+        "result": "8",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tính diện tích hình chữ nhật có chiều dài 5 cm và chiều rộng 3 cm.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = d \\times r \\). Vậy: \\( S = 5 \\times 3 = 15 \\) cm².",
+        "result": "15 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Thay số vào, ta có: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 11 - 3 \\) \\( \\Rightarrow 2x = 8 \\) \\( \\Rightarrow x = \\frac{8}{2} = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ hai bên: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai bên cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\) ",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\), sau đó \\( 3 + 10 - 4 = 9 \\).",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm số lớn nhất trong các số sau: 12, 15, 9, 20, 18.",
+        "image_url": null,
+        "solution": "Số lớn nhất trong các số đã cho là 20.",
+        "result": "20",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Mẹ chia 7 phong bao lì xì chứa số tiền bên trong là: 1; 3; 9; 27; 81; 243; 729 (đơn vị tính: nghìn đồng) cho hai anh em.",
+        "image_url": null,
+        "solution": "Tổng số tiền trong 7 phong bao là: 1 + 3 + 9 + 27 + 81 + 243 + 729 = 1093 (nghìn đồng). Nếu chia đều cho hai anh em thì mỗi người sẽ nhận được: \\( \\frac{1093}{2} = 546.5 \\) (nghìn đồng).",
+        "result": "546.5 nghìn đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Có một cửa hàng bán xăng dầu vào quý I. Vào quý II, cửa hàng tăng giá 12% so với quý I.",
+        "image_url": null,
+        "solution": "Giả sử giá xăng dầu quý I là \\( x \\). Giá xăng dầu quý II sẽ là: \\( x + 0.12x = 1.12x \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Thay số vào công thức: \\( S = 8 \\times 5 = 40 \\) cm².",
+        "result": "40 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Người ta tăng chiều dài của hình hộp chữ nhật 10% và giảm chiều rộng của nó đi 20%. Tính diện tích của hình hộp chữ nhật sau khi thay đổi.",
+        "image_url": null,
+        "solution": "Gọi chiều dài ban đầu là L và chiều rộng ban đầu là W. Sau khi tăng chiều dài 10%, chiều dài mới là L' = L \\times (1 + 0.1) = 1.1L. Sau khi giảm chiều rộng 20%, chiều rộng mới là W' = W \\times (1 - 0.2) = 0.8W. Diện tích mới A' = L' \\times W' = (1.1L) \\times (0.8W) = 0.88LW. Do đó, diện tích của hình hộp chữ nhật sau khi thay đổi là 0.88 lần diện tích ban đầu.",
+        "result": "Diện tích mới là 0.88 lần diện tích ban đầu.",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times 4 - 5 \\div 5 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 3 \\times 4 = 12 \\) và \\( 5 \\div 5 = 1 \\). Sau đó, thay vào biểu thức: \\( 2 + 12 - 1 = 13 \\).",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình sau: \\( 3x + 5 = 20 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 3x = 20 - 5 \\) \\( \\Rightarrow 3x = 15 \\) \\( \\Rightarrow x = \\frac{15}{3} = 5 \\).",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy viết biểu thức tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) của hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết rằng: \\( x^2 - 5x + 6 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể phân tích thành: \\( (x - 2)(x - 3) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = 3 \\).",
+        "result": "2, 3",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 2 + 3 \\times (4 - 1) \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên của phép toán: \\( 3 \\times (4 - 1) = 3 \\times 3 = 9 \\). Sau đó, ta cộng với 2: \\( 2 + 9 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 7 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 = 7 \\) \\( \\Rightarrow 2x = 7 - 3 \\) \\( \\Rightarrow 2x = 4 \\) \\( \\Rightarrow x = \\frac{4}{2} = 2 \\).",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x biết \\( x^2 - 5x + 6 = 0 \\)",
+        "image_url": null,
+        "solution": "Phương trình có thể được phân tích thành \\( (x - 2)(x - 3) = 0 \\). Do đó, \\( x = 2 \\) hoặc \\( x = 3 \\).",
+        "result": "2 và 3",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tính diện tích hình chữ nhật có chiều dài \\( a \\) và chiều rộng \\( b \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = a \\times b \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tính diện tích hình chữ nhật có chiều dài 5m và chiều rộng 3m.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức \\( S = d \times r \\). Vậy \\( S = 5 \times 3 = 15 \\) m².",
+        "result": "15 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm diện tích của hình chữ nhật có chiều dài 5m và chiều rộng 3m.",
+        "image_url": null,
+        "solution": "Diện tích \\( S = chiều dài \\times chiều rộng = 5 \\times 3 = 15 \\) m².",
+        "result": "15 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3x + 5y \\) khi \\( x = 2 \\) và \\( y = 3 \\).",
+        "image_url": null,
+        "solution": "Thay giá trị của \\( x \\) và \\( y \\) vào biểu thức: \\( 3(2) + 5(3) = 6 + 15 = 21 \\).",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x - 4 = 10 \\).",
+        "image_url": null,
+        "solution": "Thêm 4 vào cả hai vế: \\( 2x = 14 \\). Chia cả hai vế cho 2: \\( x = 7 \\).",
+        "result": "7",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tính diện tích hình chữ nhật có chiều dài 5m và chiều rộng 3m.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = d \\times r = 5 \\times 3 = 15 \\) m².",
+        "result": "15 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = d \\times r \\). Thay số vào công thức: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x + 3 - 3 = 11 - 3 \\) dẫn đến \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Tìm số lớn nhất trong các số sau: 12, 7, 19, 3.",
+        "image_url": null,
+        "solution": "So sánh các số, ta thấy số lớn nhất là 19.",
+        "result": "19",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Tính tổng các số nguyên từ 1 đến 100.",
+        "image_url": null,
+        "solution": "Tổng các số nguyên từ 1 đến n được tính bằng công thức: \\( S = \\frac{n(n + 1)}{2} \\). Với n = 100, ta có: \\( S = \\frac{100 \\times 101}{2} = 5050 \\).",
+        "result": "5050",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Thay số vào ta có: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm số lớn nhất trong các số: 12, 45, 23, 67, 34.",
+        "image_url": null,
+        "solution": "So sánh các số, ta thấy số lớn nhất là 67.",
+        "result": "67",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( S = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2, ta có: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị biểu thức: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Giải phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta thực hiện các bước sau: \\( 2x = 11 - 3 \\) \\( \\Rightarrow 2x = 8 \\) \\( \\Rightarrow x = \\frac{8}{2} = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Chiều dài của hình chữ nhật là \\( 2x \\). Diện tích \\( S \\) được tính bằng công thức: \\( S = chiều dài \\times chiều rộng = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Tìm số tự nhiên nhỏ nhất thỏa mãn điều kiện: \\( 5n + 3 > 18 \\)",
+        "image_url": null,
+        "solution": "Giải bất phương trình: \\( 5n > 18 - 3 \\) \\( \\Rightarrow 5n > 15 \\) \\( \\Rightarrow n > 3 \\). Số tự nhiên nhỏ nhất thỏa mãn là \\( n = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\), \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài gấp đôi chiều rộng. Nếu chiều rộng là \\( x \\), hãy biểu diễn diện tích của hình chữ nhật theo \\( x \\).",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( A = chiều dài \\times chiều rộng \\). Với chiều dài là \\( 2x \\) và chiều rộng là \\( x \\), ta có: \\( A = 2x \\times x = 2x^2 \\).",
+        "result": "2x^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Giải phương trình sau: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Để giải phương trình, ta trừ 3 từ cả hai vế: \\( 2x = 11 - 3 \\) hay \\( 2x = 8 \\). Chia cả hai vế cho 2: \\( x = 4 \\).",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức sau: \\( 3 + 5 \\times 2 - 4 \\div 2 \\)",
+        "image_url": null,
+        "solution": "Để tính giá trị của biểu thức, ta thực hiện theo thứ tự ưu tiên: \\( 5 \\times 2 = 10 \\) và \\( 4 \\div 2 = 2 \\). Sau đó, thay vào biểu thức ta có: \\( 3 + 10 - 2 = 11 \\).",
+        "result": "11",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm. Tính diện tích của hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = chiều dài \\times chiều rộng \\). Vậy: \\( S = 10 \\times 5 = 50 \\) cm².",
+        "result": "50 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tìm x trong phương trình: \\( 2x + 3 = 11 \\)",
+        "image_url": null,
+        "solution": "Giải phương trình: \\( 2x + 3 = 11 \\) \\Rightarrow 2x = 11 - 3 \\Rightarrow 2x = 8 \\Rightarrow x = \\frac{8}{2} = 4.",
+        "result": "4",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Hằng ngày, Nam đạp xe đi học với vận tốc 12 km/giờ. Hỏi trong 1 giờ, Nam đi được bao nhiêu km?",
+        "image_url": null,
+        "solution": "Vận tốc = \\frac{Quá trình}{Thời gian} \\Rightarrow Quá trình = Vận tốc \\times Thời gian = 12 \\times 1 = 12 \\text{ km}",
+        "result": "12 km",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một bể cá hình lập phương có cạnh 25 cm đã sử dụng 60% thể tích bể để chứa nước. Hỏi thể tích nước trong bể là bao nhiêu?",
+        "image_url": null,
+        "solution": "Thể tích bể = a^3 = 25^3 = 15625 \\text{ cm}^3. Thể tích nước = 60\\% \\times 15625 = 0.6 \\times 15625 = 9375 \\text{ cm}^3.",
+        "result": "9375 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 13 (1 điểm). Để lập ra quỹ ủng hộ, lớp 6A và 6B bán đồ handmade, số tiền mà lớp 6B nhận được nhiều hơn số tiền lớp 6A nhận được là 2 triệu đồng. Trung bình cộng số tiền hai lớp thu được là 5 triệu đồng. Hỏi mỗi lớp nhận được bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Tổng số tiền lớp 6A và 6B là: 5 x 2 = 10 (triệu đồng) Số tiền lớp 6B nhận được là: (10 + 2) : 2 = 6 (triệu đồng) Số tiền lớp 6A nhận được là: 10 – 6 = 4 (triệu đồng)",
+        "result": "6A: 4 triệu đồng 6B: 6 triệu đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 14 (1 điểm). Cho quãng đường AB có độ dài là 180km. Vận tốc xe máy là 45km/giờ, xe ô tô là 60km/giờ. Hỏi sau bao lâu thì quãng đường còn lại của xe máy gấp đôi ô tô biết 2 xe đi cùng chiều.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/23.PNG",
+        "solution": "Gọi quãng đường đã đi của ô tô là AC. Quãng đường còn lại là CB. Quãng đường đã đi của xe máy là AD. Quãng đường còn lại là DB. Ta có CB = 1212 DB nên CD = 1212 DB Tỉ số vận tốc xe máy và ô tô là : 45 : 60 = 3434 Cùng thời gian thì vận tốc và quãng đường tỉ lệ thuận với nhau, suy ra: Tỉ lệ quãng đường đã đi của xe máy và ô tô là 3434 hay ADAC=34ADAC=34 Coi AC là 4 phần, AD là 3 phần. DC là 1 phần, CB là 1 phần. Suy ra AB là 5 phần. Quãng đường đã đi của ô tô là: 180 : 5 x 4 = 144 (km) Thời gian đã đi của 2 xe là: 144 : 60 = 2,4 (giờ)",
+        "result": "2,4 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 15 (1 điểm). Cho tam giác ABC. Trên AB lấy điểm D sao cho AD = 2 BD. Trên BC lấy điểm E sao cho BE = 2 CE. Đoạn thẳng AD, CE cắt nhau tại F. Biết diện tích tam giác ACF là 20 cm2. Tính diện tích tam giác ABC.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/24.png",
+        "solution": "Nối B với F Hai tam giác ADC và tam giác CBD có chung chiều cao hạ từ C và AD = 2 x BD Suy ra: SADC = 2 x SCBD Hai tam giác AFD và BFD có chung chiều cao F và AD = 2 x BD Suy ra: SAFD = 2 x SBFD Từ đó suy ra: SADC - SAFD = 2 x (SCBD - SBFD) hay SAFC = 2 x SBFC SBFC = 20 : 2 x 1 = 10 (cm2) Làm tương tự ta được: SAFC = 1212 SAFB SAFB = 20 x 2 = 40 (cm2) SABC = SBFC + SAFB + SAFC = 10 + 40 + 20 = 70 (cm2)",
+        "result": "70 cm2",
+        "error": false
+    },
+    {
+        "question": "Câu 1 (0,5 điểm). Cho biểu đồ như hình dưới đây. Tìm tỉ số phần trăm số học sinh khối 9 so với số học sinh toàn trường.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/20.png",
+        "solution": "Số học sinh khối 6 được biểu diễn là 1414 hình tròn nên số học sinh khối 6 chiếm 25% so với toàn trường. Tỉ số phần trăm học sinh khối 9 là: 100% - (12,5% + 40% + 25%) = 22,5%",
+        "result": "22,5%",
+        "error": false
+    },
+    {
+        "question": "Câu 2 (0,5 điểm). Gieo 1 viên xúc sắc 20 lần liên tiếp kết quả nhận được như bảng sau:",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/20.PNG",
+        "solution": "Tỉ số giữa số lần xuất hiện mặt có số chấm là số lẻ và tổng số lần đã gieo là 320320.",
+        "result": "320320",
+        "error": false
+    },
+    {
+        "question": "Câu 3 (0,5 điểm). Tìm số tự nhiên thích hợp điền vào chỗ trống là: 526<....26<625",
+        "image_url": null,
+        "solution": "Số tự nhiên thích hợp là 5.",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Câu 4 (0,5 điểm). Tính kết quả của phép tính: 20,26 x 42,6 + 20,26 x 57,4",
+        "image_url": null,
+        "solution": "Kết quả của phép tính là 2026.",
+        "result": "2026",
+        "error": false
+    },
+    {
+        "question": "Câu 5 (0,5 điểm). Nhà bác An có một mảnh đất. Bác An dùng 3535 diện tích để trồng cây ăn quả. Phần còn lại có diện tích là 60m2. Tính diện tích mảnh đất.",
+        "image_url": null,
+        "solution": "Diện tích mảnh đất là 100 m².",
+        "result": "100 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 6 (0,5 điểm). Một miếng bìa hình chữ nhật có chiều dài là 25cm và chiều rộng là 20cm. Người ta cắt 4 góc miếng bìa hình vuông có cạnh là 5cm và gấp thành hình hộp chữ nhật (như hình dưới). Tính thể tích hình hộp chữ nhật đó.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/21.png",
+        "solution": "Thể tích hình hộp chữ nhật là 600cm³.",
+        "result": "600cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 7 (0,5 điểm). Cho nửa hình tròn có đường kính 40cm, người thợ mộc cắt 2 nửa hình tròn có đường kính bằng bán kính của hình tròn trước. Tính diện tích của hình tròn mới bị cắt.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/22.png",
+        "solution": "Diện tích của hình tròn mới bị cắt là 314 cm².",
+        "result": "314 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 8 (0,5 điểm). Có bao nhiêu số có 2 chữ số mà chữ số hàng chục lớn hơn chữ số hàng đơn vị là 4.",
+        "image_url": null,
+        "solution": "Có 6 số thỏa mãn điều kiện.",
+        "result": "6",
+        "error": false
+    },
+    {
+        "question": "Câu 9 (0,75 điểm). Một chiếc áo có giá 500 000 đồng. Vì không ai mua nên giảm giá 20% so với giá ban đầu. Nhưng vẫn không ai mua nên giảm giá tiếp 40% so với giá giảm lần đầu. Hỏi giá chiếc áo sau 2 lần giảm là bao nhiêu?",
+        "image_url": null,
+        "solution": "Giá chiếc áo sau 2 lần giảm là 300000 đồng.",
+        "result": "300000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 10 (0,75 điểm). Trên quãng đường AB dài 200km có hai người đi ngược chiều nhau. Lúc 7 giờ 30 phút có 1 xe tải đi từ A đến B với vận tốc 40km/giờ. Sau 30 phút có 1 xe khách đi từ B đến A với vận tốc 60km/giờ. Hỏi lúc 9 giờ cùng ngày hai xe cách nhau bao nhiêu ki-lô-mét?",
+        "image_url": null,
+        "solution": "Hai xe cách nhau 80 km.",
+        "result": "80 km",
+        "error": false
+    },
+    {
+        "question": "Câu 11 (0,75 điểm). Tổng số học sinh lớp 5A là 45 học sinh. Biết số học sinh nam bằng 4545 số học sinh nữ. Tính số học sinh nữ.",
+        "image_url": null,
+        "solution": "Số học sinh nữ là 15.",
+        "result": "15",
+        "error": false
+    },
+    {
+        "question": "Câu 12 (0,75 điểm). Có 15 hình lập phương nhỏ có cạnh 1cm. Người ta xếp 15 hình lập phương này thành một hình lập phương lớn. Hỏi diện tích toàn phần lớn nhất của hình hộp chữ nhật là bao nhiêu?",
+        "image_url": null,
+        "solution": "Diện tích toàn phần lớn nhất của hình hộp chữ nhật là 1500 cm².",
+        "result": "1500 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 13 (1 điểm). Để lập ra quỹ ủng hộ, lớp 6A và 6B bán đồ handmade, số tiền mà lớp 6B nhận được nhiều hơn số tiền lớp 6A nhận được là 2 triệu đồng. Trung bình cộng số tiền hai lớp thu được là 5 triệu đồng. Hỏi mỗi lớp nhận được bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Lớp 6A nhận được 4 triệu đồng, lớp 6B nhận được 6 triệu đồng.",
+        "result": "4 triệu đồng, 6 triệu đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 14 (1 điểm). Cho quãng đường AB có độ dài là 180km. Vận tốc xe máy là 45km/giờ, xe ô tô là 60km/giờ. Hỏi sau bao lâu thì quãng đường còn lại của xe máy gấp đôi ô tô biết 2 xe đi cùng chiều.",
+        "image_url": null,
+        "solution": "Sau 1 giờ, quãng đường còn lại của xe máy gấp đôi ô tô.",
+        "result": "1 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 15 (1 điểm). Cho tam giác ABC. Trên AB lấy điểm D sao cho AD = 2 BD. Trên BC lấy điểm E sao cho BE = 2 CE. Đoạn thẳng AD, CE cắt nhau tại F. Biết diện tích tam giác ACF là 20 cm2. Tính diện tích tam giác ABC.",
+        "image_url": null,
+        "solution": "Diện tích tam giác ABC là 60 cm².",
+        "result": "60 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Số chấm là số lẻ và tổng số lần đã gieo là bao nhiêu?",
+        "image_url": null,
+        "solution": "Số lần xuất hiện mặt có chấm là số lẻ là: 5 + 3 + 1 = 9 (lần) Tỉ số giữa số lần xuất hiện mặt số chấm là số lẻ và tổng số lần đã gieo là: 9:20=9209:20=920",
+        "result": "920920",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tìm số tự nhiên thích hợp điền vào chỗ trống là: 526<....26<625",
+        "image_url": null,
+        "solution": "Số tự nhiên cần điền là: 6",
+        "result": "6",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tính kết quả của phép tính: 20,26 x 42,6 + 20,26 x 57,4",
+        "image_url": null,
+        "solution": "20,26 x 42,6 + 20,26 x 57,4 = 20,26 x (42,6 + 57,4) = 20,26 x 100 = 2026",
+        "result": "2026",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Nhà bác An có một mảnh đất. Bác An dùng 35 diện tích để trồng cây ăn quả. Phần còn lại có diện tích là 60m2. Tính diện tích mảnh đất.",
+        "image_url": null,
+        "solution": "Coi diện tích mảnh đất là 1 đơn vị. Phân số chỉ 60 m2 là: 1−35=251−35=25 (diện tích mảnh đất) Diện tích mảnh đất là: 60 : 2 x 5 = 150 (m2)",
+        "result": "150 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một miếng bìa hình chữ nhật có chiều dài là 25cm và chiều rộng là 20cm. Người ta cắt 4 góc miếng bìa hình vuông có cạnh là 5cm và gấp thành hình hộp chữ nhật. Tính thể tích hình hộp chữ nhật đó.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/21_1.png",
+        "solution": "Chiều rộng của hình hộp chữ nhật là: 20 – (5 + 5) = 10 (cm) Chiều dài của hình hộp chữ nhật là: 25 – (5 + 5) = 15 (cm) Chiều cao của hình hộp chữ nhật là 5cm. Thể tích của hình đó là: 15 x 10 x 5 = 750 (cm3)",
+        "result": "750cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Cho nửa hình tròn có đường kính 40cm, người thợ mộc cắt 2 nửa hình tròn có đường kính bằng bán kính của hình tròn trước. Tính diện tích của hình tròn mới bị cắt.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/22_1.png",
+        "solution": "Đường kính hình tròn mới là: 40 : 2 = 20 (cm) Bán kính hình tròn mới là: 20 : 2 = 10 (cm) Diện tích hình tròn mới bị cắt là: 10 x 10 x 3,14 = 314 (cm2)",
+        "result": "314 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Có bao nhiêu số có 2 chữ số mà chữ số hàng chục lớn hơn chữ số hàng đơn vị là 4.",
+        "image_url": null,
+        "solution": "Các số thỏa mãn là: 40; 51; 62; 73; 84; 95. Vậy có 6 số thỏa mãn yêu cầu bài toán.",
+        "result": "6 số",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Một chiếc áo có giá 500 000 đồng. Vì không ai mua nên giảm giá 20% so với giá ban đầu. Nhưng vẫn không ai mua nên giảm giá tiếp 40% so với giá giảm lần đầu. Hỏi giá chiếc áo sau 2 lần giảm là bao nhiêu?",
+        "image_url": null,
+        "solution": "Giá chiếc áo sau khi giảm lần đầu là: 500 000 – 500 000 × 20 : 100 = 400 000 (đồng) Giá chiếc áo sau khi giảm lần hai là: 400 000 – 400 000 × 40 : 100 = 240 000 (đồng)",
+        "result": "240 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Trên quãng đường AB dài 200km có hai người đi ngược chiều nhau. Lúc 7 giờ 30 phút có 1 xe tải đi từ A đến B với vận tốc 40km/giờ. Sau 30 phút có 1 xe khách đi từ B đến A với vận tốc 60km/giờ. Hỏi lúc 9 giờ cùng ngày hai xe cách nhau bao nhiêu ki-lô-mét?",
+        "image_url": null,
+        "solution": "Đổi: 30 phút = 0,5 giờ Lúc 9 giờ xe tải đi được số giờ là: 9 giờ - 7 giờ 30 phút = 1 giờ 30 phút = 1,5 giờ Lúc 9 giờ quãng đường xe tải đã đi được là: 40 x 1,5 = 60 (km) Lúc 9 giờ xe khách đi được số giờ là: 9 giờ - 7 giờ 30 phút – 30 phút = 1 (giờ) Lúc 9 giờ quãng đường xe khách đã đi được là: 60 x 1 = 60 (km) Lúc 9 giờ hai xe cách nhau là: 200 – 60 – 60 = 80 (km)",
+        "result": "80km",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Tổng số học sinh lớp 5A là 45 học sinh. Biết số học sinh nam bằng 45 số học sinh nữ. Tính số học sinh nữ.",
+        "image_url": null,
+        "solution": "Số học sinh nữ là: 45 : (4 + 5) x 5 = 25 (học sinh)",
+        "result": "25 học sinh",
+        "error": false
+    },
+    {
+        "question": "Câu 11. Có 15 hình lập phương nhỏ có cạnh 1cm. Người ta xếp 15 hình lập phương này thành một hình lập phương lớn. Hỏi diện tích toàn phần lớn nhất của hình hộp chữ nhật là bao nhiêu?",
+        "image_url": null,
+        "solution": "Ta có: 15 = 1 x 1 x 15 =1 x 3 x 5 Kích thước của hình hộp chữ nhật sau khi xếp có thể là: 1cm x 1cm x 15cm hoặc 1cm x 3cm x 5cm. Trường hợp kích thước 1cm x 1cm x 15cm thì diện tích toàn phần là: (1 + 15) x 2 x 1 + 1 x 15 x 2 = 62 (cm²) Trường hợp kích thước 1cm x 3cm x 5cm diện tích toàn phần là: (1 + 5) x 2 x 3 + 1 x 5 x 2 = 46 (cm2) Vậy diện tích toàn phần lớn nhất là 62cm2",
+        "result": "62cm²",
+        "error": false
+    }
+]

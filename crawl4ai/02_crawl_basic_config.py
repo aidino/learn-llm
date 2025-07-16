@@ -1,5 +1,8 @@
 import asyncio
 from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode
+from crawl4ai import JsonXPathExtractionStrategy
+from crawl4ai.content_filter_strategy import PruningContentFilter
+from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 
 def write_output_to_file(filepath, content):
     with open(filepath, "w") as f:
@@ -10,7 +13,25 @@ async def main():
         headless=True,
         verbose=True
     )
+    schema = {
+        "name": "Crypto Prices via XPath",
+        "baseSelector": "//div[@class='crypto-row']",
+    }
+    
+    prune_filter = PruningContentFilter(
+        # Lower → more content retained, higher → more content pruned
+        threshold=0.45,           
+        # "fixed" or "dynamic"
+        threshold_type="dynamic",  
+        # Ignore nodes with <5 words
+        min_word_threshold=5      
+    )
+
+    # Step 2: Insert it into a Markdown Generator
+    md_generator = DefaultMarkdownGenerator(content_filter=prune_filter)
+    
     run_config = CrawlerRunConfig(
+        css_selector="#sub-question-2",
         # Cache control
         cache_mode=CacheMode.ENABLED,  # Use cache if available,
         # Content filtering
@@ -19,14 +40,16 @@ async def main():
         exclude_external_links=True,    # Remove external links
         # Content processing
         remove_overlay_elements=True,   # Remove popups/modals
-        process_iframes=True           # Process iframe content
+        process_iframes=True,           # Process iframe content
+        markdown_generator=md_generator
+        
     )
     
     # IMPORTANT: By default cache mode is set to CacheMode.ENABLED. So to have fresh content, you need to set it to CacheMode.BYPASS
     
     async with AsyncWebCrawler(config=browser_config) as crawler:
         result = await crawler.arun(
-            url="https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-c1387.html",
+            url="https://loigiaihay.com/de-thi-vao-lop-6-mon-toan-truong-cau-giay-nam-2023-a142098.html",
             config=run_config
         )
         # Different content formats
