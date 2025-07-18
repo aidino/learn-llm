@@ -1,0 +1,324 @@
+[
+    {
+        "question": "Câu 2 Bài 1 (4 điểm) Điền kết quả vào chỗ chấm Bạn Tuấn tiêu hao 11 calo cho mỗi phút bơi và 6 calo cho mỗi phút chạy bộ. Mỗi ngày bạn Tuấn dành 20 phút cho hoạt động bơi và 30 phút cho hoạt động chạy bộ. Mỗi ngày, tổng số calo bạn Tuấn tiêu hao cho hai hoạt động trên là .......... calo.",
+        "image_url": null,
+        "solution": "Số calo tiêu hao cho hoạt động bơi là: \\(11 \\times 20 = 220\\) (calo) Số calo tiêu hao cho hoạt động chạy bộ là: \\(6 \\times 30 = 180\\) (calo) Mỗi ngày, tổng số calo bạn Tuấn tiêu hao cho hai hoạt động trên là: \\(220 + 180 = 400\\) (calo) Số cần điền vào chỗ chấm là: 400",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2 Bài 2 (4 điểm) Điền kết quả vào chỗ chấm Một tiệm trà sữa đang bán 1 ly trà sữa truyền thống với giá 32 000 đồng. Nhân ngày Quốc tế Thiếu nhi, tiệm trà sữa thực hiện chương trình khuyến mãi như sau: Mua 2 ly trà sữa truyền thống thì ly đầu không giảm giá, ly thứ hai giảm 10% giá đang bán. Mua 3 ly trà sữa truyền thống trở lên thì 2 ly đầu vẫn thực hiện khuyến mãi như trên và từ ly thứ ba giảm 20% giá đang bán. Đúng ngày đó, Lan được mẹ cho 150 000 đồng nên đã đến tiệm trà sữa trên để mua trà sữa mời bạn. a) Nếu bạn Lan mua 3 ly trà sữa truyền thống thì số tiền phải trả là:................................................ đồng. b) Với số tiền mẹ cho, bạn Lan có thể mua tối đa là:............................................ ly trà sữa truyền thống.",
+        "image_url": null,
+        "solution": "a) Ly trà sữa truyền thống thứ hai có giá là: \\(32 000 - 32 000 \\times 10\\% = 28 800\\) (đồng) Ly trà sữa truyền thống thứ ba có giá là: \\(32 000 - 32 000 \\times 20\\% = 25 600\\) (đồng) Nếu bạn Lan mua 3 ly trà sữa truyền thống thì số tiền phải trả là: \\(32 000 + 28 800 + 25 600 = 86 400\\) (đồng) Số cần điền vào chỗ chấm là 86 400 b) Với số tiền mẹ cho, bạn Lan có thể mua tối đa là 5 ly trà sữa truyền thống.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2 Bài 3 (4 điểm) Điền kết quả vào chỗ chấm Trong giờ học toán, cô giáo viết lên bảng các chữ số: 8 7 6 5 4 3 2 1 Sau đó cô yêu cầu các bạn không được thay đổi vị trí của các chữ số đã viết trên bảng mà chỉ được viết thêm các dấu cộng (+) vào giữa các số trên để được kết quả của dãy phép tính là 90. Em hãy giúp các bạn viết dãy phép tính đó.",
+        "image_url": null,
+        "solution": "8 + 7 + 65 + 4 + 3 + 2 + 1 = 90",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2 Bài 4 (8 điểm) Thí sinh trình bày đầy đủ các bước giải Nhân dịp nghỉ hè, bạn Hà được bố chở về quê thăm ông bà. Hai bố con xuất phát từ nhà lúc 5 giờ 40 phút, dự định đi với vận tốc không đổi là 30 km/giờ và có dừng lại 20 phút để nghỉ ngơi thì sẽ đến nơi lúc 10 giờ. Tuy nhiên, khi đi được 1 giờ thì xe bị hư, hai bố con phải dừng lại sửa xe mất 30 phút. Bố của Hà quyết định chạy xe không nghỉ với vận tốc tăng thêm 10 km/giờ so với dự định trên suốt quãng đường còn lại. Hỏi hai bố con đến nơi sớm hơn hay muộn hơn dự định ban đầu bao nhiêu phút?",
+        "image_url": null,
+        "solution": "Đầu tiên, ta xét trường hợp lý tưởng theo dự tính của 2 bố con. Nếu không nghỉ ngơi, bố con Hà sẽ đến nơi lúc: \\(10\\) giờ \\(- 20\\) phút = \\(9\\) giờ \\(40\\) phút Thời gian di chuyển trên đường thực sự của 2 bố con là: \\(9\\) giờ \\(40\\) phút \\(- 5\\) giờ \\(40\\) phút = \\(4\\) giờ Tổng quãng đường bố con Hà phải đi là: \\(30 \\times 4 = 120\\) (km) Tiếp theo, ta xét đến tình huống thực tế. Khi đó, quãng đường bố con Hà đi được trong 1 giờ đầu tiên là: \\(30 \\times 1 = 30\\) (km) Quãng đường còn lại bố con Hà cần phải đi tiếp sau 1 giờ đầu là: \\(120 - 30 = 90\\) (km) Vận tốc của bố con Hà sau khi tăng tốc là: \\(30 + 10 = 40\\) (km/giờ) Thời gian bố con Hà cần đi tiếp sau khi sửa xe là: \\(90 \\div 40 = 2.25\\) (giờ) \\(2.25\\) giờ = \\(2\\) giờ \\(15\\) phút Thời điểm bố con Hà đến nơi là: \\(5\\) giờ \\(40\\) phút \\(+ 1\\) giờ \\(+ 30\\) phút \\(+ 2\\) giờ \\(15\\) phút = \\(9\\) giờ \\(25\\) phút Vì \\(9\\) giờ \\(25\\) phút < \\(10\\) giờ nên bố con Hà đến sớm hơn dự tính. Thời gian bố con Hà đến sớm hơn dự tính là: \\(10\\) giờ \\(- 9\\) giờ \\(25\\) phút = \\(35\\) phút Đáp số: Sớm hơn dự tính \\(35\\) phút.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Từ trái nghĩa với từ “nông cạn” là:",
+        "image_url": null,
+        "solution": "Nông cạn nghĩa là: hời hợt, không biết đào sâu suy nghĩ, không sâu sắc.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Từ nào là tính từ?",
+        "image_url": null,
+        "solution": "Tính từ là những từ dùng để miêu tả trạng thái, màu sắc, hình dáng của con người, sự vật hay hiện tượng thiên nhiên. Ngoài ra, tính từ còn là những từ dùng để miêu tả tâm trạng, cảm xúc của sự vật, con người. “Can đảm” là tính từ “yêu mến”, “kính yêu”, “mỉm cười” là các động từ",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Từ nào không cùng nhóm với các từ còn lại?",
+        "image_url": null,
+        "solution": "Câu A, từ trung có nghĩa là “ở giữa” Câu B, C, D, từ trung có nghĩa là “một lòng một dạ\"",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Tiếng “hoà” trong từ nào khác nghĩa với tiếng “hoà” trong các từ còn lại?",
+        "image_url": null,
+        "solution": "\"hòa\" mang nghĩa chỉ trạng thái không có chiến tranh, yên ổn: hòa bình, hòa hợp, hòa thuận. \"hòa\" mang nghĩ trộn lẫn vào nhau: hòa tan.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Đặt câu với cặp quan hệ từ và cặp từ hô ứng sau: a) Vì ... nên ... b) .........bao nhiêu ... bấy nhiêu...",
+        "image_url": null,
+        "solution": "a) Vì tối qua em không học bài nên hôm nay em không hoàn thành tốt bài kiểm tra b) Bạn nỗ lực bao nhiêu thì bạn sẽ nhận lại được bấy nhiêu.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 6. Xác định bộ phận trạng ngữ, chủ ngữ, vị ngữ trong các câu sau:",
+        "image_url": null,
+        "solution": "a) Ở Hạ Long,/ vào mùa đông,/ vì sương mù,/ ngày/ như ngắn lại. TN TN TN CN VN Ở Hạ Long: Trạng ngữ chỉ nơi chốn vào mùa đông: Trạng ngữ chỉ thời gian vì sương mù: Trạng ngữ chỉ nguyên nhân ngày: Chủ ngữ như ngắn lại: Vị ngữ b) Trưa,/ nước biển/ xanh lơ/ và khi chiều tà,/ nước biển/ đổi sang màu xanh lục. TN CN1 VN1 TN CN2 VN2 Trưa: Trạng ngữ chỉ thời gian nước biển: Chủ ngữ 1 xanh lơ: Vị ngữ 1 khi chiều tà: Trạng ngữ chỉ thời gian nước biển: Chủ ngữ 2 đổi sang màu xanh lục: Vị ngữ 2",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Đọc đoạn trích sau và trả lời câu hỏi: [...] Giôn-xơn! Tội ác bay chồng chất Nhân danh ai Bay mang những B.52 Những na-pan, hơi độc Đến Việt Nam Để đốt những nhà thương, trường học Giết những con người chỉ biết yêu thương Giết những trẻ em chỉ biết đến trường Giết những cánh đồng xanh bốn mùa hoa lá Và giết cả những dòng sông của thơ ca nhạc họa? [...] (Ê-mi-li, con ... - Tố Hữu) a) Tìm 2 từ đồng nghĩa với từ “bay” và 2 từ đồng nghĩa với từ “trẻ thơ” trong đoạn thơ trên. b) Đoạn thơ trên có những dòng thơ ngắn kết hợp với những dòng thơ dài chứa từ ngữ lặp lại. Cách viết đó của tác giả có tác dụng gì với việc thể hiện nội dung đoạn thơ? c) Hãy viết đoạn văn ngắn nêu cảm nhận của em về vẻ đẹp của đất nước và con người Việt nam qua đoạn thơ trên.",
+        "image_url": null,
+        "solution": "a) Từ đồng nghĩa với từ “bay”: chúng mày, chúng nó,… Từ đồng nghĩa với từ “trẻ thơ”: trẻ em, con trẻ, thiếu nhi,… b) Đoạn thơ có những dòng thơ ngắn kết hợp với những dòng thơ dài chứa từ ngữ lặp lại (giết những, và giết). Những đoạn thơ dài ngắn không đồng",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Chữ số 6 trong số 427,065 có giá trị là:",
+        "image_url": null,
+        "solution": "Chữ số 6 nằm sau dấu phẩy nên thuộc phần thập phân, chữ số 6 thuộc hàng phần trăm. Chữ số 6 thuộc hàng phần trăm nên có giá trị là \\( \\frac{6}{100} \\).",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Khi đi trên cùng một quãng đường, nếu vận tốc tăng 25% thì thời gian sẽ giảm là:",
+        "image_url": null,
+        "solution": "Thời gian = \\( \\frac{Quãng \\ đường}{Vận \\ tốc} \\). Nếu vận tốc tăng 25%, thời gian lúc này sẽ là: \\( \\frac{sv}{1.25} = \\frac{t}{1.25} \\). Vậy thời gian sẽ giảm 20%.",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Số bé nhất trong các số 3,254; 3,452; 3,542; 3,524; 3,245 là:",
+        "image_url": null,
+        "solution": "Ta có: 3,542 > 3,524 > 3,452 > 3,254 > 3,245. Vậy số bé nhất là 3,245.",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Một hình thang có tổng hai đáy bằng 21,4m và chiều cao bằng 1,9m. Diện tích hình thang đó là:",
+        "image_url": null,
+        "solution": "Diện tích hình thang đó là: \\( \\frac{21.4 \\times 1.9}{2} = 20.33 \\ m^2 \\).",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 5. a) Thực hiện phép tính: 3,54 \\times 73 + 0,23 \\times 25 + 3,54 + 27 + 0,17 \\times 25 b) Tìm giá trị của x, biết: (x−12)\\times53=54 c) Tìm giá trị của a, biết: (1 + 2 + 3 + 4 + … + 100) : a = 50",
+        "image_url": null,
+        "solution": "a) \\( 3.54 \\times 73 + 0.23 \\times 25 + 3.54 + 27 + 0.17 \\times 25 = 3.54 \\times (73 + 27) + 25 \\times (0.23 + 0.17) = 3.54 \\times 100 + 25 \\times 4 = 354 + 100 = 454 \\). b) \\( (x−12)\\times53=54 \\Rightarrow x−12=\\frac{54}{53} \\Rightarrow x=\\frac{54}{53} + 12 = 54 \\). c) Tổng của dãy số \\( 1 + 2 + 3 + ... + 100 = \\frac{(100 + 1) \\times 100}{2} = 5050 \\). Ta có: \\( \\frac{5050}{a} = 50 \\Rightarrow a = \\frac{5050}{50} = 101 \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 6. Khối Năm của một trường tiểu học có 150 học sinh. Trong đợt khảo sát chất lượng môn Toán học kì I, kết quả đạt được xếp thành bốn loại: giỏi, khá, trung bình và yếu. Số học sinh đạt điểm khá bằng \\( \\frac{7}{15} \\) tổng số học sinh. a) Tính số học sinh đạt điểm khá. b) Tính số học sinh đạt điểm trung bình, số học sinh đạt điểm yếu, biết rằng số học sinh đạt điểm yếu bằng \\( \\frac{2}{17} \\) tổng số học sinh đạt điểm trung bình và yếu.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0514/2024-05-11-162804.png",
+        "solution": "a) Số học sinh đạt điểm khá là: \\( 150 \\times \\frac{7}{15} = 70 \\). b) Số học sinh đạt điểm giỏi là: \\( 70 \\times \\frac{3}{5} = 42 \\). Tổng số học sinh đạt điểm trung bình và yếu là: \\( 150 – 70 – 42 = 38 \\). Số học sinh đạt điểm yếu là: \\( \\frac{38}{17 + 2} \\times 2 = 4 \\). Số học sinh đạt điểm trung bình là: \\( 38 – 4 = 34 \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Biết diện tích hình thoi MNPQ là 2323 dm² và chu vi hình vuông BKHC là 2020 cm. a) Tính diện tích hình vuông BKHC. b) Tính diện tích hình chữ nhật ABCD. c) Tính chu vi hình chữ nhật AKHD.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0514/2024-05-13-152334_1.png",
+        "solution": "a) Độ dài cạnh của hình vuông BKHC = \\( \\frac{2020}{4} = 505 \\ cm \\). Diện tích hình vuông BKHC = \\( 505 \\times 505 \\). b) Diện tích hình chữ nhật ABCD dựa vào diện tích hình thoi MNPQ đã biết. Diện tích hình thoi bằng tích của độ dài hai đường chéo chia cho 2. Diện tích hình chữ nhật ABCD = Tích hai đường chéo của hình thoi MNPQ. c) Hình chữ nhật AKHD có chiều rộng là độ dài cạnh của hình vuông AKHD. Tính chiều dài.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính \\((425+237)+(547−225)\\)",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0105/20_1.PNG",
+        "solution": "Cách giải: \\((425+237)+(547−225)\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Biểu thức thích hợp để điền vào chỗ chấm sau là: 15,02 = ……",
+        "image_url": null,
+        "solution": "Cách giải: 15,02=10+5+0,02=10+5+\\frac{2}{100} Chọn D",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một cửa hàng bán vải ngày thứ nhất bán được 32,7m, ngày thứ hai bán nhiều hơn ngày thứ nhất 4,6m. Ngày thứ ba bán được số vải bằng trung bình cộng số vải của hai ngày đầu. Hỏi cả ba ngày cửa hàng đó bán được bao nhiêu mét vải?",
+        "image_url": null,
+        "solution": "Ngày thứ hai cửa hàng bán được số mét vải là: 32,7 + 4,6 = 37,3 (m) Ngày thứ ba cửa hàng bán được số mét vải là: \\((32,7 + 37,3) : 2 = 35\\) (m) Cả ba ngày cửa hàng đó bán được số mét vải là: 32,7 + 37,3 + 35 = 105 (m)",
+        "result": "105 m vải",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Một nhóm học sinh cộng ngày và tháng sinh nhật của mỗi bạn lại thì thấy kết quả đều bằng 35. Biết rằng tất cả các ngày sinh nhật của họ là khác nhau. Hỏi nhóm học sinh đó có nhiều nhất bao nhiêu em?",
+        "image_url": null,
+        "solution": "Ta có khi cộng ngày và tháng sinh nhật của mỗi bạn lại thì thấy kết quả đều bằng 35 Vậy ngày sinh nhật của các học sinh đó có thể là: 23/12 ; 24/11 ; 25/10 ; 26/9 ; 27/8 ; 28/7 ; 29/6 ; 30/5 Vậy nhóm học sinh đó có nhiều nhất 8 em.",
+        "result": "8 em",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Hình vẽ trên mô tả bàn cờ vua có kích thước 8 x 8. Quân Mã ban đầu đứng ở ô có chữ “M”. Hỏi sau 15 nước di chuyển trên bàn cờ, quân Mã đứng ở ô có màu gì? Biết con Mã đi theo đường chéo của hình chữ nhật 2 x 3.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0105/20.png",
+        "solution": "Ban đầu con Mã đang đứng ở ô trắng, mà con Mã đi theo đường chéo của hình chữ nhật 2 x 3 nên nước di chuyển tiếp theo con Mã sẽ di chuyển vào ô đen. Tương tự như vậy, nước di chuyển thứ hai con Mã sẽ di chuyển vào ô trắng. Vậy cứ qua 2 lần di chuyển, con Mã sẽ quay trở về ô màu trắng. Mà 15 : 2 = 7 (dư 1) nên ở nước di chuyển thứ 14, con Mã sẽ di chuyển vào ô màu trắng. Vậy ở nước di chuyển thứ 15, con Mã sẽ di chuyển vào ô màu đen.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Hai người thợ cùng nhận làm chung một công việc sau 8 ngày thì xong. Nhưng sau 5 ngày cùng làm thì người thứ nhất bận không làm tiếp được nữa. Một mình người thứ hai phải làm thêm 9 ngày nữa mới xong phần công việc còn lại. Hỏi một mình người thứ nhất làm công việc đó trong bao lâu thì xong?",
+        "image_url": null,
+        "solution": "Trong 1 ngày 2 người thợ làm chung được số phần công việc là \\(\\frac{1}{8}\\) Trong 5 ngày 2 người thợ làm chung được số phần công việc là \\(\\frac{5}{8}\\) Số phần công việc người thứ hai làm trong 9 ngày là \\(1−\\frac{5}{8}=\\frac{3}{8}\\) Trong 1 ngày, người thứ hai làm được số phần công việc là: \\(\\frac{3}{8}:9=\\frac{1}{24}\\) Trong 1 ngày, người thứ nhất làm được số phần công việc là: \\(\\frac{1}{8}−\\frac{1}{24}=\\frac{1}{12}\\) Một mình người thứ nhất làm công việc đó trong số ngày là: \\(1:\\frac{1}{12}=12\\)",
+        "result": "12 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Trong một buổi họp nhóm. Một bạn trai tên là Hùng nhận thấy mình có số bạn trai bằng số bạn gái. Một bạn gái tên là Mai nhận thấy mình có số bạn gái chỉ bằng một nửa số bạn trai. Hỏi nhóm đó có bao nhiêu bạn?",
+        "image_url": null,
+        "solution": "Hùng nhận thấy mình có số bạn trai bằng số bạn gái ⇒ Khi đó, số bạn gái của Mai kém số bạn trai của Mai là 2 bạn. Số bạn gái của Mai là: \\(2 : (2 – 1) \\times 1 = 2\\) (bạn) Số bạn trai của Mai là: \\(2 + 2 = 4\\) (bạn) Nhóm có số bạn là: \\(2 + 4 + 1 = 7\\) (bạn)",
+        "result": "7 bạn",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Một ô tô phải chạy từ A đến B. Sau khi chạy được 1 giờ thì ô tô giảm vận tốc chỉ còn bằng \\(\\frac{5}{6}\\) vận tốc ban đầu. Biết rằng nếu ô tô không giảm vận tốc thì thời gian đến B ít hơn 12 phút. Tính độ dài quãng đường AB.",
+        "image_url": null,
+        "solution": "Giả sử từ A ô tô chạy được 1 giờ đến C, rồi từ C chạy thêm 50 km nữa đến D mới giảm vận tốc thì thời gian đến B ít hơn là: 1 giờ 24 phút – 1 giờ 12 phút = 12 phút = 0,2 (giờ) Vì ô tô giảm vận tốc bằng \\(\\frac{5}{6}\\) Thời gian ô tô đi quãng đường CD với vận tốc ban đầu là: \\(0,2 : (6 – 5) \\times 5 = 1\\) (giờ) Vận tốc của ô tô là: \\(50 : 1 = 50\\) (km/giờ) Đổi: 1 giờ 24 phút = 1,4 giờ Sau khi chạy được 1 giờ thì ô tô giảm vận tốc chỉ còn bằng \\(\\frac{5}{6}\\) Vậy thời gian ô tô đi hết quãng đường CB là: \\(1,4 : (6 – 5) \\times 5 = 7\\) (giờ) Độ dài quãng đường AB là: \\(50 \\times (7 + 1) = 400\\) (km)",
+        "result": "400 km",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Hình bên dưới được xếp bởi các hình lập phương có cạnh 1 cm. Tính diện tích toàn phần của hình đó.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0105/20_1.png",
+        "solution": "Chia hình đã cho thành ba hình G, H, I như hình vẽ. Diện tích toàn phần của hình đã cho bằng tổng diện tích toàn phần của ba hình G, H, I trừ đi diện tích các mặt bị che khuất.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 10. Quan sát các hình vẽ dưới đây để xác định hình thứ 222 có bao nhiêu hình lục giác?",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0105/20_2.png",
+        "solution": "Quy luật: Số hình lục giác của hình thứ n bằng \\(1 + 6 \\times [0 + 1 + 2 + \\ldots + (n - 1)]\\). Số hình lục giác của hình thứ 222 là: \\(1 + 6 \\times [0 + 1 + 2 + \\ldots + 221] = 147187\\) (hình)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tìm \\(x\\)",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0105/20.PNG",
+        "solution": "a) \\(x \\times 1.2 + x \\times 0.7 = 61.94\\) \\(x \\times (1.2 + 0.7) = 61.94\\) \\(x \\times 1.9 = 61.94\\) \\(x = \\frac{61.94}{1.9}\\) \\(x = 32.6\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 2. Khi trả bài kiểm tra cuối học kì I môn Toán, cô giáo nói: \"Số điểm 10 chiếm 25%, số điểm 9 hơn điểm 10 là 6,25%. Như vậy có 18 bạn được điểm 9 hoặc 10, tất cả học sinh trong lớp đều nộp bài kiểm tra\". Hỏi:",
+        "image_url": null,
+        "solution": "a) Số học sinh đạt điểm 9 chiếm: \\(25\\% + 6.25\\% = 31.25\\%\\) (số học sinh cả lớp) b) Tổng số học sinh điểm 9 hoặc 10 chiếm: \\(25\\% + 31.25\\% = 56.25\\%\\) (số học sinh cả lớp) c) Lớp đó có tất cả số học sinh là \\(\\frac{18}{56.25} \\times 100 = 32\\) (học sinh) d) Lớp đó có số học sinh không đạt điểm 9 hoặc 10 là: \\(32 - 18 = 14\\) (học sinh)",
+        "result": "a) 31.25% b) 56.25% c) 32 học sinh d) 14 học sinh",
+        "error": false
+    },
+    {
+        "question": "Bài 3. Cho hình thang ABCD có đáy bé AB bằng 13. a) Tính diện tích hình thang ABCD. b) Hai đường chéo AC và BD cắt nhau tại O. So sánh \\(S_{OBC}\\) và \\(S_{OAD}\\). c) Kéo dài cạnh DA và CB cắt nhau tại P. Tính tỉ số diện tích của hai tam giác DBP và DPC.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0105/20_4.png",
+        "solution": "a) Độ dài đáy bé AB là: \\(\\frac{12.6}{3 - 1} \\times 1 = 6.3\\) (m) Độ dài đáy lớn CD là: \\(6.3 \\times 3 = 18.9\\) (m) Diện tích hình thang ABCD là: \\((6.3 + 18.9) \\times 12.6 : 2 = 158.76\\) (m²) b) Ta có \\(S_{DAB} = S_{CAB}\\) (Hai tam giác có chung đáy AB và chiều cao bằng nhau) Mà \\(S_{DAB} = S_{OAD} + S_{OAB}\\) \\(S_{CAB} = S_{OBC} + S_{OAB}\\) Nên \\(S_{OBC} = S_{OAD}\\). c) Xét tam giác ABD và tam giác ACD có chiều cao hạ từ D xuống AB bằng chiều cao hạ từ B xuống CD nên \\(\\frac{S_{ABD}}{S_{ACD}} = \\frac{AB}{CD} = \\frac{1}{3}\\) Mà tam giác ABD và tam giác ACD lại có chung đáy AD nên chiều cao hạ từ B xuống AD bằng 13 ⇒ \\(\\frac{S_{ABP}}{S_{APC}} = \\frac{1}{3}\\) Mà tam giác ABP và tam giác APC lại chung chiều cao hạ từ A xuống BC nên \\(\\frac{PB}{PC} = \\frac{1}{3}\\) Vậy \\(\\frac{S_{DBP}}{S_{DPC}} = \\frac{PB}{PC} = \\frac{1}{3}\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1 (2 điểm) a) Tính giá trị của biểu thức $A$: $A = 4.2 \\times 5.6 + 5.6 \\times 5.8 - 2.8$ b) Tìm $y$ $y + 15 \\times y = 112 + 2 - 12$",
+        "image_url": null,
+        "solution": "a) $A = 4.2 \\times 5.6 + 5.6 \\times 5.8 - 2.8$ \n$A = 5.6 \\times (4.2 + 5.8) - 2.8$ \n$A = 5.6 \\times 10 - 2.8$ \n$A = 56 - 2.8$ \n$A = 53.2$ \nb) $y + 15 \\times y = 112 + 2 - 12$ \n$y \\times (1 + 15) = 32 + 2 - 12$ \n$y \\times 16 = 32$ \n$y = 2$",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2 (1,5 điểm) Bạn Linh nuôi một chú thỏ. Cứ 2 ngày, chú thỏ ăn hết 3 củ cà rốt và 1 bắp cải. Nghỉ hè, bạn Linh về thăm quê 8 ngày. Hỏi bạn Linh cần chuẩn bị bao nhiêu củ cà rốt và bắp cải cho chú thỏ của mình?",
+        "image_url": null,
+        "solution": "Số củ cà rốt cần chuẩn bị là: $8 \\div 2 \\times 3 = 12$ (củ) \nSố bắp cải cần chuẩn bị là: $8 \\div 2 \\times 1 = 4$ (bắp cải)",
+        "result": "12 củ cà rốt, 4 bắp cải",
+        "error": false
+    },
+    {
+        "question": "Câu 3 (2,0 điểm) Để chuẩn bị buổi diễu binh kỉ niệm 50 năm Ngày Giải phóng miền Nam, thống nhất đất nước, Khối Sĩ quan Lục quân tuyển chọn 120 đồng chí với 3 mức chiều cao: 180 cm, 183 cm, 185 cm. Biết rằng, số đồng chí có chiều cao 180 cm chiếm 40% tổng số đồng chí của khối, số đồng chí có chiều cao 183 cm bằng 35/35 a) Tìm tỉ số của số đồng chí có chiều cao 180 cm và số đồng chí tham gia buổi diễu binh. b) Tính số đồng chí có chiều cao 183 cm và 185 cm.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0618/20.png",
+        "solution": "a) Số đồng chí có chiều cao 180 cm là: $120 \\times 40\\% = 48$ (đồng chí) \nTỉ số của số đồng chí cao 180cm và số đồng chí tham gia buổi diễu binh là: $\\frac{48}{120} = \\frac{2}{5}$ \nb) Số đồng chí có chiều cao 183cm và 185cm là: $120 - 48 = 72$ (đồng chí) \nTổng số phần bằng nhau là: $3 + 5 = 8$ (phần) \nSố đồng chí cao 183cm là: $72 \\div 8 \\times 3 = 27$ (đồng chí) \nSố đồng chỉ cao 185cm là: $72 - 27 = 45$ (đồng chí)",
+        "result": "a) \\frac{2}{5} b) 72 đồng chí cao 183 cm ; 45 đồng chí cao 185 cm",
+        "error": false
+    },
+    {
+        "question": "Câu 4 (2,0 điểm) Cho vào hộp lần lượt các viên bi: xanh, đỏ, tím, vàng rồi lại tiếp tục xanh, đỏ, tím, vàng,... cho đến khi trong hộp có 2 024 viên bi. a) Tính số viên bi mỗi loại. b) Không nhìn vào hộp, em cần lấy ra ít nhất bao nhiêu viên bi để chắc chắn trong số bi lấy ra có đủ bốn màu: xanh, đỏ, tím, vàng?",
+        "image_url": null,
+        "solution": "a) Vì mỗi nhóm xanh, đỏ, tím, vàng có 4 màu, mà $2 024 \\div 4 = 506$ \nNên số viên bi mỗi loại là 506 viên. \nb) Để chắc chắn trong số bị lấy ra có đủ bốn màu: xanh, đỏ, tím, vàng thì ta phải lấy hết số bi của 3 màu còn lại. \nSố viên bị của 3 mẫu là : $506 \\times 3 = 1518$ (viên) \nSố viên cần lấy ra ít nhất để chắc chắn đủ 4 màu là: $1 518 + 1 = 1 519$ (viên)",
+        "result": "a) 506 viên ; b) 1519 viên",
+        "error": false
+    },
+    {
+        "question": "Câu 5 (2,5 điểm) Cho tam giác $ABC$ vuông tại $A$. Độ dài cạnh $AB = 12$ cm, cạnh $AC = 18$ cm. Cho $D$ là trung điểm của $BC$, trên cạnh $AC$ lấy điểm $E$ sao cho $AE = \\frac{1}{3}AC$ a) Tính diện tích tam giác $ADE$. b) Hãy so sánh diện tích tam giác $ABE$ với diện tích tam giác $DBE$.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0618/20_1.png",
+        "solution": "a) $S_{ABC} = \\frac{1}{2} \\times 12 \\times 18 = 108$ \n$S_{ADC} = \\frac{1}{2} S_{ABC}$ (Chung chiều cao hạ từ đỉnh $A$ và đáy $DC$) \nSuy ra $S_{ADC} = \\frac{1}{2} \\times 108 = 54$ \n$S_{ADE} = \\frac{1}{3} S_{ADC}$ (Chung chiều cao hạ từ đỉnh $D$ và đáy $AE$) \nSuy ra $S_{ADE} = \\frac{1}{3} \\times 54 = 18$ \nb) Ta có $S_{ABE} = \\frac{1}{2} S_{BEC}$ (Chung chiều cao $BA$ và đáy $AE$) \nLại có $S_{DBE} = \\frac{1}{2} S_{BEC}$ (Chung chiều cao hạ từ đỉnh $E$ và đáy $BD$) \nVậy $S_{ABE} = S_{DBE}$",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1: Tìm x biết: 1342471000 < 134,2x7 < 1342671000",
+        "image_url": null,
+        "solution": "Ta có 134,247 < 134,2x7. Suy ra 4 < x < 6. Vậy x = 5.",
+        "result": "x = 5",
+        "error": false
+    },
+    {
+        "question": "Bài 2: Cho dãy số 3; 5; 8; 13; 21; ….. Tìm số thứ bảy trong dãy.",
+        "image_url": null,
+        "solution": "Số thứ ba là 3 + 5 = 8. Số thứ tư là 5 + 8 = 13. Số thứ năm là 8 + 13 = 21. Số thứ sáu là 13 + 21 = 34. Số thứ bảy là 21 + 34 = 55.",
+        "result": "55",
+        "error": false
+    },
+    {
+        "question": "Bài 3: Tính giá trị của biểu thức: 101 x 34 + 10,1 x 130 + 1,01 x 2700",
+        "image_url": null,
+        "solution": "101 x 34 + 10,1 x 130 + 1,01 x 2700 = 101 x 34 + 101 x 13 – 101 x 27 = 101 x (34 + 13 – 27) = 101 x 20 = 2020",
+        "result": "2020",
+        "error": false
+    },
+    {
+        "question": "Bài 4: Tìm chữ số tận cùng của tích 11 x 13 x 15 x 17 x 19 x... x 2019",
+        "image_url": null,
+        "solution": "Dãy là tích của các số lẻ, trong đó có thừa số tận cùng là 5. Vậy tích trên có chữ số tận cùng là 5.",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Bài 5: Tìm số bi của Nam biết 110 < số bi < 250 và số bi chia hết cho 2 và có dạng \\( \\overline{abc} \\) với \\( \\overline{ab8} \\) chia hết cho 9.",
+        "image_url": null,
+        "solution": "Ta có 110 < số bi < 250. Gọi số bi là \\( \\overline{abc} \\). Ta có \\( \\overline{abc} \\) chia hết cho 2. Mà \\( \\overline{ab8} \\) chia hết cho 9. Trường hợp 1: Nếu a + b = 1 suy ra a = 1, b = 0. Ta có số 108 < 110 (loại). Trường hợp 2: Nếu a + b = 10 suy ra a = 1, b = 9. Ta có số 198 (thỏa mãn).",
+        "result": "198",
+        "error": false
+    },
+    {
+        "question": "Bài 6: Tổng số tuổi hai chị em hiện nay là 28 + 4 + 4 = 36 (tuổi). Tính tuổi em hiện nay.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0303/20_15.png",
+        "solution": "Tuổi em hiện nay là \\( \\frac{36}{4 + 5} \\times 4 = 16 \\) (tuổi)",
+        "result": "16 tuổi",
+        "error": false
+    },
+    {
+        "question": "Bài 6: Cho biết diện tích cũ là 2020 m². Tính diện tích mới khi chiều dài tăng 150% và chiều rộng giảm 80%.",
+        "image_url": null,
+        "solution": "Chiều dài x chiều rộng = 2020 m². Chiều dài mới = 150% x chiều dài. Chiều rộng mới = 80% x chiều rộng. Suy ra \\( S_{mới} = 150\\% \\times \\text{chiều dài} \\times 80\\% \\times \\text{chiều rộng} = 120\\% \\times S_{cũ} = 120\\% \\times 2020 = 2424 \\) (m²). Đổi 2424 m² = 0,2424 ha.",
+        "result": "0,2424 ha",
+        "error": false
+    },
+    {
+        "question": "Bài 7: Tìm số bóng xanh biết 6 quả ứng với \\( 59 - 13 = 29 \\).",
+        "image_url": null,
+        "solution": "Vậy số bóng xanh là \\( \\frac{6}{29} = 27 \\).",
+        "result": "27 quả",
+        "error": false
+    },
+    {
+        "question": "Bài 1 (Tự luận): Xét trên quãng đường 1212 km. Gọi \\( t_1 \\) là thời gian khi đi với vận tốc 40 km/giờ, \\( t_2 \\) là thời gian khi đi với vận tốc 50 km/giờ. Tính quãng đường AB.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_24.png",
+        "solution": "Trên cùng quãng đường thì thời gian và vận tốc tỉ lệ nghịch. Ta có \\( \\frac{v_1}{v_2} = \\frac{t_2}{t_1} = \\frac{40}{50} = \\frac{4}{5} \\). Ta có \\( t_1 - t_2 = 15 \\) phút = 0,25 giờ. Thời gian thực tế đi trên quãng đường AB là: \\( 50 \\times 1 \\times 2 = 100 \\) (km).",
+        "result": "100 km",
+        "error": false
+    },
+    {
+        "question": "Bài 2 (Tự luận): Cho hình tam giác ABC. Lấy M trên AB và N trên AC sao cho AM = BM và 2 x NC = NA. a) Tính tỉ số diện tích ANM và BMNC. b) Cho MN cắt BC ở D. So sánh BC với CD.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_25.png",
+        "solution": "a) Nối N với B, ta có: \\( S_{AMN} = \\frac{1}{2} ANB \\) (chung chiều cao từ N xuống AB, đáy AM = \\( \\frac{1}{2} \\)). \\( S_{ANB} = \\frac{2}{3} ABC \\) (chung chiều cao từ B xuống AC, đáy AN = \\( \\frac{2}{3} \\)). Suy ra \\( S_{AMN} = \\frac{1}{2} \\times \\frac{2}{3} \\times S_{ABC} = \\frac{1}{3} S_{ABC} \\). Vậy \\( S_{AMN} = \\frac{1}{2} BMNC \\). b) Nối A với D. Ta có: \\( S_{AMD} = S_{BMD} \\) (chung chiều cao từ D xuống AB, đáy AM = NM). Mà 2 tam giác này chung đáy MD nên chiều cao hạ từ A xuống MD bằng chiều cao hạ từ B xuống MD. Từ 2 chiều cao này, kết hợp với việc chung đáy ND nên ta có \\( S_{AND} = S_{BND} \\). Lại có \\( S_{CND} = \\frac{1}{2} AND \\) (chung chiều cao từ D xuống AC, đáy CN = \\( \\frac{1}{2} AN \\)). Suy ra \\( S_{CND} = \\frac{1}{2} BND \\), mà 2 tam giác này chung chiều cao từ N xuống DB. Suy ra đáy CD = \\( \\frac{1}{2} \\).",
+        "result": null,
+        "error": false
+    }
+]

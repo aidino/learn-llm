@@ -10,6 +10,8 @@ from dotenv import load_dotenv
 _=load_dotenv()
 
 URL_FILE = 'dethi_lop6_toan.depth2.url.txt'
+# URL_FILE = 'sample_link.txt'
+
 
 def write_output_to_file(filepath, content):
     with open(filepath, 'w', encoding='utf-8') as f:
@@ -36,7 +38,7 @@ async def main():
     # gemini_token = os.getenv("GEMINI_API_KEY")
     
     llm_strategy = LLMExtractionStrategy(
-        llm_config = LLMConfig(provider="openai/gpt-4o-mini", api_token=os.getenv("OPENAI_API_KEY")),
+        llm_config = LLMConfig(provider="openai/gpt-4o", api_token=os.getenv("OPENAI_API_KEY")),
         schema=Exam.model_json_schema(), # Or use model_json_schema()
         extraction_type="schema",
         instruction="""
@@ -56,6 +58,7 @@ async def main():
     # 2. Build the crawler config
     crawl_config = CrawlerRunConfig(
         extraction_strategy=llm_strategy,
+        css_selector="#sub-question-2",
         cache_mode=CacheMode.BYPASS
     )
 
@@ -70,7 +73,6 @@ async def main():
             result = await crawler.arun(
                 url=url,
                 config=crawl_config,
-                css_selector="[class^='box-question']"
             )
 
             if result.success:
@@ -88,13 +90,13 @@ async def main():
             
             print(f"crawed {index+1}/{len(urls)}")
             if (index+1)%5 == 0:
-                write_output_to_file(f"crawled_p{file_index}.json", results)
+                write_output_to_file(f"crawled/crawled_p{file_index}.json", results)
                 results=[]
                 file_index +=1
             
             
             
-        write_output_to_file('crawled_last.json', results)
+        write_output_to_file('crawled/crawled_last.json', results)
 
 if __name__ == "__main__":
     asyncio.run(main())

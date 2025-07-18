@@ -1,0 +1,615 @@
+[
+    {
+        "question": "Câu 47. Một cửa hàng nhập hoa về bán trong 3 ngày. Ngày thứ nhất, bán giá gấp đôi so với giá nhập và bán được 34% số hoa. Ngày thứ hai, bán giá bằng 120% giá nhập nên bán được một nửa số hoa còn lại. Ngày thứ ba, chấp nhận bán bằng nửa giá nhập nên bán được hết số hoa. Tính phần trăm lãi của cửa hàng đó so với số tiền bỏ ra nhập hoa.",
+        "image_url": null,
+        "solution": "Coi số tiền nhập hoa là 100%.\nSố tiền ngày thứ nhất bán được: \\(100\\% \\times 2 \\times 34\\% = 68\\%\\) (số tiền nhập hoa).\nNgày thứ hai bán được: \\((100\\% - 34\\%) : 2 = 33\\%\\) (số hoa).\nSố tiền ngày thứ hai bán được bằng: \\(120\\% \\times 33\\% = 39,6\\%\\) (số tiền nhập hoa).\nNgày thứ hai bán được: \\(100\\% - 34\\% - 33\\% = 33\\%\\).\nSố tiền ngày thứ ba bán được bằng \\(50\\% \\times 33\\% = 16,5\\%\\) (số tiền nhập hoa).\nSố phần trăm lãi của cửa hàng đó so với số tiền bỏ ra nhập hoa: \\((68\\% + 39,6\\% + 16,5\\%) - 100\\% = 24,1\\%\\).",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 48. Có 203 bóng đèn được xếp thành một vòng tròn và đều đang bật. Người ta tắt bóng ở vị trí thứ nhất sau đó bỏ cách một bóng đang bật và tắt bóng tiếp theo. Cứ thực hiện như vậy cho đến khi trên vòng tròn chỉ còn một bóng đang bật. Bóng đèn đó ở vị trí số",
+        "image_url": null,
+        "solution": "Phương pháp Josephus cho bài toán này, với n = 203, vị trí cuối cùng là 150.",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 49. Tỉ giá giao dịch ở một chợ động vật là: 5 con bò đổi được 3 con ngựa. Một con bò và 1 con ngựa đổi được 44 con thỏ. Muốn đổi được 4 con ngựa thì cần số con thỏ là",
+        "image_url": null,
+        "solution": "1 con bò và 1 con ngựa đổi được 44 con thỏ. Ta có: 5 con bò đổi được 3 con ngựa. Để đổi được 4 con ngựa, cần 5/3 * 4 = 20/3 con bò. Từ đó, số con thỏ cần là \\(\\frac{20}{3} \\times 44 = 110\\) con thỏ.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 50. Người ta dùng 64 hình lập phương nhỏ bằng nhau để xếp thành một hình lập phương lớn sau đó sơn tất cả các mặt của hình lập phương lớn đó. Số mặt không được sơn của các hình lập phương nhỏ là:",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0127/20.PNG",
+        "solution": "Ta có \\(64 = 4 \\times 4 \\times 4\\) nên 64 hình lập phương nhỏ xếp thành một hình lập phương lớn có độ dài cạnh bằng 4 lần độ dài cạnh hình lập phương nhỏ. 64 hình lập phương nhỏ có số mặt là: \\(64 \\times 6 = 384\\) (mặt). Số hình lập phương được sơn 3 mặt là 8 hình (24 mặt được sơn). Số hình lập phương được sơn 2 mặt là: 24 hình (48 mặt được sơn). Số hình lập phương được sơn 1 mặt là: 24 hình (24 mặt được sơn). Số mặt không được sơn của các hình lập phương nhỏ là: \\(384 - 24 - 48 - 24 = 288\\) (mặt).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 23. Hai anh em có 22 cái kẹo, nếu anh cho em 2 cái thì số kẹo của anh vẫn nhiều hơn của em 2 cái. Số kẹo của em là:",
+        "image_url": null,
+        "solution": "Số kẹo của em sau khi được anh cho 2 cái là: \\((22 - 2) : 2 = 10\\) (cái) Số kẹo của em ban đầu là: \\(10 - 2 = 8\\) (cái)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 24. Cho dãy số có quy luật 3, 4, 6, 9, 13, 18, 24, … Số tiếp theo là",
+        "image_url": null,
+        "solution": "4 = 3 + 1 \n6 = 4 + 2 \n9 = 6 + 3 \n13 = 9 + 4 \n18 = 13 + 5 \n24 = 18 + 6 \nSố tiếp theo là 24 + 7 = 31",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 25. Cần cộng thêm số nào dưới đây với số 2032022 để được một số chia hết cho 3?",
+        "image_url": null,
+        "solution": "Ta có \\(2032022 \\div 3\\) dư 2 nên số cần cộng thêm phải chia 3 dư 1 thì tổng tìm được chia hết cho 3.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 26. Trong các số dưới đây, số chia hết cho 12 là",
+        "image_url": null,
+        "solution": "Số chia hết cho 12 trong các số đã cho là: 2220",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 27. Khi nhân một số với 23, bạn Khanh đã để các tích riêng thẳng cột nên tích mới giảm 1584 đơn vị so với tích đúng. Tích đúng là",
+        "image_url": null,
+        "solution": "Gọi thừa số còn lại là \\(a\\) Khi nhân số \\(a\\) với 23, bạn Khanh đã để các tích riêng thẳng cột nên tích tìm được là \\(5 \\times a\\). Ta có \\(23 \\times a - 5 \\times a = 18 \\times a = 1584\\) Thừa số còn lại là \\(a = 1584 \\div 18 = 88\\) Tích đúng là: \\(88 \\times 23 = 2024\\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 28. Một khu vườn trồng 203 cây gồm 3 loại cam, quýt, bưởi. Biết số cây cam gấp 2 lần số cây quýt, còn số cây quýt gấp 2 lần số cây bưởi. Số cây quýt trong vườn là:",
+        "image_url": null,
+        "solution": "Coi số cây bưởi là 1 phần, số cây quýt là 2 phần, số cây cam là 4 phần Tổng số phần bằng nhau là: \\(1 + 2 + 4 = 7\\) (phần) Số cây quýt là \\(203 \\div 7 \\times 2 = 58\\) (cây)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 29. Để pha được 800g dung dịch nước muối chứa chín phần nghìn muối cần số gam muối là",
+        "image_url": null,
+        "solution": "Số gam muối là \\(800 \\times \\frac{9}{1000} = 7.2\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 30. Một tập tài liệu có 320 trang. Số chữ số để đánh số trang liền nhau của tập tài liệu đó từ trang số 1 là",
+        "image_url": null,
+        "solution": "Từ trang 1 đến trang 9 có 9 trang \nTừ trang 10 đến trang 99 có 90 trang \nTừ trang 100 đến trang 320 có 221 trang \nSố chữ số để đánh số trang liền nhau của tập tài liệu đó từ trang số 1 là: \\(9 + 180 + 663 = 852\\) (chữ số)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 31. Một đơn vị vận chuyển 3 tấn hàng, quãng đường 200km chi phí hết 18 triệu đồng. Hỏi vẫn đơn vị đó vận chuyển 7 tấn hàng, quãng đường 120km hết bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Vận chuyển 3 tấn hàng với quãng đường 120 km hết số tiền là: \\(120 \\times 18 \\div 200 = 10.8\\) (triệu) Vận chuyển 7 tấn hàng với quãng đường 120 km hết số tiền là: \\(7 \\times 10.8 \\div 3 = 25.2\\) (triệu)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 32. Tính \\(A=16+112+120+....+1240\\)",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0127/20_2.png",
+        "solution": "",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 33. Ba bạn Mai, Hoa và Trang có 48 bông hoa. Nếu Mai cho Hoa 3 bông; Hoa cho Trang 2 bông; còn Trang lại cho Mai 6 bông thì số hoa của ba bạn bằng nhau. Số hoa ban đầu của Trang là",
+        "image_url": null,
+        "solution": "Số hoa của mỗi bạn lúc sau là: \\(48 \\div 3 = 16\\) (bông) Số hoa của Trang ban đầu là \\(16 + 6 - 2 = 20\\) (bông)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 34. Người thứ nhất làm một mình xong một công việc trong 4 giờ, người thứ hai làm một mình xong công việc đó trong 6 giờ. Thời gian để cả hai người cùng làm xong công việc đó là:",
+        "image_url": null,
+        "solution": "Trong 1 giờ người thứ nhất làm được \\(\\frac{1}{4}\\) \nTrong 1 giờ người thứ hai làm được \\(\\frac{1}{6}\\) \nTrong 1 giờ cả hai người làm được \\(\\frac{1}{4} + \\frac{1}{6} = \\frac{5}{12}\\) \nThời gian để cả hai người cùng làm xong công việc đó là: \\(1 \\div \\frac{5}{12} = \\frac{12}{5} = 2.4\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 36. Một bể nước có chiều dài 1,2m, chiều rộng 8dm và chiều cao là 6dm (các kích thước được đo bên trong lòng bể). Trong bể có 432 lít nước. Mặt nước cách thành bể",
+        "image_url": null,
+        "solution": "Đổi 1,2m = 12 \\text{ dm} ; 432 \\text{ lít} = 432 \\text{ dm}^3 \nDiện tích đáy bể là 12 \\times 8 = 96 \\text{ (dm}^2\\text{)} \nChiều cao mực nước trong bể là \\frac{432}{96} = 4,5 \\text{ (dm)} \nMặt nước cách thành bể là 6 - 4,5 = 1,5 \\text{ (dm)} = 15 \\text{ cm}",
+        "result": "A"
+    },
+    {
+        "question": "Câu 37. Một lớp học có 32 học sinh. Trong đó, có 22 bạn thích ăn táo, 23 bạn thích ăn xoài và mỗi bạn đều thích ăn ít nhất 1 trong 2 loại trái cây trên. Số bạn thích ăn cả táo và xoài là",
+        "image_url": null,
+        "solution": "Số bạn thích ăn cả táo và xoài là 22 + 23 - 32 = 13 \\text{ (bạn)}",
+        "result": "D"
+    },
+    {
+        "question": "Câu 38. Trên bến đò có một đoàn khách tham quan. Biết nếu 6 khách một đò thì thiếu 1 đò còn 8 khách một đò thì thừa 1 đò. Hỏi có tất cả bao nhiêu người trên bến?",
+        "image_url": null,
+        "solution": "Trên bến có 48 người.",
+        "result": "C"
+    },
+    {
+        "question": "Câu 39. Cho hai hình chữ nhật có kích thước như hình vẽ bên. Diện tích tam giác màu xanh là",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0127/20.png",
+        "solution": "Độ dài cạnh BD là 3 + 6 = 9 \\text{ (cm)} \nDiện tích tam giác ABD là \\frac{6 \\times 9}{2} = 27 \\text{ (cm}^2\\text{)} \nDiện tích hình thang ABCE là \\frac{(6 + 3) \\times 3}{2} = 13,5 \\text{ (cm}^2\\text{)} \nDiện tích tam giác ECD là \\frac{3 \\times 6}{2} = 9 \\text{ (cm}^2\\text{)} \nDiện tích tam giác màu xanh là 27 - (13,5 + 9) = 4,5 \\text{ (cm}^2\\text{)}",
+        "result": "C"
+    },
+    {
+        "question": "Câu 40. Cho tứ giác ABCD với các kích thước như hình vẽ bên. Diện tích tứ giác ABCD là:",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0127/20.jpg",
+        "solution": "Diện tích tam giác ABH là \\frac{3 \\times 5}{2} = 7,5 \\text{ (cm}^2\\text{)} \nDiện tích tam giác CKD là \\frac{4 \\times 5}{2} = 10 \\text{ (cm}^2\\text{)} \nDiện tích hình thang BCKH là \\frac{(5 + 4) \\times 4}{2} = 18 \\text{ (cm}^2\\text{)} \nDiện tích tứ giác ABCD là 7,5 + 10 + 18 = 35,5 \\text{ (cm}^2\\text{)}",
+        "result": "D"
+    },
+    {
+        "question": "Câu 41. Thêm vào số bị trừ 3 đơn vị và thêm vào số trừ 20 đơn vị thì được hiệu mới là 17. Hiệu ban đầu của phép trừ là",
+        "image_url": null,
+        "solution": "Số bị trừ + 3 - (số trừ + 20) = 17 \nSố bị trừ + 3 - số trừ - 20 = 17 \nSố bị trừ - số trừ = 17 + 20 - 3 = 34",
+        "result": "B"
+    },
+    {
+        "question": "Câu 42. Bán kính của chiếc bánh xe đạp là 4dm. Nếu bánh xe quay 200 vòng thì xe đạp chạy được số mét là",
+        "image_url": null,
+        "solution": "Chu vi bánh xe là 4 \\times 2 \\times 3,14 = 25,12 \\text{ (dm)} \nNếu bánh xe quay 200 vòng thì xe đạp chạy được số mét là 25,12 \\times 200 = 5024 \\text{ (dm)} = 502,4 \\text{ m}",
+        "result": "D"
+    },
+    {
+        "question": "Câu 43. Tổng các số chia hết cho 6 và nhỏ hơn 203 là",
+        "image_url": null,
+        "solution": "Các số chia hết cho 6 và nhỏ hơn 203 là 6 ; 12 ; 18 ; \\ldots ; 198 \nSố các số hạng trong dãy trên là \\frac{198 - 6}{6} + 1 = 33 \\text{ (số hạng)} \nTổng các số chia hết cho 6 và nhỏ hơn 203 là \\frac{(6 + 198) \\times 33}{2} = 3366",
+        "result": "A"
+    },
+    {
+        "question": "Câu 44. Nam viết 3 số 90; 72 và 18 lên bảng. Sau đó, Nam xóa 2 trong 3 số đó và thay vào là trung bình cộng của hai số vừa xóa cho đến khi trên bảng chỉ còn 1 số. Số nào dưới đây không phải là kết quả sau cùng thu được ở trên bảng?",
+        "image_url": null,
+        "solution": null,
+        "result": "B"
+    },
+    {
+        "question": "Câu 45. Em có số bi gấp 2 lần số bi của anh. Nếu em cho anh 3 viên thì số bi của em gấp 1,5 lần số bi của anh. Tổng số bi của hai anh em là",
+        "image_url": null,
+        "solution": "Ban đầu, số bi của em bằng \\frac{2}{2} \\Rightarrow \\frac{2}{3} \nNếu em cho anh 3 viên thì số bi của em bằng \\frac{3}{2} \\Rightarrow \\frac{3}{5} \n3 viên bi ứng với \\frac{2}{3} - \\frac{3}{5} = \\frac{1}{15} \nTổng số bi của hai anh em là \\frac{3}{1/15} = 45",
+        "result": "B"
+    },
+    {
+        "question": "Câu 1. Diện tích hình tròn có bán kính 3cm là",
+        "image_url": null,
+        "solution": "Diện tích hình tròn có bán kính 3cm là \\(3 \\times 3 \\times 3.14 = 28.26\\) (cm\\(^2\\))",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tính: 3 giờ 18 phút + 2 giờ 10 phút x 3.",
+        "image_url": null,
+        "solution": "3 giờ 18 phút + 2 giờ 10 phút x 3 = 3 giờ 18 phút + 6 giờ 30 phút = 9 giờ 48 phút",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Điền vào chỗ trống: 3,14 m\\(^3\\) = … dm\\(^3\\)",
+        "image_url": null,
+        "solution": "3,14 m\\(^3\\) = 3140 dm\\(^3\\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Kết quả của phép tính \\(A = 2 : 0.5 + 10 \\times 0.2\\) là",
+        "image_url": null,
+        "solution": "\\(A = 2 : 0.5 + 10 \\times 0.2 = 4 + 2 = 6\\)",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Tìm phân số lớn nhất trong các phân số \\(\\frac{110}{110}, \\frac{215}{215}, \\frac{320}{320}, \\frac{760}{760}\\)",
+        "image_url": null,
+        "solution": "\\(\\frac{110}{110} = 1, \\frac{215}{215} = 1, \\frac{320}{320} = 1, \\frac{760}{760} = 1\\). Vậy phân số lớn nhất trong các phân số đã cho là: \\(\\frac{320}{320}\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Trung bình cộng hai số là 3,2 còn hiệu hai số là 2,3. Số lớn là",
+        "image_url": null,
+        "solution": "Tổng hai số là \\(3.2 \\times 2 = 6.4\\). Số lớn là \\((6.4 + 2.3) : 2 = 4.35\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Thể tích của hình hộp chữ nhật có chiều dài 3 cm, chiều rộng 2 cm và chiều cao 1,5 cm là",
+        "image_url": null,
+        "solution": "Thể tích của hình hộp chữ nhật \\(3 \\times 2 \\times 1.5 = 9\\) (cm\\(^3\\))",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Có bao nhiêu số tự nhiên \\(a\\) thỏa mãn \\(314 < a < 534\\)",
+        "image_url": null,
+        "solution": "Số tự nhiên \\(a\\) thỏa mãn \\(314 < a < 534\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Diện tích trên bản đồ tỉ lệ 1 : 2000 của một khu đất là 3 cm\\(^2\\). Diện tích thực của khu đất đó là",
+        "image_url": null,
+        "solution": "Diện tích thực của khu đất là \\(3 \\times 2000^2 = 1200\\) m\\(^2\\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Từ các chữ số 1; 2; 4; 7; 8 lập được bao nhiêu số có 3 chữ số có các chữ số khác nhau?",
+        "image_url": null,
+        "solution": "Chữ số hàng trăm: 5 cách chọn. Chữ số hàng chục: 4 cách chọn. Chữ số hàng đơn vị: 3 cách chọn. Vậy lập được \\(5 \\times 4 \\times 3 = 60\\) số có 3 chữ số có các chữ số khác nhau từ các chữ số 1; 2; 4; 7; 8.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 11. Biết \\(\\frac{25}{25}\\)",
+        "image_url": null,
+        "solution": "Số đó là \\(\\frac{20}{25} = 0.8\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 12. Số mặt của một hình lập phương là",
+        "image_url": null,
+        "solution": "Số mặt của một hình lập phương là 6",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 13. Tổng hai số là 20, hiệu hai số là 3. Số bé là",
+        "image_url": null,
+        "solution": "Số bé là \\((20 - 3) : 2 = 8.5\\)",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 14. Tổng số tuổi của ba người trong gia đình Nam là 76 tuổi, biết bố hơn mẹ 3 tuổi còn mẹ hơn Nam 23 tuổi. Tuổi bố là",
+        "image_url": null,
+        "solution": "Tuổi con là \\((76 - 23 - 23 - 3) : 3 = 9\\) (tuổi). Tuổi bố là \\(9 + 23 + 3 = 35\\) (tuổi)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 15. Phân số \\(\\frac{320}{320}\\)",
+        "image_url": null,
+        "solution": "\\(\\frac{320}{320} = 1 = 100\\%\\)",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 16. Tổng hai số gấp 3 lần hiệu của chúng. Số lớn gấp số bé bao nhiêu lần?",
+        "image_url": null,
+        "solution": "Số lớn + số bé = 3 \\times (số lớn - số bé). Số lớn + số bé = 3 \\times số lớn - 3 \\times số bé. 4 \\times số bé = 2 \\times số lớn. 2 \\times số bé = số lớn",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 17. Một cửa hàng nhập cam về bán. Cửa hàng bán được \\(\\frac{35}{35}\\)",
+        "image_url": null,
+        "solution": "Số cam cửa hàng có ban đầu là: \\(\\frac{42}{25} = 1.68\\). Số kg cam cửa hàng đã bán là: \\(105 \\times 0.35 = 36.75\\)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 18. Tổng của hai số lẻ liên tiếp là 248. Số lớn là",
+        "image_url": null,
+        "solution": "Số lớn là \\((248 + 2) : 2 = 125\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 19. Cho một phân số có giá trị bằng \\(\\frac{85}{85}\\)",
+        "image_url": null,
+        "solution": "Tử số là \\(36 : (8 - 5) \\times 8 = 96\\)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 20. Đổi 1,15 giờ sang phút",
+        "image_url": null,
+        "solution": "1,15 giờ = 1,15 \\times 60 phút = 69 phút",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 21. Lớp 5A có 40 học sinh, trong đó số học sinh nữ bằng 45% số học sinh cả lớp. Số học sinh nam là",
+        "image_url": null,
+        "solution": "Số học sinh nam chiếm: 100\\% - 45\\% = 55\\%. Số học sinh nam là \\(40 \\times 0.55 = 22\\) (học sinh)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Lớp 5A0 và 5A1 lên kế hoạch làm 1000 chiếc mũ chống giọt bắn gửi tặng các bác sĩ ở tuyến đầu chống dịch. Thực tế, họ đã làm được 1850 chiếc. Như vậy, hai lớp đã vượt mức kế hoạch bao nhiêu phần trăm?",
+        "image_url": null,
+        "solution": "Số chiếc mũ đã làm vượt mức kế hoạch là 1850 – 1000 = 850 (chiếc) Hai lớp đã vượt mức kế hoạch số phần trăm là: \\( \\frac{850}{1000} = 0.85 = 85\\% \\)",
+        "result": "85%",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Khi nhân một số với 3,4 một bạn học sinh đã quên dấu phẩy ở số 3,4 nên tích tăng lên 459 đơn vị. Tích đúng của phép nhân đó là bao nhiêu?",
+        "image_url": null,
+        "solution": "Khi nhân một số với 3,4 bạn học sinh đã quên dấu phẩy ở số 3,4 nên tích tìm được gấp 10 lần tích đúng. Ta có: Tích tìm được – tích đúng = 459. Vậy tích đúng là: \\( \\frac{459}{9} = 51 \\)",
+        "result": "51",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tính giá trị của biểu thức: \\( 18:9+73\\times474−73\\times234 \\)",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0106/20.PNG",
+        "solution": "Giải thích chi tiết được cung cấp trong hình ảnh.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 4. Cho tam giác ABC, lấy điểm M trên cạnh BC sao cho \\( BM=\\frac{1}{5}BC \\) và \\( AN=\\frac{3}{4}AC \\). Tính diện tích tam giác AMN.",
+        "image_url": null,
+        "solution": "S\\( _{AMC} = \\frac{4}{5}S_{ABC} \\) (Hai tam giác \\( MC=\\frac{4}{5}BC \\)). Suy ra, \\( S_{AMC} = \\frac{4}{5} \\times S_{ABC} = \\frac{4}{5} \\times 60 = 48 \\). \\( S_{AMN} = \\frac{3}{4}S_{AMC} = \\frac{3}{4} \\times 48 = 36 \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một hộp đựng 60 viên bi trong đó gồm 15 viên bi màu xanh, 15 viên bi màu đỏ, 15 viên bi màu vàng, 15 viên bi màu trắng. Không nhìn vào hộp, cần lấy ít nhất bao nhiêu viên bi để chắc chắn trong số đó có không ít hơn 8 viên bi cùng màu.",
+        "image_url": null,
+        "solution": "Ta có trong hộp có 4 loại bi khác nhau. Số viên bi cần lấy ít nhất để có 8 viên bi cùng màu là: \\( 7 \\times 4 + 1 = 29 \\) (viên bi).",
+        "result": "29",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Vòi nhất tháo nước chảy ra Hồ đầy, hết nước mất 30 giờ Vòi nhì cho nước chảy vào 15 giờ nước đầy hồ bạn ơi Hai vòi cùng chảy cùng chơi Mấy giờ nhanh tính hồ với thành đầy?",
+        "image_url": null,
+        "solution": "Trong 1 giờ, vòi thứ nhất chảy ra được số phần bể là \\( \\frac{1}{30} \\). Trong 1 giờ, vòi thứ hai chảy vào được số phần bể là \\( \\frac{1}{15} \\). Trong 1 giờ, cả hai vòi chảy được số phần bể là: \\( \\frac{1}{15} - \\frac{1}{30} = \\frac{1}{30} \\). Nếu hai vòi cùng chảy thì mất \\( \\frac{1}{\\frac{1}{30}} = 30 \\) giờ.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Hình vẽ sau gồm có một hình vuông màu cam cạnh 21cm và hai nửa đường tròn, B và C là tâm của các nửa đường tròn tương ứng. Tính diện tích của hình này.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0106/20.png",
+        "solution": "Diện tích hình vuông màu cam là: \\( 21 \\times 21 = 441 \\) (cm\\(^2\\)). Diện tích 2 nửa hình tròn bán kính 21 cm là: \\( 21 \\times 21 \\times 3.14 = 1384.74 \\) (cm\\(^2\\)). Diện tích của hình đã cho là: \\( 441 + 1384.74 = 1825.74 \\) (cm\\(^2\\)).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 8. Tìm M biết: \\( M=1+(1+2)+(1+2+3)+....+(1+2+3+....+2020) \\)",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0106/20_1.PNG",
+        "solution": "Giải thích chi tiết được cung cấp trong hình ảnh.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 9. Cho phân số \\( \\frac{1763}{14} \\)",
+        "image_url": null,
+        "solution": "Tổng của tử số và mẫu số của phân số \\( \\frac{1763}{14} \\). Khi lấy tử số của phân số đó trừ đi \\( a \\) và lấy mẫu số của phân số đó cộng với \\( a \\) thì tổng của tử số và mẫu số của phân số mới không đổi. \\( \\Rightarrow \\) Lại có: tử số mới/mẫu số mới = \\( \\frac{1}{4} \\). Tử số mới là \\( \\frac{80}{1 + 4} \\times 1 = 16 \\). Vậy \\( a \\) là \\( 17 - 16 = 1 \\).",
+        "result": "a = 1",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Để thực hiện cách li xã hội phòng chống dịch Covid 19, một gia đình lo lắng dự trữ lương thực cho 4 người ăn trong 30 ngày. Thực tế có thêm bà ngoại ở quê lên ở cùng. Như vậy, số lương thực đã dự trữ đủ ăn trong bao nhiêu ngày? Biết số lượng lương thực mỗi người ăn trong 1 ngày là như nhau.",
+        "image_url": null,
+        "solution": "Số gạo dự trữ đủ cho 1 người ăn trong số ngày là: \\( 30 \\times 4 = 120 \\) (ngày). Thực tế có số người ăn là: \\( 4 + 1 = 5 \\) (người). Số lương thực đã dự trữ đủ ăn trong số ngày là: \\( \\frac{120}{5} = 24 \\) (ngày).",
+        "result": "24 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 11. Trong các dãy phân số dưới đây, dãy số nào mà mỗi phân số đều có thể viết thành số thập phân? A. \\( \\frac{3}{4}; \\frac{1}{7}; \\frac{1}{5} \\) B. \\( \\frac{2}{5}; \\frac{1}{2}; \\frac{5}{8} \\) C. \\( \\frac{1}{10}; \\frac{1}{2}; \\frac{1}{3} \\) D. \\( \\frac{3}{4}; \\frac{5}{9}; \\frac{3}{5} \\)",
+        "image_url": null,
+        "solution": "Dãy số nào mà mỗi phân số đều có thể viết thành số thập phân là \\( \\frac{2}{5}; \\frac{1}{2}; \\frac{5}{8} \\).",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 12. Một người bán 6 giỏ cam và xoài. Mỗi giỏ chỉ đựng một loại cam hoặc xoài với số lượng như sau: 36; 39; 40; 41; 42; 44. Sau khi bán một giỏ xoài thì số cam còn lại gấp 4 lần số xoài còn lại. Hỏi người đó đã bán đi bao nhiêu quả xoài?",
+        "image_url": null,
+        "solution": "Ta có: Sau khi bán một giỏ xoài thì số cam còn lại gấp 4 lần số xoài còn lại. Suy ra, tổng số cam và xoài còn lại sau khi bán chia hết cho 5. Vậy giỏ xoài đã bán đi là 42 quả.",
+        "result": "42 quả",
+        "error": false
+    },
+    {
+        "question": "Câu 13. Tìm \\( a \\) để: \\( \\overline{a,97} < 1,97 \\)",
+        "image_url": null,
+        "solution": "Ta có \\( \\overline{a,97} < 1,97 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 14. Tìm \\( x \\) biết: \\( \\frac{x}{8} + 31,2 = 41 \\)",
+        "image_url": null,
+        "solution": "\\( \\frac{x}{8} = 41 - 31,2 \\) \\( \\frac{x}{8} = 9,8 \\) \\( x = 9,8 \\times 8 \\) \\( x = 78,4 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 15. Điền dấu thích hợp vào chỗ trống. \\( \\frac{3}{11} ..... \\frac{4}{9} \\)",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{3}{11} = \\frac{27}{99} \\) và \\( \\frac{4}{9} = \\frac{44}{99} \\). Vậy \\( \\frac{3}{11} < \\frac{4}{9} \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Số thập phân gồm mười tám đơn vị và bảy phần trăm là:",
+        "image_url": null,
+        "solution": "Số thập phân gồm mười tám đơn vị và bảy phần trăm là: 18,07",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Làm tròn số thập phân 24,345 đến hàng phần trăm được kết quả là:",
+        "image_url": null,
+        "solution": "Làm tròn số thập phân 24,345 đến hàng phần trăm được kết quả là: 24,35 (vì chữ số hàng phần nghìn là 5, làm tròn lên)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Số thích hợp điền vào chỗ chấm: 4m^2 5dm^2 = ……. m^2 là",
+        "image_url": null,
+        "solution": "4m^2 5dm^2 = \\frac{45}{100} = 4,05 m^2",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Gieo ngẫu nhiên một con xúc xắc 30 lần. Người ta thu được kết quả như sau: Mặt | 1 chấm | 2 chấm | 3 chấm | 4 chấm | 5 chấm | 6 chấm ---|---|---|---|---|---|--- Số lần | 7 | 3 | 5 | 4 | 3 | 8 Số lần xuất hiện mặt chẵn là",
+        "image_url": null,
+        "solution": "Số lần xuất hiện mặt chẵn là 3 + 4 + 8 = 15 (lần)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Tổng của hai số 18. Hiệu của hai số là 2. Tìm tỉ số phần trăm của số bé và số lớn.",
+        "image_url": null,
+        "solution": "Số bé là: (18 – 2) : 2 = 8\nSố lớn là: 18 – 8 = 10\nTỉ số phần trăm của số bé và số lớn là \\frac{8}{10} = 45\\%",
+        "result": "45",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Hiệu hai số là số bé nhất có ba chữ số khác nhau, tỉ số của hai số đó là \\frac{4}{7}",
+        "image_url": null,
+        "solution": "Hiệu hai số là số bé nhất có ba chữ số khác nhau nên hiệu hai số là 102.\nSố bé là \\frac{102}{7 - 4} \\times 4 = 136",
+        "result": "136",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Một hình lập phương có diện tích một mặt là 25cm^2. Tính thể tích của hình lập phương đó.",
+        "image_url": null,
+        "solution": "Ta có 25 = 5 \\times 5 nên độ dài cạnh hình lập phương là 5 cm.\nThể tích của hình lập phương đó là 5 \\times 5 \\times 5 = 125 \\text{ cm}^3",
+        "result": "125 cm^3",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Quãng đường AB dài 120km. Một ô tô đi từ A lúc 8 giờ. Dọc đường ô tô nghỉ 10 phút. Ô tô đến B lúc 9 giờ 40 phút. Tính vận tốc của ô tô.",
+        "image_url": null,
+        "solution": "Thời gian ô tô đi không kể thời gian nghỉ là: 9 giờ 40 phút – 10 phút – 8 giờ = 1 giờ 30 phút = 1,5 giờ\nVận tốc của ô tô là \\frac{120}{1,5} = 80 \\text{ km/giờ}",
+        "result": "80 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 1.1. Đặt tính rồi tính a) 27,45 + 1,26 b) 5,64 \\times 2,5 c) 135,63 : 9",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0603/21.png",
+        "solution": null,
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1.2. Tính giá trị biểu thức A=\\frac{1}{3}+\\frac{1}{5}+\\frac{1}{7}+\\frac{1}{9}+\\frac{1}{11}+\\frac{1}{13}",
+        "image_url": null,
+        "solution": "A=\\frac{1}{3}+\\frac{1}{5}+\\frac{1}{7}+\\frac{1}{9}+\\frac{1}{11}+\\frac{1}{13}\nA=\\frac{1}{1\\times3}+\\frac{1}{3\\times5}+\\frac{1}{5\\times7}+\\frac{1}{7\\times9}+\\frac{1}{9\\times11}+\\frac{1}{11\\times13}\n2\\times A=\\frac{1}{1}-\\frac{1}{3}+\\frac{1}{3}-\\frac{1}{5}+\\frac{1}{5}-\\frac{1}{7}+\\frac{1}{7}-\\frac{1}{9}+\\frac{1}{9}-\\frac{1}{11}+\\frac{1}{11}-\\frac{1}{13}\n2\\times A=\\frac{1}{1}-\\frac{1}{13}=\\frac{12}{13}\nA=\\frac{12}{13}:2=\\frac{6}{13}",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Cho mảnh vườn hình thang ABCD (đáy bé AB, đáy lớn CD) có diện tích bằng 112m^2, chiều cao bằng 7m và độ dài đáy bé bằng 60% độ dài đáy lớn. a) Tính độ dài mỗi đáy của hình thang đó. b) Trên cạnh BC lấy điểm N sao cho BN = \\frac{2}{5} BC",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0603/20_4.png",
+        "solution": "a) Tổng độ dài hai đáy là \\frac{112 \\times 2}{7} = 32 \\text{ m}\nĐộ dài đáy bé bằng \\frac{6}{10} = \\frac{3}{5}\nĐộ dài đáy bé là \\frac{32}{3 + 5} \\times 3 = 12 \\text{ m}\nĐộ dài đáy lớn là 32 – 12 = 20 \\text{ m}\nb) S_{\\triangle BDC} = \\frac{1}{2} \\times 20 \\times 7 = 70 \\text{ m}^2\nS_{\\triangle BMC} = \\frac{1}{2} S_{\\triangle BDC} \\text{ (Hai tam giác có chung chiều cao hạ từ B xuống DC và đáy MC = } \\frac{1}{2} \\text{)}\nS_{\\triangle BMC} = \\frac{1}{2} \\times 70 = 35 \\text{ m}^2\nS_{\\triangle BMN} = \\frac{2}{5} S_{\\triangle BMC} \\text{ (Hai tam giác có chung chiều cao hạ từ M xuống BC và đáy BN = } \\frac{2}{5} \\text{)}\nS_{\\triangle BMN} = \\frac{2}{5} \\times 35 = 14 \\text{ m}^2",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Lớp 5A có 31 học sinh. Lớp 5B có 35 học sinh. Số học sinh nữ của hai lớp bằng nhau. Số học sinh nam của lớp 5A bằng 75% số học sinh nam của lớp 5B. Tính số học sinh nam và nữ của mỗi lớp.",
+        "image_url": null,
+        "solution": "Lớp 5B nhiều hơn 5A số học sinh là 35 – 31= 4 \\text{ học sinh}\nTa có: Số học sinh nữ của hai lớp bằng nhau.\nSố học sinh nam của lớp 5A bằng 75% số học sinh nam của lớp 5B.\nSuy ra 25% số học sinh nam của lớp 5B ứng với 4 học sinh.\nSố học sinh nam của lớp 5B là \\frac{4}{25} \\times 100 = 16 \\text{ học sinh}\nSố học sinh nữ ở mỗi lớp là: 35 – 16 = 19 \\text{ học sinh}\nSố học sinh nam của lớp 5A là 31 – 19 = 12 \\text{ học sinh}",
+        "result": "5A: 12 nam, 19 nữ; 5B: 16 nam, 19 nữ",
+        "error": false
+    },
+    {
+        "question": "Câu 11. Cho hình chữ nhật ABCD (AB = 16cm; BC = 12cm), M là trung điểm của BC. Lấy điểm P trên cạnh AB và điểm Q trên cạnh CD sao cho AP = CQ. Tính diện tích tam giác PMQ.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_2.png",
+        "solution": "Vì AP = CQ và AB = CD nên BP = DQ. Do đó hai hình thang APQD và BCQP có diện tích bằng nhau. \\( \\Rightarrow S_{APQD} = S_{BCQP} = \\frac{1}{2} \\times S_{ABCD} \\) Ta có \\( S_{BPM} = \\frac{1}{2} \\times BM \\times PB \\) \\( S_{CMQ} = \\frac{1}{2} \\times CM \\times QC \\) Vì M là trung điểm của BC nên \\( BM = CM = \\frac{1}{2} \\times BC \\) \\( \\Rightarrow S_{BPM} + S_{CMQ} = \\frac{1}{2} \\times \\frac{1}{2} \\times BC \\times PB + \\frac{1}{2} \\times \\frac{1}{2} \\times BC \\times QC = \\frac{1}{4} \\times BC \\times (PB + QC) = \\frac{1}{4} \\times BC \\times AB = \\frac{1}{4} \\times S_{ABCD} \\) Vậy \\( S_{PMQ} = S_{BCQP} - (S_{BPM} + S_{CMQ}) = \\frac{1}{2} \\times S_{ABCD} - \\frac{1}{4} \\times S_{ABCD} = \\frac{1}{4} \\times S_{ABCD} = \\frac{1}{4} \\times 12 \\times 16 = 48 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 12. Cho 5 số \\( a, b, c, d, e \\) thỏa mãn \\( \\frac{487}{340} = \\frac{a+1}{b+1} = \\frac{c+1}{d+1} = \\frac{e}{a+b+c+d+e} \\).",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{487}{340} = 1 + \\frac{147}{340} = 1 + \\frac{1}{2} + \\frac{46}{147} = 1 + \\frac{1}{2} + \\frac{1}{3} + \\frac{9}{46} = 1 + \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{5} + \\frac{1}{9} \\) Suy ra \\( a = 1, b = 2, c = 3, d = 5, e = 9 \\) Vậy \\( a + b + c + d + e = 20 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. Lớp 5A có số học sinh nam gấp đôi số học sinh nữ. Sau khi chuyển đi 2 học sinh nữ thì số học sinh nam bằng 52.",
+        "image_url": null,
+        "solution": "Ban đầu, số học sinh nam gấp đôi số học sinh nữ nên số học sinh nữ bằng \\( \\frac{1}{2} \\) Lúc sau, số học sinh nam bằng \\( 52 \\) 2 học sinh ứng với: \\( \\frac{1}{2} - \\frac{2}{5} = \\frac{1}{10} \\) Số học sinh nam là: \\( 2 : \\frac{1}{10} = 20 \\) Số học sinh nữ lúc đầu là: \\( 20 : 2 = 10 \\) (học sinh) Ban đầu, lớp đó có số học sinh là: \\( 20 + 10 = 30 \\) (học sinh) Đáp số: 30 học sinh.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 2. Minh đi từ A đến B, cùng lúc đó Ngọc đi từ B về A. Hai bạn gặp nhau lần thứ nhất ở điểm cách A 7km. Sau đó, Minh lại đi tiếp tới B, Ngọc lại đi tiếp tới A rồi hai bạn quay trở về. Họ gặp nhau lần thứ hai ở điểm cách B 5km. Hỏi quãng đường AB dài bao nhiêu km?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0314/20_2.PNG",
+        "solution": "Gọi C là điểm hai bạn gặp nhau lần thứ nhất và D là điểm hai bạn gặp nhau lần thứ hai. Ta có \\( AC = 7 \\text{ km} \\) và \\( BD = 5 \\text{ km} \\). Khi hai bạn gặp nhau lần đầu thì tổng quãng đường hai bạn đi được bằng quãng đường AB. Khi hai bạn gặp nhau lần thứ hai thì tổng quãng đường hai bạn đi được gấp 3 lần quãng đường AB. Do vận tốc hai bạn không đổi nên để hai bạn đi được quãng đường gấp 3 lần quãng đường AB thì cần thời gian gấp 3 lần để đi hết quãng đường AB. Suy ra, quãng đường bạn Minh đi được đến khi gặp nhau lần thứ hai gấp 3 lần quãng đường bạn Minh đi được khi gặp nhau lần thứ nhất. Quãng đường bạn Minh đi được đến khi gặp nhau lần thứ hai là: \\( 7 \\times 3 = 21 \\text{ km} \\). Độ dài quãng đường AB là: \\( 21 - 5 = 16 \\text{ km} \\) Đáp số: 16 km",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 3. Cho hình thang ABCD, lấy điểm M trên đường chéo AC sao cho AM = 2 × MC. Lấy điểm N trên cạnh CD sao cho BDNM là hình thang. a) So sánh diện tích hai tam giác BDN và BDM. b) Tính tỉ số \\( \\frac{S_{ABND}}{S_{BNC}} \\)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_3.png",
+        "solution": "a) Vì BDNM là hình thang nên \\( S_{BDN} = S_{BMD} \\) (hai tam giác có chung đáy BD, chiều cao hạ từ N xuống BD bằng chiều cao hạ từ M xuống BD cùng bằng chiều cao hình thang BDNM ). b) Vì \\( AM = 2 \\times MC \\) nên \\( S_{ABM} = 2 \\times S_{BMC} \\) (hai tam giác có chung chiều cao hạ từ B xuống AC). Vì \\( AM = 2 \\times MC \\) nên \\( S_{ANM} = 2 \\times S_{MNC} \\) (hai tam giác có chung chiều cao hạ từ N xuống AC). Suy ra \\( S_{ABMN} = S_{ABM} + S_{ANM} = 2 \\times S_{BMC} + 2 \\times S_{MNC} = 2 \\times (S_{BMC} + S_{MNC}) \\) Mà \\( S_{ABMN} = S_{NAB} + S_{NMB} \\) và \\( S_{NAB} = S_{DAB} \\) nên \\( S_{DAB} + S_{NMB} = 2 \\times (S_{BMC} + S_{MNC}) \\) \\( \\Rightarrow S_{DAB} = 3 \\times S_{NMB} = 2 \\times (S_{BMC} + S_{MNC} + S_{NMB}) = 2 \\times S_{BNC} \\) (1) Lại có \\( S_{ADC} = 3 \\times S_{MDC} \\) (hai tam giác có chung chiều cao hạ từ D xuống AC và \\( AM = 2 \\times MC \\)) Mà hai tam giác này có chung đáy CD nên chiều cao hạ từ A xuống CD gấp 3 lần chiều cao hạ từ M xuống CD. Mặt khác, chiều cao hạ từ A xuống CD bằng chiều cao hạ từ B xuống CD \\( \\Rightarrow \\) Do đó \\( S_{BDN} = 3 \\times S_{MDN} \\) Vì BDNM là hình thang nên \\( S_{MDN} = S_{NMB} \\) \\( \\Rightarrow S_{BDN} = 3 \\times S_{NMB} \\) Thay vào (1) ta được \\( S_{DAB} + S_{BDN} = 2 \\times S_{BNC} \\) \\( \\Rightarrow S_{ABND} = 2 \\times S_{BNC} \\) \\( \\Rightarrow \\frac{S_{ABND}}{S_{BNC}} = 2 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính: \\(0.14 \\times 253 \\times 3 - 4.2 \\times 5.3\\)",
+        "image_url": null,
+        "solution": "\\(0.14 \\times 253 \\times 3 - 4.2 \\times 5.3 = 0.42 \\times 253 - 4.2 \\times 5.3 = 4.2 \\times 25.3 - 4.2 \\times 5.3 = 4.2 \\times (25.3 - 5.3) = 4.2 \\times 20 = 84\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Biết số \\(\\overline{2022ab}\\)",
+        "image_url": null,
+        "solution": "Vì số \\(\\overline{2022ab}\\) Ta có số \\(\\overline{2022a5}\\) Vì số \\(\\overline{2022a5}\\) Hay \\((a + 11)\\) chia hết cho 9, suy ra \\(a = 7\\). Vậy \\(a \\times b = 35\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tính \\((1-\\frac{1}{2})\\times(1-\\frac{1}{3})\\times(1-\\frac{1}{4})\\times\\ldots\\times(1-\\frac{1}{2022})\\)",
+        "image_url": null,
+        "solution": "\\((1-\\frac{1}{2})\\times(1-\\frac{1}{3})\\times(1-\\frac{1}{4})\\times\\ldots\\times(1-\\frac{1}{2022})=\\frac{1}{2}\\times\\frac{2}{3}\\times\\frac{3}{4}\\times\\ldots\\times\\frac{2021}{2022}=\\frac{1}{2022}\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 4. Cho ba số có tổng bằng 2022. Biết số thứ nhất bằng 1/3 số thứ hai và bằng 1/2 số thứ ba. Tìm số lớn nhất.",
+        "image_url": null,
+        "solution": "Coi số thứ nhất là 1 phần thì số thứ hai là 3 phần, số thứ ba là 2 phần. Do đó số lớn nhất là số thứ hai. Tổng số phần bằng nhau là: \\(1 + 3 + 2 = 6\\) (phần) Số lớn nhất là: \\(2022 : 6 \\times 3 = 1011\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một ô tô đi từ địa điểm A đến địa điểm B. Cùng lúc đó, 1 ô tô khác đi từ B về A, gặp ô tô thứ nhất tại điểm cách điểm A 140km. Biết ô tô thứ nhất đi từ A đến B hết 8 giờ và ô tô thứ hai đi từ B về A hết 7 giờ. Tính quãng đường AB.",
+        "image_url": null,
+        "solution": "Tỉ số thời gian đi hết quãng đường AB của ô tô thứ nhất so với ô tô thứ hai là: \\(8:7=\\frac{8}{7}\\) Xét trên cùng quãng đường AB, thời gian và vận tốc tỉ lệ nghịch với nhau nên tỉ số vận tốc của ô tô thứ nhất so với ô tô thứ hai là \\(\\frac{7}{8}\\) Khi hai ô tô gặp nhau thì thời gian đi của hai ô tô bằng nhau (do hai xe xuất phát cùng lúc). Vì cùng thời gian, quãng đường đi được và vận tốc của xe tỉ lệ thuận nên tỉ số quãng đường của ô tô thứ nhất so với ô tô thứ hai là \\(\\frac{7}{8}\\) Do hai xe gặp nhau tại điểm cách A 140km nên ô tô thứ nhất đi được 140km. Quãng đường ô tô thứ hai đi được khi gặp nhau là: \\(140:\\frac{7}{8}=160\\) Độ dài quãng đường AB là: \\(140 + 160 = 300\\) (km).",
+        "result": "300 km",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Một bể nước hình hộp chữ nhật có chiều dài 3m, chiều rộng 2m và chiều cao 1,6m. Người ta mở vòi cho nước chảy vào bể thì sau 1 giờ 15 phút bể đầy. Biết trong 1 giờ vòi chảy được 6756 lít nước. Hỏi ban đầu, trong bể có bao nhiêu lít nước?",
+        "image_url": null,
+        "solution": "Thể tích của bể là \\(3 \\times 2 \\times 1.6 = 9.6\\) (m\\(^3\\)) Đổi \\(9.6\\, \\text{m}^3 = 9600\\, \\text{dm}^3 = 9600\\, \\text{lít};\\) 1 giờ 15 phút = \\(\\frac{5}{4}\\) giờ Trong 1 giờ 15 phút, vòi chảy được số lít nước là: \\(6756 \\times \\frac{5}{4} = 8445\\) Ban đầu, trong bể có số lít nước là: \\(9600 - 8445 = 1155\\) (lít nước)",
+        "result": "1155 lít nước",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Cho hai số có tổng là 4055. Biết số bé có hai chữ số tận cùng là 23 và khi đổi chỗ hai chữ số cho nhau ta được số lớn. Tìm tích hai số đó.",
+        "image_url": null,
+        "solution": "Gọi số bé là \\(\\overline{X23}\\) Vì tổng 2 số là 4055 nên \\(\\overline{X23} + \\overline{X32} = 4055\\) ⇒ \\(X = 20\\) Vậy số bé là 2023, số lớn là 2032 Tích hai số là: \\(2023 \\times 2032 = 4110736\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 8. Có 18 lít nước được đựng trong các chai loại 400ml, 600ml, 1ℓ. Tìm số chai loại 600ml nhiều nhất.",
+        "image_url": null,
+        "solution": "Để số chai loại 600 ml là nhiều nhất thì số chai loại 400ml và 1ℓ Vì tổng số lít nước trong tất cả các chai là 18 lít là số chia hết cho 3, tổng số lít nước có trong chai loại 600ml cũng là số chia hết cho 3 nên tổng số lít nước có trong các chai loại 400ml và 1ℓ Theo bài ra, mỗi loại có ít nhất 1 chai nên tổng số lít nước trong chai 400ml và 1ℓ ít nhất là 1800ml. Vậy số chai loại 600ml nhiều nhất là: \\((18000 - 1800) = 27\\) (chai)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 9. Có 3 hộp bi A, B, mỗi hộp có 9 viên bi trắng, 9 viên bi xanh và 9 viên bị đỏ. Chuyển từ hộp A sang hộp B 10 viên bi. Hỏi cần chuyển từ hộp B sang hộp A bao nhiêu viên bi để chắc chắn hộp A có ít nhất 8 viên bi mỗi loại.",
+        "image_url": null,
+        "solution": "Mỗi hộp có số viên bi là \\(9 + 9 + 9 = 27\\) (viên bi) Số bi của hộp A sau khi chuyển từ hộp A sang hộp B 10 viên bi là \\(27 - 10 = 17\\) (viên bi) Khả năng xấu nhất mà hộp A không có 8 viên bi mỗi loại là trong hộp A có 4 viên bi trong đó có hai loại màu bi có 18 viên và màu bi còn lại có 7 viên. Do đó, để chắc chắn hộp A có ít nhất 8 viên bi mỗi loại thì trong hộp A phải có 44 viên bi. Vậy cần chuyển số viên bi từ hộp B sang hộp A là: \\(44 - 17 = 27\\) (viên).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 10. Cho 4 mảnh được tạo thành từ các ô vuông cạnh 1 cm như hình vẽ. Ghép 4 mảnh đó thành 1 hình chữ nhật, tính chu vi hình chữ nhật ghép được.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0314/20_1.png",
+        "solution": "Tổng diện tích của cả 4 mảnh là: \\(18 \\times 1 \\times 1 = 18\\) (cm\\(^2\\)) Vì \\(18 = 1 \\times 18 = 2 \\times 9 = 3 \\times 6\\) nên hình chữ nhật ghép được có kích thước thuộc một trong các trường hợp sau: \\(1 \\times 18, 2 \\times 9, 3 \\times 6\\).",
+        "result": null,
+        "error": false
+    }
+]

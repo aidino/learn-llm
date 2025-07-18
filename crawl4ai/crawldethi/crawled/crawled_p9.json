@@ -1,0 +1,247 @@
+[
+    {
+        "question": "Bài 14. Cho dãy: 118;1115;1124;1135;...118;1115;1124;1135;... A. 112448112448114848114848112499112499114899114899",
+        "image_url": null,
+        "solution": "118=98=3\\times32\\times4 \n1115=1615=4\\times43\\times5 \n1124=2524=5\\times54\\times6 \nVậy số thứ 48 là 50\\times5049\\times51=25002499=112499",
+        "result": "112499",
+        "error": false
+    },
+    {
+        "question": "Bài 15. Bốn bạn Việt, Nam, Hòa và Bình cùng góp tiền để mua truyện ủng hộ cho trẻ em vùng cao. Số tiền Việt góp bằng 121213131414",
+        "image_url": null,
+        "solution": "Số tiền bạn Việt góp so với số tiền cả bốn bạn là: 12+1=13 \nSố tiền bạn Nam góp so với số tiền cả bốn bạn là: 13+1=14 \nSố tiền bạn Hòa góp so với số tiền cả bốn bạn là: 14+1=15 \nSố tiền Bình góp so với số tiền cả bốn bạn là: 1−(13+14+15)=1360 \nSố tiền bốn bạn đã góp là: 130000:1360=600000",
+        "result": "600 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Bài 16. Xe thứ nhất đi từ A đến B mất 6 giờ. Xe thứ hai đi từ A đến B mất 4 giờ. Lúc 6 giờ 15 phút, xe thứ nhất đi từ A đến B. Sau 2 giờ, xe thứ hai đi từ B đến A. Hỏi hai xe gặp nhau lúc mấy giờ?",
+        "image_url": null,
+        "solution": "Mỗi giờ xe thứ nhất đi được: 1:6=16 \nMỗi giờ xe thứ hai đi được: 1:4=14 \nSau 2 giờ, xe thứ nhất đã đi được số phần quãng đường là: 2:6=13 \nHai xe cùng đi tiếp số phần quãng đường là: 1−13=23 \nThời gian để hai xe gặp nhau là: 23:(16+14)=85 \nHai xe gặp nhau vào thời điểm là: 6 giờ 15 phút + 2 giờ + 1 giờ 36 phút = 9 giờ 51 phút",
+        "result": "9 giờ 51 phút",
+        "error": false
+    },
+    {
+        "question": "Bài 1. Tìm x là số tự nhiên lớn nhất: 15,25 < x < 18,35",
+        "image_url": null,
+        "solution": "Đáp án: 18",
+        "result": "18",
+        "error": false
+    },
+    {
+        "question": "Bài 2. Điền vào chỗ ....... 50cm^2 x 8 + 6 dm^2 =..........dm^2",
+        "image_url": null,
+        "solution": "50\\text{cm}^2 \\times 8 + 6 \\text{dm}^2 = 400 \\text{cm}^2 + 6 \\text{dm}^2 = 4 \\text{dm}^2 + 6 \\text{dm}^2 = 10 \\text{dm}^2",
+        "result": "10",
+        "error": false
+    },
+    {
+        "question": "Bài 3. Phép chia 4,8 : 3,5 có thương là số thập phân có 2 chữ số sau dấu phẩy. Hỏi số dư của phép chia bằng bao nhiêu?",
+        "image_url": null,
+        "solution": null,
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 4. Tìm M, biết: M = 0,36 : 0,25 + 36% : 0,5 + 2 x 4 x 0,18",
+        "image_url": null,
+        "solution": "M = \\frac{0.36}{0.25} + \\frac{36\\%}{0.5} + 2 \\times 4 \\times 0.18 \nM = \\frac{36}{100} \\times 4 + \\frac{36}{100} \\times 2 + \\frac{36}{100} \\times 4 \nM = \\frac{36}{100} \\times (4 + 2 + 4) \nM = \\frac{36}{100} \\times 10 = 3.6",
+        "result": "M = 3.6",
+        "error": false
+    },
+    {
+        "question": "Bài 5. Tổ một của một tốp thợ có 5 người thợ làm việc trong 3 ngày thì làm được 180 m vải. Tổ hai của tốp thợ đó có 7 người thợ và làm việc trong 2 ngày. Hỏi tổ hai của tốp thợ đó làm được bao nhiêu mét vải? (Biết rằng năng suất của mỗi người là như nhau)",
+        "image_url": null,
+        "solution": "5 \\text{ người thợ làm trong 1 ngày thì làm được số mét vải là: } \\frac{180}{3} = 60 \\text{ (m)} \n1 \\text{ người thợ làm trong 1 ngày thì làm được số mét vải là: } \\frac{60}{5} = 12 \\text{ (m)} \n7 \\text{ người thợ làm trong 2 ngày thì làm được số mét vải là: } 12 \\times 7 \\times 2 = 168 \\text{ (m)}",
+        "result": "168 m vải",
+        "error": false
+    },
+    {
+        "question": "Bài 6. Tổng hai số lẻ là 504. Biết giữa hai số có 10 số lẻ khác. Tìm số lẻ bé.",
+        "image_url": null,
+        "solution": "Giữa hai số lẻ hơn kém nhau 2 đơn vị. Hiệu của hai số lẻ là: 11 \\times 2 = 22 \nSố lẻ bé là: \\frac{504 - 22}{2} = 241",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Bài 7. Tính diện tích phần tô đậm:",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1024/20.png",
+        "solution": "Diện tích tô đậm bằng hiệu của \\frac{14}{14} \nDiện tích hình tam giác vuông ABC là: \\frac{6 \\times 6}{2} = 18 \\text{ (cm}^2\\text{)} \nDiện tích tô đậm là: 28.26 - 18 = 10.26 \\text{ (cm}^2\\text{)}",
+        "result": "10.26 cm^2",
+        "error": false
+    },
+    {
+        "question": "Bài 8. Cùng cộng vào cả tử và mẫu của phân số \\frac{57}{165}",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1024/20_2.png",
+        "solution": "Cộng vào tử số và mẫu số cùng một đơn vị thì hiệu của mẫu số và tử số không thay đổi. \nHiệu của mẫu số và tử số ban đầu là: 165 - 57 = 108 \nTử số mới là: \\frac{108}{5 - 2} \\times 2 = 72 \nSố cần thêm là: 72 - 57 = 15",
+        "result": "15",
+        "error": false
+    },
+    {
+        "question": "Bài 9. Nhân dịp Quốc tế Thiếu Nhi, cửa hàng giảm giá chiếc xe đạp 10% so với giá niêm yết. Tuy nhiên cửa hàng vẫn lãi 8% so với giá vốn. Hỏi nếu không giảm giá thì cửa hàng lãi bao nhiêu?",
+        "image_url": null,
+        "solution": "Giá bán mới so với giá niêm yết là: 100\\% - 10\\% = 90\\% \\text{ (giá niêm yết)} \nGiá bán mới so với giá vốn là: 100\\% + 8\\% = 108\\% \\text{ (giá vốn)} \nGiá niêm yết so với giá vốn là: \\frac{108\\%}{90\\%} = 120\\% \\text{ (giá vốn)} \nNếu không giảm giá thì cửa hàng lãi số phần trăm là: 120\\% - 100\\% = 20\\%",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Bài 10. Biết \\text{AB} = 34, \\text{CD} = 34, \\text{SAOB} = 3.6. Tính diện tích hình thang ABCD.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1025/20.png",
+        "solution": "S_{ABCD} = S_{AOD} + S_{AOB} \nS_{AOD} = \\frac{3.6}{34} = 4.8 \nS_{ABD} = S_{AOD} + S_{AOB} = 4.8 + 3.6 = 8.4 \nS_{BDC} = 8.4 \\times \\frac{4}{3} = 11.2 \nVậy diện tích hình thang ABCD là: 8.4 + 11.2 = 19.6 \\text{ (cm}^2\\text{)}",
+        "result": "19.6 cm^2",
+        "error": false
+    },
+    {
+        "question": "Bài 11. Các bao lần lượt là: 40kg; 44kg; 25kg; 60kg; 48kg. Sau khi bán 1 bao gạo nếp thì tổng số gạo tẻ gấp 3 lần tổng số gạo nếp. Hỏi tổng số gạo nếp ban đầu là bao nhiêu?",
+        "image_url": null,
+        "solution": "Tổng khối lượng 5 bao gạo là: 40 + 44 + 25 + 60 + 48 = 217 \\text{ (kg)} \nSau khi bán 1 bao gạo nếp thì tổng số bao gạo tẻ gấp 3 lần tổng số bao gạo nếp \nSuy ra số tổng khối lượng của bốn bao còn lại chia hết cho 4. \nTa có: 217 : 4 dư 1 nên số bao gạo nếp bị bán đi chia 4 dư 1. \nSuy ra số bao gạo nếp bị bán đi là 25 kg. \nSố ki-lô-gam gạo nếp còn lại là: \\frac{217 - 25}{1 + 3} \\times 1 = 48 \\text{ (kg)} \nTổng số gạo nếp ban đầu là: 48 + 25 = 73 \\text{ (kg)}",
+        "result": "73 kg",
+        "error": false
+    },
+    {
+        "question": "Bài 12. Trường THCS Thanh Xuân tổ chức đi dã ngoại và có 454 bạn học sinh đi. Nhà trường đã thuê 14 xe. Có 2 loại xe được thuê là loại chở 29 bạn, loại chở 35 bạn. Biết mỗi xe sẽ chở đúng số lượng tiêu chuẩn. Hỏi số xe chở 35 bạn là bao nhiêu xe?",
+        "image_url": null,
+        "solution": "Giả sử tất cả đều là xe chở 29 bạn thì 14 xe chở được số học sinh là: 29 \\times 14 = 406 \\text{ (học sinh)} \nSố học sinh chưa được lên xe là: 454 - 406 = 48 \\text{ (học sinh)} \nCó số xe loại chở 35 bạn là: \\frac{48}{35 - 29} = 8 \\text{ (xe)}",
+        "result": "8 xe",
+        "error": false
+    },
+    {
+        "question": "Bài 1 (4,0 điểm) Điền kết quả vào chỗ chấm. Mẹ cho bạn Hùng 100 000 đồng để mua dụng cụ học tập. Bạn Hùng đã mua 4 quyển vở và 5 cây bút chì. Biết giá mỗi quyển vở là 11 000 đồng, mỗi cây bút chì là 7 000 đồng. Sau khi thanh toán, số tiền bạn Hùng còn lại là …………. đồng.",
+        "image_url": null,
+        "solution": "Giá tiền của 4 quyển vở là \\( 11 000 \\times 4 = 44 000 \\) (đồng) Giá tiền của 5 cây bút chì là \\( 7 000 \\times 5 = 35 000 \\) (đồng) Bạn Hùng mua vở và bút chì hết số tiền là \\( 44 000 + 35 000 = 79 000 \\) (đồng) Sau khi thanh toán, số tiền bạn Hùng còn lại là \\( 100 000 - 79 000 = 21 000 \\) (đồng)",
+        "result": "21 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Bài 2 (8,0 điểm) Điền kết quả vào chỗ chấm. a) Chữ cái thứ 2026 là chữ ..............",
+        "image_url": null,
+        "solution": "Mỗi cụm từ “QUYẾT TÂM HỌC GIỎI” gồm 15 chữ cái. Ta có \\( 2026 \\div 15 = 135 \\) (dư 1) Vậy chữ cái thứ 2026 là chữ Q",
+        "result": "Chữ Q",
+        "error": false
+    },
+    {
+        "question": "Bài 2 (8,0 điểm) Điền kết quả vào chỗ chấm. b) Hằng ngày, An đi xe đạp từ nhà đến trường hết 20 phút. Hôm nay, An xuất phát lúc 6 giờ 40 phút. Sau khi đi được 500 m, bạn lại đạp xe quay về nhà để lấy thêm quyển sách nên đến trường lúc 7 giờ 05 phút. Biết An vẫn đi trên con đường hằng ngày và vận tốc đạp xe của bạn không thay đổi. Quãng đường từ nhà bạn An đến trường dài ………. km.",
+        "image_url": null,
+        "solution": "Thời gian An đi đến trường hôm nay là: \\( 7 \\text{ giờ } 5 \\text{ phút} - 6 \\text{ giờ } 40 \\text{ phút} = 25 \\text{ phút} \\) Ta có tỉ số thời gian An đi đến trường hàng ngày so với hôm nay là \\( \\frac{20}{25} = \\frac{4}{5} \\) Với cùng vận tốc thì quãng đường và thời gian tỉ lệ thuận với nhau. Do đó tỉ số quãng đường An đi đến trường hàng ngày so với hôm nay là \\( \\frac{4}{5} \\) Quãng đường hôm nay An đi dài hơn hàng ngày là \\( 500 \\times 2 = 1 000 \\text{ m} = 1 \\text{ km} \\) Quãng đường từ nhà bạn An đến trường dài \\( \\frac{1}{5 - 4} \\times 4 = 4 \\text{ km} \\)",
+        "result": "4 km",
+        "error": false
+    },
+    {
+        "question": "Bài 3 (8,0 điểm). Bác Bình muốn lấp cái hồ bơi nhỏ dạng hình lập phương có cạnh dài 26 dm để làm sân. Bác thuê một xe tải chở đất, biết lòng trong của thùng xe tải đó dạng hình hộp chữ nhật có chiều dài 2,5 m, chiều rộng bằng 4545",
+        "image_url": null,
+        "solution": "Thể tích của hồ bơi là: \\( 26 \\times 26 \\times 26 = 17 576 \\text{ dm}^3 \\) Đổi: \\( 2,5 \\text{ m} = 25 \\text{ dm} \\) Chiều rộng của thùng xe là \\( 25 \\times \\frac{4}{5} = 20 \\) Chiều cao của thùng xe là \\( \\frac{20}{2} = 10 \\text{ dm} \\) Thể tích của thùng xe là: \\( 25 \\times 20 \\times 10 = 5000 \\text{ dm}^3 \\) Thể tích đất được chở trên mỗi chuyến xe là: \\( 5000 \\times 80\\% = 4000 \\text{ dm}^3 \\) Ta có \\( 17 574 \\div 4000 = 4 \\) (dư 1 574) Vậy cần ít nhất 5 xe đất để lấp đầy cái hồ bơi đó.",
+        "result": "5 xe",
+        "error": false
+    },
+    {
+        "question": "Trường THCS Thanh Xuân lập 1 đội 32 học sinh để trồng cây dự định làm xong trong 15 ngày. Làm được 5 ngày thì bổ sung thêm 1 số bạn nên hoàn thành sớm hơn dự định 2 ngày. Tính số học sinh được bổ sung thêm.",
+        "image_url": null,
+        "solution": "Theo dự định, đội học sinh làm hết công việc còn lại trong số ngày là: \\(15 - 5 = 10\\) (ngày). 1 bạn làm hết công việc còn lại trong số ngày là: \\(10 \\times 32 = 320\\) (ngày). Số ngày thực tế để làm hết công việc còn lại là: \\(10 - 2 = 8\\) (ngày). Số người thực tế để làm hết công việc còn lại là: \\(\\frac{320}{8} = 40\\) (người). Số người đến thêm là: \\(40 - 32 = 8\\) (người).",
+        "result": "8 người",
+        "error": false
+    },
+    {
+        "question": "Bác Thanh đi từ A đến B. Nếu đi với vận tốc 30km/giờ thì muộn 30 phút, còn đi với vận tốc 40km/giờ thì đến sớm 15 phút. Tìm vận tốc của bác Thanh để bác đến đúng giờ.",
+        "image_url": null,
+        "solution": "Tỉ số vận tốc khi đi với vận tốc 30km/giờ và 40km/giờ là \\(\\frac{3}{4}\\). Trên cùng quãng đường, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch. Hiệu thời gian là \\(30\\) phút + \\(15\\) phút = \\(45\\) phút = \\(0.75\\) giờ. Thời gian đi với vận tốc 30km/giờ là: \\(\\frac{0.75}{4 - 3} \\times 4 = 3\\) (giờ). Quãng đường AB là \\(30 \\times 3 = 90\\) (km). Đổi 30 phút = 0.5 giờ. Thời gian bác Thanh cần đi để đến đúng giờ là: \\(3 - 0.5 = 2.5\\) (giờ). Vận tốc bác Thanh cần đi để đến đúng giờ là \\(\\frac{90}{2.5} = 36\\) (km/giờ).",
+        "result": "36 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Số nào dưới đây có số 9 ở hàng phần trăm?",
+        "image_url": null,
+        "solution": "Số 321,89 có số 9 ở hàng phần trăm.",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Điền số thích hợp vào chỗ trống: \\(20\\, \\text{dm}^2\\, 23\\, \\text{cm}^2 = \\ldots\\, \\text{m}^2\\)",
+        "image_url": null,
+        "solution": null,
+        "result": "0,2023",
+        "error": false
+    },
+    {
+        "question": "Tính: \\(A = 2310 - 75\\% - 14 + 0,7\\)",
+        "image_url": null,
+        "solution": "A = 2310 - 75\\% - 14 + 0,7 = 2310 - 34 - 14 + \\frac{7}{10} = 3 - 1 = 2",
+        "result": "2",
+        "error": false
+    },
+    {
+        "question": "Một thư viện có 1000 quyển sách. Sau mỗi năm, số sách tăng thêm 10\\%. Sau 2 năm thư viện có bao nhiêu quyển sách?",
+        "image_url": null,
+        "solution": "Số sách sau 1 năm là: \\(1000 + 1000 \\times \\frac{10}{100} = 1100\\) (quyển). Số sách sau 2 năm là: \\(1100 + 1100 \\times \\frac{10}{100} = 1210\\) (quyển).",
+        "result": "1210 quyển sách",
+        "error": false
+    },
+    {
+        "question": "Tổng hai số thập phân là 8,3. Nếu số thứ nhất tăng lên 3 lần, giữ nguyên số thứ hai thì tổng là 17,9. Tìm số thứ hai.",
+        "image_url": null,
+        "solution": "2 lần số thứ nhất là \\(17,9 - 8,3 = 9,6\\). Số thứ nhất là \\(\\frac{9,6}{2} = 4,8\\). Số thứ hai là \\(8,3 - 4,8 = 3,5\\).",
+        "result": "3,5",
+        "error": false
+    },
+    {
+        "question": "Nhà Nam gần bến xe, thời gian Nam từ nhà đến bến xe mất 5 phút. Thời gian của một chuyến tàu là 20 phút. Thời gian từ điểm dừng chuyến tàu đến trường mất 5 phút. Thời gian mà Nam phải đến trường là 7 giờ 30 phút. Các chuyến tàu bắt đầu từ lúc 6 giờ và cứ 10 phút có một chuyến. Tính thời gian muộn nhất Nam có thể đi.",
+        "image_url": null,
+        "solution": "Tổng thời gian đi tàu và thời gian đi từ điểm dừng chuyến tàu đến trường là \\(20 + 5 = 25\\) (phút). Vì 10 phút lại có 1 chuyến tàu nên chuyến tàu Nam có thể đi muộn nhất là 7 giờ. Thời gian muộn nhất Nam có thể đi từ nhà là \\(7\\, \\text{giờ} - 5\\, \\text{phút} = 6\\, \\text{giờ}\\, 55\\, \\text{phút}\\).",
+        "result": "6 giờ 55 phút",
+        "error": false
+    },
+    {
+        "question": "Cạnh của một hình lập phương là 8 cm. Nếu tăng cạnh lên 3 lần thì diện tích toàn phần tăng lên bao nhiêu lần?",
+        "image_url": null,
+        "solution": "Diện tích toàn phần của hình lập phương ban đầu là: \\(8 \\times 8 \\times 6 = 384\\, \\text{cm}^2\\). Cạnh của hình lập phương mới là: \\(8 \\times 3 = 24\\, \\text{cm}\\). Diện tích toàn phần của hình lập phương mới là \\(24 \\times 24 \\times 6 = 3456\\, \\text{cm}^2\\). Nếu tăng cạnh lên 3 lần thì diện tích toàn phần tăng lên số lần là \\(\\frac{3456}{384} = 9\\) (lần).",
+        "result": "9 lần",
+        "error": false
+    },
+    {
+        "question": "Một bể nước hình hộp chữ nhật có chiều dài 60 cm, chiều rộng là 40 cm. Trong bể có 96 lít nước. Tính chiều cao của mực nước.",
+        "image_url": null,
+        "solution": "Đổi \\(96\\, \\text{lít} = 96\\, \\text{dm}^3 = 96000\\, \\text{cm}^3\\). Chiều cao của mực nước là: \\(\\frac{96000}{60 \\times 40} = 40\\, \\text{cm}\\).",
+        "result": "40 cm",
+        "error": false
+    },
+    {
+        "question": "Khối 1 quyên góp 134 quyển, khối 2 quyên góp 98 quyển, khối 3 quyên góp 87 quyển, khối 4 quyên góp 81 quyển, khối 5 quyên góp nhiều hơn trung bình cả 5 khối 20 quyển. Tính số quyển khối 5 quyên góp.",
+        "image_url": null,
+        "solution": "Coi số sách trung bình của 5 khối là 1 phần. Tổng số sách 4 khối quyên góp được là: \\(134 + 98 + 87 + 81 = 400\\) (quyển). 4 lần trung bình cộng là \\(400 + 20 = 420\\) (quyển). Trung bình số sách của 5 khối là \\(\\frac{420}{4} = 105\\) (quyển). Số quyển khối 5 quyên góp được là: \\(105 + 20 = 125\\) (quyển).",
+        "result": "125 quyển",
+        "error": false
+    },
+    {
+        "question": "Một mảnh vườn hình thang có đáy bé bằng 3535. Đáy lớn là: \\(\\frac{6}{5 - 3} \\times 5 = 15\\, \\text{m}\\). Đáy bé là \\(15 - 6 = 9\\, \\text{m}\\). Do tăng đáy bé lên 6m thì mảnh vườn là hình vuông nên chiều cao hình thang là 15m. Diện tích mảnh vườn là: \\((15 + 9) \\times 15 : 2 = 180\\, \\text{m}^2\\).",
+        "image_url": null,
+        "solution": "Diện tích mảnh vườn là: \\((15 + 9) \\times 15 : 2 = 180\\, \\text{m}^2\\).",
+        "result": "180 m^2",
+        "error": false
+    },
+    {
+        "question": "Có một số cam, lần thứ nhất bán 4 quả, lần thứ hai bán 12 quả, lần thứ ba bán 12 quả, lần thứ tư bán 12 quả. Tính số cam ban đầu.",
+        "image_url": null,
+        "solution": "Số cam còn lại trước lần bán thứ 4 là \\(2 \\times 2 = 4\\) (quả). Số cam còn lại trước lần bán thứ ba là \\((4 + 2) \\times 2 = 12\\) (quả). Số cam còn lại trước lần bán thứ hai là: \\((12 + 2) \\times 2 = 28\\) (quả). Số cam ban đầu là: \\(28 + 4 = 32\\) (quả).",
+        "result": "32 quả",
+        "error": false
+    },
+    {
+        "question": "Tìm \\(x\\): \\(\\frac{x}{4} \\times 36 - \\frac{x}{7} \\times 28 + \\frac{x}{4} \\times 20 = 180\\)",
+        "image_url": null,
+        "solution": "\\(\\frac{x}{4} \\times 36 - \\frac{x}{7} \\times 28 + \\frac{x}{4} \\times 20 = 180\\) \\(x \\times 9 - x \\times 4 + x \\times 5 = 180\\) \\(x \\times (9 - 4 + 5) = 180\\) \\(x \\times 10 = 180\\) \\(x = 18\\)",
+        "result": "x = 18",
+        "error": false
+    },
+    {
+        "question": "Cho hình chữ nhật ABCD biết AD = 8 cm. Biết 2 phần tô đậm bằng nhau. Tính AB.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0623/20_1.png",
+        "solution": "Vì 2 phần tô đậm bằng nhau nên diện tích hình chữ nhật là \\(50,24 \\times 2 = 100,48\\, \\text{cm}^2\\). Độ dài AB là \\(\\frac{100,48}{8} = 12,56\\, \\text{cm}\\).",
+        "result": "12,56 cm",
+        "error": false
+    },
+    {
+        "question": "Cho dãy số sau: 181813513518018011431143. Tìm mẫu số thứ 23.",
+        "image_url": null,
+        "solution": "Mẫu số thứ nhất: 8 = 2 x 4. Mẫu số thứ hai: 35 = 5 x 7. Mẫu số thứ ba: 80 = 8 x 10. Thừa số thứ nhất của mẫu thuộc dãy số: 2 ; 5 ; 8 ; 11 ; … Thừa số thứ nhất của mẫu số thứ 23 là \\(2 + 3 \\times (23 - 1) = 68\\). Mẫu số thứ 23 là: \\(68 \\times 70 = 4760\\).",
+        "result": "4760",
+        "error": false
+    }
+]

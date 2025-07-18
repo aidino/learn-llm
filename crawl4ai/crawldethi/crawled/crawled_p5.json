@@ -1,0 +1,408 @@
+[
+    {
+        "question": "Số học sinh nữ bằng 715. Ban đầu, số học sinh nữ = 45% tổng số học sinh = 920. Lúc sau, số học sinh nữ = 715. Số học sinh nữ lúc sau nhiều hơn số học sinh nữ lúc đầu là 50 em. Vậy 50 học sinh ứng với 715−920=160. Số học sinh dự thi là 50:160=3000.",
+        "image_url": null,
+        "solution": "Ban đầu, số học sinh nữ = 45\\% \\times 920 = 414. Lúc sau, số học sinh nữ = 715. Số học sinh nữ lúc sau nhiều hơn số học sinh nữ lúc đầu là 715 - 414 = 301 em. Vậy 301 học sinh ứng với 715−920=160. Số học sinh dự thi là \\frac{301}{160} \\times 920 = 3000.",
+        "result": "3000 học sinh",
+        "error": false
+    },
+    {
+        "question": "Tìm một số tự nhiên có hai chữ số biết rằng nếu viết thêm chữ số 7 vào bên phải của nó thì ta được một số mới lớn hơn số cũ là 565 đơn vị.",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\overline{ab}. Ta có \\overline{ab7}−\\overline{ab}=565. \\overline{ab} \\times 10 + 7 − \\overline{ab} = 565. \\overline{ab} \\times 9 + 7 = 565. \\overline{ab} \\times 9 = 558. \\overline{ab} = \\frac{558}{9} = 62.",
+        "result": "62",
+        "error": false
+    },
+    {
+        "question": "Hiện nay tuổi mẹ gấp 3 lần tuổi con, bốn năm trước tuổi mẹ gấp 4 lần tuổi con. Hỏi khi tuổi mẹ gấp 2 lần tuổi con thì con bao nhiêu tuổi?",
+        "image_url": null,
+        "solution": "Coi tuổi mẹ hiện nay là 3 phần, tuổi con là 1 phần. Coi tuổi mẹ bốn năm trước là 4 phần, tuổi con bốn năm trước là 1 phần. Tuổi con hiện nay hơn tuổi con 4 năm trước là 4 tuổi. Suy ra, hiệu số tuổi của hai mẹ con là 24 tuổi. Vậy khi tuổi mẹ gấp 2 lần tuổi con thì con 24 tuổi.",
+        "result": "24 tuổi",
+        "error": false
+    },
+    {
+        "question": "Bạn Cường đã đi qua 42 bậc thang để từ tầng 1 lên tầng 3 một ngôi nhà. Hỏi nếu Cường muốn đi tiếp lên tầng 5 ngôi nhà đó thì phải đi thêm bao nhiêu bậc thang nữa? (Biết số bậc thang giữa các tầng là như nhau)",
+        "image_url": null,
+        "solution": "Từ tầng 1 – tầng 3: 42 bậc. Từ tầng 3 – tầng 5: 42 bậc.",
+        "result": "42 bậc thang",
+        "error": false
+    },
+    {
+        "question": "Tìm x biết các số trong cả ba hình sau được viết theo cùng một quy luật.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20.png",
+        "solution": "Ta có 32 = 19 + 6 + 5 + 1 + 1. 46 = 30 + 2 + 4 + 9 + 1. Vậy x = 22 + 11 + 12 + 20 + 1 = 66.",
+        "result": "66",
+        "error": false
+    },
+    {
+        "question": "Cho hình vẽ, biết độ dài đoạn AB gấp 3 lần đoạn AD, đoạn CE gấp 4 lần đoạn DE và diện tích tam giác BDE bằng 10cm². Tính diện tích tam giác ABC.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20_2.png",
+        "solution": "Ta có \\frac{S_{BDE}}{S_{BDC}}=\\frac{1}{3}. Suy ra S_{BDC} = 10 \\times 3 = 30 \\text{ cm}^2. Ta có \\frac{S_{ADC}}{S_{BDC}}=\\frac{1}{2}. Suy ra S_{ADC} = \\frac{30}{2} = 15 \\text{ cm}^2. Vậy S_{ABC} = S_{ADC} + S_{BDC} = 30 + 15 = 45 \\text{ cm}^2.",
+        "result": "45 cm²",
+        "error": false
+    },
+    {
+        "question": "Sắp xếp các phân số sau theo thứ tự từ bé đến lớn: \\( \\frac{9}{10}, \\frac{9}{10}, \\frac{7}{8}, \\frac{7}{8}, \\frac{4}{3}, \\frac{4}{3} \\)",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{4}{3} > 1 \\) Lại có \\( \\frac{9}{10} + \\frac{1}{10} = 1 = \\frac{7}{8} + \\frac{1}{8} \\) Mà \\( \\frac{1}{10} < \\frac{1}{8} \\) \\( \\frac{9}{10} > \\frac{7}{8} \\) Vậy \\( \\frac{7}{8} < \\frac{9}{10} < \\frac{4}{3} \\)",
+        "result": "\\( \\frac{7}{8} < \\frac{9}{10} < \\frac{4}{3} \\)",
+        "error": false
+    },
+    {
+        "question": "Trung bình cộng của hai số bằng 21,35. Biết một trong hai số bằng 22,1 thì số còn lại bằng bao nhiêu?",
+        "image_url": null,
+        "solution": "Tổng của hai số là \\( 21,35 \\times 2 = 42,7 \\) Số còn lại là: \\( 42,7 - 22,1 = 20,6 \\)",
+        "result": "20,6",
+        "error": false
+    },
+    {
+        "question": "Kết quả của phép tính sau là bao nhiêu? \\( 25 + 35 : 11^2 \\)",
+        "image_url": null,
+        "solution": "\\( 25 + 35 : 11^2 = 25 + 35 : 32 = 25 + 35 \\times \\frac{2}{3} = 25 + 25 = 45 \\)",
+        "result": "45",
+        "error": false
+    },
+    {
+        "question": "Một lớp có \\( \\frac{2}{3} \\) học sinh nữ. Hỏi lớp đó có bao nhiêu học sinh?",
+        "image_url": null,
+        "solution": "Số học sinh nam chiếm \\( 1 - \\frac{2}{3} = \\frac{1}{3} \\) Số học sinh của lớp đó là \\( 11 : \\frac{1}{3} = 33 \\)",
+        "result": "33 học sinh",
+        "error": false
+    },
+    {
+        "question": "Tính thể tích hình lập phương biết diện tích toàn phần của nó là \\( 54 \\text{cm}^2 \\).",
+        "image_url": null,
+        "solution": "Diện tích một mặt của hình lập phương là \\( 54 : 6 = 9 \\text{cm}^2 \\) Gọi độ dài cạnh hình lập phương là \\( a \\text{cm} \\) Ta có \\( a \\times a = 9 \\text{cm}^2 \\). Suy ra \\( a = 3 \\text{cm} \\) Thể tích hình lập phương là \\( 3 \\times 3 \\times 3 = 27 \\text{cm}^3 \\)",
+        "result": "27 cm^3",
+        "error": false
+    },
+    {
+        "question": "Một hình chữ nhật có chu vi là \\( 100 \\text{cm} \\). Biết chiều rộng bằng \\( 20 \\text{cm} \\). Tính diện tích hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Nửa chu vi hình chữ nhật là \\( 100 : 2 = 50 \\text{cm} \\) Chiều dài hình chữ nhật là \\( 50 - 20 = 30 \\text{cm} \\) Diện tích hình chữ nhật là \\( 30 \\times 20 = 600 \\text{cm}^2 \\)",
+        "result": "600 cm^2",
+        "error": false
+    },
+    {
+        "question": "Cho các số: 90; 105; 36; 1990; 115; 2022; 2345; 2011; 1989. Hỏi có bao nhiêu số chia hết cho 5 trong các số trên?",
+        "image_url": null,
+        "solution": "Các số chia hết cho 5 trong dãy trên là: 90; 105 ; 1990; 115 ; 2345 Vậy có 5 số chia hết cho 5.",
+        "result": "5 số",
+        "error": false
+    },
+    {
+        "question": "Biết \\( 20\\text{m}^2 5\\text{dm}^2 = \\ldots \\text{dm}^2 \\). Số thích hợp điền vào chỗ chấm là số nào?",
+        "image_url": null,
+        "solution": "\\( 20\\text{m}^2 5\\text{dm}^2 = 2000 \\text{dm}^2 + 5\\text{dm}^2 = 2005 \\text{dm}^2 \\)",
+        "result": "2005",
+        "error": false
+    },
+    {
+        "question": "Tổng của số tự nhiên lớn nhất có ba chữ số khác nhau và số tự nhiên lẻ nhỏ nhất có hai chữ số khác nhau là bao nhiêu?",
+        "image_url": null,
+        "solution": "- Số tự nhiên lớn nhất có ba chữ số khác nhau là 987 - Số tự nhiên lẻ nhỏ nhất có hai chữ số khác nhau là 13 Tổng hai số là \\( 987 + 13 = 1000 \\)",
+        "result": "1000",
+        "error": false
+    },
+    {
+        "question": "Một bể nước hình hộp chữ nhật có kích thước đo ở trong lòng bể là: dài 2m, rộng 1,5m và cao 12dm. Biết lượng nước trong bể đang chiếm 75% thể tích bể. Hỏi phải đổ thêm bao nhiêu lít nước nữa để đầy bể?",
+        "image_url": null,
+        "solution": "Đổi 2m = 20 dm; 1,5m = 15 dm Thể tích của bể là \\( 20 \\times 15 \\times 12 = 3600 \\text{dm}^3 = 3600 \\text{lít} \\) Số lít nước phải đổ thêm đến khi đầy bể là: \\( 3600 \\times \\frac{25}{100} = 900 \\text{lít} \\)",
+        "result": "900 lít",
+        "error": false
+    },
+    {
+        "question": "Trên bản đồ tỉ lệ 1:1000, một mảnh đất hình chữ nhật có chiều dài 10cm, chiều rộng 8cm. Hỏi trong thực tế mảnh đất đó có diện tích bằng bao nhiêu \\( \\text{m}^2 \\)?",
+        "image_url": null,
+        "solution": "Chiều dài thực tế của mảnh đất là \\( 10 \\times 1000 = 10 000 \\text{cm} = 100 \\text{m} \\) Chiều rộng thực tế là \\( 8 \\times 1000 = 8000 \\text{cm} = 80 \\text{m} \\) Diện tích thực tế của mảnh vườn là \\( 100 \\times 80 = 8000 \\text{m}^2 \\)",
+        "result": "8000 m^2",
+        "error": false
+    },
+    {
+        "question": "Một cửa hàng khuyến mại nhân dịp khai trương nên Bình đã mua được một cái áo có giá niêm yết là 200 000 đồng với giá 160 000 đồng. Như vậy cửa hàng đã giảm giá cái áo đó bao nhiêu phần trăm so với giá niêm yết?",
+        "image_url": null,
+        "solution": "Tỉ số phần trăm của giá mua chiếc áo và giá niêm yết là \\( \\frac{160 000}{200 000} = 0,8 = 80 \\% \\) Vậy cửa hàng đã giảm giá chiếc áo số phần trăm là \\( 100\\% - 80\\% = 20\\% \\)",
+        "result": "20%",
+        "error": false
+    },
+    {
+        "question": "Có hai cái hộp giống nhau, trong đó hộp A đựng một cái bánh Pizza có đường kính 24cm, hộp B đựng hai cái bánh Pizza có đường kính 16cm. Biết các bánh Pizza là cùng loại và có cùng độ dày. Hỏi hộp nào nặng hơn?",
+        "image_url": null,
+        "solution": "Bán kính chiếc bánh ở hộp A là \\( \\frac{24}{2} = 12 \\text{cm} \\) Diện tích chiếc bánh ở hộp A là \\( 12 \\times 12 \\times 3,14 = 452,16 \\text{cm}^2 \\) Bán kính chiếc bánh ở hộp B là \\( \\frac{16}{2} = 8 \\text{cm} \\) Diện tích 2 chiếc bánh ở hộp B là \\( (8 \\times 8 \\times 3,14) \\times 2 = 401,92 \\text{cm}^2 \\) Ta có \\( 452,16 \\text{cm}^2 < 401,92 \\text{cm}^2 \\) Vậy hộp A nặng hơn hộp B",
+        "result": "Hộp A nặng hơn",
+        "error": false
+    },
+    {
+        "question": "Cho hai hình thang có diện tích bằng nhau. Hình thang thứ nhất có hai đáy dài 8cm và 10cm. Hình thang thứ hai có hai đáy dài 5cm và 14cm. Hỏi hình thang nào có chiều cao lớn hơn?",
+        "image_url": null,
+        "solution": "Chiều cao = \\( 2 \\times \\text{diện tích hình thang} : (\\text{chiều dài} + \\text{chiều rộng}) \\) Chiều cao hình thang thứ nhất = \\( 2 \\times \\text{diện tích} : 18 \\) Chiều cao hình thang thứ hai = \\( 2 \\times \\text{diện tích} : 19 \\) Vì diện tích 2 hình thang bằng nhau. Vậy hình thang thứ nhất có chiều cao lớn hơn.",
+        "result": "Hình thang thứ nhất có chiều cao lớn hơn",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Đồng xu có hai mặt \"sấp\", “ngửa”. Bạn Nam tung đồng xu 30 lần và đếm được số lần xuất hiện mặt “sấp” là 18 lần. Số lần xuất hiện mặt ngửa là:",
+        "image_url": null,
+        "solution": "Số lần xuất hiện mặt ngửa là: 30 – 18 = 12 (lần)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Bạn Việt đi từ nhà đến trường trên quãng đường dài 2 km với vận tốc 8 km/h, lúc bạn đi là 6 giờ 55 phút, hỏi bạn đến trường lúc mấy giờ?",
+        "image_url": null,
+        "solution": "Thời gian Việt đi từ nhà đến trường là: \\( \\frac{2}{8} = 0.25 \\) (giờ) = 15 phút. Bạn Việt đến trường lúc: 6 giờ 55 phút + 15 phút = 7 giờ 10 phút",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một bể hình hộp chữ nhật chiều dài 16 dm, chiều rộng 8 dm chứa nước có chiều cao 5 dm. Thể tích nước trong bể là:",
+        "image_url": null,
+        "solution": "Thể tích nước trong bể là: \\( 16 \\times 8 \\times 5 = 640 \\) (dm³)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Biểu đồ biểu diễn số lượng học viên tham gia lớp học nhảy (đơn vị người). Quan sát biểu đồ và chọn phát biểu đúng?",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0714/20_2.png",
+        "solution": "Quan sát biểu đồ ta thấy: Năm 2020 số học viên tham gia lớp học nhảy nhiều gấp đôi năm 2017.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Thực hiện phép tính. a) \\( 112 - \\frac{48}{(12.56 + 35.44)} \\) b) \\( (256−78) \\times (50\\% + 0.75 − 14) \\)",
+        "image_url": null,
+        "solution": "a) \\( 112 - \\frac{48}{48} = 112 - 1 = 111 \\) b) \\( (256−78) \\times (50\\% + 0.75 − 14) = (176−78) \\times (1.25−14) = (68−24) \\times (1−1) = 47 \\times 1 = 47 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Viết phân số chỉ phần đã tô màu ở mỗi hình dưới đây rồi chỉ ra phân số lớn nhất.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0714/20_3.png",
+        "solution": "Hình 1: \\( \\frac{38}{72} \\) Hình 2: \\( \\frac{59}{72} \\) Hình 3: \\( \\frac{16}{72} \\) Vậy phân số lớn nhất là: \\( \\frac{59}{72} \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một cửa hàng kinh doanh nhập hai loại máy điều hòa là loại treo tường và loại tủ đứng trong đó loại treo tường nhiều hơn loại tủ đứng là 20 chiếc. a) Biết tổng số máy điều hòa cả hai loại được nhập về là 58 chiếc. Tính số máy mỗi loại? b) Giá tiền một chiếc điều hòa loại treo tường là 12 triệu còn giá tiền hai chiếc điều hòa loại tủ đứng là 40 triệu. Hỏi tổng số tiền nhập hai loại điều hòa của cửa hàng?",
+        "image_url": null,
+        "solution": "a) Số chiếc điều hoà treo tường là: \\( \\frac{58 + 20}{2} = 39 \\) (chiếc) Số chiếc điều hoà tủ đứng là: \\( 58 - 39 = 19 \\) (chiếc) b) Giá tiền 1 chiếc điều hoà tủ đứng là: \\( \\frac{40}{2} = 20 \\) (triệu đồng) Tổng số tiền nhập hai loại điều hòa của cửa hàng là: \\( 12 \\times 39 + 20 \\times 19 = 848 \\) (triệu đồng)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 4. Hình chữ nhật ABCD có chiều dài CD bằng 6 cm, kéo dài về phía C đoạn CK bằng 2 cm được hình thang ABKD. a) Biết diện tích tam giác BCK là 4 cm². Tính chiều rộng BC của hình chữ nhật? b) Tính diện tích hình thang ABKD? c) Kéo dài AD và BK cắt nhau tại O. Cho biết OA bằng 12 cm, tính tỉ số \\( \\frac{BK}{OB} \\)",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0714/21_1.png",
+        "solution": "a) Chiều rộng BC là \\( \\frac{4 \\times 2}{2} = 4 \\) (cm) b) Độ dài đáy lớn DK là \\( 6 + 2 = 8 \\) (cm) Diện tích hình thang ABKD là: \\( \\frac{(8 + 6) \\times 4}{2} = 28 \\) (cm²) c) Ta có \\( \\frac{BA}{KD} = \\frac{6}{8} = \\frac{3}{4} \\) Hay \\( \\frac{S_{BOA}}{S_{BAK}} = \\frac{3}{4} \\) Mà hai tam giác này có chung đáy AB Nên \\( OB = 3 \\times BK \\) hay \\( \\frac{BK}{OB} = \\frac{1}{3} \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho dãy số \\( 11 \\times 2; 12 \\times 3; 13 \\times 4; \\ldots \\). Tìm số thứ 50 của dãy số trên rồi tính tổng của 50 số đó?",
+        "image_url": null,
+        "solution": "Số hạng thứ 50 là \\( 150 \\times 51 \\). Tổng của 50 số là: \\( 11 \\times 2 + 12 \\times 3 + 13 \\times 4 + \\ldots + 150 \\times 51 = 1 - 151 = \\frac{50}{51} \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 11: Giá 30% có giá là 455 000 đồng. Hỏi giá của quả bóng rổ trước đó là bao nhiêu?",
+        "image_url": null,
+        "solution": "Giá của quả bóng sau khi giảm bằng 70% giá trước đó. Giá của quả bóng rổ trước đó là \\( \\frac{455000}{70} \\times 100 = 650000 \\) (đồng)",
+        "result": "650 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 12: 7 công nhân làm trong 6 giờ được 21 sản phẩm. Hỏi 5 công nhân làm trong 16 giờ được bao nhiêu sản phẩm? (Biết rằng công suất mỗi người làm đều như nhau)",
+        "image_url": null,
+        "solution": "7 công nhân làm trong 16 giờ được số sản phẩm là: \\( \\frac{16 \\times 21}{6} = 56 \\) (sản phẩm). 5 công nhân làm trong 16 giờ được số sản phẩm là: \\( \\frac{5 \\times 56}{7} = 40 \\) (sản phẩm)",
+        "result": "40 sản phẩm",
+        "error": false
+    },
+    {
+        "question": "Câu 13: Có một hình chữ nhật, chiều dài hơn chiều rộng 10m. Nếu tăng chiều rộng thêm 25% và giảm chiều dài đi 8m thì diện tích không thay đổi. Tính diện tích hình chữ nhật.",
+        "image_url": null,
+        "solution": "Theo đề bài ta có: Chiều dài \\times\\ chiều rộng = (chiều dài – 8) \\times \\frac{125}{100}. Chiều dài \\times\\ chiều rộng = 54 \\times 14 \\times 14. Suy ra: chiều dài = 40 (m). Chiều rộng là 40 – 10 = 30 (m). Diện tích hình chữ nhật là \\( 40 \\times 30 = 1200 \\) (m²)",
+        "result": "1200 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 14: Tính tổng dãy số cách đều sau 3 + 5 + 7 + 9 + …. + 35",
+        "image_url": null,
+        "solution": "Số số hạng của dãy số trên là: \\( \\frac{35 - 3}{2} + 1 = 17 \\) (số hạng). Tổng dãy số đã cho là \\( \\frac{(3 + 35) \\times 17}{2} = 323 \\)",
+        "result": "323",
+        "error": false
+    },
+    {
+        "question": "Câu 15: Tìm hai số tròn chục liên tiếp có tổng bằng 570.",
+        "image_url": null,
+        "solution": "Hai số tròn chục liên tiếp có hiệu là 10. Số bé là: \\( \\frac{570 - 10}{2} = 280 \\). Số lớn là: 570 – 280 = 290",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 16: Trung bình cộng của bốn số là 17, thêm số thứ năm vào thì trung bình cộng của năm số là 19. Tính số thứ năm.",
+        "image_url": null,
+        "solution": "Tổng của bốn số là: \\( 17 \\times 4 = 68 \\). Tổng của năm số là \\( 19 \\times 5 = 95 \\). Số thứ năm là 95 – 68 = 27",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 17: Khi viết thêm số 9 vào bên phải của một số thì được số mới tăng thêm .... lần và … đơn vị.",
+        "image_url": null,
+        "solution": "Khi viết thêm số 9 vào bên phải của một số thì được số mới tăng thêm **10 lần** và **9** đơn vị.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Từ 1 đến 100 có bao nhiêu chữ số 1?",
+        "image_url": null,
+        "solution": "Từ 1 đến 100 có: Chữ số 1 thuộc hàng trăm: 100 ⇒ Chữ số 1 thuộc hàng chục: 10, 11, 12, 13, 14, …, 19 ⇒ Chữ số 1 thuộc hàng đơn vị: 91, 81, 71, 61, 51, 41, 31, 21, 11, 1 ⇒ Vậy từ 1 đến 100 có số chữ số chữ số 1 là: 1 + 10 + 10 = 21 (chữ số 1)",
+        "result": "21",
+        "error": false
+    },
+    {
+        "question": "Câu 2. 3,6 x 7,4 = ?",
+        "image_url": null,
+        "solution": "3,6 \\times 7,4 = 26,64",
+        "result": "26,64",
+        "error": false
+    },
+    {
+        "question": "Câu 3. 60% của 7,5 là ?",
+        "image_url": null,
+        "solution": "60\\% \\text{ của } 7,5 \\text{ là } 7,5 \\times \\frac{60}{100} = 4,5",
+        "result": "4,5",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Có 3 loại mảnh ghép hình tam giác, hình vuông và hình chữ nhật, tất cả có 240 hình. Số mảnh hình tam giác bằng 13",
+        "image_url": null,
+        "solution": "Số mảnh hình tam giác bằng 13 ⇒14 Số mảnh ghép hình tam giác là: 240 \\times \\frac{14}{60} = 60 Số mảnh ghép hình tam giác và hình vuông là: 240 - 60 = 180 (mảnh) Số mảnh hình chữ nhật là: \\frac{180 + 40}{2} = 110 (mảnh)",
+        "result": "110 mảnh ghép",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Tìm một số có hai chữ số. Biết rằng nếu viết thêm chữ số 1 vào giữa hai số đó thì ta được số mới hơn 8 lần số ban đầu là 14 đơn vị. Tìm số ban đầu.",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\overline{ab} Theo đề bài ta có \\overline{a1b} = \\overline{ab} \\times 8 + 14 \\Rightarrow a \\times 100 + 10 + b = a \\times 80 + b \\times 8 + 14 \\Rightarrow a \\times 20 = b \\times 7 + 4 \\Rightarrow a = 3, b = 8 Vậy số cần tìm là 38.",
+        "result": "38",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Một lớp có 32 học sinh, tổng điểm kiểm tra môn Toán của tất cả các bạn là 292 điểm. Số học sinh điểm 9 gấp đôi số bạn học sinh được điểm 10. Tính số học sinh được điểm 8. Biết các bạn chỉ có thể đạt điểm 8 ; 9 hoặc 10.",
+        "image_url": null,
+        "solution": "Giả sử cả 32 học sinh đều đạt điểm 8 thì tổng số điểm của cả lớp là: 32 \\times 8 = 256 (điểm) Số điểm hụt đi so với số điểm thực tế là 292 – 256 = 36 (điểm) Số bạn đạt điểm 10 là \\frac{36}{4} = 9 (bạn) Số bạn đạt điểm 9 là 9 \\times 2 = 18 (bạn) Số bạn đạt điểm 8 là: 32 – 9 – 18 = 5 (bạn)",
+        "result": "5 bạn",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Cho B = 135791113….2021. Hỏi chữ số thứ 2020 là số mấy?",
+        "image_url": null,
+        "solution": "Từ 1 đến 9 có số chữ số là: \\left(\\frac{9 - 1}{2} + 1\\right) \\times 1 = 5 (chữ số) Từ 11 đến 99 có: \\left(\\frac{99 - 11}{2} + 1\\right) \\times 2 = 90 (chữ số) Từ 101 đến 999 có: \\left(\\frac{999 - 101}{2} + 1\\right) \\times 3 = 1350 (chữ số) Từ 1 đến 999 có: 5 + 90 + 1350 = 1445 (chữ số) Số chữ số còn lại ghi số có 4 chữ số là: 2020 – 1445 = 575 (chữ số) Ta có: \\frac{575}{4} = 143 (dư 3) Suy ra chữ số thứ 2020 thuộc chữ số thứ 3 của số có bốn chữ số thứ 144. Số có bốn chữ số thứ 144 là: 1001 + (144 – 1) \\times 2 = 1287 Vậy chữ số thứ 2020 là số 8.",
+        "result": "8",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Lúc 6 giờ sáng, một xe máy đi từ A đến B với vận tốc 40 km/giờ. Lúc 7 giờ, một ô tô đi từ B về A với vận tốc 60 km/giờ. Biết hai xe gặp nhau ở chính giữa AB. Hỏi ô tô đi từ B về A lúc mấy giờ?",
+        "image_url": null,
+        "solution": "Xe máy đi trước xe ô tô số ki-lô-mét là: 40 \\times (7 – 6) = 40 (km) Trong cùng một khoảng thời gian, quãng đường và vận tốc là hai đại lượng tỉ lệ thuận với nhau. Tỉ số vận tốc của xe máy và ô tô là: \\frac{40}{60} = \\frac{2}{3} Tỉ số quãng đường của xe máy và ô tô đi được kể từ lúc 7 giờ đến khi gặp nhau là: \\frac{2}{3} Quãng đường ô tô đi được: \\frac{40}{3 - 2} \\times 3 = 120 (km) Thời gian ô tô đi nửa quãng đường AB là: \\frac{120}{60} = 2 (giờ) Ô tô đi từ B đến A lúc là: 7 giờ + (2 \\times 2) giờ = 11 giờ",
+        "result": "11 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Hiện nay tuổi bố gấp 5 lần tuổi con. Sau 10 năm nữa tuổi bố gấp 2,5 lần tuổi con. Tính tuổi con hiện nay.",
+        "image_url": null,
+        "solution": "Hiện nay, tuổi con bằng 14 Sau 10 năm nữa, tuổi con bằng 23 Suy ra, 10 năm tương ướng với 23−14=512 Hiệu số tuổi của hai bố con là \\frac{10}{512} = 24 Tuổi con hiện nay là: \\frac{24}{5 - 1} \\times 1 = 6 (tuổi)",
+        "result": "6 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Một hình hộp chữ nhật có chiều dài 8 dm, chiều rộng 4 dm, chiều cao là 5 dm được xếp bởi các hình lập phương có cạnh là 1 dm. Người ta sơn các mặt của hình hộp chữ nhật (không sơn mặt tiếp đất). Hỏi có bao nhiêu hình lập phương được sơn 1 mặt?",
+        "image_url": null,
+        "solution": "Số hình lập phương được sơn 1 mặt thuộc mặt trên của hình hộp chữ nhật là: (8 - 2) \\times (4 - 2) = 12 (hình) Số hình lập phương được sơn 1 mặt thuộc các mặt bên của hình hộp chữ nhật là: (8 - 2) \\times (5 - 1) \\times 2 + (5 - 1) \\times (4 - 2) \\times 2 = 64 (hình) Số hình lập phương được sơn 1 mặt là: 12 + 64 = 76 (hình)",
+        "result": "76 hình",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Cách 1: phần trăm TB = 100 % - ( phần trăm học lực Giỏi + phần trăm học lực Khá) Cách 2: Để phần trăm học lực trung bình là cao nhất thì tổng số phần trăm Giỏi và Khá phải thấp nhất trong các năm.",
+        "image_url": null,
+        "solution": "Đáp án: A",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Diện tích của mảnh đất hình chữ nhật là: 220 x 130 = 28.600 (m2) = 2,86 (ha) Diện tích đất chưa dọn cỏ còn lại là: 2,86 – 1,2 = 1,66 (ha)",
+        "image_url": null,
+        "solution": "Đáp án: C",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Số kilogam thịt xay đã dùng là: 4 : ( 3 + 2 ) x 3 = 2,4 (kg)",
+        "image_url": null,
+        "solution": "Đáp án: A",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Coi cụm “ TRƯỜNG NGUYỄN TẤT THÀNH“ gồm có 20 kí tự và âm Ê đứng vị trí thứ 11. Vị trí của âm Ê cuối cùng đứng ở vị trí thứ: 19 x 2 + 11 = 391",
+        "image_url": null,
+        "solution": "Đáp án: D",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Thời gian 2 xe chuyển động đến lúc gặp nhau là: 9 – 6 = 3(giờ) Tổng vận tốc của 2 xe là: 300 : 3 = 100 (km/h) Vận tốc của xe tải là: 100 – 55 = 45 (km/h)",
+        "image_url": null,
+        "solution": "Đáp số: 45km/giờ",
+        "result": "45km/giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 6: Sử dụng sơ đồ Ven ta có: Số học sinh tham gia cả 2 câu lạc bộ là: 15 + 20 - 30 = 5 (học sinh)",
+        "image_url": null,
+        "solution": "Đáp số: 5 học sinh",
+        "result": "5 học sinh",
+        "error": false
+    },
+    {
+        "question": "Câu 7: Sau 15 phút thùng chứa số lít nước là: 15 x 4 = 60 (lít) = 60 000 cm3 Thể tích của 3 khối kim loại hình lập phương là: 3 x 10 x 10 x 10 = 3000 (cm3 ) Thể tích thực của thùng là : 60 000 + 3000 = 63 000 (cm3 ) Chiều cao của thùng nước là: 63.000 : ( 60 x 50 ) = 21 (cm)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_13.png",
+        "solution": "Đáp số: 21 cm",
+        "result": "21 cm",
+        "error": false
+    },
+    {
+        "question": "Câu 8: Sau khi cho nhận: Số chim ở cành trên sau khi cho nhận là: 10 : (2 + 3 ) x 2 = 4(con) Số chim ở cành dưới sau khi cho nhận là: 10 – 4 = 6 (con) Số chim ở cành dưới lúc đầu là: 6 + 3 – 1 = 8 (con) Số chim ở cành trên lúc đầu là 10 – 8 = 2 (con)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_14.png",
+        "solution": "Đáp số: 8 con",
+        "result": "8 con",
+        "error": false
+    },
+    {
+        "question": "Câu 9: Giá người thứ nhất trả là: 280 000 x (100 + 10)% = 308 000 (đ) Giá người thứ hai trả là: 308 000 x (100 + 10) % = 338 800(đ) Giá người thứ ba trả là: 338 800 x (100 + 5)% = 355 740 (đ)",
+        "image_url": null,
+        "solution": "Đáp số: 355 740 đồng",
+        "result": "355 740 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 10: Giá tiền mua 1 lốc sữa là 5000 x 5 = 25 000 (đồng) Số lốc sữa cần mua là 200 : 6 = 33 (lốc) + 2 hộp Số tiền để mua sữa là 25 000 x 33 + 5000 x 2 = 85 000 (đồng) Giá tiền để mua 1 túi bánh là 25 000 x 10 = 250 000 (đồng) Số túi bánh cần mua là 50 : 11 = 4 (túi) + 6 gói Số tiền để mua bánh là 250 000 x 4 + 25 000 x 6 = 1 150 000 (đồng) Tổng số tiền để mua sữa và bánh là 835 000 + 1 150 000 = 1 985 000 (đồng)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0303/20_5.png",
+        "solution": "Đáp số: 1 985 000 đồng",
+        "result": "1 985 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 11: Số học sinh khối 6 và khối 7 chiếm 1−(25+13)=4151−(25+13)=415 Số học sinh khối 6, khối 7 và khối 8 chiếm 415+13=915415+13=915 Tổng số học sinh là 126:915=210126:915=210 Số học sinh của khối 6 và khối 7 là 415×210=56415×210=56 Số học sinh của khối 6 là 56 : (3 + 4) x 3 = 24 (học sinh)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0303/20_6.png",
+        "solution": "Đáp số: 24 học sinh",
+        "result": "24 học sinh",
+        "error": false
+    },
+    {
+        "question": "Câu 12: Mỗi sáng Nam cùng anh chạy bộ quanh bờ hồ Nghĩa Tân. Hai anh em chạy cùng chiều với vận tốc không đổi, xuất phát cùng một lúc, từ cùng một điểm thì sau 45 phút lại gặp nhau. Tính vận tốc trung bình của Nam. Biết rằng một vòng quanh bờ hồ dài 3km, Nam chạy chậm hơn anh và nếu chạy ngược chiều thì sau 10 phút lại gặp nhau. Đổi 10 phút = 1616 45 phút = 3434 Gọi s1 và v1 lần lượt là quãng đường và vận tốc chạy của Nam. Gọi s2 và v2 lần lượt là quãng đường và vận tốc chạy của Anh - Nếu chạy ngược chiều, xuất phát cùng lúc thì sau 10 phút lại gặp nhau Tổng vận tốc của hai anh em là v1+v2=3:16=18v1+v2=3:16=18 - Hai anh em chạy cùng chiều, xuất phát cùng một lúc, từ cùng một điểm thì sau 45 phút lại gặp nhau. Hiệu vận tốc của hai người là: v2−v1=3:34=4v2−v1=3:34=4 Vậy vận tốc trung bình của Nam là: (18 – 4) : 2 = 7 (km/giờ)",
+        "image_url": null,
+        "solution": "Đáp số: 7 km/giờ",
+        "result": "7 km/giờ",
+        "error": false
+    }
+]

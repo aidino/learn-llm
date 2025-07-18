@@ -1,0 +1,359 @@
+[
+    {
+        "question": "Câu 39. Giá tiền của một chiếc bút chì là 4000 đồng. Nếu giảm 110 A. 3600 đồng B. 40000 đồng C. 4400 đồng D. 400 đồng",
+        "image_url": null,
+        "solution": "Giá tiền để mua chiếc bút chì sau khi giảm là \\( 4000 \\times (1 - 0.1) = 3600 \\)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 40. Số đo thích hợp viết vào chỗ chấm của \\( 110^3 = \\ldots \\) là: A. 10 000 cm3 B. 100 000 cm3 C. 10 dm3 D. 1 000 000 cm3",
+        "image_url": null,
+        "solution": "\\( 110^3 = 110 \\times 1000000^3 = 100 000 \\) cm3",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 17. Phân số nào dưới đây có thể viết thành phân số thập phân: A. \\( \\frac{3}{8} \\) B. \\( \\frac{4}{7} \\) C. \\( \\frac{5}{9} \\) D. \\( \\frac{1}{3} \\)",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{3}{8} = \\frac{375}{1000} \\)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 18. Kết quả của phép tính \\( 5 : 1000 = \\ldots \\) là: A. 0,0005 B. 5000 C. 0,005 D. 0,05",
+        "image_url": null,
+        "solution": "\\( 5 : 1000 = 0,005 \\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 19: Thương của \\( \\frac{2}{5} \\div \\frac{3}{4} \\) là: A. \\( \\frac{1}{5} \\) B. \\( \\frac{6}{20} \\) C. \\( \\frac{8}{15} \\) D. \\( \\frac{3}{10} \\)",
+        "image_url": null,
+        "solution": "\\( \\frac{2}{5} \\div \\frac{3}{4} = \\frac{2}{5} \\times \\frac{4}{3} = \\frac{8}{15} \\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 20. Để vẽ hình tròn, ta sử dụng dụng cụ: A. Thước kẻ B. Ê-ke C. Com-pa D. Thước dây",
+        "image_url": null,
+        "solution": "Để vẽ hình tròn, ta sử dụng dụng cụ com-pa",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 21. Bốn năm liên tiếp có tất cả bao nhiêu ngày: A. 366 ngày B. 1461 ngày C. 365 ngày D. 1462 ngày",
+        "image_url": null,
+        "solution": "Bốn năm liên tiếp có 1 năm là năm nhuận. Bốn năm liên tiếp có tất cả số ngày là \\( 365 \\times 3 + 366 = 1461 \\) (ngày)",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 22. Lớp 5M có 32 học sinh. Số học sinh nữ bằng \\( \\frac{3}{5} \\) tổng số học sinh. Hỏi số học sinh nam của lớp 5M là bao nhiêu: A. 4 học sinh B. 32 học sinh C. 12 học sinh D. 20 học sinh",
+        "image_url": null,
+        "solution": "Số học sinh nữ bằng \\( \\frac{3}{5} \\times 32 = 19,2 \\) (làm tròn là 20 học sinh nữ). Số học sinh nam là \\( 32 - 20 = 12 \\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 23: Tìm \\( x \\) nếu \\( x \\times 2,5 = 1,3 \\): A. \\( x = 5,2 \\) B. \\( x = 0,52 \\) C. \\( x = 3,25 \\) D. \\( x = 0,52 \\)",
+        "image_url": null,
+        "solution": "\\( x \\times 2,5 = 1,3 \\Rightarrow x = \\frac{1,3}{2,5} = 0,52 \\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 24. Phép chia 68,37 cho 8,3 có thương là 8,23. Số dư của phép chia đó là: A. 6,1 B. 0,061 C. 0,61 D. 0,0061",
+        "image_url": null,
+        "solution": "Số dư của phép chia đó là \\( 68,37 - 8,3 \\times 8,23 = 0,061 \\)",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 25. Dãy phân số nào dưới đây được viết theo thứ tự tăng dần: A. \\( \\frac{2}{3}; \\frac{7}{12}; \\frac{3}{4}; \\frac{5}{6} \\) B. \\( \\frac{5}{6}; \\frac{3}{4}; \\frac{2}{3}; \\frac{7}{12} \\) C. \\( \\frac{7}{12}; \\frac{2}{3}; \\frac{3}{4}; \\frac{5}{6} \\) D. \\( \\frac{7}{12}; \\frac{3}{4}; \\frac{2}{3}; \\frac{5}{6} \\)",
+        "image_url": null,
+        "solution": "\\( \\frac{2}{3} = \\frac{8}{12}; \\frac{3}{4} = \\frac{9}{12}; \\frac{5}{6} = \\frac{10}{12} \\). Ta có \\( \\frac{7}{12} < \\frac{8}{12} < \\frac{9}{12} < \\frac{10}{12} \\). Vậy thứ tự tăng dần là \\( \\frac{7}{12}; \\frac{2}{3}; \\frac{3}{4}; \\frac{5}{6} \\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 26. Một xe tải chỉ có thể chở được 300 bao gạo, mỗi bao 50kg. Nếu chất lên xe tải đó loại gạo 75kg thì xe chở được nhiều nhất bao nhiêu bao gạo: A. 60 B. 200 C. 450 D. 40",
+        "image_url": null,
+        "solution": "Xe chở được nhiều nhất số bao gạo là \\( 300 \\times 50 : 75 = 200 \\) (bao)",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 27. Số lớn nhất trong các số 4,74; 7,04; 7,4; 7,47 là: A. 4,74 B. 7,04 C. 7,47 D. 7,4",
+        "image_url": null,
+        "solution": "Số lớn nhất trong các số đã cho là 7,47",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 28. Phát biểu nào dưới đây sai: A. Hình thoi có bốn cạnh bằng nhau B. Hình thoi có bốn góc vuông và bốn đường chéo C. Hình thoi có hai đường chéo vuông góc với nhau, cắt nhau tại trung điểm mỗi đường D. Hình thoi có hai cặp cạnh đối diện song song và bằng nhau",
+        "image_url": null,
+        "solution": "Phát biểu sai là: Hình thoi có bốn góc vuông và bốn đường chéo",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 29. Giá trị của biểu thức \\( 1^2 + 1^6 + 1^{12} + 1^{20} + 1^{30} + 1^{42} + 1^{56} \\) là: A. 7178 B. 98 C. 78 D. 38",
+        "image_url": null,
+        "solution": "\\( 1^2 + 1^6 + 1^{12} + 1^{20} + 1^{30} + 1^{42} + 1^{56} = 1 \\times 2 + 1 \\times 3 + 1 \\times 4 + 1 \\times 5 + 1 \\times 6 + 1 \\times 7 + 1 \\times 8 = 1 - 12 + 12 - 13 + 13 - 14 + 14 - 15 + 15 - 16 + 16 - 17 + 17 - 18 = 1 - 18 = 78 \\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 30. Hỗn số \\( 17 \\frac{5}{9} \\) viết dưới dạng phân số là: A. \\( \\frac{17}{59} \\) B. \\( \\frac{15}{99} \\) C. \\( \\frac{158}{9} \\) D. \\( \\frac{153}{9} \\)",
+        "image_url": null,
+        "solution": "Ta có \\( 17 \\frac{5}{9} = 17 \\times 9 + 5 = \\frac{158}{9} \\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 31. Một hình lập phương có diện tích xung quanh là 676cm². Diện tích toàn phần của hình lập phương đó là: A. 1014cm² B. 169cm² C. 156cm² D. 78cm²",
+        "image_url": null,
+        "solution": "Diện tích một mặt của hình lập phương là \\( 676 : 4 = 169 \\) (cm²). Diện tích toàn phần của hình lập phương đó là \\( 169 \\times 6 = 1014 \\) (cm²)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 32. Số thích hợp viết vào chỗ chấm của \\( 8,3 \\) ha = \\( \\ldots \\) m² là: A. 8300 B. 830 C. 80300 D. 83000",
+        "image_url": null,
+        "solution": "\\( 8,3 \\) ha = \\( 83,000 \\) m²",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 33. Đường kính của hình tròn có chu vi 204,1 cm là: A. 65cm B. 32,5cm C. 130cm D. 6,5cm",
+        "image_url": null,
+        "solution": "Đường kính của hình tròn có chu vi 204,1 cm là \\( 204,1 : 3,14 = 65 \\) (cm)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 34. Số _hai mươi mốt triệu không trăm tám mươi tư nghìn năm trăm linh hai_ viết là: A. 21 084 520 B. 210 845 002 C. 21 084 502 D. 2 184 502",
+        "image_url": null,
+        "solution": "Số _hai mươi mốt triệu không trăm tám mươi tư nghìn năm trăm linh hai_ viết là \\( 21 084 502 \\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 35. \\( \\frac{2}{5} \\) viết dưới dạng phần trăm là: A. 25% B. 60% C. 0,4% D. 40%",
+        "image_url": null,
+        "solution": "\\( \\frac{2}{5} = 0,4 = 40\\% \\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 36. Giá hoa tháng 5 tăng 10% so với giá hoa tháng 4. Giá hoa tháng 6 tăng 10% so với giá hoa tháng 5. Hỏi giá hoa tháng 6 tăng bao nhiêu phần trăm so với giá hoa tháng 4: A. 20% B. 21% C. 120% D. 10%",
+        "image_url": null,
+        "solution": "Coi giá hoa tháng tháng 4 là 100%. Giá hoa tháng 5 là 110%. Giá hoa tháng 6 là \\( 110\\% \\times 110\\% = 121\\% \\). Vậy so với tháng tư giá hoa tăng 21%",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 37. Số thích hợp viết vào chỗ chấm của \\( 3 \\)dm \\( 9 \\)mm = \\( \\ldots \\) dm là: A. 3,9 B. 3,09 C. 0,039 D. 309",
+        "image_url": null,
+        "solution": "\\( 3 \\)dm \\( 9 \\)mm = \\( 3,09 \\) dm",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Số thập phân gồm sáu phần trăm, năm phần mười, bảy phần nghìn là:",
+        "image_url": null,
+        "solution": "Số thập phân gồm sáu phần trăm, năm phần mười, bảy phần nghìn là \\(0,567\\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Số thích hợp viết vào chỗ chấm của 426 giây = … phút là:",
+        "image_url": null,
+        "solution": "Ta có \\(426 \\div 60 = 7,1\\) 426 giây = \\(7,1\\) phút.",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một hình thang có đáy bé là \\(a\\), đáy lớn là \\(b\\), chiều cao là \\(h\\) (\\(a, b, h\\) cùng đơn vị đo). Công thức tính diện tích \\(S\\) của hình thang đó là:",
+        "image_url": null,
+        "solution": "Công thức tính diện tích \\(S\\) của hình thang đó là \\(S=\\frac{(a+b)\\times h}{2}\\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Số thích hợp viết vào chỗ chấm của 780g = … kg là:",
+        "image_url": null,
+        "solution": "780g = \\(0,78\\) kg.",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Một xe ô tô cứ chạy quãng đường dài 70km thì tiêu thụ hết 10 lít xăng. Hỏi nếu ô tô đi quãng đường dài 280km thì tiêu thụ hết bao nhiêu lít xăng? (mức tiêu hao xăng trên 1km như nhau)",
+        "image_url": null,
+        "solution": "1 lít xăng đi được số km là \\(70 \\div 10 = 7\\) (km). Nếu ô tô đi quãng đường dài 280km thì tiêu thụ hết số lít xăng là \\(280 \\div 7 = 40\\) (lít).",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 6: Một đoàn tàu băng qua một cột điện hết 8 giây. Cũng với tốc độ đó, đoàn tàu băng qua một đường hầm dài 260m hết 1 phút. Vận tốc của đoàn tàu đó là:",
+        "image_url": null,
+        "solution": "Đổi 1 phút = 60 giây. Đoàn tàu đi qua đường hầm hết số giây là \\(60 – 8 = 52\\) (giây). Vận tốc đoàn tàu là \\(260 \\div 52 = 5\\) (m/giây). Đổi 5 m/giây = 18km/giờ.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 7: Một máy bay bay với vận tốc 650 km/giờ. Tính quãng đường máy bay bay được trong 2,4 giờ.",
+        "image_url": null,
+        "solution": "Quãng đường máy bay bay được trong 2,4 giờ là \\(650 \\times 2,4 = 1560\\) (km).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 8: Tìm số tự nhiên \\(x\\) sao cho \\(25x=56\\).",
+        "image_url": null,
+        "solution": "Giải phương trình \\(25x=56\\) ta được \\(x=30\\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 9: Hai vòi nước cùng chảy vào một bể không chứa nước thì sau 6 giờ đầy bể. Nếu vòi thứ nhất chảy trong 2 giờ, vòi thứ hai chảy trong 3 giờ thì được \\(\\frac{2}{5}\\) bể. Hỏi nếu chỉ có vòi thứ nhất chảy thì sau bao lâu đầy bể?",
+        "image_url": null,
+        "solution": "1 giờ cả hai vòi chảy được \\(\\frac{1}{6}\\) bể. Ta có: vòi thứ nhất chảy trong 2 giờ, vòi thứ hai chảy trong 3 giờ thì được \\(\\frac{2}{5}\\) bể. Coi vòi thứ nhất và vòi thứ hai cùng chảy trong 2 giờ sau đó vòi thứ hai chảy thêm 1 giờ nữa thì được \\(\\frac{2}{5}\\) bể. Trong 1 giờ vòi thứ hai chảy được \\(\\frac{2}{5} - 2 \\times \\frac{1}{6} = \\frac{1}{15}\\) bể. Trong 1 giờ vòi thứ nhất chảy được \\(\\frac{1}{6} - \\frac{1}{15} = \\frac{1}{10}\\) bể. Vòi thứ nhất chảy một mình trong số giờ thì đầy bể là \\(1 \\div \\frac{1}{10} = 10\\) giờ.",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 10: Mẹ hơn con 36 tuổi, tuổi mẹ gấp 4 lần tuổi con. Tuổi con hiện nay là:",
+        "image_url": null,
+        "solution": "Tuổi con hiện nay là \\(36 \\div (4 - 1) = 12\\) (tuổi).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 11: Tổng của hai số là 2020. Tìm hai số đó biết rằng giữa chúng có 5 số chẵn liên tiếp.",
+        "image_url": null,
+        "solution": "Ta có giữa 2 số có 5 số chẵn liên tiếp nên hiệu hai số là 10 hoặc 12. Trường hợp hiệu hai số là 10: Số lớn là \\((2020 + 10) \\div 2 = 1015\\). Số bé là \\(1015 - 10 = 1005\\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 12: Kết quả của phép tính \\(12,3 + 24,05 \\times 2,5\\) là:",
+        "image_url": null,
+        "solution": "\\(12,3 + 24,05 \\times 2,5 = 12,3 + 60,125 = 72,425\\).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 13: Thể tích của hình lập phương có cạnh bằng 5cm là:",
+        "image_url": null,
+        "solution": "Thể tích của hình lập phương có cạnh bằng 5cm là \\(5 \\times 5 \\times 5 = 125\\) (cm\\(^3\\)).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 14: Chị chia đào cho các em, nếu chia cho mỗi em 3 quả thì thừa 2 quả, nếu chia cho mỗi em 4 quả thì thiếu 2 quả. Hỏi có tất cả bao nhiêu quả đào?",
+        "image_url": null,
+        "solution": "Có tất cả 14 quả đào.",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 15: Hiệu của hai số là 129, biết rằng nếu lấy số bé cộng với số lớn rồi cộng với tổng hai số thì được kết quả là 2020. Vậy số lớn là:",
+        "image_url": null,
+        "solution": "Số bé + số lớn + tổng hai số = 2020. \\(2 \\times\\) tổng hai số = 2020. Tổng hai số là \\(2020 \\div 2 = 1010\\). Số lớn là \\((1010 + 129) \\div 2 = 569,5\\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 16: Biết 52% của một số là 507. Vậy 64% của số đó là:",
+        "image_url": null,
+        "solution": "Số đó là \\(507 \\div 52 \\times 100 = 975\\). 64% của số đó là \\(975 \\times 64 \\div 100\\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tìm số tận cùng A = 2 \\times 12 \\times \\ldots \\times 2022",
+        "image_url": null,
+        "solution": "A = 2 \\times 12 \\times \\ldots \\times 2022 \nA = (2 \\times 12 \\times 22 \\times 32) \\times (42 \\times 52 \\times 62 \\times 72) \\times \\ldots \\times (1962 \\times 1972 \\times 1982 \\times 1992) \\times 2002 \\times 2012 \\times 2022 \nA = \\overline{\\ldots 6} \\times \\overline{\\ldots 6} \\times \\ldots \\times \\overline{\\ldots 6} \\times 8 \\overline{\\ldots 6} \\times \\overline{\\ldots 6} \\times \\ldots \\times \\overline{\\ldots 6} \\times 8 \nA = \\overline{\\ldots 8} \\overline{\\ldots 8}",
+        "result": "Chữ số tận cùng là 8",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Nhiều hình lập phương nhỏ ghép thành 1 hình lập phương lớn có diện tích toàn phần bằng 484 cm^2. Bỏ 4 hình lập phương nhỏ ở 4 đỉnh đi thì diện tích toàn phần còn lại bằng bao nhiêu?",
+        "image_url": null,
+        "solution": "Nếu bỏ 4 hình lập phương nhỏ ở 4 đỉnh thì diện tích toán phần của hình lập phương lớn không thay đổi. Vậy diện tích toàn phần vẫn là 484 cm^2.",
+        "result": "484 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0627/20_1.png",
+        "solution": "Cạnh của hình vuông là: 4 \\times 2 = 8 \\text{ (cm)} \nDiện tích hình vuông là: 8 \\times 8 = 64 \\text{ (cm}^2) \nDiện tích đường tròn là: 4 \\times 4 \\times 3.14 = 50.24 \\text{ (cm}^2) \nDiện tích hình tô màu là: 64 - 50.24 = 13.76 \\text{ (cm}^2)",
+        "result": "13.76 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Một thửa ruộng hình thang có trung bình cộng hai đáy là 20.5m. Sau khi tăng đáy lớn lên 4 m thì diện tích phần tăng lên là 60 m^2. Hỏi diện tích thửa rộng ban đầu là bao nhiêu m^2?",
+        "image_url": null,
+        "solution": "Chiều cao hình thang là: 60 \\times 2 : 4 = 30 \\text{ (m)} \nTổng 2 đáy là: 20.5 \\times 2 = 41 \\text{ (m)} \nDiện tích thửa ruộng hình thang là: 41 \\times 30 : 2 = 615 \\text{ (m}^2)",
+        "result": "615 m^2",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một cửa hàng có một số kg thóc. Lần đầu bán được 2525 kg, lần thứ hai bán được 1313 kg. Hỏi số kg thóc ban đầu là bao nhiêu?",
+        "image_url": null,
+        "solution": "Số thóc còn lại bằng 1313 \\Rightarrow 1414 \n280 kg thóc ứng với số phần là: 1 - \\frac{25}{1414} = \\frac{7}{20} \nSố kg thóc ban đầu là: 280 : \\frac{7}{20} = 800",
+        "result": "800 kg",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Một ô tô đi từ A đến B mất bao nhiêu thời gian và vận tốc của ô tô là bao nhiêu?",
+        "image_url": null,
+        "solution": "Thời gian ô tô đi từ A đến B là: 10 \\text{ giờ } 20 \\text{ phút} - 8 \\text{ giờ } 20 \\text{ phút} - 10 \\text{ phút} = 1 \\text{ giờ } 50 \\text{ phút} = \\frac{116}{116} \nVận tốc của ô tô là: \\frac{88}{116} = 48",
+        "result": "48 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 1. a) Tính tiền lãi b) Tính số lọ bị vỡ",
+        "image_url": null,
+        "solution": "a) Số tiền vốn là: 30 \\times 20 = 600 \\text{ (nghìn đồng)} \nTiền lãi là: 600 \\times 20\\% = 120 \\text{ (nghìn đồng)} \nb) Số tiền bán thu được là: 600 + 120 = 720 \\text{ (nghìn đồng)} \nSố lọ hoa còn lại được bán là: 720 : 40 = 18 \\text{ (lọ)} \nSố lọ hoa bị vỡ là 20 - 18 = 2 \\text{ (lọ hoa)}",
+        "result": "2 lọ hoa",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tính A, biết A=61\\times3+63\\times5+.....+697\\times99",
+        "image_url": null,
+        "solution": "A=61\\times3+63\\times5+.....+697\\times99 \nA:3=21\\times3+23\\times5+......+297\\times99 \nA:3=1-13+13-15+....+197-199 \nA:3=1-199 \nA:3=9899 \nA=9899\\times3 \nA=9833",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. (3 điểm). Điền số thích hợp vào chỗ trống. Có",
+        "image_url": null,
+        "solution": "Gọi số tự nhiên cần tìm là \\( a \\) (\\( a \\neq 0 \\); \\( a \\neq 1 \\) và \\( a > 5 \\)) Ta có 86 chia cho \\( a \\) dư 5 nên \\((86 - 5)\\) chia hết cho \\( a \\) Hay 81 chia hết cho \\( a \\). Mà \\( a \\neq 1 \\) và \\( a > 5 \\) nên \\( a = 9, 27, 81 \\) Vậy có 3 số tự nhiên mà khi chia 86 cho các số đó đều có dư là 5.",
+        "result": "3",
+        "error": false
+    },
+    {
+        "question": "Bài 2. (3 điểm). Điền số thích hợp vào chỗ trống. An và Bình cùng tham gia đua xe đạp. Các vận động viên xuất phát cùng một lúc tại điểm xuất phát và về đích tại các thời điểm khác nhau. An về ngay sau Bình và xếp ở vị trí thứ 15, Bình xếp thứ tư tính từ dưới lên. Vậy có tất cả",
+        "image_url": null,
+        "solution": "An về ngay sau Bình và xếp ở vị trí thứ 15 nên Bình xếp ở vị trí 14. Bình xếp thứ tư tính từ dưới lên. Suy ra có tất cả 17 vận động viên tham gia cuộc đua.",
+        "result": "17",
+        "error": false
+    },
+    {
+        "question": "Bài 3. (3 điểm) Các số tự nhiên lẻ 1, 3, 5, 7, …, 2021, 2023, … được điền vào một bảng dưới đây. Trong đó các số ở hàng lẻ được sắp xếp theo thứ tự tăng dần từ trái sang phải còn các số ở hàng chẵn được sắp xếp theo thứ tự tăng dần từ phải sang trái. Hỏi số 2023 nằm ở hàng mấy? Cột nào?",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0125/20_1.png",
+        "solution": "Số 2023 là số hạng thứ \\((2023 – 1) / 2 + 1 = 1012\\) của dãy số đã cho. Ta thấy cứ 4 số được xếp vào 1 hàng. Mà \\(1012 / 4 = 253\\) nên số 2023 nằm ở hàng thứ 253. Lại có 1012 chia hết cho 4 nên số 2023 nằm ở cột D.",
+        "result": "Hàng: 253, Cột: D",
+        "error": false
+    },
+    {
+        "question": "Bài 4. (6 điểm) Một mảnh đất hình chữ nhật có chiều dài gấp ba lần chiều rộng. Nếu tăng chiều dài thêm 1 m và tăng chiều rộng thêm 1 m thì được mảnh đất hình chữ nhật mới có diện tích hơn diện tích mảnh đất lúc đầu là 17 m². a) Vẽ một hình biểu diễn mảnh đất lúc đầu và lúc sau. b) Tính diện tích của mảnh đất lúc đầu.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0125/20_2.png",
+        "solution": "a) Hình vẽ, trong đó: - Vẽ được mảnh đất lúc đầu, lúc sau. - Thể hiện được 4 hình chữ nhật bằng nhau. - Thể hiện được hình vuông cạnh 1 m. b) Theo hình vẽ, phần diện tích tăng thêm 17 m² bao gồm bốn hình chữ nhật nhỏ bằng nhau chiều rộng bằng 1 m và một hình vuông cạnh bằng 1 m. Diện tích hình vuông: \\(1 \\times 1 = 1\\) (m²) Diện tích hình chữ nhật nhỏ: \\((17 – 1) / 4 = 4\\) (m²) Chiều dài hình chữ nhật nhỏ cũng chính là chiều rộng mảnh đất: \\(4 / 1 = 4\\) (m) Chiều dài mảnh đất: \\(4 \\times 3 = 12\\) (m) Diện tích mảnh đất: \\(12 \\times 4 = 48\\) (m²)",
+        "result": "48 m²",
+        "error": false
+    }
+]

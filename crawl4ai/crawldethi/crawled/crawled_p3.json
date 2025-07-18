@@ -1,0 +1,520 @@
+[
+    {
+        "question": "0,5 lít sữa là: 1,08 : 2 = 0,54 (kg) Cân nặng của 1 chai sữa là 0,54 + 0,1 = 0,64 (kg) Cân nặng của 64 chai sữa là 0,64 x 100 = 64 (kg)",
+        "image_url": null,
+        "solution": "0,5 lít sữa là: \\( \\frac{1,08}{2} = 0,54 \\text{ kg} \\) Cân nặng của 1 chai sữa là \\( 0,54 + 0,1 = 0,64 \\text{ kg} \\) Cân nặng của 64 chai sữa là \\( 0,64 \\times 100 = 64 \\text{ kg} \\)",
+        "result": "64 kg",
+        "error": false
+    },
+    {
+        "question": "Gọi số đã cho là \\( \\overline{abc} \\) Theo đề bài ta có \\( \\overline{abc}=\\overline{bc}\\times7 \\) \\( a\\times100+\\overline{bc}=\\overline{bc}\\times7 \\) \\( a\\times100=\\overline{bc}\\times6 \\) \\( a\\times50=\\overline{bc}\\times3 \\) \\( \\Rightarrow a=3 \\overline{bc}=50 \\) Số đó là 350",
+        "image_url": null,
+        "solution": "Gọi số đã cho là \\( \\overline{abc} \\) Theo đề bài ta có \\( \\overline{abc}=\\overline{bc}\\times7 \\) \\( a\\times100+\\overline{bc}=\\overline{bc}\\times7 \\) \\( a\\times100=\\overline{bc}\\times6 \\) \\( a\\times50=\\overline{bc}\\times3 \\) \\( \\Rightarrow a=3 \\overline{bc}=50 \\) Số đó là 350",
+        "result": "350",
+        "error": false
+    },
+    {
+        "question": "Chu vi một hình chữ nhật bằng chu vi một hình vuông có diện tích 49 cm². Biết chiều dài hơn chiều rộng 4 cm, tính diện tích hình chữ nhật.",
+        "image_url": null,
+        "solution": "Diện tích hình vuông là 49 cm² nên độ dài cạnh hình vuông là 7 cm. Chu vi hình vuông là \\( 7 \\times 4 = 28 \\text{ cm} \\) Nửa chu vi hình chữ nhật là \\( \\frac{28}{2} = 14 \\text{ cm} \\) Chiều dài hình chữ nhật là \\( \\frac{14 + 4}{2} = 9 \\text{ cm} \\) Chiều rộng hình chữ nhật là \\( 14 - 9 = 5 \\text{ cm} \\) Diện tích hình chữ nhật là \\( 9 \\times 5 = 45 \\text{ cm}^2 \\)",
+        "result": "45 cm²",
+        "error": false
+    },
+    {
+        "question": "Hình bình hành ABCD có AB = 4 cm, AH = 3 cm, DH = 1 cm. Tính diện tích hình thang AHCB.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0129/20_1.png",
+        "solution": "HC = 4 – 1 = 3 (cm) Diện tích hình thang AHCB là \\( \\frac{(4 + 3) \\times 3}{2} = 10,5 \\text{ cm}^2 \\)",
+        "result": "10,5 cm²",
+        "error": false
+    },
+    {
+        "question": "Đường kính của một bánh xe đạp là 70 cm. Bánh xe lăn được 1 000 vòng thì xe đạp đi được bao nhiêu mét?",
+        "image_url": null,
+        "solution": "Chu vi bánh xe là \\( 70 \\times 3,14 = 219,8 \\text{ cm} \\) Bánh xe lăn được 1 000 vòng thì được: \\( 219,8 \\times 1 000 = 219 800 \\text{ cm} = 2 198 \\text{ m} \\)",
+        "result": "2 198 m",
+        "error": false
+    },
+    {
+        "question": "Cho hình chữ nhật ABCD có AB = 45 cm, AD = 30 cm, BM = 23. Tính diện tích tam giác NCM.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0129/21_1.png",
+        "solution": "BM = 23 AM = 45 – 30 = 15 (cm) ND = 12 AN = 30 – 10 = 20 (cm) Diện tích tam giác AMN là \\( \\frac{20 \\times 15}{2} = 150 \\text{ cm}^2 \\) Diện tích tam giác NDC là: \\( \\frac{45 \\times 10}{2} = 225 \\text{ cm}^2 \\) Diện tích tam giác MBC là: \\( \\frac{30 \\times 30}{2} = 450 \\text{ cm}^2 \\) Diện tích hình chữ nhật ABCD là \\( 45 \\times 30 = 1350 \\text{ cm}^2 \\) Diện tích tam giác NCM là: \\( 1350 - (150 + 225 + 450) = 525 \\text{ cm}^2 \\)",
+        "result": "525 cm²",
+        "error": false
+    },
+    {
+        "question": "Cho tam giác ABC có diện tích 48 cm². Biết D là trung điểm BC, AE = 12. Tính diện tích tam giác AFDE.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0129/22_1.png",
+        "solution": "SCFD=\\frac{CF}{CA}\\times\\frac{CD}{CB}\\times S_{ABC}=\\frac{1}{4}\\times\\frac{1}{2}\\times48=6 \\text{ cm}^2 \\) SBED=\\frac{BE}{BA}\\times\\frac{BD}{BC}\\times S_{ABC}=\\frac{2}{3}\\times\\frac{1}{2}\\times48=16 \\text{ cm}^2 \\) SAFDE=S_{ABC}-SCFD-SBED=48-16-6=26 \\text{ cm}^2 \\)",
+        "result": "26 cm²",
+        "error": false
+    },
+    {
+        "question": "Nếu cạnh của hình lập phương được gấp lên 3 lần thì diện tích toàn phần của hình lập phương gấp lên bao nhiêu lần?",
+        "image_url": null,
+        "solution": "Diện tích toàn phần của hình lập phương là: \\( a \\times a \\times 6 \\) Nếu cạnh của hình lập phương gấp lên 3 lần thì diện tích toàn phần là: \\( (a \\times 3) \\times (a \\times 3) \\times 6 \\) \\( \\Rightarrow \\) Đáp án: 9 lần",
+        "result": "9 lần",
+        "error": false
+    },
+    {
+        "question": "Hình bên được xếp từ các khối lập phương nhỏ giống nhau từng lớp theo quy luật. Nhìn từ trên xuống theo chiều mũi tên, lớp thứ nhất ở trên cùng gồm có 2 khối lập phương nhỏ. Nếu tiếp tục xếp như vậy thì lớp thứ 4 sẽ có bao nhiêu khối lập phương nhỏ?",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0129/24_1.png",
+        "solution": "Hình vẽ trên nhìn từ trên xuống theo chiều mũi tên, ta có: Lớp thứ nhất trên cùng gồm 2 khối Lớp thứ 2 gồm \\( 2 \\times 3 = 6 \\) khối Lớp thứ 3 gồm \\( 2 \\times 5 = 10 \\) khối Vậy lớp thứ 4 sẽ gồm: \\( 2 \\times 7 = 14 \\) khối lập phương nhỏ",
+        "result": "14 khối",
+        "error": false
+    },
+    {
+        "question": "Hình hộp chữ nhật có chiều rộng bằng 4 cm, chiều dài gấp 2 lần chiều rộng, chiều cao ngắn hơn chiều dài 2 cm. Tính thể tích hình hộp chữ nhật.",
+        "image_url": null,
+        "solution": "Chiều dài hình hộp chữ nhật là: \\( 4 \\times 2 = 8 \\text{ cm} \\) Chiều cao hình hộp chữ nhật là: \\( 8 - 2 = 6 \\text{ cm} \\) Thể tích hình hộp chữ nhật là: \\( 4 \\times 8 \\times 6 = 192 \\text{ cm}^3 \\)",
+        "result": "192 cm³",
+        "error": false
+    },
+    {
+        "question": "Tính thể tích hình lập phương biết hiệu của diện tích toàn phần và diện tích xung quanh là 50 cm².",
+        "image_url": null,
+        "solution": "Diện tích 1 mặt của hình lập phương là \\( \\frac{50}{2} = 25 \\text{ cm}^2 \\) \\( \\Rightarrow \\) Thể tích hình lập phương là \\( 5 \\times 5 \\times 5 = 125 \\text{ cm}^3 \\)",
+        "result": "125 cm³",
+        "error": false
+    },
+    {
+        "question": "Một bể cá hình hộp chữ nhật có kích thước trong lòng bể là: chiều dài 3 m, chiều rộng 2 m, mức nước có trong bể cao 0,5 m. Người ta thả vào bể một hòn đá làm hòn non bộ thì mức nước trong bể cao 0,6 m. Tính thể tích phần hòn non bộ ngập trong bể nước.",
+        "image_url": null,
+        "solution": "Ta thấy thể tích phần hòn non bộ ngập trong bể nước chính là phần mà làm cho nước dâng lên Ta tính được chiều cao của mức nước dâng lên là: \\( 0,6 - 0,5 = 0,1 \\text{ m} \\) Thể tích phần làm cho nước dâng lên sẽ bằng chiều dài bể \\times chiều rộng bể \\times chiều cao của mức nước dâng lên = \\( 3 \\times 2 \\times 0,1 = 0,6 \\text{ m}^3 \\)",
+        "result": "0,6 m³",
+        "error": false
+    },
+    {
+        "question": "Số đó là 21 : 7% = 21 : 7 x 100 = 300",
+        "image_url": null,
+        "solution": "Số đó là \\( \\frac{21}{7\\%} = \\frac{21}{7} \\times 100 = 300 \\)",
+        "result": "300",
+        "error": false
+    },
+    {
+        "question": "Số kg cơ thể là nước của 1 người nặng 60kg là: 60 x 70% = 60 x 70 : 100 = 4200 : 100 = 42 (kg)",
+        "image_url": null,
+        "solution": "Số kg cơ thể là nước của 1 người nặng 60kg là: \\( 60 \\times 70\\% = 60 \\times \\frac{70}{100} = \\frac{4200}{100} = 42 \\text{ kg} \\)",
+        "result": "42 kg",
+        "error": false
+    },
+    {
+        "question": "60% số học sinh còn lại sẽ là nam Vậy 15 học sinh nam sẽ ứng với 60% số học sinh của lớp Vậy cả lớp có tất cả:",
+        "image_url": null,
+        "solution": "15 \\div 60\\% = 15 \\times \\frac{100}{60} = 25 \\text{ (học sinh)}",
+        "result": "60 học sinh",
+        "error": false
+    },
+    {
+        "question": "Tủ lạnh giảm 20% tức là còn 80% 80% chiếc tủ lạnh tương ứng với giá là 4 000 000 đồng Giá ban đầu của chiếc tủ lạnh là:",
+        "image_url": null,
+        "solution": "4 000 000 \\div 80\\% = 4 000 000 \\times \\frac{100}{80} = 5 000 000 \\text{ (đồng)}",
+        "result": "5 000 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Lãi suất tiết kiệm là 0,5% một tháng. Một người gửi tiết kiệm 10 000 000 đồng. Hỏi sau một tháng cả số tiền gửi và tiền lãi là bao nhiêu?",
+        "image_url": null,
+        "solution": "Số tiền lãi sau 1 tháng là: 10 000 000 \\times \\frac{0.5}{100} = 50 000 \\text{ (đồng)} \nVậy cả tiền gửi và tiền lãi sau 1 tháng là: 10 000 000 + 50 000 = 10 050 000 \\text{ (đồng)}",
+        "result": "10 050 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Điền vào chỗ chấm: 5 giờ 45 phút + 2 giờ 35 phút = ... giờ… phút.",
+        "image_url": null,
+        "solution": "5 \\text{ giờ } 45 \\text{ phút } + 2 \\text{ giờ } 35 \\text{ phút } = 8 \\text{ giờ } 20 \\text{ phút }.",
+        "result": "8 giờ 20 phút",
+        "error": false
+    },
+    {
+        "question": "5m/s=51000136005×36001000",
+        "image_url": null,
+        "solution": "5 \\text{ m/s} = \\frac{5 \\times 3600}{1000} = 18 \\text{ km/giờ}",
+        "result": "18 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Đổi 15 phút = 14 Quãng đường từ nhà Tú đến trường là:3×14=34",
+        "image_url": null,
+        "solution": "Quãng đường từ nhà Tú đến trường là: \\frac{3}{4} = 750 \\text{ m}",
+        "result": "750 m",
+        "error": false
+    },
+    {
+        "question": "Tàu đi từ thành phố A đến thành phố B trong 5 tiếng. Biết hai thành phố cách nhau 160 km, tính vận tốc của tàu.",
+        "image_url": null,
+        "solution": "Vận tốc của tàu là \\frac{160}{5} = 32 \\text{ km/giờ}",
+        "result": "32 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Quãng đường đi thêm lãng phí sẽ là 5km đầu tiên và 5km quay đầu ngược trở về là 10km Thời gian thực tế so với thời gian dự định cách nhau: 9 giờ - 8 giờ 30 phút = 30 (phút) Vậy tổng thời gian đi 5km rồi quay về và nghỉ 10 phút là 30 phút ⇒13 Vận tốc của xe máy là: 10:13=30",
+        "image_url": null,
+        "solution": "Vận tốc của xe máy là: \\frac{10}{\\frac{1}{3}} = 30 \\text{ km/giờ}",
+        "result": "30 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Tính: 999989+99989+9989+989+49",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0129/20_2.png",
+        "solution": "999989 + 99989 + 9989 + 989 + 49 = 11110",
+        "result": "11110",
+        "error": false
+    },
+    {
+        "question": "Ta lấy những nhóm số chia hết cho 3 gồm có: 0; 1; 2 (0 + 1 + 2 = 3 chia hết cho 3) và 1; 2; 3 (1 + 2 + 3 = 6 chia hết cho 3) Nhóm 0; 1; 2 ta lập được: 4 số chia hết cho 3 Nhóm 1; 2; 3 ta lập được: 6 số chia hết cho 3 Vậy tổng cộng ta lập được: 4 + 6 = 10 số chia hết cho 3",
+        "image_url": null,
+        "solution": "Nhóm 0; 1; 2 ta lập được: 4 \\text{ số chia hết cho 3} \nNhóm 1; 2; 3 ta lập được: 6 \\text{ số chia hết cho 3} \nVậy tổng cộng ta lập được: 4 + 6 = 10 \\text{ số chia hết cho 3}",
+        "result": "10 số",
+        "error": false
+    },
+    {
+        "question": "Nếu chia mỗi học sinh 3 cái kẹo thì cô còn thừa 30 cái kẹo Nếu chia mỗi học sinh 4 cái kẹo thì cô còn thừa 4 cái kẹo Hay khi còn 30 cái kẹo cô cho thêm mỗi học sinh 1 cái thì cô còn 4 cái kẹo => Số kẹo cô đã cho thêm là: 30 - 4 = 26 (cái kẹo) Cô cho thêm mỗi học sinh 1 cái kẹo tức là cho 26 cái kẹo sẽ tương ứng với 26 học sinh. Số kẹo ban đầu của cô giáo là: 26 x 3 + 30 = 108 (cái kẹo)",
+        "image_url": null,
+        "solution": "Số kẹo cô đã cho thêm là: 30 - 4 = 26 \\text{ (cái kẹo)} \nCô cho thêm mỗi học sinh 1 cái kẹo tức là cho 26 cái kẹo sẽ tương ứng với 26 học sinh. \nSố kẹo ban đầu của cô giáo là: 26 \\times 3 + 30 = 108 \\text{ (cái kẹo)}",
+        "result": "108 cái kẹo",
+        "error": false
+    },
+    {
+        "question": "An nói: “Tớ cao nhất.” Bình nói: “Tớ không phải là người thấp nhất.” Cường nói: “Tớ không cao bằng An nhưng có một người thấp hơn tớ.” Dũng nói: “Tớ thấp nhất.” Biết rằng có 1 bạn nói dối, hỏi bạn nào cao nhất?",
+        "image_url": null,
+        "solution": "Theo đề bài ta có 1 bạn nói dối nên ta sẽ xét từng trường hợp \n1 - TH1: An nói dối ⇒ Ta có thứ tự từ cao đến thấp như sau: Bình, An, Cường, Dũng \n- TH2: Bình nói dối ⇒ Bình là người thấp nhất nhưng Dũng cũng nói mình thấp nhất (mâu thuẫn -> loại) \n- TH3: Cường nói dối ⇒ Tương tự TH2 thì trong TH này Cường cao nhất mà An cũng nói mình cao nhất (mâu thuẫn -> loại) \n- TH4: Dũng nói dối ⇒ Tương tự TH này Dũng cao nhất mà An cũng cao nhất (mâu thuẫn -> loại) \n⇒ Bình là người cao nhất.",
+        "result": "Bình",
+        "error": false
+    },
+    {
+        "question": "Cho 22 tấm thẻ được viết các số tự nhiên liên tiếp từ 1 đến 22. Lấy 2 thẻ số khác nhau ghép lại để tạo 1 phân số. Cứ như vậy sẽ có 11 phân số được tạo ra. Hỏi có thể tạo được nhiều nhất bao nhiêu phân số có giá trị bằng một số tự nhiên?",
+        "image_url": null,
+        "solution": "2 thẻ số khác nhau ghép lại tạo thành 1 phân số \nVậy ta có thể ghép được: \\frac{22}{2} = 11 \\text{ phân số bất kì} \nPhân số có giá trị bằng số tự nhiên tức là tử số cần chia hết cho mẫu số \nTa xét số 13; 17; 19. Ba số này chỉ có thể ghép với 1 để thành phân số có giá trị bằng số tự nhiên. \nVí dụ ta lấy số \\frac{13}{1} \n⇒ Các phân số đó là: \\frac{13}{1}, \\frac{4}{2}, \\frac{21}{3}, \\frac{15}{5}, \\frac{12}{6}, \\frac{14}{7}, \\frac{16}{8}, \\frac{18}{9}, \\frac{20}{10}, \\frac{22}{11}",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. Số “Bốn triệu năm trăm nghìn” có bao nhiêu chữ số 0?",
+        "image_url": null,
+        "solution": "Số “Bốn triệu năm trăm nghìn” viết là 4 500 000 nên có 5 chữ số 0.",
+        "result": "5 chữ số 0",
+        "error": false
+    },
+    {
+        "question": "Bài 2. Tính: 34 567 + 82 164 + 17 836 + 15 433",
+        "image_url": null,
+        "solution": "34 567 + 82 164 + 17 836 + 15 433 = 34 567 + 15 433 + 82 164 + 17 836 = 50 000 + 100 000 = 150 000",
+        "result": "150 000",
+        "error": false
+    },
+    {
+        "question": "Bài 3. Trong một phép trừ, số bị trừ gấp đôi số trừ. Biết hiệu của phép trừ là 570, tìm số bị trừ.",
+        "image_url": null,
+        "solution": "Giả sử ta gọi số trừ là 1 phần, số bị trừ là 2 phần. Hiệu của phép trừ là 570 nên 1 phần bằng 570.",
+        "result": "1140",
+        "error": false
+    },
+    {
+        "question": "Bài 4. Một số chia cho 9 được thương bằng 15 và dư 5. Tìm số đó.",
+        "image_url": null,
+        "solution": "Số đó là 15 \\times 9 + 5 = 140",
+        "result": "140",
+        "error": false
+    },
+    {
+        "question": "Bài 5. Cần bao nhiêu chữ số để viết các số tự nhiên liên tiếp từ 1 đến 20?",
+        "image_url": null,
+        "solution": "Từ 1 đến 9 có 9 số có một chữ số. Từ 10 đến 20 có 11 số có hai chữ số. Vậy số chữ số cần để viết các số tự nhiên liên tiếp từ 1 đến 20 là: 9 + 22 = 31 (chữ số)",
+        "result": "31 chữ số",
+        "error": false
+    },
+    {
+        "question": "Bài 6. Tính 29 \\times 1815 \\times 104",
+        "image_url": null,
+        "solution": "29 \\times 1815 \\times 104 = 2 \\times 18 \\times 109 \\times 15 \\times 4 = 2 \\times 9 \\times 2 \\times 5 \\times 29 \\times 5 \\times 3 \\times 2 \\times 2 = 23",
+        "result": "23",
+        "error": false
+    },
+    {
+        "question": "Bài 7. Tìm x: 15 + x = 37",
+        "image_url": null,
+        "solution": "15 + x = 37 \\Rightarrow x = 37 - 15 \\Rightarrow x = 22",
+        "result": "22",
+        "error": false
+    },
+    {
+        "question": "Bài 8. Viết phân số bằng phân số \\frac{2}{3}",
+        "image_url": null,
+        "solution": "\\frac{2}{3} = \\frac{2 \\times 6}{3 \\times 6} = \\frac{12}{18}",
+        "result": "\\frac{12}{18}",
+        "error": false
+    },
+    {
+        "question": "Bài 9. Số nào lớn nhất trong các số \\frac{14}{3}, \\frac{17}{9}, \\frac{23}{10}?",
+        "image_url": null,
+        "solution": "\\frac{14}{3} = 4.67, \\frac{17}{9} = 1.89, \\frac{23}{10} = 2.3. Ta có \\frac{14}{3} > \\frac{23}{10} > \\frac{17}{9}. Vậy số lớn nhất trong dãy trên là \\frac{14}{3}.",
+        "result": "\\frac{14}{3}",
+        "error": false
+    },
+    {
+        "question": "Bài 10. Cho dãy các phân số có quy luật sau: \\frac{1}{2}, \\frac{3}{2}, \\frac{3}{3}, \\frac{4}{3}, \\frac{4}{4}, \\frac{5}{4}, \\frac{5}{5}. Viết phân số thứ 15 trong dãy.",
+        "image_url": null,
+        "solution": "Theo đề bài ta thấy: - Mẫu số là 2 ta có 1 phân số là \\frac{1}{2}. - Mẫu số là 3 ta có 2 phân số là \\frac{3}{2}, \\frac{3}{3}. - Mẫu số là 4 ta có 3 phân số là \\frac{4}{3}, \\frac{4}{4}, \\frac{5}{4}. - Mẫu số là 5 ta có 4 phân số là \\frac{5}{5}, \\frac{6}{5}, \\frac{6}{6}, \\frac{7}{5}. - Vậy mẫu số là 6 ta có 5 phân số là \\frac{7}{6}, \\frac{8}{6}, \\frac{8}{7}, \\frac{9}{6}, \\frac{9}{7}. Ta thấy khi mẫu số đến 5 thì đã có 10 phân số. Vậy phân số thứ 15 trong dãy trên là \\frac{5}{6}.",
+        "result": "\\frac{5}{6}",
+        "error": false
+    },
+    {
+        "question": "Bài 11. Viết số 0,24 dưới dạng phân số tối giản.",
+        "image_url": null,
+        "solution": "0,24 = \\frac{24}{100} = \\frac{6}{25}",
+        "result": "\\frac{6}{25}",
+        "error": false
+    },
+    {
+        "question": "Bài 12. Điền số thích hợp với chỗ chấm: 3 tạ 20 kg = … tấn.",
+        "image_url": null,
+        "solution": "3 tạ 20 kg = 320 kg = 0,32 tấn.",
+        "result": "0,32 tấn",
+        "error": false
+    },
+    {
+        "question": "Bài 13. Tìm a biết: \\( b = 7,2 \\times 0,5 \\)",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0129/25.png",
+        "solution": "b = 7,2 \\times 0,5 = 3,6. a = 3,6 - 3,4 = 0,2",
+        "result": "a = 0,2",
+        "error": false
+    },
+    {
+        "question": "Bài 14. Tính 5,12 \\times 4,5 + 4,88 \\times 4,5.",
+        "image_url": null,
+        "solution": "5,12 \\times 4,5 + 4,88 \\times 4,5 = 4,5 \\times (5,12 + 4,88) = 4,5 \\times 10 = 45",
+        "result": "45",
+        "error": false
+    },
+    {
+        "question": "Bài 15. Chỉ từ các chữ số 3; 4; 7, viết được bao nhiêu số thập phân lớn hơn 4 có các chữ số khác nhau và có hai chữ số ở phần thập phân?",
+        "image_url": null,
+        "solution": "Theo đề bài, các số cần tìm lớn hơn 4 nên sẽ là các số sau: 4,37 ; 4,73 ; 7,34 ; 7,43. Vậy ta viết được 4 số.",
+        "result": "4 số",
+        "error": false
+    },
+    {
+        "question": "Bài 16. Một cuộn dây dài 6 m được cắt ra thành 15 đoạn bằng nhau. Hỏi mỗi đoạn dây dài bao nhiêu mét?",
+        "image_url": null,
+        "solution": "Độ dài mỗi đoạn dây là: 6 \\div 15 = 0,4",
+        "result": "0,4 m",
+        "error": false
+    },
+    {
+        "question": "Bài 17. Trung bình cộng hai số là 5,64. Biết hiệu của hai số là 4,2, tìm số bé.",
+        "image_url": null,
+        "solution": "Tổng của 2 số là: 5,64 \\times 2 = 11,28. Theo đề bài ta biết hiệu của 2 số = 4,2. Số bé là: (11,28 - 4,2) \\div 2 = 7,08 \\div 2 = 3,54",
+        "result": "3,54",
+        "error": false
+    },
+    {
+        "question": "Bài 18. 47",
+        "image_url": null,
+        "solution": "Số đó là 140 \\div 47 = 2,45",
+        "result": "2,45",
+        "error": false
+    },
+    {
+        "question": "Bài 19. Hằng có một số hình dán, Hằng đã cho bạn 12",
+        "image_url": null,
+        "solution": "Số hình dán Hằng có trước khi cho thêm 1 cái là: 11 + 1 = 12 (cái). Số hình dán Hằng có lúc đầu là: 12 \\times 2 = 24 (cái)",
+        "result": "24 cái",
+        "error": false
+    },
+    {
+        "question": "Bài 20. 1 quyển vở và 1 cái bút hết 14 000 đồng. Ta có: 5 quyển vở và 10 cái bút hết 95 000 đồng.",
+        "image_url": null,
+        "solution": "1 cái bút có giá 25 000 \\div 5 = 5 000 (đồng). 1 quyển vở có giá 14 000 - 5 000 = 9 000 (đồng)",
+        "result": "9 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Bài 21. Trong một vườn cây, 13",
+        "image_url": null,
+        "solution": "Số cây chanh chiếm 1 - \\frac{1}{3} = \\frac{2}{3}. Số cây trong vườn là: 20 \\div \\frac{2}{3} = 30. Số cây cam có trong vườn là: 30 - 20 = 10 (cây)",
+        "result": "10 cây",
+        "error": false
+    },
+    {
+        "question": "Bài 22. Anh hơn em 8 tuổi. Biết rằng hiện nay tuổi em bằng \\frac{3}{5}",
+        "image_url": null,
+        "solution": "Tuổi anh hiện nay là: 8 \\div (5 - 3) \\times 5 = 20 (tuổi)",
+        "result": "20 tuổi",
+        "error": false
+    },
+    {
+        "question": "Bài 23. Nếu 5 người làm trong 5 ngày thì sửa được 75 m đường. Hỏi 9 người làm trong 6 ngày thì sửa được bao nhiêu mét đường? (Biết năng suất của mỗi người như nhau).",
+        "image_url": null,
+        "solution": "9 người làm trong 5 ngày được số mét đường là: 9 \\times 75 \\div 5 = 135 (m). 9 người làm trong 6 ngày được số mét đường là: 6 \\times 135 \\div 5 = 162 (m)",
+        "result": "162 m",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Cho số thập phân 18,207. Chữ số 7 có giá trị bằng bao nhiêu?",
+        "image_url": null,
+        "solution": "Chữ số 7 trong số 18,207 thuộc hàng phần nghìn nên có giá trị là \\( \\frac{7}{1000} \\).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Kết quả 25% của 19 tấn là",
+        "image_url": null,
+        "solution": "25\\% của 19 tấn là \\( 19 \\times \\frac{25}{100} = 4,75 \\text{ tấn} \\).",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Cho \\( 2m^3 \\) 25 \\( dm^3 = ....... m^3 \\). Số thích hợp điền vào chỗ chấm là:",
+        "image_url": null,
+        "solution": "\\( 2m^3 \\) 25 \\( dm^3 = 2,025 m^3 \\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Cho dãy số: 1; 5; 9; 13; 17; .... Khi chia số hạng thứ 25 của dãy cho 5 ta được số dư là",
+        "image_url": null,
+        "solution": "Số hạng thứ 25 là \\( 4 \\times 24 + 1 = 97 \\). Ta có \\( 97 \\div 5 = 19 \\) (dư 2).",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Bạn Mai gieo một đồng xu (gồm một mặt sấp và một mặt ngửa) 20 lần liên tiếp, trong đó có 12 lần xuất hiện mặt sấp. Tỉ số của số lần xuất hiện mặt ngửa so với số lần xuất hiện mặt sấp là:",
+        "image_url": null,
+        "solution": "Số lần xuất hiện mặt ngửa là \\( 20 - 12 = 8 \\) (lần). Tỉ số của số lần xuất hiện mặt ngửa so với số lần xuất hiện mặt sấp là \\( \\frac{8}{12} = \\frac{2}{3} \\).",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Cho hình vẽ sau: Biết có tất cả 11 hình vuông nhỏ, mỗi hình vuông nhỏ có diện tích là 16 \\( cm^2 \\). Diện tích của phần tô màu đậm là:",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0707/19_1.png",
+        "solution": "Ta có \\( S_{ADB} = \\frac{16}{2} = 8 \\text{ cm}^2 \\). Ta có mỗi hình vuông nhỏ có diện tích là 16 \\( cm^2 \\) nên mỗi cạnh hình vuông có độ dài 4 cm. Độ dài chiều cao \\( CH \\) là \\( 4 \\times 3 = 12 \\text{ cm} \\). \\( S_{ADC} = S_{BDC} = \\frac{1}{2} \\times 4 \\times 12 = 24 \\text{ cm}^2 \\). Diện tích phần tô đậm là \\( 8 + 24 \\times 2 = 56 \\text{ cm}^2 \\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 1. a) Tính bằng cách thuận tiện. \\( 202,5 : 0,5 + 202,5 : 0,2 + 202,5 : 0,25 - 202,5 \\) b) Tìm \\( y \\), biết: \\( 110,25 – y = 17,2 \\times 3 + 5,6 \\)",
+        "image_url": null,
+        "solution": "a) \\( 202,5 : 0,5 + 202,5 : 0,2 + 202,5 : 0,25 - 202,5 = 202,5 \\times 2 + 202,5 \\times 5 + 202,5 \\times 4 - 202,5 = 202,5 \\times (2 + 5 + 4 – 1) = 202,5 \\times 10 = 2025 \\) b) \\( 110,25 – y = 17,2 \\times 3 + 5,6 \\) \\( 110,25 – y = 51,6 + 5,6 \\) \\( 110,25 – y = 57,2 \\) \\( y = 110,25 – 57,2 \\) \\( y = 53,05 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Nghỉ hè, Phúc được bố mẹ cho đi du lịch ở Hạ Long. Quãng đường từ Vĩnh Yên đến Hạ Long dài 160 km. Lúc 7 giờ sáng, xe ô tô nhà Phúc đi từ Vĩnh Yên với vận tốc 60 km/h để đến Hạ Long. a) Theo dự kiến, xe ô tô nhà Phúc đến Hạ Long lúc mấy giờ? b) Khi đi được 1 giờ 30 phút thì xe đến trạm dừng nghỉ và nghỉ lại 10 phút. Hỏi sau khi nghỉ, xe ô tô nhà Phúc cần phải đi với vận tốc bao nhiêu để đến Hạ Long đúng theo dự kiến?",
+        "image_url": null,
+        "solution": "a) Thời gian di chuyển từ Vĩnh Yên đến Hạ Long là \\( \\frac{160}{60} = \\frac{8}{3} \\) giờ. Theo dự kiến nhà Phúc đến Hạ Long lúc: 7 giờ + 2 giờ 40 phút = 9 giờ 40 phút. b) Đổi: 1 giờ 30 phút = 1,5 giờ. Quãng đường xe đi được trong 1 giờ 30 phút là: \\( 60 \\times 1,5 = 90 \\text{ km} \\). Quãng đường còn lại là: \\( 160 – 90 = 70 \\text{ km} \\). Thời gian còn phải đi theo dự kiến là: 2 giờ 40 phút – 1 giờ 30 phút – 10 phút = 1 giờ. Vận tốc phải đi để đến đúng giờ dự kiến là \\( \\frac{70}{1} = 70 \\text{ km/giờ} \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một mảnh đất hình chữ nhật ABCD có chu vi là 72 m, chiều dài AB hơn chiều rộng BC là 12 m. a) Tính diện tích mảnh đất đó. b) Trên cạnh AB lấy điểm M sao cho BM = 12 c) Người ta mở rộng mảnh đất bằng cách kéo dài cạnh DA về phía A cắt cạnh CM kéo dài tại N. Tính độ dài cạnh AN.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0707/20_1.png",
+        "solution": "a) Nửa chu vi là \\( \\frac{72}{2} = 36 \\text{ m} \\). Chiều dài mảnh đất là \\( \\frac{36 + 12}{2} = 24 \\text{ m} \\). Chiều rộng mảnh đất là \\( 24 – 12 = 12 \\text{ m} \\). Diện tích mảnh đất là: \\( 24 \\times 12 = 288 \\text{ m}^2 \\). b) Độ dài AM là \\( \\frac{24}{1 + 2} \\times 2 = 16 \\text{ m} \\). \\( S_{AMCD} = \\frac{(24 + 16) \\times 12}{2} = 240 \\text{ m}^2 \\). c) \\( S_{ANM} = 2 \\times S_{AMC} \\). \\( S_{AMC} = \\frac{16 \\times 12}{2} = 96 \\text{ m}^2 \\). \\( S_{ANM} = 96 \\times 2 = 192 \\text{ m}^2 \\). Độ dài AN là \\( \\frac{192 \\times 2}{16} = 24 \\text{ m} \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. (3,0 điểm) Điền số thích hợp vào chỗ trống. Một bản báo cáo về khối lượng trái cây bán được trong tháng 4 của cửa hàng A bị rách một phần, những thông tin còn lại được thể hiện như hình 1. Biết doanh thu trong tháng 4 năm 2025 của 3 loại trái cây: 8 250 000 đồng.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0529/20_1.png",
+        "solution": "Số tiền bán sầu riêng trong tháng 4 năm 2025 là: \\(80 000 \\times 40 = 3 200 000\\) đồng. Số tiền bán xoài trong tháng 4 năm 2025 là: \\(65 000 \\times 50 = 3 250 000\\) đồng. Số tiền bán chuối trong tháng 4 năm 2025 là: \\(8 250 000 - (3 200 000 + 3 250 000) = 1 800 000\\) đồng. Khối lượng chuối bán được trong tháng 4 năm 2025 là: \\(1 800 000 \\div 40 = 45\\) kg.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 2. (3,0 điểm) Điền số thích hợp vào chỗ trống. Một khu vườn hình chữ nhật có chiều dài là 20 m, chiều rộng là 16 m. Bác Nguyên dự tính xây dựng 6 khu vực trồng rau có dạng hình chữ nhật với các kích thước bằng nhau (phần in đậm) như hình 2.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0528/20_2.PNG",
+        "solution": "Chu vi của một khu vực trồng rau là: \\(8 \\times 8 + 4 \\times 10 = 104\\) m.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 3. (3,0 điểm) Điền số thích hợp vào chỗ trống. Bạn Thành và bạn Tiên cùng lên một toa tàu điện. Sơ đồ chỗ ngồi trên toa tàu được bố trí như hình 3. Trong đó, những vị trí X đã có người ngồi và hai bạn thấy chỉ còn 4 chỗ trống.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0529/21_1.png",
+        "solution": "Số cách sắp xếp chỗ ngồi của bạn Thành và bạn Tiên trên toa tàu là: \\(4 \\times 3 = 12\\) cách. Tỉ số giữa số cách sắp xếp chỗ ngồi mà bạn Thành và bạn Tiên có thể ngồi cạnh nhau so với tất cả các cách sắp xếp chỗ ngồi của hai bạn này là: \\(\\frac{2}{12} = \\frac{1}{6}\\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 4. (6,0 điểm) Có hai thùng đựng nước dạng hình hộp chữ nhật. Thùng A có chiều dài 50 cm, chiều rộng 30 cm và chiều cao 70 cm. Thùng B có chiều dài 60 cm, chiều rộng 50 cm và chiều cao 55 cm. a/ Tính thể tích mỗi thùng theo đơn vị lít. b/ Biết thùng A đang chứa đầy nước và thùng B không chứa nước. Người ta đổ nước từ thùng A qua thùng B sao cho chiều cao mực nước trong thùng A gấp đôi chiều cao mực nước trong thùng B. Tính chiều cao mực nước trong thùng B lúc sau (biết lượng nước đổ ra ngoài không đáng kể).",
+        "image_url": null,
+        "solution": "a) Thể tích của thùng A là: \\(30 \\times 50 \\times 70 = 105 000\\) cm\\(^3\\). Đổi: \\(105 000\\) cm\\(^3\\) = 105 dm\\(^3\\) = 105 lít. Thể tích của thùng B là: \\(60 \\times 50 \\times 55 = 165 000\\) cm\\(^3\\). Đổi: \\(165 000\\) cm\\(^3\\) = 165 dm\\(^3\\) = 165 lít. b) Diện tích đáy của thùng A là: \\(50 \\times 30 = 1 500\\) cm\\(^2\\). Diện tích đáy của thùng B là: \\(60 \\times 50 = 3 000\\) cm\\(^2\\). Tỉ số giữa diện tích đáy của thùng B và diện tích đáy của thùng A là: \\(3000 \\div 1500 = 2\\). Vì diện tích đáy thùng B gấp đôi diện tích đáy thùng A nên để chiều cao mực nước của thùng A gấp đôi chiều cao mực nước của thùng B thì thể tích nước trong thùng A bằng thể tích nước trong thùng B. Thể tích nước trong thùng B lúc sau là: \\(105 000 \\div 2 = 52 500\\) cm\\(^3\\). Chiều cao mực nước trong thùng B lúc sau là: \\(52 500 \\div 3 000 = 17,5\\) cm.",
+        "result": "a) Thùng A: 105 lít; thùng B: 165 lít. b) 17,5 cm",
+        "error": false
+    },
+    {
+        "question": "Câu 12. Cho hình thang \\(ABCD\\) \\((AB\\) và \\(CD\\) là hai cạnh đáy), \\(CD = 2 \\times AB\\). Trên đoạn thẳng \\(AC\\) lấy điểm \\(M\\) sao cho \\(AM = MC\\). Trên đoạn thẳng \\(DM\\), \\(MN = 2 \\times DN\\). \\(AN\\) cắt \\(DC\\) tại \\(P\\). Biết diện tích hình tam giác \\(ABC\\) bằng 60cm\\(^2\\). 1. Tính diện tích hình thang \\(ABCD\\). 2. Tính diện tích tam giác \\(DNP\\).",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0624/cau-12-dap-an.png",
+        "solution": "1. Vì \\(AB\\) song song với \\(CD\\) nên hai tam giác \\(ABC\\) và \\(ADC\\) có chiều cao bằng nhau. \\(S_{ADC} = 2 \\times S_{ABC} = 2 \\times 60 = 120\\). Do đó, \\(S_{ABCD} = S_{ABC} + S_{ADC} = 60 + 120 = 180\\). 2. Nối điểm \\(N\\) với điểm \\(C\\). Ta có \\(S_{DAM} = S_{DCM} = \\frac{1}{2} \\times S_{ADC} = \\frac{1}{2} \\times 120 = 60\\). \\(S_{DAN} = \\frac{1}{3} \\times S_{DAM} = \\frac{1}{3} \\times 60 = 20\\). Suy ra, \\(S_{NAM} = S_{DAM} - S_{DAN} = 60 - 20 = 40\\). Có \\(S_{NAM} = S_{NCM} = 40\\). Do đó \\(S_{ANC} = S_{NAM} + S_{NCM} = 40 + 40 = 80\\). Mà \\(S_{DAM} - S_{NAM} = S_{DCM} - S_{NCM}\\), \\(S_{DAN} = S_{DCN} = 20\\). Ta có \\(\\frac{S_{DAN}}{S_{ANC}} = \\frac{20}{80} = \\frac{1}{4}\\). Có \\(S_{DNP} = \\frac{1}{4} \\times S_{CNP}\\). Mà \\(S_{DNP} + S_{CNP} = S_{DCN}\\), \\(S_{DNP} = \\frac{1}{5} \\times S_{DCN} = \\frac{1}{5} \\times 20 = 4\\).",
+        "result": "a) \\(S_{ABCD} = 180\\, \\text{cm}^2\\) b) \\(S_{DNP} = 4\\, \\text{cm}^2\\)",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Kết quả phép tính $17.2 \\times 95 + 17.2 \\times 5$",
+        "image_url": null,
+        "solution": "$17.2 \\times 95 + 17.2 \\times 5 = 17.2 \\times (95 + 5) = 17.2 \\times 100 = 1720$",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Sau khi kiểm tra 1000 sản phẩm xuất xưởng, người ta nhận thấy có 8 sản phẩm bị lỗi. Tỉ số phần trăm của số sản phẩm bị lỗi và số sản phẩm đã được kiểm tra là",
+        "image_url": null,
+        "solution": "Tỉ số phần trăm của số sản phẩm bị lỗi và số sản phẩm đã được kiểm tra là: $\\frac{8}{1000} \\times 100 = 0.8\\%$",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Trong phòng thi có 24 thí sinh. Biết 1/3 là nữ, số thí sinh nam trong phòng thi đó là",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0624/cau-3-601.png",
+        "solution": "Tổng số phần bằng nhau là: $1 + 2 = 3$. Số thí sinh nam trong phòng thi đó là: $\\frac{24}{3} \\times 2 = 16$",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Tại nhà bóng của một khu vui chơi, các nhân viên đã thống kê số lượng bóng theo màu của 2000 quả bóng và vẽ được biểu đồ sau: Số lượng bóng màu đỏ trong số 2000 quả bóng đó là",
+        "image_url": null,
+        "solution": "Số bóng màu đỏ chiếm số phần trăm trong số 2000 quả bóng là: $100\\% - 25\\% - 40\\% - 15\\% = 20\\%$. Số lượng bóng màu đỏ là: $\\frac{2000}{100} \\times 20 = 400$",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một cái bể nước có lòng bể dạng hình hộp chữ nhật có chiều dài bằng 2m; chiều rộng bằng 1m và chiều cao bằng 1m. Thể tích của bể nước là",
+        "image_url": null,
+        "solution": "Chiều cao của bể nước là: $2 \\times \\frac{1}{2} = 1$. Thể tích của bể nước là: $2 \\times 1 \\times 1 = 2$ m³. Đổi $2 \\text{ m}^3 = 2000 \\text{ dm}^3 = 2000 \\text{ lít}$. Để vừa đầy bể, cần bơm thêm số lít nước là: $2000 - 1100 = 900$",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Bạn An vẽ một hình trái tim bằng cách sau: vẽ một hình vuông cạnh 20 cm, sau đó vẽ hai đường tròn có đường kính lần lượt là hai cạnh kể nhau của hình vuông, rồi tô màu. Diện tích hình trái tim đó là",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0624/cau-6-601_1.png",
+        "solution": "Hai nửa hình tròn tạo thành một hình tròn hoàn chỉnh có đường kính dài 20 cm. Bán kính của hình tròn là: $\\frac{20}{2} = 10$. Diện tích hình tròn là: $10 \\times 10 \\times 3.14 = 314$. Diện tích hình vuông là: $20 \\times 20 = 400$. Diện tích hình trái tim là: $314 + 400 = 714$",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Hiện nay, tổng số tuổi của hai anh em là 20 tuổi. Biết số tuổi của anh hơn số tuổi của em là 4 tuổi. Tính số tuổi của em hiện nay.",
+        "image_url": null,
+        "solution": "Số tuổi của em hiện nay là: $(20 - 4) \\div 2 = 8$",
+        "result": "8 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Một đội có 15 người thì hoàn thành công việc được giao trong 20 ngày. Hỏi nếu đội có 10 người thì sẽ hoàn thành công việc đó trong bao nhiêu ngày? (Năng suất của mỗi người là như nhau)",
+        "image_url": null,
+        "solution": "1 người hoàn thành công việc trong số ngày là: $20 \\times 15 = 300$. 10 người hoàn thành công việc trong số ngày là: $300 \\div 10 = 30$",
+        "result": "30 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Một ô tô chở học sinh lớp 6A của Trường THCS & THPT Nguyễn Tất Thành đi dã ngoại xuất phát từ trường lúc 6 giờ 30 phút với vận tốc 50 km/giờ. Khi đến khu dã ngoại, học sinh tham gia các hoạt động trải nghiệm trong 3 giờ. Sau đó, ô tô chở học sinh quay về với vận tốc 40 km/giờ và về đến trường lúc 10 giờ 24 phút cùng ngày. Biết quãng đường đi và quãng đường về bằng nhau. Tính quãng đường từ trường đến khu dã ngoại.",
+        "image_url": null,
+        "solution": "Tổng thời gian di chuyển từ trường tới khu dã ngoại và trở về trường của lớp 6A là: $10 \\text{ giờ } 24 \\text{ phút} - 6 \\text{ giờ } 30 \\text{ phút} = 3 \\text{ giờ } 54 \\text{ phút}$. Đổi 54 phút = 0.9 giờ. Tỉ số vận tốc lúc đi và vận tốc lúc về là: $\\frac{50}{40} = \\frac{5}{4}$. Trên cùng một quãng đường, thời gian và vận tốc là hai đại lượng tỉ lệ nghịch với nhau. Vậy tỉ số thời gian lúc đi và thời gian lúc về là: $\\frac{4}{5}$. Thời gian lúc đi là: $0.9 \\div (4 + 5) \\times 4 = 0.4$. Độ dài quãng đường từ trường đến khu dã ngoại là: $50 \\times 0.4 = 20$",
+        "result": "20 km",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Cho hình minh họa bên. Biết có tất cả 12 hình vuông nhỏ, mỗi hình vuông nhỏ có diện tích là 16cm². Tính diện tích của phần tô màu đậm theo đơn vị xăng-ti-mét vuông.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0624/cau-10-1-2-dap-an.png",
+        "solution": "Hình vẽ trên gồm 12 hình vuông nhỏ có diện tích 16cm². Ta thấy hình số 1 và hình số 2, mỗi hình bao gồm 1.5 hình vuông được tô đậm. Số hình vuông được tô đậm là: $1.5 + 1.5 = 3$. Diện tích phần được tô đậm là: $16 \\times 3 = 48$",
+        "result": "48 cm²",
+        "error": false
+    }
+]

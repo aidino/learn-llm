@@ -1,0 +1,170 @@
+[
+    {
+        "question": "Câu 1. \\( \\overline{a12b} \\) là một số có dạng \\( a \\times 3 + b \\times 4 \\). Điều kiện: \\( a \\neq 0 \\). Tìm giá trị của \\( a \\) và \\( b \\) để \\( \\overline{a12b} \\) chia hết cho 9.",
+        "image_url": null,
+        "solution": "Điều kiện: \\( a \\neq 0 \\). Vì \\( \\overline{a12b} \\) chia hết cho 9, suy ra \\( a + 9 \\) chia hết cho 9. Suy ra \\( a = 9 \\). Ta có \\( a \\times 3 + b \\times 4 = 9 \\times 3 + 6 \\times 4 = 51 \\).",
+        "result": "51",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Xếp 128 hình lập phương nhỏ thành một hình hộp chữ nhật có chiều dài bằng 2 lần chiều rộng và cũng bằng 2 lần chiều cao (CD = 2 x CR = 2 x CC). Sơn tất cả các mặt ngoài của hình đó. Hỏi có bao nhiêu hình được sơn 2 mặt.",
+        "image_url": null,
+        "solution": "Ta có \\( 128 = 4 \\times 4 \\times 8 \\) nên chiều dài của hình hộp chữ nhật là 8, chiều rộng của hình hộp chữ nhật là 4 và chiều cao là 4. Các hình lập phương được sơn 2 mặt là các hình lập phương nằm trên các cạnh của hình hộp chữ nhật (không tính các hình lập phương ở đỉnh). Số hình lập phương được sơn 2 mặt là: \\((8 - 2) \\times 4 + (4 - 2) \\times 4 + (4 - 2) \\times 4 = 40\\) (hình lập phương).",
+        "result": "40 hình lập phương",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Dung dịch nước muối có chứa 8% muối. Hỏi cần cho thêm vào dung dịch 25 kg bao nhiêu kg nước để dung dịch chứa 5% muối.",
+        "image_url": null,
+        "solution": "Khối lượng muối nguyên chất có trong 25 kg dung dịch 8% là: \\( 25 \\times 8 / 100 = 2 \\) (kg). Khối lượng của dung dịch khi chứa 5% muối là: \\( 2 \\times 100 / 5 = 40 \\) (kg). Số kg nước cần thêm để dung dịch khi chứa 5% muối là: \\( 40 - 25 = 15 \\) (kg).",
+        "result": "15 kg nước",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Tỷ số số kẹo của A và B là \\( \\frac{2}{5} \\). Sau khi B cho đi 6 cái kẹo, tỷ số số kẹo của A và B là \\( \\frac{3}{8} \\). Tìm số kẹo ban đầu của A và B.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0530/19_1.PNG",
+        "solution": "Ta có sơ đồ sau khi B cho đi 6 cái kẹo. Từ sơ đồ, số kẹo của A là \\( 6 \\times 2 = 12 \\) (cái kẹo). Số cái kẹo của B sau khi nhận thêm 2 cái kẹo là: \\( 6 \\times 5 + 2 = 32 \\) (cái kẹo). Sau khi B nhận thêm 2 cái kẹo thì tỉ số số kẹo của A và B là \\( 12 : 32 = \\frac{3}{8} \\).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho hình vuông ABCD có cạnh bằng 6 cm. Hai hình vuông nhỏ có cạnh bằng 3 cm. Tính diện tích phần tô đậm.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0530/20_17.png",
+        "solution": "Ta vẽ thêm hình để tạo thành một hình vuông mới như sau. Độ dài cạnh của hình vuông lớn là: \\( 6 + 3 = 9 \\) (cm). Diện tích hình vuông lớn là: \\( 9 \\times 9 = 81 \\) (cm\\(^2\\)). Diện tích của hình tam giác FHE là: \\((3 + 3) \\times (3 + 3) / 2 = 18 \\) (cm\\(^2\\)). Diện tích của hình tam giác HIC hay diện tích tam giác EKC là: \\( 9 \\times 3 / 2 = 13.5 \\) (cm\\(^2\\)). Diện tích của hình tam giác được tô đậm là \\( 81 - 18 - 13.5 - 13.5 = 36 \\) (cm\\(^2\\)).",
+        "result": "36 cm\\(^2\\)",
+        "error": false
+    },
+    {
+        "question": "Quãng đường AB dài 240 km. 1 xe tải đi từ A đến B, 1 xe khách đi từ B đến A. Nếu xuất phát cùng lúc và vận tốc của 2 xe không thay đổi thì 2 xe sẽ gặp nhau tại điểm C cách A 96 km. Nếu xe khách xuất phát trước xe tải 1 giờ 40 phút thì 2 xe sẽ gặp nhau tại điểm D cách A 72 km. Tính vận tốc của 2 xe?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0530/20_19.png",
+        "solution": "Khi 2 xe xuất phát cùng lúc: Sau khi gặp nhau xe khách đã đi được quãng đường là: \\( 240 - 96 = 144 \\) (km). Tỉ số giữa quãng đường xe tải đi được và xe khách đi được là: \\( 96 : 144 = \\frac{2}{3} \\). Vì trong cùng một thời gian nên vận tốc và quãng đường tỉ lệ thuận với nhau. Tỉ số giữa vận tốc của xe tải và xe khách là: \\( \\frac{2}{3} \\). Khi xe khách xuất phát trước xe tải 1 giờ 40 phút: Gọi BE là quãng đường xe khách đã đi được trong 1 giờ 40 phút. Từ lúc xe tải xuất phát thì xe khách đã đến điểm E và thời gian đi đến điểm gặp nhau của hai xe bằng nhau. Nên kể từ khi xe tải xuất phát, tỉ số giữa quãng đường đi được của xe tải và xe khách là \\( \\frac{2}{3} \\). Từ điểm E, quãng đường xe khách đi được đến khi gặp nhau là \\( 72 / 2/3 = 108 \\). Quãng đường xe khách đi được trong 1 giờ 40 phút là: \\( 240 - 72 - 108 = 60 \\) (km). Đổi: 1 giờ 40 phút = \\( \\frac{5}{3} \\) giờ. Vận tốc của xe khách là: \\( 60 / 5/3 = 36 \\). Vận tốc của xe tải là \\( 36 \\times 2/3 = 24 \\).",
+        "result": "Xe khách: 36 km/giờ ; xe tải: 24 km/giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Sắp xếp các số đo sau đây theo thứ tự từ bé đến lớn: 1500cm³; 1,8dm³; 0,15m³; 2dm³ 5cm³ là:",
+        "image_url": null,
+        "solution": "1500cm³ = 1,5 dm³\n0,15m³ = 150 dm³\n2dm³ 5cm³ = 2,005 dm³\nTa có 1,5 dm³ < 1,8 dm³ < 2,005 dm³ < 150 dm³\nCác số đo sắp xếp theo thứ tự từ bé đến lớn là: 1500cm³; 1,8dm³; 2dm³ 5cm³; 0,15m³",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Số thập phân gồm 55 đơn vị, 7 phần trăm, 2 phần nghìn viết là:",
+        "image_url": null,
+        "solution": "Số thập phân gồm 55 đơn vị, 7 phần trăm, 2 phần nghìn viết là: 55,072",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Trong 60 lá cờ có 20 lá cờ màu xanh, 18 lá cờ màu đỏ, 12 lá cờ màu tím, 10 lá cờ màu vàng. Vậy lá cờ có màu gì chiếm 15/15?",
+        "image_url": null,
+        "solution": "Vậy lá cờ có màu tím chiếm 15/15",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 4. 75% của một số là 525, vậy số đó là:",
+        "image_url": null,
+        "solution": "Số đó là 525 : 75 x 100 = 700",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Diện tích phần tô đậm của hình bên là:",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0711/20.png",
+        "solution": "Diện tích hình tròn bán kính 5 cm là: 5 x 5 x 3,14 = 78,5 (cm²)\nDiện tích tam giác AOB là: 5 x 5 : 2 = 12,5 (cm²)\nDiện tích hình vuông ABCD là: 12,5 x 4 = 50 (cm²)\nDiện tích phần tô đậm của hình bên là: 78,5 – 50 = 28,5 (cm²)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Một sợi dây thép được uốn thành hình tròn có bán kính 8cm thì thừa ra một đoạn 5 cm. Chiều dài sợi dây thép đó là:",
+        "image_url": null,
+        "solution": "Chu vi hình tròn là: 8 x 2 x 3,14 = 50,24 (cm)\nChiều dài sợi dây thép đó là: 50,24 + 5 = 55,24 (cm)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 1 (2 điểm). a) Đặt tính rồi tính 148,32 + 270,84 197,25 - 92,73 32,6 x 0,58 98,28 : 3,6 b) Tìm x: \\( \\frac{x}{6} \\times 7,2 + 1,3 \\times x + \\frac{x}{2} + 15 = 19,95 \\)",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0711/20_2.png",
+        "solution": "b) \\( \\frac{x}{6} \\times 7,2 + 1,3 \\times x + \\frac{x}{2} + 15 = 19,95 \\)\n\\( x \\times 1,2 + 1,3 \\times x + x \\times 0,5 = 19,95 - 15 \\)\n\\( x \\times (1,2 + 1,3 + 0,5) = 4,95 \\)\n\\( x \\times 3 = 4,95 \\)\n\\( x = 1,65 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2 (1,5 điểm). Tổng của ba số a, b, c bằng 10. Tổng của số a và b bằng 5,8. Tổng của số a và c bằng 6,7. Tìm mỗi số a, b, c.",
+        "image_url": null,
+        "solution": "Ta có a + b = 5,8\na + b + c = 10\nSuy ra c = 10 – 5,8 = 4,2\nTa có a + c = 6,7 suy ra a = 6,7 – 4,2 = 2,5\nb = 5,8 – 2,5 = 3,3\nVậy a = 2,5 ; b = 3,3 ; c = 4,2",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3 (1,5 điểm). Một cửa hàng đã bán được một hộp sách với số lượng như sau: Ngày đầu tiên bán được thiếu 5 quyển nữa thì bằng một nửa số sách trong hộp; Ngày thứ hai bán được một phần ba số sách còn lại và bán thêm 12 quyển nữa. Số sách còn lại là 20 quyển. Tính số sách ban đầu?",
+        "image_url": null,
+        "solution": "Nếu không bán thêm 12 quyển nữa thì số sách còn lại sau ngày thứ hai là: 12 + 20 = 32 (quyển)\n32 quyển ứng với \\( \\frac{2}{3} \\)\nSố sách còn lại sau ngày thứ nhất bán là: (20 + 12) : \\( \\frac{2}{3} \\)\nSố sách ban đầu là: (48 - 5) : \\( \\frac{1}{2} \\)\nĐáp số: 86 quyển",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 4 (2 điểm). Cho hình thang vuông ABCD và hình tròn tâm O, biết AB = 16cm; AD = 20cm; DC = 28cm (như hình vẽ). a) Tính diện tích hình thang ABCD. b) Tính diện tích phần đã tô màu.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0711/20_1.png",
+        "solution": "a) Diện tích hình thang ABCD là: \\( \\frac{(28 + 16) \\times 20}{2} = 440 \\) (cm²)\nb) Diện tích hình tròn bán kính 10 cm là: \\( 10 \\times 10 \\times 3,14 = 314 \\) (cm²)\nDiện tích phần đã tô màu là: 440 – 314 = 126 (cm²)\nĐáp số: a) 440 cm² b) 126 cm²",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. An nghĩ ra một số, Bình nghĩ ra một số bằng \\( 43 \\times A \\). Số Cường nghĩ là \\( 35 \\times 43 \\times A = 45 \\times A \\).",
+        "image_url": null,
+        "solution": "Gọi số An nghĩ là \\( A \\). Số Bình nghĩ là \\( 43 \\times A \\). Số Cường nghĩ là \\( 35 \\times 43 \\times A = 45 \\times A \\).",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Bài 2. Có bao nhiêu số có 2 chữ số mà số đó gấp 4 lần tổng 2 chữ số của nó?",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\( \\overline{ab} \\). Ta có \\( \\overline{ab} = 4 \\times (a + b) \\). \\( 10 \\times a + b = 4 \\times a + 4 \\times b \\). \\( 6 \\times a = 3 \\times b \\). \\( 2 \\times a = b \\). Nếu \\( a = 1 \\) thì \\( b = 2 \\), ta được số 12. Nếu \\( a = 2 \\) thì \\( b = 4 \\) ta được số 24. Nếu \\( a = 3 \\) thì \\( b = 6 \\) ta được số 36. Nếu \\( a = 4 \\) thì \\( b = 8 \\) ta được số 48. Vậy có 4 số thỏa mãn đề bài.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Bài 3. Năm nay tuổi bố gấp 8 lần tuổi bé An, tuổi mẹ gấp 7 lần tuổi bé An và bố hơn mẹ 4 tuổi. Hỏi sang năm bé An bao nhiêu tuổi?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0308/20.png",
+        "solution": "Tuổi bé An năm nay là 4 (tuổi). Vậy sang năm bé An 5 tuổi.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Bài 4. Cho hình vẽ. Tính tỉ số diện tích 2 tam giác BDF và AEF.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0308/20_2.PNG",
+        "solution": "Nối F với C. Ta có \\( S_{ABE} = \\frac{1}{3} S_{BEC} \\) (Chung chiều cao hạ từ đỉnh B và \\( AE = \\frac{1}{3} \\)). Và \\( S_{FAE} = \\frac{1}{3} S_{FEC} \\) (Chung chiều cao hạ từ đỉnh F và \\( AE = \\frac{1}{3} \\)). \\( \\Rightarrow BAF = \\frac{1}{3} BCF \\). Ta có \\( S_{BFD} = \\frac{1}{3} S_{BFC} \\) (Chung chiều cao hạ từ đỉnh F và \\( BD = \\frac{1}{3} \\)). \\( \\Rightarrow BAF = S_{BFD} \\) (1). Ta có \\( S_{AFB} = \\frac{1}{2} AFC \\). \\( S_{AFE} = \\frac{1}{4} AFC \\) (Chung chiều cao hạ từ đỉnh F và \\( AE = \\frac{1}{4} \\)). \\( \\Rightarrow AFE = \\frac{1}{2} BAF \\) (2). Từ (1) và (2) suy ra \\( S_{BFD} = 2 \\times S_{AEF} \\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Bài 5. Người thứ nhất làm xong công việc trong 5 giờ, người thứ hai làm xong công việc trong 4 giờ. Hỏi cả hai người cùng làm mất bao lâu?",
+        "image_url": null,
+        "solution": "Trong 1 giờ người thứ nhất làm được số phần công việc là \\( \\frac{1}{5} \\). Trong 1 giờ người thứ hai làm được số phần công việc là \\( \\frac{1}{4} \\). Trong 1 giờ cả hai người cùng làm được số phần công việc là \\( \\frac{1}{5} + \\frac{1}{4} = \\frac{9}{20} \\). Cả hai người cùng làm thì hoàn thành công việc trong số giờ là \\( \\frac{1}{\\frac{9}{20}} = \\frac{20}{9} \\).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Bài 6. Người ta xây một bể nước, chiều dài 15m, chiều rộng 10 m, một khu có độ sâu 0,8 m,1 khu có độ sâu 1 m, hai khu có diện tích mặt nước bằng nhau. Hỏi muốn mặt nước cách mặt bể 10 cm thì phải xả vào bao nhiêu m3 nước, biết bể chưa có nước.",
+        "image_url": null,
+        "solution": "Đổi 10 cm = 0,1 m. Để mặt nước cách mặt bể 10 cm thì phải xả vào số m3 nước là: \\( 15 \\times 5 \\times 0,7 + 15 \\times 5 \\times 0,9 = 120 \\text{ m}^3 \\).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Bài 7. Có 3 can dầu. Sau khi can một cho can hai 2 lít, can hai cho can ba 3 lít thì số dầu can một bằng 29.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0308/20_1.png",
+        "solution": "Sau khi cho nhận thì 34. Ta có sơ đồ sau khi cho nhận: Số lít dầu của mỗi can sau khi cho nhận là: Can 1 có 8 lít, can 2 có 12 lít, can 3 có 16 lít. Số lít dầu của can 1 lúc đầu là 8 + 2 = 10 (lít). Số lít dầu của can 2 lúc đầu là 12 – 2 + 3 = 13 (lít). Số lít dầu của can 3 lúc đầu là 16 – 3 = 13 (lít).",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 8. Quãng đường AB dài 60km. Cùng lúc có xe đi từ A và từ B khởi hành. Sau 229229.",
+        "image_url": null,
+        "solution": "Gọi vận tốc xe đi từ A là \\( v_1 \\), vận tốc xe đi từ B là \\( v_2 \\). Tổng vận tốc 2 xe là \\( \\frac{60}{229} = 27 \\). Biết vận tốc xe đi từ B tăng thêm 3km/giờ thì hai xe sẽ gặp nhau ở chính giữa quãng đường AB, suy ra \\( v_1 – v_2 = 3 \\). Vận tốc xe đi từ A là \\( \\frac{27 + 3}{2} = 15 \\text{ km/giờ} \\). Vận tốc xe đi từ B là \\( 27 – 15 = 12 \\text{ km/giờ} \\).",
+        "result": null,
+        "error": false
+    }
+]

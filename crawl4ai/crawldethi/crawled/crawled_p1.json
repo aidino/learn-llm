@@ -1,0 +1,240 @@
+[
+    {
+        "question": "Mỗi bộ 5 số thỏa mãn yêu cầu đề bài có ít nhất 1 số chia hết cho 3.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0620/19_1.png",
+        "solution": "Giả sử cả 5 số đều không chia hết cho 3, khi đó các số này chia 3 dư 1 hoặc chia 3 dư 2. - Xét số a chia 3 dư 1. Khi đó để tổng hai số liên tiếp (có chứa số a) không chia hết cho 3 thì hai số đứng cạnh a phải chia 3 dư 1. Do đó, ta có 3 số liên tiếp cùng chia 3 dư 1, tức là tổng 3 số này chia hết cho 3 (vô lí) - Lập luận tương tự với số chia 3 dư 2, ta thấy vô lí. Vậy trong 5 số luôn có ít nhất 1 số phải chia hết cho 3.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tìm $x$ sao cho $\\frac{12}{5} < \\overline{x,2} < \\frac{13}{4}$ A. 5 B. 2 C. 3 D. 4",
+        "image_url": null,
+        "solution": "Ta có $\\frac{12}{5} < \\overline{x,2} < \\frac{13}{4}$ nên 2,4 < $\\overline{x,2} $ < 3,25 Do đó $2 < x \\leqslant 3$. Suy ra $x = 3$",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2. An đi học lúc 6 giờ 45 phút, xe bus di chuyển hết 10 phút, thời gian chờ xe bus là 0,5 giờ. Hỏi An đến trường lúc mấy giờ? A. 7 giờ 25 phút B. 8 giờ 25 phút C. 7 giờ 15 phút D. 7 giờ 35 phút",
+        "image_url": null,
+        "solution": "Đổi 0,5 giờ = 30 phút An đến trường lúc: 6 giờ 45 phút + 10 phút + 30 phút = 7 giờ 25 phút",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tổ gồm 10 công nhân hoàn thành xong một công việc trong 30 ngày. Nếu tổ có 20 công nhân thì hoàn thành công việc trong thời gian bao lâu? A. 10 ngày B. 60 ngày C. 40 ngày D. 15 ngày",
+        "image_url": null,
+        "solution": "1 công nhân hoàn thành công việc trong thời gian là 30 x 10 = 300 (ngày) 20 công nhân hoàn thành công việc trong thời gian là 300 : 20 = 15 (ngày)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Phòng học có dạng hình hộp chữ nhật chiều dài 7m, chiều rộng 4,5m, chiều cao 3m. Người ta muốn sơn toàn bộ trần nhà và 4 bức tường. Biết tổng diện tích các cửa là 7,5m2, tính diện tích cần sơn. A. 83m2 B. 108 m2 C. 93 m2 D. 98 m2",
+        "image_url": null,
+        "solution": "Diện tích xung quanh của phòng học là (7 + 4,5) x 2 x 3 = 69 (m2) Diện tích trần nhà là: 7 x 4,5 = 31,5 (m2) Diện tích cần sơn là 69 + 31,5 – 7,5 = 93 (m2)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho A = $\\overline{52xy} $. Biết A chia hết cho 2 và 9; chia 5 dư 4. Tìm A.",
+        "image_url": null,
+        "solution": "Vì A chia hết cho 2 và chia 5 dư 4 nên y = 4 Ta có số A = $\\overline{52x4} $ Vì A chia hết cho 9 nên 5 + 2 + x + 4 chia hết cho 9. Suy ra x = 7 Vậy A = 5274",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 6. Tổng số gạo kho I và kho II là 46 tấn. Biết 15 lần số gạo kho I bằng 8 lần số gạo kho II. Hỏi kho II chứa bao nhiêu tấn gạo?",
+        "image_url": null,
+        "solution": "Vì 15 lần số gạo kho I Kho II chứa số tấn gạo là: 46 : (8 + 15) x 15 = 30 (tấn gạo)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tính tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_15.png",
+        "solution": "Số học sinh thích ăn cam và chuối là: 4 + 3 = 7 (học sinh) Số học sinh thích ăn táo và xoài là: 15 + 10 = 25 (học sinh) Tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài là: 7 : 25 = 0,28 = 28%",
+        "result": "28%",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Cho hình vuông ABCD. Vẽ nửa đường tròn đường kính AB và $\\frac{1}{4}$ đường tròn bán kính AB. Tính diện tích phần tô đậm biết chu vi đường tròn đường kính AB là 37,68 cm.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_17.png",
+        "solution": "Độ dài đoạn thẳng AB là 37,68 : 3,14 = 12 (cm) Bán kính đường tròn đường kính AB là 12 : 2 = 6 (cm) Diện tích nửa đường tròn đường kính AB là 6 x 6 x 3,14 : 2 = 56,52 (cm2) Diện tích $\\frac{1}{4}$ đường tròn bán kính AB là 12 x 12 x 3,14 : 4 = 113,04 (cm2) Diện tích phần tô đậm là 113,04 – 56,52 = 56,52 (cm2)",
+        "result": "56,52 cm2",
+        "error": false
+    },
+    {
+        "question": "Bài 1. Cho đoạn đường AD có 1 đoạn lên dốc, 1 đoạn xuống dốc, 1 đoạn bằng phẳng. Trong đó, đoạn đường AB = BC, CD = 4km (AB là đoạn đường lên dốc, BC là đoạn đường xuống dốc, CD là đoạn đường bằng phẳng). Biết vận tốc khi lên dốc là 4 km/giờ, vận tốc khi xuống dốc là là 6 km/giờ, vận tốc đi trên đoạn đường bằng phẳng là 5 km/giờ. a) Tính thời gian đi đoạn đường CD. b) Tính độ dài đoạn đường AD, biết người đó đi từ A lúc 5 giờ và đến D lúc 6 giờ 48 phút.",
+        "image_url": null,
+        "solution": "a) Thời gian đi đoạn đường CD là $4:5 = \\frac{4}{5}$ (giờ) = 48 (phút) b) Thời gian đi hết đoạn đường AC là 6 giờ 48 – 5 – 48 phút = 1 (giờ) Tỉ số vận tốc trên đoạn đường AB so với đoạn đường BC $4:6 = \\frac{2}{3}$ Trên cùng một quãng đường thì vận tốc tỉ lệ nghịch với thời gian. Vì đoạn đường AB = BC nên tỉ số thời gian đi hết đoạn đường AB so với đoạn đường BC là $\\frac{3}{2}$ Thời gian đi hết đoạn đường AB là 1 : (2 + 3) x 3 = 0,6 (giờ) Độ dài đoạn đường AB là 0,6 x 4 = 2,4 (km) Độ dài đoạn đường AD là 2,4 x 2 + 4 = 8,8 (km)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1: Một ngày số km mà Hưng chạy được là 1+17=87. Trong 1 tuần số km mà Hưng chạy được là: 87×7=8",
+        "image_url": null,
+        "solution": "Một ngày số km mà Hưng chạy được là \\(1+17=87\\). Trong 1 tuần số km mà Hưng chạy được là: \\(87\\times7=8\\)",
+        "result": "8 km",
+        "error": false
+    },
+    {
+        "question": "Bài 2: Số nam lớp An chiếm số phần trăm so với cả lớp là 100 % - 72% = 28%",
+        "image_url": null,
+        "solution": "Số nam lớp An chiếm số phần trăm so với cả lớp là \\(100\\% - 72\\% = 28\\%\\)",
+        "result": "28%",
+        "error": false
+    },
+    {
+        "question": "Bài 3: Thời gian máy làm xong 175 dụng cụ là: 175 x 1,2 = 210 (phút). Đổi 210 phút = 3 giờ 30 phút. Thời gian máy tự động làm xong dụng cụ là: 7 giờ 30 phút + 3 giờ 30 phút = 11 giờ",
+        "image_url": null,
+        "solution": "Thời gian máy làm xong 175 dụng cụ là: \\(175 \\times 1,2 = 210\\) (phút). Đổi 210 phút = 3 giờ 30 phút. Thời gian máy tự động làm xong dụng cụ là: \\(7\\) giờ \\(30\\) phút + \\(3\\) giờ \\(30\\) phút = \\(11\\) giờ",
+        "result": "11 giờ",
+        "error": false
+    },
+    {
+        "question": "Bài 4: Bán kính hình tròn là 7 : 2 = 3,5 (cm). Diện tích hình tròn là: S = r x r x 3,14 = 3,5 x 3,5 x 3,14 = 38,465 (cm2)",
+        "image_url": null,
+        "solution": "Bán kính hình tròn là \\(7 : 2 = 3,5\\) (cm). Diện tích hình tròn là: \\(S = r \\times r \\times 3,14 = 3,5 \\times 3,5 \\times 3,14 = 38,465\\) (cm\\(^2\\))",
+        "result": "38,465 cm2",
+        "error": false
+    },
+    {
+        "question": "Bài 5: Chiều dài mới là 100% + 10% = 110%. Chiều rộng mới là 100% - 10% = 90%. Diện tích hình chữ nhật mới sẽ là: 110% dài x 90% rộng = 99% x dài x rộng = 99% x diện tích ban đầu",
+        "image_url": null,
+        "solution": "Chiều dài mới là \\(100\\% + 10\\% = 110\\%\\). Chiều rộng mới là \\(100\\% - 10\\% = 90\\%\\). Diện tích hình chữ nhật mới sẽ là: \\(110\\%\\) dài \\(\\times 90\\%\\) rộng = \\(99\\%\\) \\(\\times\\) dài \\(\\times\\) rộng = \\(99\\%\\) \\(\\times\\) diện tích ban đầu",
+        "result": "Diện tích hình chữ nhật mới bằng 99% diện tích ban đầu.",
+        "error": false
+    },
+    {
+        "question": "Bài 6: Giả sử số trâu bằng số bò và cùng bằng 25 con thì theo bài ra: 253425×25+34×25=10+18,75=28,75>27 Vì 34>25 Vì 25 Suy ra số trâu có thể là: 30 ; 35 ; 40 ; 45",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0304/20_1.png",
+        "solution": "Giả sử số trâu bằng số bò và cùng bằng 25 con thì theo bài ra: \\(253425\\times25+34\\times25=10+18,75=28,75>27\\) Vì \\(34>25\\) Vì \\(25\\) Suy ra số trâu có thể là: 30 ; 35 ; 40 ; 45",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 7: Gọi số bát tô là 1 phần thì số đĩa là 2 phần, số bát ăn cơm là 8 phần. Phần trăm số bát tô so với số bát ăn là 18=0,125=12,5",
+        "image_url": null,
+        "solution": "Gọi số bát tô là 1 phần thì số đĩa là 2 phần, số bát ăn cơm là 8 phần. Phần trăm số bát tô so với số bát ăn là \\(\\frac{1}{8}=0,125=12,5\\%\\)",
+        "result": "12,5%",
+        "error": false
+    },
+    {
+        "question": "Bài 8: Coi 6 khối hộp chữ nhật tô màu vàng ghép lại được hình H1 Khối H1 có chiều dài là 12 dm, chiều rộng 6 dm và chiều cao là 3,5 dm Khối H2 có chiều dài 4 dm, chiều rộng 3 dm, chiều cao 3,5 dm Diện tích xung quanh của khối H1 là (12 + 6) x 2 x 3,5 = 126 (dm2) Diện tích toàn phần của khối H1 là 126 + 12 x 6 x 2 = 270 (dm2) Diện xung quanh khối H2 (tô màu xanh) là (4 + 3) x 2 x 3,5 = 49 (dm2) Diện tích toàn phần của khối H2 là 49 + 4 x 3 x 2 = 73 (dm2) Ta thấy khối H1 và H2 có 2 mặt chung. Diện tích một mặt chung là 3,5 x 3 = 10,5 (dm2) Diện tích toàn phần của hình đã cho là 270 + 73 – 10,5 x 2 = 322 (dm2)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20_5.png",
+        "solution": "Coi 6 khối hộp chữ nhật tô màu vàng ghép lại được hình H1. Khối H1 có chiều dài là 12 dm, chiều rộng 6 dm và chiều cao là 3,5 dm. Khối H2 có chiều dài 4 dm, chiều rộng 3 dm, chiều cao 3,5 dm. Diện tích xung quanh của khối H1 là \\((12 + 6) \\times 2 \\times 3,5 = 126\\) (dm\\(^2\\)). Diện tích toàn phần của khối H1 là \\(126 + 12 \\times 6 \\times 2 = 270\\) (dm\\(^2\\)). Diện xung quanh khối H2 (tô màu xanh) là \\((4 + 3) \\times 2 \\times 3,5 = 49\\) (dm\\(^2\\)). Diện tích toàn phần của khối H2 là \\(49 + 4 \\times 3 \\times 2 = 73\\) (dm\\(^2\\)). Ta thấy khối H1 và H2 có 2 mặt chung. Diện tích một mặt chung là \\(3,5 \\times 3 = 10,5\\) (dm\\(^2\\)). Diện tích toàn phần của hình đã cho là \\(270 + 73 – 10,5 \\times 2 = 322\\) (dm\\(^2\\))",
+        "result": "322 dm2",
+        "error": false
+    },
+    {
+        "question": "Bài 9: 1 học sinh ăn hết số gạo đã dự trữ trong số ngày là 480 x 25 = 12000 (ngày) Tổng số học sinh sau khi nhậm thêm là 480 + 20 = 500 (học sinh) Số gạo đủ ăn trong số ngày là 12000 : 500 = 24 (ngày)",
+        "image_url": null,
+        "solution": "1 học sinh ăn hết số gạo đã dự trữ trong số ngày là \\(480 \\times 25 = 12000\\) (ngày). Tổng số học sinh sau khi nhậm thêm là \\(480 + 20 = 500\\) (học sinh). Số gạo đủ ăn trong số ngày là \\(12000 \\div 500 = 24\\) (ngày)",
+        "result": "24 ngày",
+        "error": false
+    },
+    {
+        "question": "Bài 10: +) a chia hết cho 7 vì a = 77…7 = 7 x 111....1 (2022 chữ số 1) +) a chia hết cho 77 = 7 x 11 vì: a = 7 x 111…1 (2022 chữ số 1) = 7 x 11 x 10101…01 +) Xét 232 = 2 x 4 x 29 Vì a = 777…7 không chia hết cho 2 nên a không chia hết cho 232. +) Xét 63 = 7 x 9 Mà a có tổng các chữ số là 7 x 2022 = 14154 Tổng các chữ số của 14154 là 1 + 4 + 1 + 5 + 4 = 15 không chia hết cho 9. Vậy a không chia hết cho 63.",
+        "image_url": null,
+        "solution": "+) \\(a\\) chia hết cho 7 vì \\(a = 77\\ldots7 = 7 \\times 111\\ldots1\\) (2022 chữ số 1) +) \\(a\\) chia hết cho 77 = 7 \\times 11 vì: \\(a = 7 \\times 111\\ldots1\\) (2022 chữ số 1) = \\(7 \\times 11 \\times 10101\\ldots01\\) +) Xét 232 = 2 \\times 4 \\times 29 Vì \\(a = 777\\ldots7\\) không chia hết cho 2 nên \\(a\\) không chia hết cho 232. +) Xét 63 = 7 \\times 9 Mà \\(a\\) có tổng các chữ số là \\(7 \\times 2022 = 14154\\) Tổng các chữ số của 14154 là \\(1 + 4 + 1 + 5 + 4 = 15\\) không chia hết cho 9. Vậy \\(a\\) không chia hết cho 63.",
+        "result": "a không chia hết cho 232 và 63.",
+        "error": false
+    },
+    {
+        "question": "Câu 1 (0,5 điểm). Cho biểu đồ như hình dưới đây. Tìm tỉ số phần trăm số học sinh khối 9 so với số học sinh toàn trường.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/20_1.png",
+        "solution": "Số học sinh khối 6 được biểu diễn là 14\\%.\nTỉ số phần trăm học sinh khối 9 là: 100\\% - (12,5\\% + 40\\% + 25\\%) = 22,5\\%",
+        "result": "22,5\\%",
+        "error": false
+    },
+    {
+        "question": "Câu 2 (0,5 điểm). Gieo 1 viên xúc sắc 20 lần liên tiếp kết quả nhận được như bảng sau: Tỉ số giữa số lần xuất hiện mặt có số chấm là số lẻ và tổng số lần đã gieo là bao nhiêu?",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/20_1.PNG",
+        "solution": "Số lần xuất hiện mặt có chấm là số lẻ là: 5 + 3 + 1 = 9 (lần)\nTỉ số giữa số lần xuất hiện mặt số chấm là số lẻ và tổng số lần đã gieo là: \\frac{9}{20}",
+        "result": "\\frac{9}{20}",
+        "error": false
+    },
+    {
+        "question": "Câu 3 (0,5 điểm). Tìm số tự nhiên thích hợp điền vào chỗ trống là: 526<....26<625",
+        "image_url": null,
+        "solution": "Số tự nhiên cần điền là: 6",
+        "result": "6",
+        "error": false
+    },
+    {
+        "question": "Câu 4 (0,5 điểm). Tính kết quả của phép tính: 20,26 \\times 42,6 + 20,26 \\times 57,4",
+        "image_url": null,
+        "solution": "20,26 \\times 42,6 + 20,26 \\times 57,4 = 20,26 \\times (42,6 + 57,4) = 20,26 \\times 100 = 2026",
+        "result": "2026",
+        "error": false
+    },
+    {
+        "question": "Câu 5 (0,5 điểm). Nhà bác An có một mảnh đất. Bác An dùng \\frac{3}{5} Phần còn lại có diện tích là 60m^2. Tính diện tích mảnh đất.",
+        "image_url": null,
+        "solution": "Coi diện tích mảnh đất là 1 đơn vị. Phân số chỉ 60 m^2 là: 1 - \\frac{3}{5} = \\frac{2}{5}\nDiện tích mảnh đất là: 60 : 2 \\times 5 = 150 (m^2)",
+        "result": "150 m^2",
+        "error": false
+    },
+    {
+        "question": "Câu 6 (0,5 điểm) Một miếng bìa hình chữ nhật có chiều dài là 25cm và chiều rộng là 20cm. Người ta cắt 4 góc miếng bìa hình vuông có cạnh là 5cm và gấp thành hình hộp chữ nhật (như hình dưới). Tính thể tích hình hộp chữ nhật đó.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/21_1.png",
+        "solution": "Chiều rộng của hình hộp chữ nhật là: 20 – (5 + 5) = 10 (cm)\nChiều dài của hình hộp chữ nhật là: 25 – (5 + 5) = 15 (cm)\nChiều cao của hình hộp chữ nhật là 5cm.\nThể tích của hình đó là: 15 \\times 10 \\times 5 = 750 (cm^3)",
+        "result": "750 cm^3",
+        "error": false
+    },
+    {
+        "question": "Câu 7 (0,5 điểm). Cho nửa hình tròn có đường kính 40cm, người thợ mộc cắt 2 nửa hình tròn có đường kính bằng bán kính của hình tròn trước. Tính diện tích của hình tròn mới bị cắt.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/22_1.png",
+        "solution": "Đường kính hình tròn mới là: 40 : 2 = 20 (cm)\nBán kính hình tròn mới là: 20 : 2 = 10 (cm)\nDiện tích hình tròn mới bị cắt là: 10 \\times 10 \\times 3,14 = 314 (cm^2)",
+        "result": "314 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 8. (0,5 điểm). Có bao nhiêu số có 2 chữ số mà chữ số hàng chục lớn hơn chữ số hàng đơn vị là 4.",
+        "image_url": null,
+        "solution": "Các số thỏa mãn là: 40; 51; 62; 73; 84; 95.\nVậy có 6 số thỏa mãn yêu cầu bài toán.",
+        "result": "6 số",
+        "error": false
+    },
+    {
+        "question": "Câu 9. (0,75 điểm) Một chiếc áo có giá 500 000 đồng. Vì không ai mua nên giảm giá 20% so với giá ban đầu. Nhưng vẫn không ai mua nên giảm giá tiếp 40% so với giá giảm lần đầu. Hỏi giá chiếc áo sau 2 lần giảm là bao nhiêu?",
+        "image_url": null,
+        "solution": "Giá chiếc áo sau khi giảm lần đầu là: 500 000 – 500 000 \\times \\frac{20}{100} = 400 000 (đồng)\nGiá chiếc áo sau khi giảm lần hai là: 400 000 – 400 000 \\times \\frac{40}{100} = 240 000 (đồng)",
+        "result": "240 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 10. (0,75 điểm) Trên quãng đường AB dài 200km có hai người đi ngược chiều nhau. Lúc 7 giờ 30 phút có 1 xe tải đi từ A đến B với vận tốc 40km/giờ. Sau 30 phút có 1 xe khách đi từ B đến A với vận tốc 60km/giờ. Hỏi lúc 9 giờ cùng ngày hai xe cách nhau bao nhiêu ki-lô-mét?",
+        "image_url": null,
+        "solution": "Đổi: 30 phút = 0,5 giờ\nLúc 9 giờ xe tải đi được số giờ là: 9 giờ - 7 giờ 30 phút = 1 giờ 30 phút = 1,5 giờ\nLúc 9 giờ quãng đường xe tải đã đi được là: 40 \\times 1,5 = 60 (km)\nLúc 9 giờ xe khách đi được số giờ là: 9 giờ - 7 giờ 30 phút – 30 phút = 1 (giờ)\nLúc 9 giờ quãng đường xe khách đã đi được là: 60 \\times 1 = 60 (km)\nLúc 9 giờ hai xe cách nhau là: 200 – 60 – 60 = 80 (km)",
+        "result": "80 km",
+        "error": false
+    },
+    {
+        "question": "Câu 11 (0,75 điểm). Tổng số học sinh lớp 5A là 45 học sinh. Biết số học sinh nam bằng \\frac{4}{5} số học sinh nữ. Tính số học sinh nữ.",
+        "image_url": null,
+        "solution": "Số học sinh nữ là: 45 : (4 + 5) \\times 5 = 25 (học sinh)",
+        "result": "25 học sinh",
+        "error": false
+    },
+    {
+        "question": "Câu 13 (1 điểm). Để lập ra quỹ ủng hộ, lớp 6A và 6B bán đồ handmade, số tiền mà lớp 6B nhận được nhiều hơn số tiền lớp 6A nhận được là 2 triệu đồng. Trung bình cộng số tiền hai lớp thu được là 5 triệu đồng. Hỏi mỗi lớp nhận được bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Tổng số tiền lớp 6A và 6B là: \\(5 \\times 2 = 10\\) (triệu đồng) \nSố tiền lớp 6B nhận được là: \\((10 + 2) \\div 2 = 6\\) (triệu đồng) \nSố tiền lớp 6A nhận được là: \\(10 - 6 = 4\\) (triệu đồng)",
+        "result": "6A: 4 triệu đồng, 6B: 6 triệu đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 14 (1 điểm). Cho quãng đường AB có độ dài là 180km. Vận tốc xe máy là 45km/giờ, xe ô tô là 60km/giờ. Hỏi sau bao lâu thì quãng đường còn lại của xe máy gấp đôi ô tô biết 2 xe đi cùng chiều.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/23.PNG",
+        "solution": "Gọi quãng đường đã đi của ô tô là AC. Quãng đường còn lại là CB. Quãng đường đã đi của xe máy là AD. Quãng đường còn lại là DB. \nTa có \\(CB = 12121212\\) \nTỉ số vận tốc xe máy và ô tô là : \\(45 : 60 = 3434\\) \nCùng thời gian thì vận tốc và quãng đường tỉ lệ thuận với nhau, suy ra: \nTỉ lệ quãng đường đã đi của xe máy và ô tô là \\(3434ADAC=34ADAC=34\\) \nCoi AC là 4 phần, AD là 3 phần. DC là 1 phần, CB là 1 phần. Suy ra AB là 5 phần. \nQuãng đường đã đi của ô tô là: \\(180 \\div 5 \\times 4 = 144\\) (km) \nThời gian đã đi của 2 xe là: \\(144 \\div 60 = 2.4\\) (giờ)",
+        "result": "2.4 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 15 (1 điểm). Cho tam giác ABC. Trên AB lấy điểm D sao cho AD = 2 BD. Trên BC lấy điểm E sao cho BE = 2 CE. Đoạn thẳng AD, CE cắt nhau tại F. Biết diện tích tam giác ACF là 20 cm². Tính diện tích tam giác ABC.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0602/24.png",
+        "solution": "Nối B với F \nHai tam giác ADC và tam giác CBD có chung chiều cao hạ từ C và \\(AD = 2 \\times BD\\) \nSuy ra: \\(S_{ADC} = 2 \\times S_{CBD}\\) \nHai tam giác AFD và BFD có chung chiều cao F và \\(AD = 2 \\times BD\\) \nSuy ra: \\(S_{AFD} = 2 \\times S_{BFD}\\) \nTừ đó suy ra: \\(S_{ADC} - S_{AFD} = 2 \\times (S_{CBD} - S_{BFD})\\) hay \\(S_{AFC} = 2 \\times S_{BFC}\\) \n\\(S_{BFC} = 20 \\div 2 \\times 1 = 10\\) (cm²) \nLàm tương tự ta được: \\(S_{AFC} = 1212AFB\\) \n\\(S_{AFB} = 20 \\times 2 = 40\\) (cm²) \n\\(S_{ABC} = S_{BFC} + S_{AFB} + S_{AFC} = 10 + 40 + 20 = 70\\) (cm²)",
+        "result": "70 cm²",
+        "error": false
+    }
+]

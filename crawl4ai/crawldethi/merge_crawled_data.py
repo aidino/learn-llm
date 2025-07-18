@@ -48,7 +48,7 @@ def remove_duplicates(data: List[Dict]) -> List[Dict]:
 def merge_crawled_files():
     """Gộp tất cả các file crawled_*.json"""
     # Tìm tất cả các file crawled_*.json
-    file_pattern = "crawled_*.json"
+    file_pattern = "crawled/crawled_*.json"
     files = glob.glob(file_pattern)
     
     if not files:
@@ -102,10 +102,6 @@ def main():
     """Hàm chính"""
     print("🚀 Bắt đầu gộp các file crawled_*.json")
     print("=" * 50)
-    
-    # Kiểm tra thư mục hiện tại
-    current_dir = os.getcwd()
-    print(f"📂 Thư mục làm việc: {current_dir}")
     
     merge_crawled_files()
     

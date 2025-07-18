@@ -1,0 +1,28 @@
+{
+  "source_files": 20,
+  "total_original_questions": 985,
+  "unique_questions": 981,
+  "duplicates_removed": 4,
+  "file_list": [
+    "crawled_last.json",
+    "crawled_p1.json",
+    "crawled_p10.json",
+    "crawled_p11.json",
+    "crawled_p12.json",
+    "crawled_p13.json",
+    "crawled_p14.json",
+    "crawled_p15.json",
+    "crawled_p16.json",
+    "crawled_p17.json",
+    "crawled_p18.json",
+    "crawled_p19.json",
+    "crawled_p2.json",
+    "crawled_p3.json",
+    "crawled_p4.json",
+    "crawled_p5.json",
+    "crawled_p6.json",
+    "crawled_p7.json",
+    "crawled_p8.json",
+    "crawled_p9.json"
+  ]
+}

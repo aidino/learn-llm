@@ -1,0 +1,352 @@
+[
+    {
+        "question": "Bài 1. A đến địa điểm gặp nhau lần 2 là: 27 – 9 = 18 (km)",
+        "image_url": null,
+        "solution": "Đáp số: a) 45 phút b) 18km",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 2. Cho hình vuông ABCD có cạnh 10 cm. Điểm M trên cạnh AD sao cho AM=\\frac{2}{5}AD 1) Tính diện tích tam giác ABM. 2) Tính \\frac{S_{BMC}}{S_{ABM}} 3) Tính BOOM",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1028/17_1.png",
+        "solution": "a) Vì ABCD là hình vuông cạnh 10cm nên AB = BC = CD = DA = 10 cm. Ta có AM=\\frac{2}{5}AD=\\frac{2}{5}×10=4 Diện tích tam giác ABM là: \\frac{4 × 10}{2} = 20 (cm^2) b) \\frac{S_{CMB}}{S_{BMA}}=\\frac{BC}{AM}=\\frac{5}{2} c) Xét 2 tam giác AMB và BMC: có chung đáy MB Mà \\frac{S_{CMB}}{S_{BMA}}=\\frac{5}{2} Ta có \\frac{S_{MOC}}{S_{MOA}}=\\frac{5}{2} Ta có S_{AMB}=S_{AMC} Nên S_{AMB} – S_{AMO} = S_{AMC} – S_{AMO} hay S_{AOB} = S_{MOC} (2) Từ (1) và (2) suy ra \\frac{S_{AOB}}{S_{MOA}}=\\frac{5}{2} Mà hai tam giác có chung chiều cao hạ từ A xuống MB nên BOOM=\\frac{5}{2}",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 3. Có hai giỏ, mỗi giỏ đựng 1 loại quả táo hoặc quả lê. - Mai nói: “2 quả táo nặng hơn 3 quả lê”. - Lan nói: “3 quả táo nặng hơn 4 quả lê”. Biết rằng chỉ có 1 bạn nói đúng. Hỏi ai là người nói đúng?",
+        "image_url": null,
+        "solution": "Mai nói: “2 quả táo nặng hơn 3 quả lê” nên 6 quả táo nặng hơn 9 quả lê. Lan nói : “3 quả táo nặng hơn 4 quả lê” nên 6 quả táo nặng hơn 8 quả lê. Giả sử: Mai nói đúng thì Lan cũng nói đúng vì 6 quả táo > 9 quả lê > 8 quả lê. Vậy theo trường hợp này cả hai đều đúng. Trong khi đó, đề bài cho chỉ một người nói đúng nên mâu thuẫn. Do đó, Lan là người nói đúng.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính giá trị biểu thức: 12,6 + 9,3 + 25,4 – 6,3",
+        "image_url": null,
+        "solution": "12,6 + 9,3 + 25,4 – 6,3 = (12,6 + 25,4) + (9,3 – 6,3) = 38 + 3 = 41",
+        "result": "41",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Có bao nhiêu chữ số a thoả mãn \\( \\overline{a31a5} \\)",
+        "image_url": null,
+        "solution": "\\( a + 3 + 1 + a + 5 = a \\times 2 + 9 \\) chia hết cho 3 hay \\( a \\times 2 \\) chia hết cho 3. Suy ra: \\( a = 0; 3; 6; 9 \\). Do \\( a \\neq 0 \\) nên có 3 giá trị thoả mãn: 3; 6; 9",
+        "result": "3; 6; 9",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Điểm trung bình của 2 môn: Toán, Tiếng Việt là 7,5 điểm. Hỏi môn Tiếng Anh phải đạt bao nhiêu điểm để điểm trung bình của cả 3 môn là 8 điểm?",
+        "image_url": null,
+        "solution": "Tổng điểm Toán và Tiếng Việt là: \\( 7,5 \\times 2 = 15 \\) (điểm). Tổng điểm Toán, Tiếng Việt và Tiếng Anh là: \\( 8 \\times 3 = 24 \\) (điểm). Điểm Tiếng Anh cần đạt được là: \\( 24 – 15 = 9 \\) (điểm)",
+        "result": "9 điểm",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Tổng số tuổi của hai bố con là 52 tuổi. Biết 2 năm trước tuổi con bằng 1/7 tuổi bố. Tính tuổi con hiện nay.",
+        "image_url": null,
+        "solution": "Tổng số tuổi của hai bố con 2 năm trước là: \\( 52 – 2 \\times 2 = 48 \\) (tuổi). Tuổi con 2 năm trước là: \\( \\frac{48}{7 + 1} \\times 1 = 6 \\) (tuổi). Tuổi con hiện nay là: \\( 6 + 2 = 8 \\) (tuổi)",
+        "result": "8 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Tính thể tích hình lập phương có diện tích toàn phần là 96 cm².",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1028/18.png",
+        "solution": "Diện tích 1 mặt hình lập phương là: \\( \\frac{96}{6} = 16 \\) (cm²). Ta có: \\( 4 \\times 4 = 16 \\) nên 1 cạnh hình lập phương là: 4 (cm). Thể tích hình lập phương là: \\( 4 \\times 4 \\times 4 = 64 \\) (cm³)",
+        "result": "64 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Thầy Cường gửi tiết kiệm 50 triệu đồng với lãi suất 6%/năm. Hỏi sau 1 năm thầy Cường nhận được bao nhiêu tiền cả gốc và lãi?",
+        "image_url": null,
+        "solution": "Số tiền lãi sau 1 năm là: \\( 50,000,000 \\times \\frac{6}{100} = 3,000,000 \\) (đồng). Sau 1 năm số tiền thầy Cường nhận về cả gốc và lãi là: \\( 50,000,000 + 3,000,000 = 53,000,000 \\) (đồng)",
+        "result": "53,000,000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Cho hình biên, biết bán kính hình tròn nhỏ là 3 cm, bán kính hình tròn lớn là 5 cm. Tính diện tích hình tô đậm.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1028/15_1.png",
+        "solution": "Diện tích hình tròn nhỏ: \\( 3 \\times 3 \\times 3,14 = 28,26 \\) (cm²). Diện tích hình tròn lớn là: \\( 5 \\times 5 \\times 3,14 = 78,5 \\) (cm²). Diện tích phần tô màu: \\( 78,5 – 28,26 = 50,24 \\) (cm²)",
+        "result": "50,24 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Trong hộp chứa hai loại bi, bi xanh và bi đỏ. Biết số bi xanh chiếm 60% số bi của cả hộp và hiệu số bi 2 loại là 12 viên. Tính số bi đỏ?",
+        "image_url": null,
+        "solution": "Số bi xanh bằng \\( \\frac{3}{5} \\) tổng số bi. Số bi đỏ là: \\( 12 : (3 - 2) \\times 2 = 24 \\) (viên bi)",
+        "result": "24 viên bi",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Ngày 7/5/2024 là thứ Ba, hỏi ngày này 4 năm sau là thứ mấy?",
+        "image_url": null,
+        "solution": "Từ 7/5/2024 đến 7/5 của 4 năm sau có: \\( 365 \\times 4 + 1 = 1461 \\) ngày. Ta có: \\( 1461 : 7 = 208 \\) (dư 5). Do vậy ngày 7/5 của 4 năm nữa là chủ nhật",
+        "result": "chủ nhật",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Điền số thích hợp vào dấu hỏi chấm (?).",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1028/16_1.png",
+        "solution": "Quy Luật chung của 4 ô số đó là: \\( \\frac{a - b}{10} = c \\). Ta có: Ô số 1: \\( \\frac{274 - 34}{10} = 24 \\). Ô số 2: \\( \\frac{376 - 46}{10} = 33 \\). Ô số 3: \\( \\frac{165 - 35}{10} = 13 \\). Ô số 4: \\( \\frac{364 - b}{10} = 31 \\). \\( 364 – b = 31 \\times 10 \\). \\( b = 364 – 310 = 54 \\)",
+        "result": "54",
+        "error": false
+    },
+    {
+        "question": "Cho tam giác ABC. Trên cạnh AB lấy điểm M sao cho \\( AM = \\frac{1}{4} \\times AB \\) và \\( BN = \\frac{2}{3} \\times BC \\). Tính diện tích tam giác ABC.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0112/20.png",
+        "solution": "Xét tam giác \\( \\triangle NPC \\) và \\( \\triangle NMC \\) có chung chiều cao hạ từ \\( N \\) xuống \\( MC \\) nên: \\( \\frac{S_{NPC}}{S_{NMC}} = \\frac{PC}{MC} = \\frac{1}{3} \\). Do \\( MP = \\frac{2}{3} MC \\), suy ra \\( S_{NMC} = 3 \\times S_{NPC} = 3 \\times 5 = 15 \\). Xét tam giác \\( \\triangle NMC \\) và \\( \\triangle MBC \\) có chung chiều cao hạ từ \\( M \\) xuống \\( BC \\) nên: \\( \\frac{S_{NMC}}{S_{MBC}} = \\frac{NC}{BC} = \\frac{1}{3} \\). Do \\( BN = \\frac{2}{3} BC \\), suy ra \\( S_{MBC} = 3 \\times S_{NMC} = 3 \\times 15 = 45 \\). Xét tam giác \\( \\triangle MBC \\) và \\( \\triangle ABC \\) có chung chiều cao hạ từ \\( C \\) xuống \\( AB \\) nên: \\( \\frac{S_{MBC}}{S_{ABC}} = \\frac{MB}{AB} = \\frac{3}{4} \\). Do \\( AM = \\frac{1}{4} AB \\), suy ra \\( S_{ABC} = \\frac{4}{3} \\times S_{MBC} = \\frac{4}{3} \\times 45 = 60 \\).",
+        "result": "60 \\text{ cm}^2",
+        "error": false
+    },
+    {
+        "question": "Giá trị của chữ số 5 trong số thập phân 7,2056 là:",
+        "image_url": null,
+        "solution": "Giá trị của chữ số 5 trong số thập phân 7,2056 là \\( \\frac{5}{1000} \\)",
+        "result": "51000",
+        "error": false
+    },
+    {
+        "question": "Số thập phân lớn nhất trong các số 32,06; 32,19; 32,2; 31,999 là:",
+        "image_url": null,
+        "solution": "Số thập phân lớn nhất trong các số đã cho là: 32,2",
+        "result": "32,2",
+        "error": false
+    },
+    {
+        "question": "Giá trị của biểu thức \\( 7,32 − 2,5 \\times 2 \\) là:",
+        "image_url": null,
+        "solution": "\\( 7,32 − 2,5 \\times 2 = 7,32 – 5 = 2,32 \\)",
+        "result": "2,32",
+        "error": false
+    },
+    {
+        "question": "Điền số thích hợp vào chỗ chấm: 6 tấn 1026 kg = ... tấn",
+        "image_url": null,
+        "solution": "6 tấn 1026 kg = 7,026 tấn",
+        "result": "7,026",
+        "error": false
+    },
+    {
+        "question": "Hình lập phương có diện tích toàn phần là 216 cm² thì có thể tích là:",
+        "image_url": null,
+        "solution": "Diện tích một mặt của hình lập phương là \\( \\frac{216}{6} = 36 \\text{ cm}^2 \\)\\nTa có \\( 36 = 6 \\times 6 \\) nên độ dài cạnh hình lập phương là 6 cm\\nThể tích hình lập phương là \\( 6 \\times 6 \\times 6 = 216 \\text{ cm}^3 \\)",
+        "result": "216 cm³",
+        "error": false
+    },
+    {
+        "question": "Giá trị của \\( a \\) trong biểu thức \\( a5+15=3+15 \\)",
+        "image_url": null,
+        "solution": "\\( a5+15=3+15 \\)\\n\\( a5=3 \\)\\n\\( a=15 \\)",
+        "result": "a = 15",
+        "error": false
+    },
+    {
+        "question": "Nhân dịp Ngày quốc tế thiếu nhi 01/06, một cửa hàng sau khi giảm giá 20% thì giá bán một chiếc cặp là 248 000 đồng. Giá tiền chiếc cặp trước khi giảm là:",
+        "image_url": null,
+        "solution": "Giá bán của chiếc cặp sau khi giảm giá chiếm: \\( 100\\% - 20\\% = 80\\% \\) (giá ban đầu)\\nGiá tiền chiếc cặp trước khi giảm là: \\( \\frac{248 000}{80} \\times 100 = 310 000 \\text{ đồng} \\)",
+        "result": "310 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Điền số thích hợp vào chỗ chấm: 4 dm³ 3cm³ = ... dm³",
+        "image_url": null,
+        "solution": "4 dm³ 3cm³ = 4,003 dm³",
+        "result": "4,003",
+        "error": false
+    },
+    {
+        "question": "Giá trị của \\( x \\) trong biểu thức \\((x+1)+(x+2)+(x+3)+....+(x+20)=2023\\)",
+        "image_url": null,
+        "solution": "\\((x+1)+(x+2)+(x+3)+....+(x+20)=2023\\)\\n\\(20\\times x+(1+2+3+....+20)=2023\\)\\n\\(20\\times x+(20+1)\\times 20:2=2023\\)\\n\\(20\\times x+210=2023\\)\\n\\(20\\times x=2023−210\\)\\n\\(20\\times x=1813\\)\\n\\(x=\\frac{1813}{20}\\)\\n\\(x=90,65\\)",
+        "result": "x=90,65",
+        "error": false
+    },
+    {
+        "question": "Kết quả của biểu thức \\( 12:0,5−14:0,25+18:0,125−110:0,1 \\)",
+        "image_url": null,
+        "solution": "\\( 12:0,5−14:0,25+18:0,125−110:0,1=1−1+1−1=0 \\)",
+        "result": "0",
+        "error": false
+    },
+    {
+        "question": "Biết số thứ nhất là 70. Số thứ hai bằng 40% số thứ nhất. Trung bình cộng của hai số là:",
+        "image_url": null,
+        "solution": "Số thứ hai là \\( 70 \\times \\frac{40}{100} = 28 \\)\\nTrung bình cộng của hai số là: \\( \\frac{70 + 28}{2} = 49 \\)",
+        "result": "49",
+        "error": false
+    },
+    {
+        "question": "Đường kính của hình tròn tăng lên 3 lần thì diện tích hình tròn tăng lên mấy lần?",
+        "image_url": null,
+        "solution": "Nếu đường kính của hình tròn tăng lên 3 lần thì bán kính của hình tròn đó tăng lên 3 lần.\\n\\( \\Rightarrow \\) Diện tích hình tròn tăng lên \\( 3^2 = 9 \\) lần.",
+        "result": "9 lần",
+        "error": false
+    },
+    {
+        "question": "Hiệu của hai số là 212. Nếu lấy số lớn chia cho số bé thì được thương là 4 dư 2. Tìm hai số đó.",
+        "image_url": null,
+        "solution": "Nếu lấy số lớn chia cho số bé thì được thương là 4 dư 2 nên coi số bé là 1 phần thì số lớn là 4 phần và 2 đơn vị.\\nSố bé là \\( \\frac{212 - 2}{4 - 1} = 70 \\)\\nSố lớn là \\( 212 + 70 = 282 \\)",
+        "result": "70 và 282",
+        "error": false
+    },
+    {
+        "question": "Tháng 4 nhà bạn An phải trả 725 000 đồng tiền điện. Tháng 5, nhà An sử dụng điện tiết kiệm hơn nên tháng 5 chỉ phải trả 500 000 đồng. Số tiền điện tháng 5 nhà bạn An so với tháng 4 giảm số phần trăm là:",
+        "image_url": null,
+        "solution": "Tiền điện tháng 5 giảm so với tháng 4 là: \\( 725 000 – 500 000 = 225 000 \\text{ đồng} \\)\\nSố tiền điện tháng 5 giảm: \\( \\frac{225 000}{725 000} \\times 100 = 31\\% \\) (so với tháng 4)",
+        "result": "31%",
+        "error": false
+    },
+    {
+        "question": "Một hình chữ nhật có chu vi 64 dm. Nếu tăng chiều rộng thêm 2,5 dm và giảm chiều dài 65 cm thì hình chữ nhật trở thành hình vuông. Diện tích hình chữ nhật đó là:",
+        "image_url": null,
+        "solution": "Đổi 65 cm = 6,5 dm\\nChiều dài hơn chiều rộng là \\( 2,5 + 6,5 = 9 \\text{ dm} \\)\\nNửa chu vi hình chữ nhật là \\( \\frac{64}{2} = 32 \\text{ dm} \\)\\nChiều rộng hình chữ nhật là \\( \\frac{32 - 9}{2} = 11,5 \\text{ dm} \\)\\nChiều dài hình chữ nhật là: \\( 11,5 + 9 = 20,5 \\text{ dm} \\)\\nDiện tích hình chữ nhật là: \\( 11,5 \\times 20,5 = 235,75 \\text{ dm}^2 \\)",
+        "result": "235,75 dm²",
+        "error": false
+    },
+    {
+        "question": "Cho phân số \\( \\frac{17}{31} \\)",
+        "image_url": null,
+        "solution": "Tổng của tử số và mẫu số của phân số \\( \\frac{17}{31} \\) là \\( 17 + 31 = 48 \\)\\nKhi lấy tử số trừ đi \\( a \\) và mẫu số cộng với \\( a \\) thì tổng của tử số mới và mẫu số mới không đổi và bằng 48.\\nCoi tử số mới là 1 phần, mẫu số mới là 3 phần\\nTử số mới là: \\( \\frac{48}{1 + 3} \\times 1 = 12 \\)\\nSố tự nhiên \\( a \\) là \\( 17 - 12 = 5 \\)",
+        "result": "5",
+        "error": false
+    },
+    {
+        "question": "Giá trị của biểu thức \\( A=11\\times3+13\\times5+15\\times7+...+12021\\times2023 \\)",
+        "image_url": null,
+        "solution": "\\( A=11\\times3+13\\times5+15\\times7+...+12021\\times2023 \\)\\n\\( 2\\times A=21\\times3+23\\times5+25\\times7+....+22021\\times2023 \\)\\n\\( 2\\times A=1−13+13−15+15−17+....+12021−12023 \\)\\n\\( 2\\times A=1−12023=20222023 \\)\\n\\( A=\\frac{10112023}{2} \\)",
+        "result": "10112023",
+        "error": false
+    },
+    {
+        "question": "Tổng của tất cả các số tự nhiên có 3 chữ số chia hết cho 9 là:",
+        "image_url": null,
+        "solution": "Các số tự nhiên có 3 chữ số chia hết cho 9 là: 108, 117, 126 …, 999\\nSố số hạng của dãy số trên là: \\( \\frac{999 - 108}{9} + 1 = 100 \\) (số hạng)\\nTổng của tất cả các số tự nhiên có 3 chữ số chia hết cho 9 là: \\( \\frac{(108 + 999) \\times 100}{2} = 55350 \\)",
+        "result": "55350",
+        "error": false
+    },
+    {
+        "question": "Một bếp ăn dự trữ đủ gạo cho 80 người ăn trong 30 ngày. Thực tế, một số người đến thêm nên số gạo đó chỉ đủ ăn trong 16 ngày (mức ăn của mỗi người như nhau). Số người đến thêm là:",
+        "image_url": null,
+        "solution": "1 người ăn hết số gạo đã dự trữ trong thời gian là: \\( 80 \\times 30 = 2400 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 1. (3 điểm). Điền số thích hợp vào chỗ trống. Có",
+        "image_url": null,
+        "solution": "Gọi số tự nhiên cần tìm là \\( a \\) (\\( a \\neq 0 \\); \\( a \\neq 1 \\); \\( a > 5 \\)) Ta có 86 chia cho \\( a \\) dư 5 nên \\((86 - 5)\\) chia hết cho \\( a \\) Hay 81 chia hết cho \\( a \\). Mà \\( a \\neq 1 \\) và \\( a > 5 \\) nên \\( a = 9 \\); 27; 81 Vậy có \\( 3 \\) số tự nhiên mà khi chia 86 cho các số đó đều có dư là 5.",
+        "result": "3",
+        "error": false
+    },
+    {
+        "question": "Bài 2. (3 điểm). Điền số thích hợp vào chỗ trống. An và Bình cùng tham gia đua xe đạp. Các vận động viên xuất phát cùng một lúc tại điểm xuất phát và về đích tại các thời điểm khác nhau. An về ngay sau Bình và xếp ở vị trí thứ 15, Bình xếp thứ tư tính từ dưới lên. Vậy có tất cả",
+        "image_url": null,
+        "solution": "An về ngay sau Bình và xếp ở vị trí thứ 15 nên Bình xếp ở vị trí 14. Bình xếp thứ tư tính từ dưới lên. Suy ra có tất cả 17 vận động viên tham gia cuộc đua.",
+        "result": "17",
+        "error": false
+    },
+    {
+        "question": "Bài 3. (3 điểm) Các số tự nhiên lẻ 1, 3, 5, 7, …, 2021, 2023, … được điền vào một bảng dưới đây. Trong đó các số ở hàng lẻ được sắp xếp theo thứ tự tăng dần từ trái sang phải còn các số ở hàng chẵn được sắp xếp theo thứ tự tăng dần từ phải sang trái. Hỏi số 2023 nằm ở hàng mấy? Cột nào?",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0125/20_1.png",
+        "solution": "Số 2023 là số hạng thứ \\((2023 – 1) : 2 + 1 = 1012\\) của dãy số đã cho. Ta thấy cứ 4 số được xếp vào 1 hàng. Mà \\(1012 : 4 = 253\\) nên số 2023 nằm ở hàng thứ 253. Lại có 1012 chia hết cho 4 nên số 2023 nằm ở cột D.",
+        "result": "Hàng: 253, Cột: D",
+        "error": false
+    },
+    {
+        "question": "Bài 4. (6 điểm) Một mảnh đất hình chữ nhật có chiều dài gấp ba lần chiều rộng. Nếu tăng chiều dài thêm 1 m và tăng chiều rộng thêm 1 m thì được mảnh đất hình chữ nhật mới có diện tích hơn diện tích mảnh đất lúc đầu là 17 m2. a) Vẽ một hình biểu diễn mảnh đất lúc đầu và lúc sau. b) Tính diện tích của mảnh đất lúc đầu.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0125/20_2.png",
+        "solution": "a) Hình vẽ, trong đó: - Vẽ được mảnh đất lúc đầu, lúc sau. - Thể hiện được 4 hình chữ nhật bằng nhau. - Thể hiện được hình vuông cạnh 1 m. b) Theo hình vẽ, phần diện tích tăng thêm 17 m2 bao gồm bốn hình chữ nhật nhỏ bằng nhau chiều rộng bằng 1 m và một hình vuông cạnh bằng 1 m. Diện tích hình vuông: \\(1 \\times 1 = 1\\) (m²) Diện tích hình chữ nhật nhỏ: \\((17 – 1) : 4 = 4\\) (m²) Chiều dài hình chữ nhật nhỏ cũng chính là chiều rộng mảnh đất: \\(4 : 1 = 4\\) (m) Chiều dài mảnh đất: \\(4 \\times 3 = 12\\) (m) Diện tích mảnh đất: \\(12 \\times 4 = 48\\) (m²)",
+        "result": "48m²",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính diện tích hình chữ nhật có chiều dài 144 cm và chiều rộng 72 cm.",
+        "image_url": null,
+        "solution": "Diện tích hình chữ nhật được tính bằng công thức: \\( S = \\text{chiều dài} \\times \\text{chiều rộng} \\). Do đó, \\( S = 144 \\times 72 = 10368 \\text{ cm}^2 \\).",
+        "result": "10368 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Tính diện tích hình tam giác có đáy 25 cm và chiều cao 72 cm.",
+        "image_url": null,
+        "solution": "Diện tích hình tam giác được tính bằng công thức: \\( S = \\frac{1}{2} \\times \\text{đáy} \\times \\text{chiều cao} \\). Do đó, \\( S = \\frac{1}{2} \\times 25 \\times 72 = 900 \\text{ cm}^2 \\).",
+        "result": "900 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Tính tổng diện tích của hai hình đã cho.",
+        "image_url": null,
+        "solution": "Tổng diện tích của hai hình là tổng diện tích của hình chữ nhật và hình tam giác. Do đó, tổng diện tích là \\( 10368 + 900 = 11268 \\text{ cm}^2 \\).",
+        "result": "11268 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Kết quả phép tính $2.75 \\times 0.99 + 2.75 \\div 100$ bằng: A. 0.275 B. 2.75 C. 27.5 D. 275",
+        "image_url": null,
+        "solution": "$2.75 \\times 0.99 + 2.75 \\div 100 = 2.75 \\times 0.99 + 2.75 \\times 0.01 = 2.75 \\times (0.99 + 0.01) = 2.75 \\times 1 = 2.75$",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Một bể bóng trong khu vui chơi có 360 quả bóng gồm bóng màu vàng và bóng màu xanh, 3535 A. 225 quả B. 135 quả C. 144 quả D. 216 quả",
+        "image_url": null,
+        "solution": "Số bóng xanh trong bể là $\\frac{35}{100} \\times 360 = 216$. Số quả bóng vàng trong bể là $360 - 216 = 144$ (quả)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một bể kính dạng hình hộp chữ nhật có chiều dài 1 m, chiều rộng 5 dm, chiều cao 6 dm (bỏ qua độ dày của các tấm kính). Hiện mực nước trong bể cao bằng 2323 A. 200 dm3 B. 300 dm3 C. 200 m3 D. 30 dm3",
+        "image_url": null,
+        "solution": "Đổi: $1 \\text{ m} = 10 \\text{ dm}$. Chiều cao mực nước trong bể là $\\frac{2}{3} \\times 6 = 4$. Thể tích nước có trong bể kính đó là: $10 \\times 5 \\times 4 = 200$ (dm³)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Biểu đồ cột dưới đây cho biết số lượng học sinh khối 6 tham gia câu lạc bộ nghệ thuật trong hè 2023 của trường THCS và THPT Nguyễn Tất Thành. Tỉ số phần trăm của số học sinh học Guitar so với tổng số học sinh tham gia câu lạc bộ nghệ thuật hè 2023 của trường THCS và THPT Nguyễn Tất Thành là: A. 25 % B. 30% C. 12.5% D. 75%",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_6.png",
+        "solution": "Tổng số học sinh tham gia câu lạc bộ nghệ thuật hè là: $15 + 20 + 30 + 25 + 20 + 10 = 120$ (học sinh). Tỉ số phần trăm của số học sinh học Guitar so với tổng số học sinh tham gia câu lạc bộ nghệ thuật hè 2023 của trường THCS và THPT Nguyễn Tất Thành là: $\\frac{30}{120} \\times 100\\% = 25\\%$",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Trung bình cộng của 3 số bằng 15.3. Trung bình cộng của số thứ nhất và số thứ hai bằng 12.1. Tìm số thứ ba.",
+        "image_url": null,
+        "solution": "Tổng của ba số là $15.3 \\times 3 = 45.9$. Tổng của số thứ nhất và số thứ hai là $12.1 \\times 2 = 24.2$. Số thứ ba là $45.9 - 24.2 = 21.7$",
+        "result": "21.7",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Nhân dịp ngày Quốc tế Thiếu nhi mùng 1 tháng 6, một cửa hàng quần áo trẻ em giảm giá 15% tất cả các sản phẩm so với giá niêm yết. Mẹ bạn Mai mua một bộ váy tại cửa hàng đó và đã trả 212 500 đồng. Hỏi bộ váy đó có giá niêm yết là bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Giá bán của chiếc váy chiếm $100\\% - 15\\% = 85\\%$ (giá niêm yết). Giá niêm yết của chiếc váy đó là $\\frac{212500}{85} \\times 100 = 250000$ (đồng)",
+        "result": "250000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tìm số tự nhiên lớn nhất có dạng \\(\\overline{a1024b}\\)",
+        "image_url": null,
+        "solution": "Để số \\(\\overline{a1024b}\\) lớn nhất, xét các trường hợp: Trường hợp 1: \\(b = 0\\). Ta có số \\(\\overline{a10240}\\). Suy ra \\(a + 7\\) chia hết cho 9. Do đó \\(a = 2\\). Ta có số 210240. Trường hợp 2: \\(b = 5\\). Ta có số \\(\\overline{a10245}\\). Suy ra \\(a + 12\\) chia hết cho 9. Do đó \\(a = 6\\). Ta có số 610245. Vậy số cần tìm là 610245.",
+        "result": "610245",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Hình chữ nhật ABCD có cạnh AD bằng 4 cm. Hình tròn tâm D, bán kính DA và hình tròn tâm C, bán kính CB có vị trí như hình bên. Hãy tính độ dài cạnh CD biết diện tích phần tô đậm bằng diện tích phần gạch chéo.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/19_1.png",
+        "solution": "Diện tích phần tô đậm và phần gạch chéo đều bằng $\\frac{1}{4} \\times 4 \\times 4 \\times 3.14 = 12.56$. Vì diện tích phần tô đậm bằng diện tích phần gạch chéo nên diện tích hình chữ nhật ABCD là: $12.56 + 12.56 = 25.12$ (cm²). Độ dài cạnh CD là $\\frac{25.12}{4} = 6.28$ (cm)",
+        "result": "6.28 cm",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Hai bạn An và Bình cùng đạp xe từ trường đến sân vận động để tham gia thi đấu thể thao. Thời gian An đạp xe từ trường đến sân vận động bằng 5454 1. Tính vận tốc của bạn An. 2. Tính độ dài quãng đường từ trường đến sân vận động biết rằng nếu trên cùng quãng đường đó và cùng một lúc An xuất phát từ trường còn Bình xuất phát từ sân vận động thì sau 12 phút 2 bạn sẽ gặp nhau. (Biết vận tốc của 2 bạn không thay đổi)",
+        "image_url": null,
+        "solution": "1. Đổi: 6 phút = \\(\\frac{1}{10}\\) giờ. Vận tốc của An là: \\(\\frac{1.2}{\\frac{1}{10}} = 12\\) km/giờ. 2. Trên cùng một quãng đường thì thời gian và vận tốc tỉ lệ nghịch với nhau. \\(t_{An} : t_{Bình} = v_{Bình} : v_{An} = \\frac{5}{4}\\). Vận tốc của Bình là \\(12 \\times \\frac{5}{4} = 15\\) km/giờ. Tổng vận tốc của An và Bình là 12 + 15 = 27 (km/giờ). Đổi: 12 phút = \\(\\frac{1}{5}\\) giờ. Quãng đường từ trường đến sân vận động là \\(27 \\times \\frac{1}{5} = 5.4\\) km",
+        "result": "1) 12 km/giờ 2) 5.4 km",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Cho hình chữ nhật ABCD. Trên AB lấy điểm E sao cho AB = AE x 3, DB cắt EC tại G. Biết diện tích hình chữ nhật ABCD là 144 cm², tính: 1. Diện tích tam giác AED. 2. Diện tích tứ giác AEGD.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/18_1.png",
+        "solution": "1. \\(S_{ABD} = S_{BDC} = \\frac{1}{2} \\times S_{ABCD} = \\frac{144}{2} = 72\\). \\(S_{AED} = \\frac{1}{3} \\times S_{ABD} = \\frac{1}{3} \\times 72 = 24\\). 2. Ta có \\(S_{DEB} = \\frac{2}{3} \\times S_{DAB} = \\frac{2}{3} \\times S_{CDB}\\) nên chiều cao hạ từ E xuống BD bằng \\(\\frac{2}{3}\\). Suy ra \\(S_{EDG} = \\frac{2}{3} \\times S_{CDG} = \\frac{2}{5} \\times S_{ECD}\\). \\(S_{ECD} = \\frac{AD \\times DC}{2} = S_{ABCD}\\)",
+        "result": null,
+        "error": false
+    }
+]

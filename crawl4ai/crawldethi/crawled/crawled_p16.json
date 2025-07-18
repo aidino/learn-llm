@@ -1,0 +1,308 @@
+[
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức \\(4.2 \\times 139 + 4.2 \\times 59\\).",
+        "image_url": null,
+        "solution": "Sử dụng tính chất phân phối của phép nhân đối với phép cộng: \\(4.2 \\times 139 + 4.2 \\times 59 = 4.2 \\times (139 + 59) = 4.2 \\times 198 = 8.4\\).",
+        "result": "8.4",
+        "error": false
+    },
+    {
+        "question": "Câu 2: 3 ha gấp 75 m² bao nhiêu lần?",
+        "image_url": null,
+        "solution": "Đổi: 3 ha = 30,000 m². Số lần là \\(30,000 \\div 75 = 400\\).",
+        "result": "400 lần",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Một xe chở được 4 tấn vải. Hỏi cần bao nhiêu xe để chở 36 tấn vải?",
+        "image_url": null,
+        "solution": "Số xe để chở 36 tấn vải là \\(36 \\div 4 = 9\\) xe.",
+        "result": "9 xe",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Thể tích của bể là 3 x 2 x 1.5 m³. Thời gian để vòi chảy đầy bể là bao lâu nếu tốc độ chảy là 30 dm³/phút?",
+        "image_url": null,
+        "solution": "Thể tích bể là \\(3 \\times 2 \\times 1.5 = 9\\) m³ = 9,000 dm³. Thời gian để vòi chảy đầy bể là \\(9,000 \\div 30 = 300\\) phút = 5 giờ.",
+        "result": "5 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Số lít dầu còn lại chiếm 60% lượng dầu ban đầu. Biết lượng dầu ban đầu là 32.5 lít. Hỏi số lít dầu còn lại là bao nhiêu?",
+        "image_url": null,
+        "solution": "Số lít dầu còn lại là \\(32.5 \\times 60 \\div 100 = 19.5\\) lít.",
+        "result": "19.5 lít",
+        "error": false
+    },
+    {
+        "question": "Câu 6: Tìm số hạng tiếp theo của dãy số: 1, 2, 5, 10, 17, 26.",
+        "image_url": null,
+        "solution": "Dãy số có quy luật: \\(1 + 1 = 2\\), \\(2 + 3 = 5\\), \\(5 + 5 = 10\\), \\(10 + 7 = 17\\), \\(17 + 9 = 26\\). Vậy số hạng tiếp theo là \\(26 + 11 = 37\\).",
+        "result": "37",
+        "error": false
+    },
+    {
+        "question": "Câu 7: Tổng số chai nước rửa tay và cồn sát khuẩn còn lại sau khi bán là 330 chai. Biết rằng số chai nước rửa tay còn lại là 120 chai. Hỏi số chai nước rửa tay lúc đầu là bao nhiêu?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0303/20_10.png",
+        "solution": "Số chai nước rửa tay lúc đầu là \\(120 + 20 = 140\\) chai.",
+        "result": "140 chai",
+        "error": false
+    },
+    {
+        "question": "Câu 8: Cho hình SABCD với diện tích SABD và SBDC theo tỉ lệ 2:3. Biết SABCD = 30 cm². Tính diện tích SABE.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_21.png",
+        "solution": "SABD + SBDC = SABCD = 30 cm². Suy ra SABD = \\(30 \\div (2 + 3) \\times 2 = 12\\) cm². SABE = \\(\\frac{2}{3} \\times 12 = 8\\) cm².",
+        "result": "8 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 9: a) Tính tổng thời gian cả đi và về không tính thời gian nghỉ. b) Tính quãng đường AB biết vận tốc đi là 60 km/h và vận tốc về là 50 km/h.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0303/20_12.png",
+        "solution": "a) Tổng thời gian cả đi và về là \\(14 \\text{ giờ } 15 \\text{ phút} - 7 \\text{ giờ } 15 \\text{ phút} - 1 \\text{ giờ } 30 \\text{ phút} = 5 \\text{ giờ } 30 \\text{ phút} = 5.5 \\text{ giờ}\\). b) Thời gian ô tô về là \\(t_2 = 5.5 \\div (5 + 6) \\times 6 = 3\\) giờ. Quãng đường AB dài là \\(50 \\times 3 = 150\\) km.",
+        "result": "a) 5.5 giờ; b) 150 km",
+        "error": false
+    },
+    {
+        "question": "Câu 10: Xét số bi trong 3 hộp A, B, C. a) Hoàn thiện bảng số bi sau mỗi lượt chơi. b) Chứng minh yêu cầu của thầy Tùng không thực hiện được.",
+        "image_url": null,
+        "solution": "a) Hoàn thiện bảng theo các nhận xét đã cho. b) Số dư của số bi trong mỗi hộp khi chia cho 3 là khác nhau ban đầu, nên không thể có lượt chơi mà số dư mỗi hộp chia cho 3 đều bằng nhau. Vậy yêu cầu của thầy là không thực hiện được.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 16. Cho hai hình vuông ABCD và NMDP có cạnh AB = 30 cm, cạnh MN = 20 cm. a) Tính diện tích các tam giác AMB, NMP, BPC. b) Tính diện tích tam giác PMB. c) Tính diện tích tam giác MRB.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0604/21_1.PNG",
+        "solution": "a) Độ dài cạnh AM là: \\(30 - 20 = 10\\) (cm) Diện tích tam giác AMB là: \\(\\frac{30 \\times 10}{2} = 150\\) (cm²) Diện tích tam giác MNP là: \\(\\frac{20 \\times 20}{2} = 200\\) (cm²) Độ dài cạnh PC là: \\(30 + 20 = 50\\) (cm) Diện tích tam giác BPC là: \\(\\frac{50 \\times 30}{2} = 750\\) (cm²) b) Vẽ thêm hình chữ nhật AMNI. Diện tích hình chữ nhật AMNI là: \\(20 \\times 10 = 200\\) (cm²) Độ dài cạnh BI là: \\(30 + 20 = 50\\) (cm) Độ dài cạnh PI là: \\(20 + 10 = 30\\) (cm) Diện tích tam giác IBP là: \\(\\frac{50 \\times 30}{2} = 750\\) (cm²) Diện tích tam giác PMB là: \\(750 - (200 + 200 + 150) = 200\\) (cm²)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Số gồm 7 trăm, 7 phần nghìn là:",
+        "image_url": null,
+        "solution": "Số gồm 7 trăm, 7 phần nghìn là: 700,007",
+        "result": "700,007",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Cho hình tròn có chu vi 37,68cm. Tính diện tích hình tròn.",
+        "image_url": null,
+        "solution": "Bán kính hình tròn là: \\( \\frac{37,68}{3,14 \\times 2} = 6 \\text{(cm)} \\) Diện tích hình tròn là: \\( 6 \\times 6 \\times 3,14 = 113,04 \\text{(cm}^2\\text{)} \\)",
+        "result": "113,04 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Nếu tăng cạnh của hình lập phương lên 4 lần thì thể tích của hình đó tăng lên bao nhiêu lần?",
+        "image_url": null,
+        "solution": "Coi cạnh của hình lập phương ban đầu là 1cm. Thể tích hình lập phương ban đầu \\( 1 \\times 1 \\times 1 = 1 \\text{(cm}^3\\text{)} \\) Cạnh của hình lập phương mới là: \\( 1 \\times 4 = 4 \\text{(cm)} \\) Thể tích hình lập phương mới là: \\( 4 \\times 4 \\times 4 = 64 \\text{(cm}^3\\text{)} \\) Thể tích hình lập phương mới gấp số lần thể tích hình lập phương ban đầu là: \\( \\frac{64}{1} = 64 \\text{(lần)} \\)",
+        "result": "64 lần",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Một khối đá hình lập phương có cạnh là 2cm. Hỏi thể tích của 120 hình như thế là bao nhiêu đề-xi-mét khối?",
+        "image_url": null,
+        "solution": "Thể tích một khối đá là: \\( 2 \\times 2 \\times 2 = 8 \\text{(cm}^3\\text{)} \\) Thể tích của 120 hình như thế là: \\( 8 \\times 120 = 960 \\text{(cm}^3\\text{)} \\) Đổi: \\( 960 \\text{ cm}^3 = 0,96 \\text{ dm}^3 \\)",
+        "result": "0,96 dm³",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một hộp có 7 viên bi đỏ, 8 viên bi xanh, 10 viên bi vàng. Hỏi cần lấy ra ít nhất bao nhiêu viên bi để chắc chắn có 2 viên bi màu xanh.",
+        "image_url": null,
+        "solution": "Để chắc chắn lấy được 2 viên bi màu xanh thì trước hết ta cần lấy hết toàn bộ số bi màu vàng và bi đỏ. Số bi cần lấy ra là: \\( 7 + 10 = 17 \\text{(viên)} \\) Lúc này trong hộp số bi còn lại chỉ có màu xanh, khi đó lấy ra 2 viên tiếp theo chắc chắn sẽ được 2 viên bi màu xanh. Vậy số bi cần lấy ra ít nhất để chắc chắn có 2 viên bị màu xanh là: \\( 17 + 2 = 19 \\text{(viên)} \\)",
+        "result": "19 viên",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Cho tổng số tuổi của ông, bố và 2 anh em là 110 tuổi. 4 năm sau, tuổi ông gấp đôi tuổi bố và tuổi bố gấp đôi tuổi của 2 anh em. Hỏi tuổi bố là bao nhiêu tuổi?",
+        "image_url": null,
+        "solution": "Tổng số tuổi của ông, bố và hai anh em 4 năm sau là: \\( 110 + 4 \\times 4 = 126 \\text{(tuổi)} \\) Coi tổng số tuổi của hai anh em là 1 phần thì tuổi bố là 2 phần, tuổi ông là 4 phần Tuổi bố 4 năm sau là: \\( \\frac{126}{1 + 2 + 4} \\times 2 = 36 \\text{(tuổi)} \\) Tuổi bố hiện nay là: \\( 36 - 4 = 32 \\text{(tuổi)} \\)",
+        "result": "32 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Nếu 1 trường mầm non treo lần lượt 4 loại cờ xanh, đỏ, tím, vàng, xanh, đỏ, tím, vàng, .... Hỏi lá cờ thứ 150 có màu gì?",
+        "image_url": null,
+        "solution": "Ta chia 1 nhóm có 4 lá cờ gồm: xanh, đỏ, tím, vàng. Ta có: \\( 150 \\div 4 = 37 \\text{(dư 2)} \\) 150 là cờ được chia thành 37 nhóm đầy đủ gồm 4 màu và dư 2 lá xanh, đỏ. Vậy là cờ thứ 150 có màu đỏ.",
+        "result": "Màu đỏ",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Một người thợ làm trong 2 ngày, mỗi ngày làm 8 giờ thì được 112 sản phẩm. Nếu người đó làm trong 7 ngày, mỗi ngày làm 9 giờ thì được bao nhiêu sản phẩm?",
+        "image_url": null,
+        "solution": "1 giờ người đó làm được số sản phẩm là: \\( \\frac{112}{2 \\times 8} = 7 \\text{(sản phẩm)} \\) Người đó làm 7 ngày, mỗi ngày 9 giờ được số sản phẩm là: \\( 7 \\times 9 \\times 7 = 441 \\text{(sản phẩm)} \\)",
+        "result": "441 sản phẩm",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Trên bản đồ tỉ lệ 1 : 3000 một mảnh đất hình chữ nhật có chiều rộng 3 cm, chiều dài 4 cm. Hỏi diện tích thực tế của mảnh đất là bao nhiêu mét vuông?",
+        "image_url": null,
+        "solution": "Chiều rộng thực tế của mảnh đất là: \\( 3 \\times 3000 = 9000 \\text{(cm)} = 90 \\text{ m} \\) Chiều dài thực tế của mảnh đất là: \\( 4 \\times 3000 = 12000 \\text{(cm)} = 120 \\text{ m} \\) Diện tích thực tế của mảnh đất là \\( 120 \\times 90 = 10800 \\text{(m}^2\\text{)} \\)",
+        "result": "10800 m²",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Cho hình hộp chữ nhật có tổng các cạnh là 84cm, chu vi đáy là 32cm và diện tích toàn phần là 280cm². Tính thể tích hình đó.",
+        "image_url": null,
+        "solution": "Tổng chiều dài, chiều rộng và chiều cao hình hộp chữ nhật là: \\( \\frac{84}{4} = 21 \\text{(cm)} \\) Nửa chu vi đáy là: \\( \\frac{32}{2} = 16 \\text{(cm)} \\) Chiều cao là: \\( 21 - 16 = 5 \\text{(cm)} \\) Diện tích xung quanh là: \\( 32 \\times 5 = 160 \\text{(cm}^2\\text{)} \\) Diện tích mặt đáy là: \\( \\frac{280 - 160}{2} = 60 \\text{(cm}^2\\text{)} \\) Thể tích là: \\( 60 \\times 5 = 300 \\text{(cm}^3\\text{)} \\)",
+        "result": "300 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Nếu lớp A không sang hỗ trợ thì lớp B sẽ quét hết nửa sân trường trong bao lâu?",
+        "image_url": null,
+        "solution": "Lớp B quét hết nửa sân trường trong \\( \\frac{24}{45} = 30 \\) phút.",
+        "result": "30 phút",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Cho phân số \\( \\frac{x^2 + 1}{x - 1} \\). Nếu cộng thêm vào tử số và mẫu số của phân số đã cho cùng một số tự nhiên \\( x \\) thì hiệu giữa tử số và mẫu số của phân số mới không đổi là 16 – 5 = 11. Lại có phân số mới bằng 2 nên tỉ số của tử số mới và mẫu số mới là 2 : 1. Ta có sơ đồ:",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0308/20.jpg",
+        "solution": "Mẫu số mới là 11. Ta có \\( \\frac{x^2 + 1}{x - 1} = \\frac{6}{2} + 16 - 1 = 3 + 15 = 165 \\).",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Gỗ tươi chứa 25% nước. Sau khi sấy, lượng nước trong gỗ khô là 4%. Hỏi khối lượng gỗ khô chiếm bao nhiêu phần trăm khối lượng gỗ tươi ban đầu?",
+        "image_url": null,
+        "solution": "Giả sử có 100 tấn gỗ tươi. Lượng nước có trong 100 tấn gỗ tươi là \\( 100 \\times \\frac{25}{100} = 25 \\) (tấn). Khối lượng gỗ có trong 100 tấn gỗ tươi là \\( 100 - 25 = 75 \\) (tấn). Khi lượng nước bay hơi thì khối lượng gỗ không thay đổi. Sau khi sấy, khối lượng gỗ chiếm: \\( 100\\% - 4\\% = 96\\% \\) (khối gỗ khô). Khối lượng gỗ sau khi sấy 100 tấn gỗ tươi là \\( \\frac{75}{96} \\times 100 = 71,825 \\) (tấn). Vậy tỉ số phần trăm giữa khối lượng gỗ khô và khối lượng gỗ tươi ban đầu là: \\( \\frac{71,825}{100} \\times 100\\% = 71,825\\% \\).",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Trong kho nhà Minh có một số gạo, 10 ngày đầu nhà Minh dùng hết 1 yến gạo, 10 ngày tiếp theo nhà Minh dùng hết nửa số gạo còn lại, 10 ngày cuối tháng nhà Minh dùng hết số gạo trong kho và phải mua thêm 3 kg gạo nữa. Biết trong 30 ngày đó, nhà Minh dùng hết tất cả 0,35 tạ gạo. Hỏi 10 ngày cuối tháng, nhà Minh dùng hết bao nhiêu ki-lô-gam gạo?",
+        "image_url": null,
+        "solution": "Đổi 1 yến = 10 kg, 0,35 tạ = 35 kg. Trong kho nhà Minh ban đầu có số gạo là \\( 35 - 3 = 32 \\) (kg). Sau mười ngày đầu, số gạo còn lại là \\( 32 - 10 = 22 \\) (kg). Mười ngày tiếp theo, nhà Minh dùng số gạo là \\( \\frac{22}{2} = 11 \\) (kg). Mười ngày cuối tháng, nhà Minh dùng số gạo là \\( 35 - 10 - 11 = 14 \\) (kg).",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Một hình hộp chữ nhật có chiều dài gấp hai lần chiều rộng. Nếu tăng chiều dài lên 5 dm và giữ nguyên chiều rộng, chiều cao thì thể tích hình hộp chữ nhật tăng lên 1,2 lần. Hỏi nếu tăng chiều rộng lên 5 dm, giảm chiều dài đi 5 dm và tăng chiều cao lên gấp đôi thì thể tích hình hộp chữ nhật tăng lên bao nhiêu lần?",
+        "image_url": null,
+        "solution": "V_{ban đầu} = \\text{chiều dài} \\times \\text{chiều rộng} \\times \\text{chiều cao}. Nếu tăng chiều dài lên 5 dm và giữ nguyên chiều rộng, chiều cao thì: V_1 = (\\text{chiều dài} + 5) \\times \\text{chiều rộng} \\times \\text{chiều cao} = (\\text{chiều rộng} \\times 2 + 5) \\times \\text{chiều rộng} \\times \\text{chiều cao}. Theo đề bài V_1 = 1,2 \\times V_{ban đầu} \\Rightarrow \\text{chiều rộng} \\times 2 + 5 = 2,4 \\times \\text{chiều rộng}. 5 = (2,4 - 2) \\times \\text{chiều rộng}. 5 = 0,4 \\times \\text{chiều rộng} \\Rightarrow \\text{Chiều dài là } 12,5 \\times 2 = 25 \\text{ (cm)}. Khi đó V_{ban đầu} = 25 \\times 12,5 \\times \\text{chiều cao} = 312,5 \\times \\text{chiều cao}. Theo đề bài V_2 = (25 - 5) \\times (12,5 + 5) \\times \\text{chiều cao} \\times 2 = 700 \\times \\text{chiều cao}. Vậy lúc sau thể tích hình hộp chữ nhật đó tăng lên số lần là \\frac{700}{312,5} = 2,24 \\text{ (lần)}.",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho hình thang ABCD có đáy CD gấp đôi đáy AB, hai đường chéo AC và BD cắt nhau tại điểm O. Điểm M nằm trên cạnh CD sao cho CM = 13. Diện tích tam giác DON bằng bao nhiêu?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0308/20.PNG",
+        "solution": "S_{ABD} = \\frac{1}{2} S_{BDC} = \\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{1}{2}. Mà S_{ABD} + S_{BDC} = S_{ABCD} = 45 \\text{ cm}^2. S_{ABD} = \\frac{45}{1 + 3} = 15 \\text{ cm}^2. S_{BDC} = 45 - 15 = 30 \\text{ cm}^2. S_{ABD} = S_{ABC} (\\text{chiều cao bằng nhau, chung đáy AB}). Mà S_{ABD} = S_{ABO} + S_{AOD}. S_{ABC} = S_{ABO} + S_{BOC} \\Rightarrow AOD = BOC \\Rightarrow \\frac{AH \\times OD}{2} = \\frac{CG \\times OB}{2}. \\Rightarrow \\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{1}{2}. Mà S_{BOC} + S_{DOC} = S_{BDC} = 30 \\text{ cm}^2 \\Rightarrow DOC = \\frac{30}{1 + 2} \\times 2 = 20 \\text{ cm}^2. S_{DBM} = \\frac{2}{3} S_{BDC} = \\frac{2}{3} \\times 30 = 20. \\Rightarrow DOC = S_{DBM}. Mà S_{DOC} = S_{DOMN} + S_{MNC}; S_{DBM} = S_{DOMN} + S_{BON} \\Rightarrow MNC = S_{BON}. Lại có \\frac{S_{MNC}}{S_{DMN}} = \\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{1}{2}. \\Rightarrow DMN = S_{DON} = S_{MNC} \\times 2. Mà S_{DOC} = S_{DMN} + S_{DON} + S_{MNC} = S_{MNC} \\times 5 = 20 \\text{ cm}^2 \\Rightarrow MNC = \\frac{20}{5} = 4 \\text{ cm}^2. Vậy S_{DON} = 4 \\times 2 = 8 \\text{ cm}^2.",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Hai lớp A và B mỗi lớp được phân công quét một nửa sân trường. Hai lớp bắt đầu quét cùng một lúc. Sau 20 phút lớp A quét xong nửa sân trường được phân cho lớp mình và tiếp tục sang quét cùng lớp B thêm 4 phút nữa thì hai lớp quét xong cả sân trường. Hỏi nếu lớp A không sang hỗ trợ thì lớp B sẽ quét hết nửa sân trường trong bao lâu?",
+        "image_url": null,
+        "solution": "Trong 4 phút, lớp A quét được \\( \\frac{4}{20} = \\frac{1}{5} \\). Lớp B quét được \\( 1 - \\frac{1}{5} = \\frac{4}{5} \\). Thời gian lớp B quét hết nửa sân trường là \\( \\frac{20}{4} \\times 5 = 25 \\text{ phút} \\).",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 1: [Nội dung câu hỏi 1]",
+        "image_url": null,
+        "solution": "[Lời giải chi tiết cho câu hỏi 1]",
+        "result": "[Đáp án cho câu hỏi 1]"
+    },
+    {
+        "question": "Câu 2: [Nội dung câu hỏi 2]",
+        "image_url": "https://example.com/image2.png",
+        "solution": "[Lời giải chi tiết cho câu hỏi 2]",
+        "result": "[Đáp án cho câu hỏi 2]"
+    },
+    {
+        "question": "Câu 9. Cho tam giác ABC vuông tại A có AB = 6 cm, AC = 8 cm, BC = 10 cm và ba nửa hình tròn có đường kính lần lượt là AB, AC và BC (như hình dưới đây). Tính diện tích phần tô đậm.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0104/20_1.png",
+        "solution": "Diện tích nửa hình tròn đường kính BC là: \\[ \\frac{(10 : 2) \\times (10 : 2) \\times 3.14}{2} = 39.25 \\text{ cm}^2 \\] Diện tích nửa hình tròn đường kính AB là: \\[ \\frac{(6 : 2) \\times (6 : 2) \\times 3.14}{2} = 14.13 \\text{ cm}^2 \\] Diện tích nửa hình tròn đường kính AC là: \\[ \\frac{(8 : 2) \\times (8 : 2) \\times 3.14}{2} = 25.12 \\text{ cm}^2 \\] Diện tích tam giác ABC là: \\[ \\frac{6 \\times 8}{2} = 24 \\text{ cm}^2 \\] Diện tích phần tô đậm là: \\[ 24 + 25.12 + 14.13 - 39.25 = 24 \\text{ cm}^2 \\]",
+        "result": "24 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Một đoạn mật mã gồm 4 chữ số, biết tổng và hiệu của hai số được lập từ hai chữ số đầu và hai chữ số cuối đều chia hết cho 14. Hỏi phải thử ít nhất bao nhiêu lần để chắc chắn mở được đoạn mật mã này?",
+        "image_url": null,
+        "solution": "Gọi đoạn mật mã có dạng \\( \\overline{abcd} \\). Điều này có nghĩa là \\( \\overline{ab} \\) và \\( \\overline{cd} \\) phải thỏa mãn: \\( \\overline{ab} + \\overline{cd} \\equiv 0 \\pmod{14} \\) và \\( \\overline{cd} - \\overline{ab} \\equiv 0 \\pmod{14} \\). Trường hợp 1: \\( \\overline{ab} \\equiv \\overline{cd} \\pmod{14} \\) Khi đó \\( \\overline{ab} \\equiv \\overline{cd} \\equiv 0 \\pmod{14} \\). Có 8 x 8 = 64 mật mã. Trường hợp 2: \\( \\overline{ab} \\equiv -\\overline{cd} \\pmod{14} \\) Khi đó \\( \\overline{ab} \\equiv -\\overline{cd} \\equiv 0 \\pmod{14} \\). Có 7 x 7 = 49 mật mã. Tổng số mật mã có thể tạo ra từ 2 trường hợp trên là: 64 + 49 = 113 mật mã. Vì vậy cần thử ít nhất 113 lần để chắc chắn mở được đoạn mật mã.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính giá trị biểu thức \\((4.17 + 8.77) - (3.17 - 2.23)\\)",
+        "image_url": null,
+        "solution": "\\((4.17 + 8.77) - (3.17 - 2.23) = 4.17 + 8.77 - 3.17 + 2.23 = (4.17 - 3.17) + (8.77 + 2.23) = 1 + 11 = 12\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tìm \\(x\\) sao cho \\(x \\times 7 - 6 = 0.3\\)",
+        "image_url": null,
+        "solution": "\\(x \\times 7 - 6 = 0.3\\) \\(x \\times 7 = 0.3 + 6\\) \\(x \\times 7 = 6.3\\) \\(x = \\frac{6.3}{7}\\) \\(x = 0.9\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Trong kho có ba thùng dầu. Thùng thứ nhất đựng 28.5 lít dầu, thùng thứ hai đựng nhiều hơn thùng thứ nhất 12.3 lít dầu nhưng ít hơn thùng thứ ba 3.6 lít dầu. Hỏi trung bình mỗi thùng đựng được bao nhiêu lít dầu?",
+        "image_url": null,
+        "solution": "Thùng thứ hai đựng được số lít dầu là: \\(28.5 + 12.3 = 40.8\\) lít dầu. Thùng thứ ba đựng được số lít dầu là: \\(40.8 + 3.6 = 44.4\\) lít dầu. Trung bình mỗi thùng đựng được số lít dầu là: \\(\\frac{28.5 + 40.8 + 44.4}{3} = 37.9\\) lít dầu.",
+        "result": "37.9 lít dầu",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Cho tam giác ABC có BC = 6 cm. Trên cạnh BC lấy điểm D cách C là 2 cm. Nối A với D được tam giác ADC có diện tích bằng 4 cm². a) Tính diện tích tam giác ABC. b) Lấy điểm E trên AB sao cho ACDE là hình thang. Tính diện tích tam giác BDE.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0104/20_3.png",
+        "solution": "a) Ta có: Xét tam giác ADC và tam giác ABC có chung chiều cao hạ từ đỉnh A xuống BC: \\(\\frac{S_{ADC}}{S_{ABC}} = \\frac{DC}{BC} = \\frac{2}{6} = \\frac{1}{3}\\) Vậy \\(S_{ABC} = 3 \\times S_{ADC} = 3 \\times 4 = 12\\) cm². b) Nối E với C \\(S_{AEC} = S_{ADC} = 4\\) cm² (Vì chung đáy AC, chiều cao hạ từ đỉnh E xuống AC bằng chiều cao hạ từ đỉnh D xuống đáy AC) \\(S_{EBC} = S_{ABC} - S_{AEC} = 12 - 4 = 8\\) cm² \\(\\frac{S_{EBD}}{S_{EBC}} = \\frac{BD}{BC} = \\frac{4}{6} = \\frac{2}{3}\\) Suy ra \\(S_{EBD} = \\frac{2}{3} \\times 8 = \\frac{16}{3}\\) cm².",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho ba đống sỏi gồm 7, 33 và 65 viên. Trong mỗi bước, chọn một trong hai thao tác sau để thực hiện: * Thao tác 01: Dồn hai đống tùy ý thành một đống. * Thao tác 02: Chọn một đống tùy ý có số chẵn viên sỏi để chia thành hai đống có số lượng viên sỏi bằng nhau. Hỏi có khi nào nhận được 105 đống mà mỗi đống chỉ có một viên sỏi không? Vì sao?",
+        "image_url": null,
+        "solution": "Vì 7, 33 và 65 đều lẻ nên bước đầu tiên ta chỉ có thao tác 1 là dồn hai đống tùy ý thành một đống. - Trường hợp 1: Dồn 2 đống 7 ; 33 dồn thành đống 40, khi đó ta được hai đống 40 ; 65. Nhận xét rằng số sỏi chia hết cho 5 nên các thao tác sau dù chia đôi hay gộp lại cũng sẽ tạo ra kết quả là số sỏi chia hết cho 5 nên không thể xảy ra trường hợp mỗi đống 1 viên. - Trường hợp 2: Dồn 2 đống 7 ; 65 dồn thành đống 72, khi đó ta được hai đống 33 ; 72. Nhận xét rằng số sỏi chia hết cho 3 nên các thao tác sau dù chia đôi hay gộp lại cũng sẽ tạo ra kết quả là số sỏi chia hết cho 3 nên không thể xảy ra trường hợp mỗi đống 1 viên. - Trường hợp 3: Dồn 2 đống 33 ; 65 dồn thành đống 98, khi đó ta được hai đống 7 ; 98. Nhận xét rằng số sỏi chia hết cho 7 nên các thao tác sau dù chia đôi hay gộp lại cũng sẽ tạo ra kết quả là số sỏi chia hết cho 7 nên không thể xảy ra trường hợp mỗi đống 1 viên. Vậy không thể nhận được 105 đống mà mỗi đống chỉ có một viên sỏi.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tìm giá trị của chữ số 5 trong số 2756,29.",
+        "image_url": null,
+        "solution": "Chữ số 5 trong số 2756,29 có giá trị là 50.",
+        "result": "50",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tính \\( 249 + 6711 + 759 + 13411 \\)",
+        "image_url": null,
+        "solution": "\\( 249 + 6711 + 759 + 13411 = (2+6+7+13) + (49+711+59+411) = 28 + (49+59+711+411) = 28 + (99+1111) = 28 + (1 + 1) = 30 \\)",
+        "result": "30",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Một đơn vị bộ đội chuẩn bị lương thực đủ cho 50 người ăn trong 30 ngày. Trên thực tế, đã có 20 người chuyển sang đơn vị khác. Hỏi với số lượng thực tế đã chuẩn bị như ban đầu, đơn vị bộ đội đó sẽ đủ ăn trong bao nhiêu ngày? (Biết mức ăn của mỗi người là như nhau).",
+        "image_url": null,
+        "solution": "Coi lượng lương thực mỗi người ăn trong 1 ngày là 1 suất thì tổng số suất chuẩn bị ban đầu là: \\( 50 \\times 30 = 1500 \\) (suất). Sau khi chuyển đi thì số người còn lại là: \\( 50 - 20 = 30 \\) (người). Với số lương thực đã chuẩn bị như ban đầu, đơn vị bộ đội sẽ đủ ăn trong số ngày là: \\( 1500 \\div 30 = 50 \\) (ngày).",
+        "result": "50 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Câu lạc bộ World’s Scholar Cup của trường có 60 học sinh, trong đó có 10% là học sinh nam. Sau đó, có một số học sinh nữ đăng ký thêm vào câu lạc bộ nên số học sinh nam lúc này chỉ chiếm 8%. Hỏi có bao nhiêu học sinh nữ đã đăng ký thêm?",
+        "image_url": null,
+        "solution": "Số học sinh nam ban đầu là: \\( 60 \\times 10 \\div 100 = 6 \\) (học sinh). Sau đó có thêm học sinh nữ đăng kí nên số học sinh nam không thay đổi 6 học sinh nam ứng với 8% tổng số học sinh trong câu lạc bộ lúc sau. Số học sinh trong câu lạc bộ lúc sau khi có thêm học sinh nữ đăng kí là: \\( 6 \\div 8 \\times 100 = 75 \\) (học sinh). Vậy số học sinh nữ đăng kí thêm vào câu lạc bộ là: \\( 75 - 60 = 15 \\) (học sinh).",
+        "result": "15 học sinh",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Mẹ mua hai bó hoa hồng và hoa cúc có số lượng bằng nhau, sau đó mẹ mua thêm 5 bông hoa hồng và 3 bông hoa cúc nên số hoa hồng bằng 51% tổng số hoa mẹ đã mua. Hỏi mẹ đã mua tất cả bao nhiêu bông hoa?",
+        "image_url": null,
+        "solution": "Số bông hoa cúc lúc sau chiếm số phần trăm là: \\( 100\\% - 51\\% = 49\\% \\) (tổng số hoa lúc sau). Số bông hoa hồng lúc sau nhiều hơn số bông hoa cúc lúc sau là: \\( 5 - 3 = 2 \\) (bông hoa). 2 bông hoa chiếm số phần trăm là: \\( 51\\% - 49\\% = 2\\% \\) (tổng số hoa lúc sau). Tổng số hoa mẹ đã mua là: \\( 2 \\div 2 \\times 100 = 100 \\) (bông hoa).",
+        "result": "100 bông hoa",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Bố mua hai đôi giày tặng Khánh nhưng đều bị nhỏ nên bố quyết định bán hai đôi giày đã mua. Mỗi đôi bố đều bán với giá 1 500 000 đồng, trong đó, một đôi giày bố bán được nhiều hơn 20% giá mua, đôi thứ hai được ít hơn 20% giá mua. Hỏi bố Khánh đã có lãi hay bị lỗ, số tiền lãi lỗ là bao nhiêu?",
+        "image_url": null,
+        "solution": "Tổng số tiền bán giày là: \\( 1 500 000 \\times 2 = 3 000 000 \\) (đồng). Đôi giày thứ nhất bán được nhiều hơn 20% giá mua tức là bằng 120% giá mua. Đôi thứ hai được ít hơn 20% giá mua tức là bằng 80% giá mua. Bố mua đôi giày thứ nhất hết số tiền là: \\( 1 500 000 \\div 120 \\times 100 = 1 250 000 \\) (đồng). Bố mua đôi giày thứ hai hết số tiền là: \\( 1 500 000 \\div 80 \\times 100 = 1 875 000 \\) (đồng). Tổng số tiền bố mua giày là: \\( 1 250 000 + 1 875 000 = 3 125 000 \\) (đồng). Vậy bố Khánh bị lỗ số tiền là: \\( 3 125 000 - 3 000 000 = 125 000 \\) (đồng).",
+        "result": "125 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Hình vẽ dưới đây được tạo từ các hình tam giác đều bằng nhau. Biết diện tích của hình tam giác đều nhỏ nhất là 2 cm². Tính diện tích hình tô đậm.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0104/20.png",
+        "solution": "Hình tam giác to gồm 36 hình tam giác có diện tích 2 cm². Ta thấy hình số 1 bao gồm 9 tam giác nhỏ và 1 phần tam giác bằng 1 nửa hình được tạo bởi 6 tam giác nhỏ nên diện tích là: \\( 2 \\times 9 + 2 \\times 6 \\div 2 = 24 \\) (cm²). Hình số 2 bao gồm 4 tam giác nhỏ và 1 phần tam giác bằng 1 nửa hình được tạo bởi 4 tam giác nhỏ nên diện tích là: \\( 2 \\times 4 + 2 \\times 4 \\div 2 = 12 \\) (cm²). Hình số 3 bao gồm 4 tam giác nhỏ và 1 phần tam giác bằng 1 nửa hình được tạo bởi 4 tam giác nhỏ nên diện tích là: \\( 2 \\times 4 + 2 \\times 4 \\div 2 = 12 \\) (cm²). Diện tích hình tô đậm là: \\( 72 - 24 - 12 - 12 = 24 \\) (cm²).",
+        "result": "24 cm²",
+        "error": false
+    }
+]

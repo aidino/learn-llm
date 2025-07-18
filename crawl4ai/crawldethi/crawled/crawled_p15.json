@@ -1,0 +1,198 @@
+[
+    {
+        "question": "Bài 1. Trong cách ghi ngày 13/01/2022 thì tổng của năm chữ số đầu và tổng năm chữ số cuối bằng nhau. Hỏi ngày cuối cùng trong năm 2022 có cùng tính chất như vậy là ngày nào?",
+        "image_url": null,
+        "solution": "Ngày đó là: 30/12/2022",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 2. Cho \\( A = 1 + 3 + 5 + \\ldots + 2021 + 2023 \\) và \\( B = 2 + 4 + 6 + \\ldots + 2020 + 2022 \\). Tính \\( A - B \\).",
+        "image_url": null,
+        "solution": "Số số hạng của \\( A \\) là \\((2023 - 1) : 2 + 1 = 1012\\) (số hạng) \\( A = \\frac{(1 + 2023) \\times 1012}{2} = 1\\,024\\,144 \\) Số số hạng của \\( B \\) là: \\((2022 - 2) : 2 + 1 = 1011\\) (số hạng) \\( B = \\frac{(2 + 2022) \\times 1011}{2} = 1\\,023\\,132 \\) Vậy \\( A - B = 1\\,024\\,144 - 1\\,023\\,132 = 1012 \\)",
+        "result": "A – B = 1012",
+        "error": false
+    },
+    {
+        "question": "Bài 3. Từ 400 đến 900, có bao nhiêu số tự nhiên mà tổng các chữ số của số đó bằng 10?",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\( \\overline{abc} \\) với \\( 400 < \\overline{abc} < 900 \\) Để tổng các chữ số của số cần tìm bằng 10 thì \\( \\overline{abc} \\) có thể là: \\( \\overline{4bc} \\Rightarrow \\overline{5bc} \\Rightarrow \\overline{6bc} \\Rightarrow \\overline{7bc} \\Rightarrow \\overline{8bc} \\) Vậy từ 400 đến 900 có \\( 7 + 6 + 5 + 4 + 3 = 25 \\) số tự nhiên mà tổng các chữ số của số đó bằng 10.",
+        "result": "25 (số)",
+        "error": false
+    },
+    {
+        "question": "Bài 4. Một xe máy đi từ A lúc 6 giờ 47 phút với vận tốc 36 km/giờ. Đến 7 giờ 2 phút, một ô tô cũng đi từ A đuổi theo xe máy với vận tốc 54 km/giờ. a) Hỏi ô tô đuổi kịp xe máy lúc mấy giờ? b) Sau khi hai xe gặp nhau tại C, xe máy quay về A, còn ô tô tiếp tục đi thêm một quãng đường nữa đến D rồi mới quay về A. Hỏi quãng đường CD dài bao nhiêu ki-lô-mét, biết rằng ô tô về đến A cùng lúc với xe máy?",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0126/20.png",
+        "solution": "a) \\( 7 \\text{ giờ } 2 \\text{ phút} - 6 \\text{ giờ } 47 \\text{ phút} = 15 \\text{ phút} = \\frac{1}{4} \\text{ giờ} \\) Sau 15 phút, xe máy đi được: \\( 36 \\times \\frac{1}{4} = 9 \\text{ km} \\) Mỗi giờ ô tô gần xe máy: \\( 54 - 36 = 18 \\text{ km} \\) Thời gian ô tô đuổi kịp xe máy: \\( \\frac{9}{18} = \\frac{1}{2} \\text{ giờ} \\) Vậy ô tô đuổi kịp xe máy lúc 7 giờ 32 phút. b) Thời gian xe máy từ C về đến A: \\( 30 + 15 = 45 \\text{ phút} \\) Do đó để gặp xe máy tại A, ô tô cũng phải đi 45 phút. Trong 45 phút = \\( \\frac{3}{4} \\text{ giờ} \\), ô tô đi được: \\( 54 \\times \\frac{3}{4} = 40.5 \\text{ km} \\) Quãng đường AC dài: \\( 54 \\times \\frac{1}{2} = 27 \\text{ km} \\) Quãng đường CD dài: \\( \\frac{(40.5 - 27)}{2} = 6.75 \\text{ km} \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Làm tròn 4,65 tấn đến số tự nhiên gần nhất.",
+        "image_url": null,
+        "solution": "",
+        "result": "5 tấn",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tính \\(15 \\text{ dm}^3 + 11 \\text{ cm}^3 = \\ldots\\)",
+        "image_url": null,
+        "solution": "",
+        "result": "15 011 \\text{ cm}^3",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Quãng đường từ nhà A đến nhà B là 800 m. Trên bản đồ có tỉ lệ 1 : 20 000, quãng đường đó dài bao nhiêu?",
+        "image_url": null,
+        "solution": "Trên bản đồ, quãng đường dài là: \\(\\frac{800}{20 000} = 0,04 \\text{ m} = 4 \\text{ cm}\\).",
+        "result": "4 cm",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Tính diện tích toàn phần hình lập phương có cạnh dài 12 cm.",
+        "image_url": null,
+        "solution": "Diện tích toàn phần hình lập phương là: \\((12 \\times 12) \\times 6 = 864 \\text{ cm}^2\\).",
+        "result": "864 \\text{ cm}^2",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Nam tung 2 đồng xu và ghi lại các trường hợp như sau: 2 cái mặt sấp 10 lần, 2 mặt ngửa 8 lần, 1 mặt sấp 1 mặt ngửa 17 lần. Tính tỉ số số lần 2 mặt sấp so với tổng số lần tung đồng xu.",
+        "image_url": null,
+        "solution": "Tổng số lần tung đồng xu là: \\(10 + 8 + 17 = 35\\) (lần). Tỉ số số lần 2 mặt sấp so với tổng số lần tung đồng xu là \\(\\frac{10}{35} = \\frac{2}{7}\\).",
+        "result": "\\(\\frac{2}{7}\\)",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Trên quãng đường AC có 1 điểm B. 1 người đi từ A đến B với vận tốc 30 km/h rồi nghỉ. Người đó tiếp tục đi từ B đến C với vận tốc 26 km/h. Hỏi người đó nghỉ bao nhiêu phút. Biết rằng AB bằng 45 km, BC bằng 13 km. Người đó xuất phát từ 7 giờ và đến C lúc 9 giờ 15 phút.",
+        "image_url": null,
+        "solution": "Tổng thời gian cả đi và nghỉ là: \\(9 \\text{ giờ } 15 \\text{ phút} - 7 \\text{ giờ} = 2 \\text{ giờ } 15 \\text{ phút}\\). Tổng thời gian đi từ A đến C là: \\(\\frac{45}{30} + \\frac{13}{26} = 2\\) (giờ). Thời gian nghỉ của người đó là: \\(2 \\text{ giờ } 15 \\text{ phút} - 2 \\text{ giờ} = 15 \\text{ phút}\\).",
+        "result": "15 phút",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Nam có số bi xanh ít hơn số bi đỏ là 12 viên. Việt cho Nam thêm 4 viên bi xanh nên tỉ số bi xanh và bi đỏ của Nam là \\(\\frac{3}{5}\\).",
+        "image_url": null,
+        "solution": "Khi có thêm 4 viên bi xanh thì bi đỏ nhiều hơn bi xanh là: \\(12 - 4 = 8\\) (viên bi). Số bi đỏ của Nam là: \\(\\frac{8}{5 - 3} \\times 5 = 20\\) (viên bi).",
+        "result": "20 viên bi",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Cho một hình thang có diện tích là 100 m², người ta kéo dài đáy lớn thêm 5 m, diện tích tăng thêm bằng 15 m².",
+        "image_url": null,
+        "solution": "Diện tích tăng thêm khi kéo dài đáy lớn là: \\(\\frac{100}{5} = 20\\) (m²). Chiều cao của hình thang là: \\(\\frac{20 \\times 2}{5} = 8\\) (m). Tổng đáy lớn và đáy bé lúc đầu là: \\(\\frac{100 \\times 2}{8} = 25\\) (m). Tổng đáy lớn và đáy bé sau khi mở rộng là: \\(25 + 5 = 30\\) (m).",
+        "result": "30 m",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Một tổ chức thiện nguyện phát quà tại 4 khu A, B, C và D. Ban đầu phát khu A 50 phần quà. Sau đó phát ở khu B 80% phần quà so với Khu A. a) Hỏi cả hai khu A, B phát bao nhiêu phần quà. b) Khi đến khu C, đội thiện nguyện phát 45 phần quà.",
+        "image_url": null,
+        "solution": "a) Khu B được phát số phần quà là: \\(50 \\times 80\\% = 40\\) (phần quà). Cả hai khu A và B được phát số phần quà là: \\(40 + 50 = 90\\) (phần quà). b) 7 phần quà tương ứng số phần quà còn lại sau khi phát 3 khu là: \\(1 - \\frac{4}{5} = \\frac{1}{5}\\). Số quà còn lại sau 3 lần phát là: \\(7 \\times 5 = 35\\) (phần quà). Không tính 5 món quà, sau khi phát khu C thì còn lại số món quà là: \\(5 + 35 = 40\\) (món quà). 40 món quà tương ứng số phần quà còn lại sau khi phát khu A và B là: \\(1 - \\frac{5}{9} = \\frac{4}{9}\\). Số quà còn lại sau khi phát khu A và B là: \\(\\frac{40}{4} \\times 9 = 90\\) (món quà). Tổng số quà phát 4 khu A, B, C và D là: \\(90 + 90 = 180\\) (món quà).",
+        "result": "a) 90 món quà; b) 180 món quà",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Một hộp đựng 1 thẻ ghi số 2, 2 thẻ ghi số 3, ... và 15 thẻ ghi số 16. a) Tính tổng số thẻ trong hộp. b) Làm thế nào để lấy được 6 thẻ ghi số giống nhau?",
+        "image_url": null,
+        "solution": "a) Tổng số thẻ trong hộp là: \\(1 + 2 + 3 + \\ldots + 15 = \\frac{(1 + 15) \\times 15}{2} = 120\\) (thẻ). b) Trường hợp xấu nhất chỉ lấy 5 thẻ ghi số giống nhau hay mỗi số lấy được nhiều nhất 5 thẻ. Các số có số lượng dưới 6 thẻ là: Thẻ ghi số 2, thẻ ghi số 3, thẻ ghi số 4, thẻ ghi số 5 và thẻ ghi số 6. Có 5 số. Số số có số lượng thẻ lớn hơn 5 là: \\(15 - 5 = 10\\) (số). Trường hợp xấu nhất ta chỉ lấy được 5 thẻ ghi số giống nhau, tổng số thẻ đã lấy là: \\(1 + 2 + 3 + 4 + 5 + 5 \\times 10 = 65\\) (thẻ). Lúc này ta chỉ cần lấy thêm 1 thẻ chứa số bất kì sẽ có được 6 thẻ ghi số giống nhau. Tổng số thẻ đã lấy để được 6 thẻ ghi số giống nhau là: \\(65 + 1 = 66\\) (thẻ).",
+        "result": "a) 120 thẻ; b) 66 thẻ",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Mỗi hình vuông có nhiều nhất 1 cạnh được dựng bởi 1 thanh, 3 cạnh còn lại thì được ghép bởi ít nhất 2 thanh. Tổng số thanh ít nhất để ghép được 1 hình vuông là bao nhiêu?",
+        "image_url": null,
+        "solution": "Cần tối thiểu 7 thanh thì ghép được 1 hình vuông. Trường hợp 6 thanh đầu tiên từ 1 cm đến 6cm không ghép được hình vuông nào, vì số que chỉ có tối đa là 6 que không đủ để ghép thành hình vuông cạnh nhỏ hơn hoặc bằng 6.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2: Có bao nhiêu hình vuông có thể được tạo ra với các độ dài cạnh từ 7 đến 11?",
+        "image_url": null,
+        "solution": "Ta có các trường hợp độ dài cạnh hình vuông là từ 7 đến 11. \n**TH1** : Độ dài cạnh của hình vuông là 11\n11 = 9 + 2 = 8 + 3 = 7 + 4 = 6 + 5\nCó 1 hình vuông\n\n**TH2** : Độ dài cạnh của hình vuông là 10\n10 = 9 + 1 = 8 + 2 = 7 + 3 = 6 + 4\nCó 1 hình vuông\n\n**TH3** : Độ dài cạnh của hình vuông là 9\n9 = 9 = 8 + 1 = 7 + 2 = 6 + 3 = 5 + 4\n→ Có 5 hình vuông\n\n**TH4** : Độ dài cạnh của hình vuông là 8\n8 = 8 = 7 + 1 = 6 + 2 = 5 + 3\n\n**TH5** : Độ dài cạnh của hình vuông là 7\n7 = 7 = 6 + 1 = 5 + 2 = 4 + 3\n\nVậy có tất cả 1 + 1 + 5 + 1 + 1 = 9 hình vuông",
+        "result": "9",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính \\( A = 37 \\times 23,45 + 630 \\times 2,345 - 2345 \\)",
+        "image_url": null,
+        "solution": "A = 37 \\times 23,45 + 630 \\times 2,345 - 2345 = 37 \\times 23,45 + 63 \\times 23,45 - 2345 = 23,45 \\times (37 + 63) - 2345 = 23,45 \\times 100 - 2345 = 2345 - 2345 = 0",
+        "result": "0",
+        "error": false
+    },
+    {
+        "question": "Câu 2. \\((x+12\\times3)+(x+13\\times4)+(x+14\\times5)+(x+15\\times6)=253\\)",
+        "image_url": null,
+        "solution": "\\((x+12\\times3)+(x+13\\times4)+(x+14\\times5)+(x+15\\times6)=253\\) \\(4\\times x+(12\\times3+13\\times4+14\\times5+15\\times6)=253\\) \\(4\\times x+(12-13+13-14+14-15+15-16)=253\\) \\(4\\times x+(12-16)=253\\) \\(4\\times x+13=253\\) \\(4\\times x=253-13\\) \\(4\\times x=8\\) \\(x=2\\)",
+        "result": "x = 2",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Lớp 5G có 43 học sinh. Học kỳ 2, cả lớp đều đạt điểm 9 hoặc điểm 10. Tổng số điểm học sinh đạt được là 406 điểm. Tính số học sinh đạt điểm 9 và số học sinh đạt điểm 10.",
+        "image_url": null,
+        "solution": "Giả sử tất cả các bạn học sinh lớp 5G đều đạt điểm 10 thì tổng số điểm của cả lớp là: \\(10 \\times 43 = 430\\) (điểm) Số điểm dư so với số điểm thực tế của cả lớp là: \\(430 - 406 = 24\\) (điểm) Mỗi bài đạt điểm 10 hơn mỗi bài đạt điểm 9 là 1 điểm. Số bạn đạt điểm 9 là \\(24 : 1 = 24\\) (bạn) Số bạn đạt điểm 10 là \\(43 - 24 = 19\\) (bạn)",
+        "result": "Điểm 9: 24 bạn, Điểm 10: 19 bạn",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Mẹ hơn con 28 tuổi. Hiện nay, tuổi con bằng 20% tuổi mẹ. Tính tuổi con hiện nay.",
+        "image_url": null,
+        "solution": "Tuổi con bằng 20% tuổi mẹ \\(\\Rightarrow\\) Tuổi con hiện nay là: \\(28 : (5 - 1) \\times 1 = 7\\) (tuổi)",
+        "result": "7 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Dãy số: 1234567891011...20202021. Hỏi chữ số hàng nghìn của 2021 đứng thứ bao nhiêu?",
+        "image_url": null,
+        "solution": "Chữ số hàng nghìn của 2021 là số 2. - Từ 1 đến 9 có 9 chữ số - Từ 10 đến 99 có \\((99 - 10) : 1 + 1 = 90\\) (số) - Từ 100 đến 999 có \\((999 - 100) : 1 + 1 = 900\\) (số) - Từ 1000 đến 2020 có \\((2020 - 1000) : 1 + 1 = 1021\\) (số) Từ 1 đến 2020 có số chữ số là \\(9 + 180 + 2700 + 4084 = 6973\\) (chữ số) Vậy chữ số hàng nghìn của 2021 đứng thứ 6974.",
+        "result": "4974",
+        "error": false
+    },
+    {
+        "question": "Bài 6. Số tự nhiên A chia 3 dư 1, chia 5 dư 3. Hỏi A chia cho 15 dư bao nhiêu?",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là A. Số A chia 3 dư 1 thì \\(A + 2\\) chia hết cho 3. Số A chia 5 dư 3 thì \\(A + 2\\) chia hết cho 5. Suy ra \\(A + 2\\) chia hết cho cả 3 và 5 hay \\(A + 2\\) chia hết cho 15. Vậy A chia 15 dư 13.",
+        "result": "13",
+        "error": false
+    },
+    {
+        "question": "Bài 7. Lớp 5A làm mặt nạ chống giọt bắn. Tổ 1 làm 13, tổ 2 làm 49. Hỏi tổng số mặt nạ lớp 5A làm được là bao nhiêu?",
+        "image_url": null,
+        "solution": "Tổ 1 và tổ 2 làm được: \\(13+49=79\\). Tổ 3 làm được \\(1-79=29\\). Tổng số mặt nạ lớp 5A làm được là \\(10:29=45\\).",
+        "result": "45 chiếc mặt nạ",
+        "error": false
+    },
+    {
+        "question": "Bài 8. Lúc 6 giờ, một xe đi từ A với vận tốc 48 km/giờ. Cùng lúc đó một xe đi từ B về A với vận tốc 36km/giờ. Họ gặp nhau lúc 7 giờ 15 phút. Tìm độ dài quãng đường AB?",
+        "image_url": null,
+        "solution": "Tổng vận tốc của hai xe là: \\(48 + 36 = 84\\) (km/giờ). Thời gian hai xe đi đến chỗ gặp nhau là: \\(7\\) giờ \\(15\\) phút – \\(6\\) giờ = \\(1\\) giờ \\(15\\) phút = \\(1,25\\) (giờ). Độ dài quãng đường AB là: \\(84 \\times 1,25 = 105\\) (km).",
+        "result": "105 km",
+        "error": false
+    },
+    {
+        "question": "Bài 9. Hình bình hành có đáy 0,9m; chiều cao 4dm. Hình vuông có diện tích bằng diện tích hình bình hành. Tìm cạnh hình vuông.",
+        "image_url": null,
+        "solution": "Đổi \\(0,9\\) m = \\(9\\) dm. Diện tích của hình bình hành là \\(9 \\times 4 = 36\\) (dm²). Suy ra diện tích hình vuông là \\(36\\) dm². Ta có \\(36 = 6 \\times 6\\). Vậy độ dài cạnh hình vuông là \\(6\\) dm.",
+        "result": "6 dm",
+        "error": false
+    },
+    {
+        "question": "Bài 10. Có 7 bi vàng và 5 bi đỏ. Không nhìn vào túi, cần lấy ít nhất bao nhiêu bi để chắc chắn có 2 bi vàng và 3 bi đỏ?",
+        "image_url": null,
+        "solution": "Để bốc được chắc chắn có 2 bi vàng và 3 bi đỏ thì ta cần bốc ít nhất \\(7 + 3 = 10\\) (viên bi).",
+        "result": "10 viên bi",
+        "error": false
+    },
+    {
+        "question": "Bài 11. Tổng số cây trồng của 4 bạn Xuân, Hạ, Thu, Đông là 14 cây. Thu trồng được 17 cây. Hỏi mỗi bạn trồng được bao nhiêu cây?",
+        "image_url": null,
+        "solution": "Thu trồng được số cây là : \\(14 \\times 17\\). Đông trồng được số cây là \\(2: 2 \\times 3 = 3\\) (cây). Tổng số cây của Xuân và Hạ trồng được là: \\(14 - (2 + 3) = 9\\) (cây). Số cây của Xuân sau khi thêm 1 cây là: \\(9 : (1 + 2) \\times 2 = 6\\) (cây). Số cây của Xuân trồng được là: \\(6 - 1 = 5\\) (cây). Số cây của Hạ trồng được là: \\(9 - 5 = 4\\) (cây).",
+        "result": "Xuân trồng 5 cây, Hạ trồng 4 cây, Thu trồng 2 cây, Đông trồng 3 cây",
+        "error": false
+    },
+    {
+        "question": "Bài 12. Cho 9 thanh: thanh 1 dài 1cm; thanh 2 dài 2cm; thanh 3 dài 3cm; ......thanh 9 dài 9cm. Có bao nhiêu cách để ghép các thanh thành hình vuông lớn mà không cần bẻ gẫy các thanh hoặc không nhất thiết phải dùng cả 9 thanh?",
+        "image_url": null,
+        "solution": "Tổng độ dài các thanh là \\(1 + 2 + 3 +...+ 9 = (1 + 9) \\times 9 : 2 = 45\\) (cm). Ta có: \\(45 : 4 = 11\\) (dư 1). Mỗi cạnh hình vuông ghép được có độ dài bé hơn hay bằng 11 cm.",
+        "result": null,
+        "error": false
+    }
+]

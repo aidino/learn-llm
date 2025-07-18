@@ -1,0 +1,261 @@
+[
+    {
+        "question": "Câu 1. Trung bình cộng của dãy số sau là bao nhiêu? 15 ; 45 ; 75",
+        "image_url": null,
+        "solution": "Trung bình cộng của ba số đó là \\((15 + 45 + 75) : 3 = 45\\)",
+        "result": "45",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Số \\(\\overline{2a1a}\\)",
+        "image_url": null,
+        "solution": "\\(\\overline{2a1a}\\Rightarrow\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Hoa mua một quyển sách được giảm 10% thì hết 72 000 đồng. Hỏi giá gốc của quyển sách là bao nhiêu?",
+        "image_url": null,
+        "solution": "72 000 đồng ứng với số phần trăm giá gốc là: \\(100\\% - 10\\% = 90\\%\\) Giá gốc quyển sách là: \\(72 000 : 90\\% = 80 000\\) (đồng)",
+        "result": "80 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Năm nay, mẹ hơn con 25 tuổi. Hai năm nữa, tuổi con bằng 16",
+        "image_url": null,
+        "solution": "Vì hiệu số tuổi của hai mẹ con không thay đổi nên mẹ luôn hơn con 25 tuổi. Tuổi con 2 năm nữa là: \\(25 : 9 - 1 = 5\\) (tuổi) Tuổi con hiện nay là: \\(5 - 2 = 3\\) (tuổi)",
+        "result": "3 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một bể nước hình chữ nhật có chiều dài 50m, chiều rộng 30m. Thể tích nước trong bể là 2 100m3. Tính chiều cao mực nước trong bể.",
+        "image_url": null,
+        "solution": "Chiều cao mực nước trong bể là: \\(2 100 : 50 : 30 = 1,4\\) (m)",
+        "result": "1,4 m",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Tổng số sách trong 2 ngăn là 48 quyển. Sau khi chuyển 3 quyển từ ngăn 1 sang ngăn 2 thì số sách ngăn 1 bằng 35",
+        "image_url": null,
+        "solution": "Sau khi chuyển 3 quyển từ ngăn 1 sang ngăn 2 thì tổng số sách hai ngăn không đổi. Số sách ngăn 2 lúc sau là: \\(48 : (3 + 5) \\times 5= 30\\) (quyển) Số sách ngăn 2 lúc đầu là: \\(30 - 3 = 27\\) (quyển)",
+        "result": "27 quyển",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tính diện tích hình tô đậm.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0616/20_24.png",
+        "solution": "Chia hình đã cho thành các hình chữ nhật nhỏ như sau: Diện tích hình (1) = diện tích hình (2) và bằng: \\((12 - 2) \\times 2 = 20\\) (m^2) Diện tích hình (3) = diện tích hình (4) và bằng: \\((8 - 2) \\times 2 = 12\\) (m^2) Diện tích hình chữ nhật lớn bên ngoài là: \\(12 \\times 8 = 96\\) (m^2) Diện tích hình tô đậm là: \\(96 - 12 \\times 2 - 20 \\times 2 = 32\\) (m^2)",
+        "result": "32 m^2",
+        "error": false
+    },
+    {
+        "question": "Câu 8. An viết tất cả các số có 3 chữ số mà có đầy đủ các chữ số 1, 2, 3. Hỏi có bao nhiêu số lớn hơn 222 mà An có thể viết được.",
+        "image_url": null,
+        "solution": "Các số có ba chữ số mà có đầy đủ các chữ số 1, 2, 3 và lớn hơn 222 là 321, 312, 231 Vậy có thể viết được 3 số thoải mãn đề bài.",
+        "result": "3",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Tìm số bé nhất có 3 chữ số, khi xóa chữ số hàng trăm của số đó, ta được số mới bằng 19",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\(\\overline{abc}\\) Ta có: \\(\\overline{abc}=\\overline{bc}\\times9\\) \\(a\\times100+\\overline{bc}=\\overline{bc}\\times9\\) \\(a\\times100=\\overline{bc}\\times8\\) \\(a\\times25=\\overline{bc}\\times2\\) Vì \\(a \\times 25\\) chia hết cho 25 \\(\\Rightarrow\\overline{bc}\\times2\\Rightarrow\\overline{bc}\\) Số cần tìm nhỏ nhất khi \\(a, \\overline{bc}\\Rightarrow\\overline{bc}=25\\Rightarrow\\) Vậy số bé nhất cần tìm là 225.",
+        "result": "225",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Hình dưới có bao nhiêu hình vuông?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0616/19_1.PNG",
+        "solution": "Số hình vuông được tạo từ một ô vuông là 16 (hình) Số hình vuông được tạo từ 4 ô vuông là 9 (hình) Số hình vuông được tạo từ 9 ô vuông là 4 (hình) Số hình vuông được tại từ 16 ô vuông là 1 (hình)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1 a) Tính nhanh: 2,4 x 150 + 8,6 x 240 – 24 b) Tìm x biết: \\((34−14\\times x)\\times 33/11=158\\) c) Quãng đường AB dài 75 km. An xuất phát từ A và Bình xuất phát từ B thì hai người gặp nhau sau 279",
+        "image_url": null,
+        "solution": "a) \\(2,4 \\times 150 + 8,6 \\times 240 – 24 = 24 \\times 15 + 86 \\times 24 – 24 = 24 \\times (15 + 86 – 1) = 24 \\times 100 = 2 400\\) b) \\((34−14\\times x)\\times 33/11=158\\) \\(34−14\\times x=158:33/11\\) \\(34−14\\times x=58\\) \\(14\\times x=34−58\\) \\(14\\times x=18\\) \\(x=18:14\\) \\(x=12\\) c) Đổi 279279259259 Tổng vận tốc của an và Bình là: \\(75:259=27\\) Nếu Bình tăng vận tốc thêm 3 km mỗi giờ thì hai bạn sẽ gặp nhau ở chính giữa quãng đường nên vận tốc của An hơn vận tốc của Bình là 3 km/giờ. Vận tốc của Bình là: \\((27 – 3) : 2 = 12\\) (km/giờ) Vận tốc của An là: \\(12 + 3 = 15\\) (km/giờ)",
+        "result": "An: 15 km/giờ Bình: 12km/giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Cho tam giác ABC có diện tích bằng 90 cm2. Trên cạnh AC lấy điểm M sao cho AM = 2 MC. Lấy I là trung điểm của BM. Kéo dài AI cắt BC tại K. a) Tính diện tích tam giác BMC. b) Tính tỉ số diện tích hai tam giác ABI và BIC c) So sánh \\(\\frac{BK}{KC}\\)",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0616/18_1.png",
+        "solution": "a) \\(S_{BMC} = \\frac{1}{3}S_{ABC}\\) (Chung đường cao hạ từ B và đáy MC = \\frac{1}{3}) \\(\\Rightarrow BMC = 90\\times\\frac{1}{3}=30\\) b) Nối IC ta có: \\(S_{ABM} = 2 \\times S_{BMC}\\) (Chung chiều cao hạ từ B và đấy AM = 2 \\times MC) \\(\\Rightarrow ABI = 2 \\times S_{BIC}\\) (Chung đáy BI và chiều cao hạ từ A xuống BM gấp 2 lần chiều cao hạ từ C xuống đáy BM) c) \\(S_{ABI} = S_{AIM}\\) (Chung chiều cao hạ từ A và đáy BI = IM) Mà \\(S_{AIM} = \\frac{2}{3}S_{AIC}\\) (Chung đường cao hạ từ I và đáy AM = \\frac{2}{3}) \\(\\Rightarrow ABI = S_{AIC} \\Rightarrow \\frac{2}{3}\\) \\(\\Rightarrow BAK = \\frac{2}{3}CAK\\) (Chung đáy AK và đường cao hạ từ B xuống AK = \\frac{2}{3})",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Xóa hai đoạn thuộc đường chéo hoặc trung tâm của hình sẽ làm mất nhiều tam giác nhất.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0410/20_2.png",
+        "solution": "Để giải quyết bài toán này, ta cần xác định các đoạn thuộc đường chéo hoặc trung tâm của hình và xem xét việc xóa chúng sẽ ảnh hưởng như thế nào đến số lượng tam giác trong hình.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Viết số gồm 3 trăm, 6 đơn vị và 2 phần trăm.",
+        "image_url": null,
+        "solution": "Số gồm 3 trăm, 6 đơn vị và 2 phần trăm là 306,02.",
+        "result": "306,02",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tính diện tích phần tô đậm, biết hình tròn lớn có đường kính là 10 cm, hình tròn bé có đường kính là 7 cm.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0410/21_1.png",
+        "solution": "Bán kính hình tròn lớn là \\( \\frac{10}{2} = 5 \\) (cm) \nDiện tích hình tròn lớn là \\( 5 \\times 5 \\times 3.14 = 78.5 \\) (cm²) \nBán kính hình tròn bé là \\( \\frac{7}{2} = 3.5 \\) (cm) \nDiện tích hình tròn bé là \\( 3.5 \\times 3.5 \\times 3.14 = 38.465 \\) (cm²) \nDiện tích phần tô đậm là \\( 78.5 - 38.465 = 40.035 \\) (cm²)",
+        "result": "40.035 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Hiện nay tuổi em gấp bốn lần tuổi em khi tuổi anh bằng tuổi em hiện nay. Khi tuổi em bằng tuổi anh hiện nay thì tổng số tuổi hai anh em là 51 tuổi. Tính tuổi mỗi người hiện nay.",
+        "image_url": null,
+        "solution": "Ta có sơ đồ khi tuổi anh bằng tuổi em hiện nay: \nEm: I − −I \nAnh: I − −I − −I − −I − −I \nHiệu số tuổi của hai anh em không đổi nên tuổi anh sẽ hơn tuổi em số phần là: 4 – 1 = 3 (phần) \nTa có sơ đồ hiện nay: \nEm: I − −I − −I − −I − −I \nAnh: I − −I − −I − −I − −I − −I − −I − −I \nTa có sơ đồ khi tuổi em bằng tuổi anh hiện nay: \nEm: I − −I − −I − −I − −I − −I − −I − −I \nAnh: I − −I − −I − −I − −I − −I − −I − −I − −I − −I − −I \n51 tuổi ứng với số phần là: 7 + 10 = 17 (phần) \nGiá trị của một phần là: \\( \\frac{51}{17} = 3 \\) (tuổi) \nTuổi em hiện nay là: \\( 3 \\times 4 = 12 \\) (tuổi) \nTuổi chị hiện nay là: \\( 3 \\times 7 = 21 \\) (tuổi)",
+        "result": "Tuổi anh: 21 tuổi; tuổi em: 12 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Hai người dự định cùng làm một công việc trong 5 giờ sẽ xong. Làm được 2 giờ người thứ nhất có việc bận cần phải đi nên chỉ còn người thứ hai làm. Người thứ hai làm nốt công việc đó trong 9 giờ. Hỏi nếu làm riêng thì mỗi người làm công việc đó trong bao lâu?",
+        "image_url": null,
+        "solution": "1 giờ hai người làm được số phần công việc là: \\( \\frac{1}{5} \\) \n2 giờ hai người làm được số phần công việc là: \\( \\frac{1}{5} \\times 2 = \\frac{2}{5} \\) \nSố phần công việc còn lại là: \\( 1 - \\frac{2}{5} = \\frac{3}{5} \\) \n1 giờ người thứ hai làm được số phần công việc là: \\( \\frac{3}{5} \\div 9 = \\frac{1}{15} \\) \nNgười thứ hai làm một mình thì sau số thời gian hoàn thành công việc là: \\( \\frac{1}{\\frac{1}{15}} = 15 \\) \n1 giờ người thứ nhất làm được số phần công việc là: \\( \\frac{1}{5} - \\frac{1}{15} = \\frac{2}{15} \\) \nNgười thứ nhất làm một mình thì sau số thời gian hoàn thành công việc là: \\( \\frac{1}{\\frac{2}{15}} = 7.5 \\)",
+        "result": "Người thứ nhất: 7.5 giờ; người thứ hai: 15 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Cho \\( A = 1^2 + 1^4 + 1^8 + .... + 1^{152} \\) \\( B = 1^1 + 2 + 1^1 + 2 + 3 + 1^1 + 2 + 3 + 4 + ... + 1^1 + 2 + 3 + .... + 5^{11} \\) Tính \\( \\frac{A}{B} \\)",
+        "image_url": null,
+        "solution": "A = 1^2 + 1^4 + 1^8 + .... + 1^{152} \nA \\times 2 = 1 + 1^2 + 1^4 + .... + 1^{256} \nA \\times 2 - A = 1 - 1^{512} \nA = 1^{511} \nB = 1^1 + 2 + 1^1 + 2 + 3 + 1^1 + 2 + 3 + 4 + ... + 1^1 + 2 + 3 + .... + 5^{11} \nB = 1(1+2) \\times 2:2 + 1(1+3) \\times 3:2 + 1(1+4) \\times 4:2 + .... + 1(1+511) \\times 511:2 \nB = 1^2 \\times 3:2 + 1^3 \\times 4:2 + 1^4 \\times 5:2 + .... + 1^{511} \\times 512:2 \nB \\times 1^2 = 1^2 \\times 3 + 1^3 \\times 4 + 1^4 \\times 5 + .... + 1^{511} \\times 512 \nB \\times 1^2 = 1^2 - 1^3 + 1^3 - 1^4 + 1^4 - 1^5 + .... + 1^{511} - 1^{512} \nB \\times 1^2 = 1^2 - 1^{512} = 2^{555} \nB = \\frac{2^{555}}{1^2} = 5^{105} \nTa có \\frac{A}{B} = \\frac{1^{511}}{5^{105}}",
+        "result": "511/510",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Cho tam giác ABC. Lấy M và N lần lượt là trung điểm của cạnh AB và AC, nối M với C và N với B cắt nhau tại O. Tính \\( S_{ABC} \\), biết \\( S_{MOB} = 20 \\text{ cm}^2 \\).",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0410/22_2.png",
+        "solution": "Nối A với O \nVì M là trung điểm của AB nên AM = MB = \\frac{1}{2} \nS_{BMO} = \\frac{1}{2} \\times S_{ABO} \nABO = 20 \\times 2 = 40 \\text{ cm}^2 \nS_{BMO} = S_{AMO} (Chung chiều cao từ O) \nS_{ABN} = S_{ACM} (Chung chiều cao từ O) \nSuy ra S_{BCM} - S_{BMO} = S_{ACM} - S_{AMO} hay S_{BCO} = S_{ACO} = 40 \\text{ cm}^2 \nVì N là trung điểm của AC nên AN = NC = \\frac{1}{2} \nS_{AON} = S_{CON} (Chung chiều cao từ O) \nS_{ABN} = S_{ACM} (Chung chiều cao từ O) \nSuy ra S_{ABN} - S_{AON} = S_{ACM} - S_{CON} hay S_{ABO} = S_{BOC} = 40 \\text{ cm}^2 \nDiện tích tam giác ABC là 40 + 40 + 40 = 120 \\text{ cm}^2",
+        "result": "120 cm²",
+        "error": false
+    },
+    {
+        "question": "Tính diện tích của tứ giác MNCB biết rằng diện tích tam giác AMC = 36 cm^2 và tỷ lệ diện tích của tam giác AMC và tam giác ABC là 2:5.",
+        "image_url": null,
+        "solution": "Diện tích tam giác AMC = 36 \\text{ cm}^2. Tỷ lệ diện tích \\frac{S_{AMC}}{S_{ABC}} = \\frac{2}{5}. Do đó, diện tích tam giác ABC là: \\frac{36}{2} \\times 5 = 90 \\text{ cm}^2. Diện tích tứ giác MNCB là: 90 - 36 = 54 \\text{ cm}^2.",
+        "result": "54 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính \\( A = 6.5 - 5.16 + 7.16 - 2.5 \\)",
+        "image_url": null,
+        "solution": "A = 6.5 - 5.16 + 7.16 - 2.5 \nA = (6.5 - 2.5) + (7.16 - 5.16) \nA = 4 + 2 \nA = 6",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tìm số bé nhất trong các số sau: 1.001 ; 787820212020202120208989",
+        "image_url": null,
+        "solution": "Ta có 1.001 và 20212020>1>7820212020>1>7878788989 Có phần bù của 7878181889891919 Mà 18>1918>1978<89 Vậy số bé nhất là 89",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tổng của hai số là 2319",
+        "image_url": null,
+        "solution": "Số bé là \\((23−19):2=518\\) Số lớn là \\(23−518=718\\) Vậy hai số cần tìm là 518718",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 4. Bạn Khánh Linh sinh vào ngày 02/12/2006 là vào thứ Bảy. Hỏi 14 năm sau sinh nhật bạn vào thứ mấy?",
+        "image_url": null,
+        "solution": "14 năm sau là ngày 02/12/2020. Ta có: 02/12/2006 đến 02/12/2007 là 365 ngày Còn 02/12/2007 đến 02/12/2008 là 366 ngày thì tháng 2 năm 2008 (năm nhuận) có 29 ngày. Trong 14 năm có 4 năm nhuận (2008, 2012, 2016, 2020), mỗi năm có 366 ngày và có 10 năm thường, mỗi năm có 365 ngày. Từ 02/12/2006 đến 02/12/2020 có số ngày là: \\(366 \\times 4 + 365 \\times 10 = 5114\\) (ngày) Ta có: \\(5114 \\div 7 = 730\\) (dư 4) nên 5114 ngày có 730 tuần và dư 4 ngày lần lượt là Chủ nhật, thứ Hai, thứ Ba và thứ Tư. Vậy 14 năm sau sinh nhật của Khánh Linh vào thứ Tư.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 5. 15% của 90 là:",
+        "image_url": null,
+        "solution": "15% của 90 là: \\(90 \\times 0.15 = 13.5\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 6. Tính \\( B \\) biết: \\( B \\times (1 - \\frac{1}{4}) \\times (1 - \\frac{1}{9}) \\times (1 - \\frac{1}{16}) \\times (1 - \\frac{1}{25}) = 135 \\)",
+        "image_url": null,
+        "solution": "B \\times \\frac{3}{4} \\times \\frac{8}{9} \\times \\frac{15}{16} \\times \\frac{24}{25} = 135 \nB = 135 \\div \\left(\\frac{3}{4} \\times \\frac{8}{9} \\times \\frac{15}{16} \\times \\frac{24}{25}\\right) \nB = 83",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tìm \\( a \\) biết: \\( a \\div 35 = 35 \\)",
+        "image_url": null,
+        "solution": "35 = \\frac{3}{7} \\times \\frac{5}{7} = \\frac{21}{35} \nVậy \\( a = 35 \\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 8. Một hình thang có đáy bé bằng nửa đáy lớn, chiều cao bằng 60% đáy lớn. Đáy lớn là 12 cm. Tính diện tích hình thang.",
+        "image_url": null,
+        "solution": "Đáy bé dài là: \\(12 \\div 2 = 6\\) (cm) \nChiều cao dài là: \\(12 \\times 0.6 = 7.2\\) (cm) \nDiện tích hình thang dài là: \\((6 + 12) \\times 7.2 \\div 2 = 64.8\\) (cm²)",
+        "result": "64.8 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Cho cạnh của hình vuông là 4 cm như hình bên. Tính diện tích phần gạch chéo.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1030/20_2.png",
+        "solution": "Diện tích của hình vuông là: \\(4 \\times 4 = 16\\) (cm²) \nDiện tích của \\(\\frac{1}{4} \\times 4 \\times 4 \\times 3.14 \\times \\frac{1}{4} = 12.56\\) (cm²) \nDiện tích của phần gạch chéo là: \\(16 - 12.56 = 3.44\\) (cm²)",
+        "result": "3.44 cm²",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Cho dãy số: 7; 8, 10; 13; 17; .... Tìm số hạng thứ 50 của dãy.",
+        "image_url": null,
+        "solution": "Ta có: \nSố thứ hai \\(8 = 7 + 1\\) \nSố thứ ba \\(10 = 8 + 2 = 7 + 1 + 2\\) \nSố thứ tư \\(13 = 10 + 3 = 7 + 1 + 2 + 3\\) \n.... \nSố thứ 50 là: \\(7 + (1 + 2 + 3 + ... + 49) = 7 + \\frac{(1 + 49) \\times 49}{2} = 1232\\).",
+        "result": "1232",
+        "error": false
+    },
+    {
+        "question": "Câu 11. Có 10 bạn thi đấu cờ vua. Mỗi bạn đấu với các bạn còn lại 1 ván. Hỏi có bao nhiêu ván cờ?",
+        "image_url": null,
+        "solution": "Bạn thứ nhất đấu 9 ván với các bạn còn lại. \nBạn thứ hai đấu 8 ván với các bạn còn lại (không đấu lại với bạn thứ nhất) \nBạn thứ ba đấu 7 ván với các bạn còn lại (không đấu lại với bạn thứ nhất và thứ hai) \n... \nBạn thứ chín sẽ đấu 1 ván với bạn thứ 10 (không đấu lại với 8 bạn trước đó) \nCó số ván cờ vua là: \\(9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 = 45\\) (ván)",
+        "result": "45 ván",
+        "error": false
+    },
+    {
+        "question": "Câu 12. Cho phân số \\(\\frac{56}{81}\\)",
+        "image_url": null,
+        "solution": "Khi cộng cả tử số và mẫu số cùng một số đơn vị thì được phân số mới có hiệu của mẫu số và tử số không đổi. \nMẫu số mới hơn tử số mới là: \\(81 - 56 = 25\\) (đơn vị) \nTử số mới là: \\(25 \\div (4 - 3) \\times 3 = 75\\). \nCộng vào cả tử số và mẫu số số đơn vị là: \\(65 - 56 = 9\\) (đơn vị)",
+        "result": "9 đơn vị",
+        "error": false
+    },
+    {
+        "question": "Câu 13. Cho số có dạng \\(\\overline{2x5y}\\)",
+        "image_url": null,
+        "solution": "Để \\(\\overline{2x5y}\\) \nThay \\(y = 0\\) ta được \\(\\overline{2x50}\\) \nĐể \\(\\overline{2x50}\\) \nHay \\((x + 7)\\) chia hết cho 9. \nSuy ra \\(x = 2\\)",
+        "result": "x = 2 và y = 0",
+        "error": false
+    },
+    {
+        "question": "Câu 14. Tìm \\( x \\) biết: \\((x+9)+(x−2)+(x+7)+(x−4)+(x+5)+(x−6)+(x+3)+(x−8)+(x+1)=95\\)",
+        "image_url": null,
+        "solution": "\\((x+9)+(x−2)+(x+7)+(x−4)+(x+5)+(x−6)+(x+3)+(x−8)+(x+1)=95\\) \n\\(x \\times 9+(9+7+5+3+1−2−4−6−8)=95\\) \n\\(x \\times 9+5=95\\) \n\\(x \\times 9=90\\) \n\\(x=10\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 15. Hiện nay tuổi bố gấp 4 lần tuổi con, biết 5 năm sau tuổi của 2 bố con là 55 tuổi. Tính tuổi bố hiện nay.",
+        "image_url": null,
+        "solution": "Hiện nay, tổng số tuổi của hai số bố con là: \\(55 - 5 \\times 2 = 45\\) (tuổi) \nTuổi bố hiện nay là: \\(45 \\div (1 + 4) \\times 4 = 36\\) (tuổi)",
+        "result": "36 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 16. Một bể bơi hình chữ nhật có chiều dài 12 m; chiều rộng 8.5 m và chiều cao 2 m. Người ta lát gạch xung quanh và đáy bể. Hỏi dùng hết bao nhiêu viên gạch vuông có cạnh 5 cm?",
+        "image_url": null,
+        "solution": "Diện tích cần lát gạch là: \\((12 + 8.5) \\times 2 \\times 2 + 12 \\times 8.5 = 184\\) (m²) \nDiện tích một viên gạch là: \\(5 \\times 5 = 25\\) (cm²) = 0.0025 m² \nSố viên gạch cần lát là: \\(184 \\div 0.0025 = 73600\\) (viên gạch)",
+        "result": "73600 viên gạch",
+        "error": false
+    },
+    {
+        "question": "Câu 17. Cho tam giác ABC trên AB lấy điểm M sao cho AM gấp rưỡi MB, trên cạnh AC lấy điểm N sao cho AN = 122. Tính diện tích tứ giác MNBC.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/1030/20_3.png",
+        "solution": "Nối M với C ta có: \\(\\frac{S_{AMN}}{S_{AMC}}=\\frac{AN}{AC}=\\frac{1}{2}\\)",
+        "result": null,
+        "error": false
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "question": "Câu 1 (1 điểm). 20% được viết dưới dạng phân số tối giản là:",
+        "image_url": null,
+        "solution": "20\\% = \\frac{20}{100} = \\frac{1}{5}",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2 (1 điểm). 4 giờ 40 phút = ….. giờ:",
+        "image_url": null,
+        "solution": "4 \\text{ giờ } 40 \\text{ phút } = \\frac{440}{60} = \\frac{22}{3}",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 3 (1 điểm). Hiệu giá trị của hai chữ số 3 trong số thập phân 35,36 là:",
+        "image_url": null,
+        "solution": "Hiệu giá trị của hai chữ số 3 trong số thập phân 35,36 là 30 - 0,3 = 29,7",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 4 (1 điểm). Gieo một con xúc xắc 10 lần liên tiếp có kết quả như sau:",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0613/21_1.png",
+        "solution": "Số lần xuất hiện mặt lẻ là 7. Tỉ số giữa số lần xuất hiện mặt lẻ và tổng số lần gieo xúc xắc là: \\frac{7}{10}",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 5 (1 điểm). Tổng độ dài các cạnh của một hình lập phương là 7,2cm. Tính diện tích toàn phần của hình lập phương đó.",
+        "image_url": null,
+        "solution": "Độ dài 1 cạnh của hình lập phương là: \\frac{7,2}{12} = 0,6 \\text{ cm}. Diện tích toàn phần của hình lập phương đó là 0,6 \\times 0,6 \\times 6 = 2,16 \\text{ cm}^2",
+        "result": "2,16 cm^2",
+        "error": false
+    },
+    {
+        "question": "Câu 6 (1 điểm). Mai và An là hai chị em sinh đôi và họ có một anh trai. Tổng số tuổi của ba anh em là 50 tuổi. Tìm tuổi của Mai biết tuổi của anh trai bằng \\frac{4}{3} tuổi của Mai.",
+        "image_url": null,
+        "solution": "Mai và An là hai chị em sinh đôi nên Mai và An có số tuổi bằng nhau. Tuổi của anh trai bằng \\frac{4}{3} tuổi của Mai. Tuổi của anh trai là \\frac{50 \\times 2}{5} = 20. Tuổi của Mai là \\frac{50 - 20}{2} = 15 \\text{ tuổi}",
+        "result": "15 tuổi",
+        "error": false
+    },
+    {
+        "question": "Bài 1 (4 điểm). a. Tính giá trị của biểu thức: 0,75 \\times \\frac{1}{12} + \\frac{3}{17} : \\frac{5}{34} b. Tìm qui luật và tìm số thứ 50 của dãy số sau: 3; 5; 8; 12 ; 17; ...",
+        "image_url": null,
+        "solution": "a) 0,75 \\times \\frac{1}{12} + \\frac{3}{17} : \\frac{5}{34} = \\frac{3}{4} \\times \\frac{1}{12} + \\frac{3}{17} \\times \\frac{34}{5} = \\frac{9}{48} + \\frac{102}{85} = \\frac{93}{40} b) Quy luật: Số thứ 1 là 3 = 2 + 1 Số thứ 2 là 5 = 2 + 1 + 2 Số thứ 3 là 8 = 2 + 1 + 2 + 3 Số thứ 4 là 12 = 2 + 1 + 2 + 3 + 4 Số thứ 5 là 17 = 2 + 1 + 2 + 3 + 4 + 5 ..... Số thứ 50 là 2 + 1 + 2 + 3 + 4 + 5 + ..... + 50 Xét A = 1 + 2 + 3 + 4 + 5 + ..... + 50 Số số hạng của dãy trên là (50 – 1) : 1 + 1 = 50 (số hạng) A = (50 + 1) x 50 : 2 = 1275 Vậy số thứ 50 của dãy đã cho là 2 + 1275 = 1277",
+        "result": "1277",
+        "error": false
+    },
+    {
+        "question": "Bài 2 (2 điểm). So sánh A và B biết A=\\frac{2024}{2025}+\\frac{2025}{2026}+\\frac{2026}{2024} B=\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}+.....+\\frac{1}{15}",
+        "image_url": null,
+        "solution": "A=\\frac{2024}{2025}+\\frac{2025}{2026}+\\frac{2026}{2024} A=1-\\frac{1}{2025}+1-\\frac{1}{2026}+1+\\frac{2}{2024} A = 3 + \\frac{2}{2024}-(\\frac{1}{2025}+\\frac{1}{2026}) Ta thấy \\frac{2}{2024}=\\frac{1}{2024}+\\frac{1}{2024} \\frac{2}{2024}-(\\frac{1}{2025}+\\frac{1}{2026})>0 Suy ra A > 3 B=\\frac{1}{2}+(\\frac{1}{3}+\\frac{1}{4}+\\frac{1}{5})+(\\frac{1}{6}+\\frac{1}{7}+\\frac{1}{8}+\\frac{1}{9}+\\frac{1}{10}+\\frac{1}{11})+(\\frac{1}{12}+\\frac{1}{13}+\\frac{1}{14}+\\frac{1}{15}) Ta thấy \\frac{1}{3}+\\frac{1}{4}+\\frac{1}{5}<\\frac{1}{3}+\\frac{1}{3}+\\frac{1}{3}<1 \\frac{1}{6}+\\frac{1}{7}+\\frac{1}{8}+\\frac{1}{9}+\\frac{1}{10}+\\frac{1}{11}<\\frac{1}{6}+\\frac{1}{6}+\\frac{1}{6}+\\frac{1}{6}+\\frac{1}{6}+\\frac{1}{6}<1 \\frac{1}{12}+\\frac{1}{13}+\\frac{1}{14}+\\frac{1}{15}<\\frac{1}{12}+\\frac{1}{12}+\\frac{1}{12}+\\frac{1}{12}<1/3 Vậy B < \\frac{1}{2}+1+1+1/3 Vậy A > B",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 3 (2 điểm). Hai người khởi hành từ hai địa điểm A, B và đi ngược chiều nhau. a. Nếu hai người xuất phát cùng một lúc thì họ gặp nhau tại một điểm cách A 40 km và cách B 60 km. Tính quãng đường AB. b. Nếu hai người muốn gặp nhau tại điểm C sao cho quãng đường AC ngắn hơn quãng đường BC là 8km thì người đi từ A phải khởi hành trước người đi từ B là 15 phút. Tính vận tốc của người đi từ A.",
+        "image_url": null,
+        "solution": "a) Quãng đường AB là 40 + 60 = 100 \\text{ km} b) Độ dài quãng đường AC là (100 – 8) : 2 = 46 \\text{ km} Quãng đường BC là 100 – 46 = 54 \\text{ km} Vì vận tốc của 2 người không đổi và trong cùng thời gian thì quãng đường tỉ lệ thuận với vận tốc Suy ra \\frac{v_A}{v_B}=\\frac{S_A}{S_B}=\\frac{40}{60}=\\frac{2}{3} Trong cùng một khoảng thời gian, khi người đi từ B đi được 54 km thì người đi từ A đi được 54\\times\\frac{2}{3}=36 Quãng đường người đi từ A đi trước là 46 – 36 = 10 \\text{ km} Vận tốc của người đi từ A là \\frac{10}{0,25} = 40 \\text{ km/giờ}",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Bài 4 (6 điểm). Cho tam giác ABC. Trên AB lấy M sao cho AM = \\frac{2}{3} AB. a. Tinh diện tích tam giác AMC biết diện tích tam giác ABC là 600cm^2. b. Tìm tỉ số diện tích tam giác AMN và diện tích tam giác BNC. c. Chứng tỏ rằng I là trung điểm của BN.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0613/20.png",
+        "solution": "a) S_{AMC} = \\frac{2}{3}S_{ABC} (Chung chiều cao hạ từ C và đáy AM = \\frac{2}{3} AB) Suy ra S_{AMC} = \\frac{2}{3}\\times600=400 \\text{ cm}^2 b) Ta có S_{ABN} = S_{BNC} = \\frac{1}{2}S_{ABC} (Chung chiều cao hạ từ đỉnh B và đáy AN = NC) S_{AMN} = \\frac{2}{3}S_{ABN} (Chung chiều cao hạ từ N và đáy AM = \\frac{2}{3} AB) Suy ra S_{AMN} = \\frac{2}{3}S_{BNC} c) Ta có S_{ABN} = S_{BNC} nên chiều cao hạ từ A xuống BN = chiều cao hạ từ C xuống BN. ⇒ S_{ABI} = S_{BIC} (Chung đáy BI và chiều cao hạ từ A xuống BN = chiều cao hạ từ C xuống BN) (1) Ta có S_{BMC} = \\frac{1}{2}S_{AMC} (Chung chiểu cao hạ từ C và đáy BM = \\frac{1}{2} AB) Suy ra chiều cao hạ từ B xuống MC = \\frac{1}{2} ⇒ S_{BIC} = \\frac{1}{2}S_{AIC} (Chung đáy IC và chiều cao hạ từ B xuống MC)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1: Cho tam giác DAE và CAD có chung đáy AD. Chiều cao hạ từ E xuống AD bằng 13. Xét 2 tam giác AEI và AIC, có chung đáy AI. Chiều cao hạ từ E xuống AI bằng 13. Tính diện tích của tam giác AEI và AIC.",
+        "image_url": null,
+        "solution": "Suy ra diện tích tam giác AEI bằng 13 lần diện tích tam giác AIC. Vì 2 tam giác AEI và AIC có chung chiều cao hạ từ A xuống EC, nên IE = 13.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 1. Làm tròn số 3,458 đến hàng phần mười, ta được:",
+        "image_url": null,
+        "solution": "Làm tròn số 3,458 đến hàng phần mười, ta được: 3,5 (Vì chữ số hàng phần trăm là 5)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Cho 2 km 45 m = ...... km. Số thập phân thích hợp viết vào chỗ chấm là:",
+        "image_url": null,
+        "solution": "2 km 45 m = 2,045km",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Phân số \\( \\frac{54}{54} \\)",
+        "image_url": null,
+        "solution": "\\( \\frac{54}{54} = \\frac{5 \\times 25}{4 \\times 25} = \\frac{125}{100} = 1,25 \\)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Ong mật bay với vận tốc 7 km/giờ. Quãng đường ong mật bay được trong 45 phút là:",
+        "image_url": null,
+        "solution": "Đổi 45 phút = 0,75 giờ. Quãng đường ong mật bay được trong 45 phút là: \\( 7 \\times 0,75 = 5,25 \\) (km)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một khúc gỗ dạng hình hộp chữ nhật có chiều dài 1 m, chiều rộng 0,5 m, chiều cao 8 dm. Thể tích của khúc gỗ đó là:",
+        "image_url": null,
+        "solution": "Đổi: 8 dm = 0,8 m. Thể tích của khúc gỗ đó là: \\( 1 \\times 0,5 \\times 0,8 = 0,4 \\) (m³)",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Bản đồ của một tỉnh được vẽ theo tỉ lệ 1 : 100 000. Hỏi khoảng cách 2 cm trên bản đồ ứng với độ dài thực tế là bao nhiêu ki-lô-mét?",
+        "image_url": null,
+        "solution": "Khoảng cách 2 cm trên bản đồ ứng với độ dài thực tế là \\( 2 \\times 100 000 = 200 000 \\) (cm) = 2 km",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Tính bằng cách thuận tiện a) 67,75 + 13,5 + 32,25 + 86,5 b) \\( 10,38 \\times 350 - 0,38 \\times 350 \\)",
+        "image_url": null,
+        "solution": "a) \\( 67,75 + 13,5 + 32,25 + 86,5 = (67,75 + 32,25) + (13,5 + 86,5) = 100 + 100 = 200 \\) b) \\( 10,38 \\times 350 - 0,38 \\times 350 = (10,38 - 0,38) \\times 350 = 10 \\times 350 = 3500 \\)",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Ba thùng gạo (thùng A, thùng B, thùng C) có tất cả 390 kg gạo, biết trung bình cộng số gạo ở thùng B và thùng C là 135 kg. a) Tính số gạo có ở thùng A. b) Nếu chuyển 25% lượng gạo ở thùng A và 10 kg gạo ở thùng B sang thùng C thì khi đó số gạo ở thùng B bằng 23 kg.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0708/12_1.png",
+        "solution": "a) Tổng số gạo ở thùng B và thùng C là: \\( 135 \\times 2 = 270 \\) (kg). Số gạo ở thùng A là: \\( 390 - 270 = 120 \\) (kg). b) Số gạo thùng A chuyển sang thùng C là: \\( 120 \\div 100 \\times 25 = 30 \\) (kg). Sau khi chuyển gạo từ thùng A và thùng B sang thùng C thì tổng số gạo ở thùng B và thùng C là: \\( 270 + 30 = 300 \\) (kg). Tổng số phần bằng nhau là: \\( 2 + 3 = 5 \\) (phần). Giá trị 1 phần là: \\( 300 \\div 5 = 60 \\) (kg). Số gạo thùng B lúc sau là: \\( 60 \\times 2 = 120 \\) (kg). Số gạo thùng B lúc đầu là: \\( 120 + 10 = 130 \\) (kg). Số gạo thùng C lúc đầu là: \\( 270 - 130 = 140 \\) (kg). Đáp số: a) 120 kg b) Thùng B: 130 kg Thùng C: 140 kg",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Bạn Nam muốn mua 3 chiếc bút. Cửa hàng A bán mỗi chiếc bút giá 9 000 đồng với ưu đãi \"Mua 2, tặng 1\". Cửa hàng B bán mỗi chiếc bút giá 10 000 đồng với ưu đãi “Giảm 40% giá bán cho hai chiếc bút đầu tiên\". Theo em, bạn Nam nên mua bút ở cửa hàng nào thì được lợi hơn? Vì sao?",
+        "image_url": null,
+        "solution": "Số tiền mua 3 chiếc bút ở cửa hàng A là: \\( 9 000 \\times 2 = 18 000 \\) (đồng). Số tiền mua 2 chiếc bút ở cửa hàng B khi chưa giảm giá là: \\( 10 000 \\times 2 = 20 000 \\) (đồng). Số tiền được giảm khi mua 2 chiếc bút đầu tiên ở cửa hàng B là: \\( 20 000 \\div 100 \\times 40 = 8 000 \\) (đồng). Số tiền mua 3 chiếc bút ở cửa hàng B là: \\( (20 000 - 8 000) + 10 000 = 22 000 \\) (đồng). Vì 18 000 đồng < 22 000 đồng nên bạn Nam chọn mua bút ở cửa hàng A sẽ được lợi hơn.",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Cho hình vẽ bên, biết BD = 6 cm và bằng 13 a) Tính diện tích tam giác ABC. b) Từ D kẻ đường thẳng song song với AC cắt AB tại E. Nối C với E cắt AD tại I. So sánh IE và IC.",
+        "image_url": "https://img.loigiaihay.com/picture/2025/0708/20_1.png",
+        "solution": "a) Độ dài BC là: \\( 6 \\times 3 = 18 \\) (cm). Diện tích tam giác ABC là: \\( 18 \\times 9 \\div 2 = 81 \\) (cm²). b) - Vì DE song song với AC nên tứ giác AEDC là hình thang. - Xét 2 tam giác ABD và ABC, có: + Chung chiều cao hạ từ A xuống BC. + BD = 13. Suy ra \\( S_{ABD} = \\frac{1}{3} S_{ABC} \\). Mà 2 tam giác ABD và ABC lại có chung đáy AB. => Chiều cao hạ từ D xuống AB bằng \\( \\frac{1}{3} \\). Xét 2 tam giác DAE và CAE, có: + Chung đáy AE + Chiều cao hạ từ D xuống AE bằng \\( \\frac{1}{3} \\). => \\( S_{DAE} = \\frac{1}{3} S_{CAE} \\) (1). Xét 2 tam giác CAE và CAD, có: + Chung đáy AC + Chiều cao hạ từ E xuống AC bằng chiều cao hạ từ D xuống AC (vì cùng là chiều cao của hình thang AEDC). => \\( S_{CAE} = S_{CAD} \\) (2). Từ (1) và (2) suy ra \\( S_{DAE} = \\frac{1}{3} S_{CAD} \\).",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tính giá trị của biểu thức 13,28 \\times 9,9 + 13,28 \\times 0,1.",
+        "image_url": null,
+        "solution": "13,28 \\times 9,9 + 13,28 \\times 0,1 = 13,28 \\times (9,9 + 0,1) = 13,28 \\times 10 = 132,8",
+        "result": "132,8",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Cường đến chỗ hẹn lúc 8 giờ 40 phút. Hùng phải đợi Cường bao nhiêu phút nếu Hùng đến lúc 8 giờ 20 phút?",
+        "image_url": null,
+        "solution": "Cường đến chỗ hẹn lúc: 8 giờ 40 phút + 12 phút = 8 giờ 52 phút. Hùng phải đợi Cường số phút là: 8 giờ 52 phút - 8 giờ 20 phút = 32 phút.",
+        "result": "32 phút",
+        "error": false
+    },
+    {
+        "question": "Câu 3: 32% của một số là 6,4. Tìm số đó.",
+        "image_url": null,
+        "solution": "Số đó là \\( \\frac{6,4}{32} \\times 100 = 20 \\).",
+        "result": "20",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Gọi cạnh của hình lập phương là a (cm). Biết rằng diện tích toàn phần của hình lập phương là 72 cm². Tính thể tích của hình lập phương.",
+        "image_url": null,
+        "solution": "Ta có \\( a \\times a \\times 2 = 72 \\) cm². Suy ra \\( a \\times a = \\frac{72}{2} = 36 \\) cm². Vậy cạnh của hình lập phương là 6 cm. Thể tích của hình lập phương là \\( 6 \\times 6 \\times 6 = 216 \\) cm³.",
+        "result": "216 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Số học sinh thích chơi cầu lông chiếm bao nhiêu phần trăm nếu biết rằng 50% thích bóng đá, 12% thích bóng rổ, và 18% thích bơi lội?",
+        "image_url": null,
+        "solution": "Số học sinh thích chơi cầu lông chiếm số phần trăm là \\( 100\\% - (50\\% + 12\\% + 18\\%) = 20\\% \\). Số bạn thích chơi cầu lông là \\( 50 \\times \\frac{20}{100} = 10 \\) bạn.",
+        "result": "10 bạn",
+        "error": false
+    },
+    {
+        "question": "Câu 6: Tìm số lớn trong hai số biết tổng của chúng là 2430 và hiệu là 1554.",
+        "image_url": null,
+        "solution": "Số lớn là \\( \\frac{2430 + 1554}{2} = 1992 \\).",
+        "result": "1992",
+        "error": false
+    },
+    {
+        "question": "Câu 7: Một người đi từ A đến B. Biết rằng người đó đi trước khi nghỉ là 45 phút với vận tốc 30 km/h và sau khi nghỉ là 1 giờ 12 phút với vận tốc 40 km/h. Tính độ dài quãng đường AB.",
+        "image_url": null,
+        "solution": "Thời gian người đó đi trước khi nghỉ là: 14 giờ 45 phút – 14 giờ = 45 phút = 0,75 giờ. Thời gian người đó đi sau khi nghỉ là: 16 giờ 12 phút - 14 giờ 45 phút – 15 phút = 1 giờ 12 phút = 1,2 giờ. Độ dài quãng đường AB là: \\( 30 \\times 0,75 + 40 \\times 1,2 = 70,5 \\) km.",
+        "result": "70,5 km",
+        "error": false
+    },
+    {
+        "question": "Câu 8: Cho hình tam giác ABC. Tính diện tích của tam giác S_{AKQ} biết rằng \\( \\frac{S_{AKQ}}{S_{ABC}} = \\frac{1}{3} \\times \\frac{5}{6} = \\frac{5}{18} \\).",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_23.png",
+        "solution": "Suy ra \\( \\frac{S_{KQBC}}{S_{ABC}} = 1 - \\frac{5}{18} = \\frac{13}{18} \\). Suy ra \\( S_{ABC} = \\frac{26}{\\frac{13}{18}} = 36 \\). Vậy \\( S_{AKQ} = 36 \\times \\frac{5}{18} = 10 \\) cm².",
+        "result": "10 cm²",
+        "error": false
+    },
+    {
+        "question": "Bài 1: a) Tính số sách ở tầng 1 biết rằng tổng số sách là 700 quyển và tầng 1 chiếm 40%. b) Sau khi chuyển sách, tổng số sách ở tầng 2 và tầng 3 không thay đổi. Tính số sách ở tầng 3 sau khi chuyển biết rằng tỉ lệ sách giữa tầng 2 và tầng 3 là 2:5.",
+        "image_url": null,
+        "solution": "a) Số sách ở tầng 1 là \\( 700 \\times \\frac{40}{100} = 280 \\) quyển. b) Tổng số sách ở tầng 2 và tầng 3 là \\( 700 - 280 = 420 \\) quyển. Sau khi chuyển thì tổng số sách ở hai tầng đó vẫn không thay đổi. Số sách ở tầng 3 sau khi chuyển là \\( \\frac{420}{2 + 5} \\times 2 = 120 \\) quyển. Số sách ở tầng 3 lúc đầu là \\( 120 \\times 2 = 240 \\) quyển. Số sách ở tầng 2 lúc đầu là \\( 420 - 240 = 180 \\) quyển.",
+        "result": "a) Tầng 1: 280 quyển; b) Tầng 2: 240 quyển; Tầng 3: 180 quyển",
+        "error": false
+    },
+    {
+        "question": "Câu 10: Nam viết lên bảng 3 số 1, 2, 3. Nam xóa đi 2 số a, b và thay bằng một số là \\( c = \\frac{a \\times b}{a + b} \\). a) Hỏi số đó là số nào? Vì sao? b) Nam cũng chơi trò chơi đó, nhưng có 5 số 1, 2, 3, 4, 5. Xong Nam nhận xét lần chơi nào cũng ra số cuối cùng giống nhau. Hỏi Nam nhận xét đúng hay sai? Vì sao?",
+        "image_url": null,
+        "solution": "a) Nếu bạn Nam xóa 2 số là 1 và 2 thì \\( c = \\frac{1 \\times 2}{1 + 2} = \\frac{2}{3} \\). Tiếp tục xóa đi hai số trên thì bạn còn một số là \\( c = \\frac{\\frac{2}{3} \\times 3}{\\frac{2}{3} + 3} = \\frac{6}{11} \\). Tương tự với hai trường hợp còn lại là xóa đi số 1 và 3 hoặc 2 và 3 thì cũng được kết quả là \\( \\frac{6}{11} \\). Vậy số Nam thi được là \\( \\frac{6}{11} \\). b) Ở câu a ta bắt đầu xóa 2 số là 1 và 2 được kết quả là \\( \\frac{2}{3} \\). Ta tiếp tục xóa số \\( \\frac{6}{11} \\) với 4: \\( c = \\frac{\\frac{6}{11} \\times 4}{\\frac{6}{11} + 4} = \\frac{12}{25} \\). Sau khi xóa số 5 và \\( \\frac{12}{25} \\): \\( c = \\frac{\\frac{12}{25} \\times 5}{\\frac{12}{25} + 5} = \\frac{60}{137} \\). Tương tự như vậy, lần chơi nào cũng ra kết quả giống nhau là \\( \\frac{60}{137} \\). Vậy bạn Nam nói đúng.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 2 Bài 1. (6 điểm) Có 100 chiếc lồng đèn được đánh số từ 1 đến 100. Bật sáng tất cả các lồng đèn, sau đó tắt các lồng đèn có số chia hết cho 3. a) Hỏi có bao nhiêu lồng đèn đã tắt? b) Tiếp tục tắt các lồng đèn có số chia hết cho 5. Hỏi sau hai lần tắt, có bao nhiêu lồng đèn còn sáng?",
+        "image_url": null,
+        "solution": "a) Các lồng đèn có số chia hết cho 3 sẽ bắt đầu từ lồng đèn đánh số 3 đến lồng đèn đánh số 99. Mỗi số trên lồng đèn chia hết cho 3 cách nhau 3 đơn vị. Số lồng đèn đã tắt là: \\((99 - 3) \\div 3 + 1 = 33\\) (chiếc lồng đèn) b) Các lồng đèn có số chia hết cho 5 sẽ bắt đầu từ lồng đèn đánh số 5 đến lồng đèn đánh số 95. Mỗi số trên lồng đèn chia hết cho 5 cách nhau 5 đơn vị. Số lồng đèn chia hết cho 5 bị tắt là: \\((95 - 5) \\div 5 + 1 = 20\\) (chiếc lồng đèn) Số lồng đèn bị tắt được đánh số vừa chia hết cho 3 vừa chia hết cho 5 bắt đầu từ lồng đèn đánh số 15 đến lồng đèn đánh số 90. Mỗi số trên lồng đèn chia hết cho 3 và 5 cách nhau 15 đơn vị. Số lồng đèn được đánh số chia hết cho 3 và cho 5 đã tắt là: \\((90 - 15) \\div 15 + 1 = 6\\) (chiếc lồng đèn) Tổng số lồng đèn bị tắt là: \\(33 + 20 - 6 = 47\\) (chiếc lồng đèn) Số lồng đèn còn lại là: \\(100 - 47 = 53\\) (chiếc lồng đèn)",
+        "result": "a) 33 chiếc lồng đèn b) 53 chiếc lồng đèn",
+        "error": false
+    },
+    {
+        "question": "Bài 2. (3 điểm) Mùa giải Bundesliga (giải vô địch bóng đá Đức) năm 2024, đội Bayer Leverkusen lên ngôi vô địch với thành tích không thua trận nào sau 34 trận đấu, giành được 90 điểm. Hỏi trong 34 trận trên, đội này có bao nhiêu trận thắng? Biết rằng mỗi trận thắng được 3 điểm, hòa được 1 điểm và thua thì không có điểm.",
+        "image_url": null,
+        "solution": "Nếu đội giành được 34 trận đấu thắng thì số điểm đội có là: \\(3 \\times 34 = 102\\) (điểm) Số điểm nếu đội giành được 34 trận đấu thắng nhiều hơn số điểm thực tế là: \\(102 - 90 = 12\\) (điểm) Số điểm của trận thắng nhiều hơn số điểm của trận hòa là: \\(3 - 1 = 2\\) (điểm) Số trận hòa của đội là: \\(12 \\div 2 = 6\\) (trận) Số trận thắng của đội là: \\(34 - 6 = 28\\) (trận)",
+        "result": "28 trận",
+        "error": false
+    },
+    {
+        "question": "Bài 3. (6 điểm) Để chuẩn bị sân khấu cho buổi lễ tổng kết năm học, nhà trường cần sơn các mặt của bậc tam cấp gỗ. Mỗi bậc tam cấp đều có chiều rộng 3 dm, chiều dài 12 dm và chiều cao 2 dm (xem hình vẽ). Tính tổng diện tích các mặt cần sơn của bậc tam cấp trên. Biết rằng không sơn mặt đáy và mặt sau của bậc tam cấp.",
+        "image_url": "https://img.loigiaihay.com/picture/2024/0706/31.png",
+        "solution": "Tổng diện tích các mặt trước là: \\(2 \\times 12 \\times 3 + 3 \\times 12 \\times 3 = 180\\) (dm^2) Tổng diện tích các mặt bên là: \\((2 \\times 9 + 2 \\times 6 + 2 \\times 3) \\times 2 = 72\\) (dm^2) Tổng diện tích các mặt cần sơn là: \\(180 + 72 = 252\\) (dm^2)",
+        "result": "252 (dm^2)",
+        "error": false
+    }
+]

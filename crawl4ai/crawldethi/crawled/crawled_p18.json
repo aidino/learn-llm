@@ -1,0 +1,331 @@
+[
+    {
+        "question": "Câu 16: Bác An nuôi 40 con vừa gà vừa vịt. Biết 50% số gà bằng 13. Tính số gà và số vịt.",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{1}{2} \\) số gà bằng 13. Suy ra số gà bằng \\( 2 \\times 13 = 26 \\). Số vịt là \\( 40 - 26 = 14 \\).",
+        "result": "Số gà: 26 con, Số vịt: 14 con",
+        "error": false
+    },
+    {
+        "question": "Câu 17: Tìm \\( x \\) biết: \\( x + 12 + 16 + 112 + 120 + 130 = 4742 \\).",
+        "image_url": null,
+        "solution": "Ta có \\( x + 12 + 16 + 112 + 120 + 130 = 4742 \\). Tính tổng các số: \\( 12 + 16 + 112 + 120 + 130 = 390 \\). Suy ra \\( x + 390 = 4742 \\). Do đó, \\( x = 4742 - 390 = 4352 \\).",
+        "result": "4352",
+        "error": false
+    },
+    {
+        "question": "Câu 18: Quyển sách giáo khoa Toán 5 có 184 trang. Hỏi có bao nhiêu trang sách được đánh số bởi ba chữ số khác nhau?",
+        "image_url": null,
+        "solution": "Số trang sách được đánh số bằng 3 chữ số là từ 100 đến 184, tức là có \\( 184 - 100 + 1 = 85 \\) trang. Số đầu tiên đánh dấu trang chỉ có thể là 1 nên có 1 trường hợp cho chữ số hàng trăm. Số hàng chục có 2 trường hợp: TH1: chữ số hàng chục là 0, 2, 3, 4, 5, 6, 7 (7 số) ⇒ TH2: chữ số hàng chục là 8. Vậy số các số có ba chữ số khác nhau để đánh cuốn sách 184 trang là \\( 1 \\times 7 \\times 8 + 1 \\times 1 \\times 4 = 60 \\) số.",
+        "result": "60 số",
+        "error": false
+    },
+    {
+        "question": "Câu 19: Một tấm bìa hình chữ nhật có chiều dài bằng 24cm, chiều rộng bằng 18cm, người ta cắt đi bốn hình vuông có cạnh 4cm ở bốn góc rồi gấp thành một hình hộp chữ nhật không có nắp. Tính thể tích của hình hộp chữ nhật đó.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20_8.png",
+        "solution": "Chiều dài hình hộp chữ nhật là \\( 24 - 4 - 4 = 16 \\) cm. Chiều rộng hình chữ nhật là \\( 18 - 4 - 4 = 10 \\) cm. Chiều cao hình hộp chữ nhật là 4 cm. Thể tích của hình hộp chữ nhật là \\( 16 \\times 10 \\times 4 = 640 \\) cm³.",
+        "result": "640 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 20: Cho hình vẽ bên, biết \\( BM = MC \\), \\( AN = 15 \\). Tính \\( SPNA \\).",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20_9.png",
+        "solution": "Nối \\( B \\) với \\( N \\), \\( P \\) với \\( C \\). Ta có \\( S_{PBM} = S_{PCM} \\) (Hai tam giác có chung đường cao hạ từ \\( P \\) và \\( MB = MC \\)). \\( S_{NBM} = S_{NCM} \\) (Hai tam giác có chung đường cao hạ từ \\( N \\) và \\( MB = MC \\)). Suy ra \\( S_{PNB} = S_{PNC} \\). Ta có \\( S_{PNA} = \\frac{1}{4} S_{PNC} \\) (Hai tam giác chung đường cao hạ từ \\( P \\) và \\( NA = \\frac{1}{4} NC \\)). Suy ra \\( S_{PNA} = \\frac{1}{4} S_{PNB} = \\frac{1}{3} S_{BNA} \\). Có \\( S_{BNA} = \\frac{1}{5} S_{BAC} \\) (Chung đường cao hạ từ \\( B \\) và \\( AN = 15 \\)). Vậy \\( S_{PNA} = \\frac{1}{15} S_{BAC} \\).",
+        "result": "\\( S_{PNA} = \\frac{1}{15} S_{BAC} \\)",
+        "error": false
+    },
+    {
+        "question": "Câu 1: Tìm \\( x \\) trong phương trình \\( 34 \\times x - 32 = 92 \\)",
+        "image_url": null,
+        "solution": "34 \\times x - 32 = 92 \\\\ 34 \\times x = 92 + 32 \\\\ 34 \\times x = 124 \\\\ x = \\frac{124}{34} \\\\ x = 8",
+        "result": "x = 8",
+        "error": false
+    },
+    {
+        "question": "Câu 2: Một hình hộp chữ nhật khi tăng chiều rộng lên ba lần, chiều dài giảm đi hai lần thì chiều cao phải tăng hay giảm bao nhiêu lần để thể tích của nó không đổi?",
+        "image_url": null,
+        "solution": "Thể tích = Chiều dài \\times Chiều rộng \\times Chiều cao \\\\ Theo bài ra: Thể tích = \\frac{1}{2} \\\\ Thể tích = \\frac{3}{2} \\\\ Để thể tích không đổi thì chiều cao mới bằng \\frac{2}{3} \\\\ Hay chiều cao ban đầu bằng \\frac{3}{2} = 1.5 \\\\ Vậy chiều cao phải giảm đi 1.5 lần thì thể tích hình hộp chữ nhật giữ nguyên.",
+        "result": "1.5 lần",
+        "error": false
+    },
+    {
+        "question": "Câu 3: Năm nay tuổi bố gấp 10 lần tuổi con, 6 năm sau tuổi bố gấp 4 lần tuổi con. Hỏi hiện nay mỗi bố con bao nhiêu tuổi?",
+        "image_url": null,
+        "solution": "Năm nay, tuổi con bằng \\frac{1}{10} \\\\ 6 năm sau, tuổi con bằng \\frac{1}{4} \\\\ Ta có: \\frac{1}{4} - \\frac{1}{10} = \\frac{3}{20} \\\\ Suy ra hiệu số tuổi là \\frac{6}{\\frac{3}{20}} = 40 \\\\ Gọi tuổi bố là 10 phần, tuổi con là 1 phần \\\\ Tuổi con hiện nay là \\frac{40}{10 - 1} = 4 \\\\ Tuổi bố hiện nay là 4 \\times 10 = 40",
+        "result": "Con: 4 tuổi, Bố: 40 tuổi",
+        "error": false
+    },
+    {
+        "question": "Câu 4: Tính \\( 3.48 : 0.58 \\times 4.5 - 13.6 \\)",
+        "image_url": null,
+        "solution": "3.48 : 0.58 \\times 4.5 - 13.6 = 6 \\times 4.5 - 13.6 = 27 - 13.6 = 13.4",
+        "result": "13.4",
+        "error": false
+    },
+    {
+        "question": "Câu 5: Tìm hai số biết trung bình cộng của chúng là 20 và hiệu của chúng là 10.",
+        "image_url": null,
+        "solution": "Tổng của hai số là 20 \\times 2 = 40 \\\\ Số lớn là \\frac{40 + 10}{2} = 25 \\\\ Số bé là 40 - 25 = 15",
+        "result": "Số lớn: 25, Số bé: 15",
+        "error": false
+    },
+    {
+        "question": "Câu 6: Một hình chữ nhật có chiều rộng 15.21m, chiều dài hơn chiều rộng 3.24m. Tính chu vi hình chữ nhật đó.",
+        "image_url": null,
+        "solution": "Chiều dài là 15.21 + 3.24 = 18.45 \\\\ Chu vi hình chữ nhật là (18.45 + 15.21) \\times 2 = 67.32",
+        "result": "67.32",
+        "error": false
+    },
+    {
+        "question": "Câu 7: Biết \\( 34 \\times 34 \\)",
+        "image_url": null,
+        "solution": "Số học sinh của lớp là \\frac{27}{34} = 36",
+        "result": "36 bạn",
+        "error": false
+    },
+    {
+        "question": "Câu 8: Nếu mua 20 chiếc khẩu trang hết 160 nghìn. Hỏi để mua 50 chiếc khẩu trang cùng loại thì cần bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Số tiền mua 1 chiếc khẩu trang là \\frac{160}{20} = 8 \\\\ Số tiền để mua 50 chiếc khẩu trang là 8 \\times 50 = 400",
+        "result": "400 nghìn",
+        "error": false
+    },
+    {
+        "question": "Câu 9: Tìm phân số lớn hơn trong hai phân số sau đây: \\( A = \\frac{119}{117} \\) và \\( B = \\frac{201}{202} \\)",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{119}{117} > 1 \\) và \\( \\frac{201}{202} < 1 \\) \\\\ Vậy \\( A > B \\)",
+        "result": "A > B",
+        "error": false
+    },
+    {
+        "question": "Câu 10: Một đội công nhân có 15 người, dự định mỗi ngày làm 8 giờ thì sau 12 ngày sẽ xong công việc. Nhưng thực tế, đội được bổ sung thêm 1 người và mỗi ngày cả đội cùng làm thêm 2 giờ. Hỏi sau mấy ngày thì đội làm xong công việc?",
+        "image_url": null,
+        "solution": "15 người ---- 12 ngày ---- 8 giờ \\\\ 16 người ---- ? ngày ---- 10 giờ \\\\ 16 người cùng làm, mỗi ngày làm 8 giờ thì sẽ hoàn thành trong số ngày là \\frac{15 \\times 12}{16} = 11.25 \\\\ 16 người cùng làm, mỗi ngày làm 10 giờ thì sẽ hoàn thành trong số ngày là \\frac{8 \\times 11.25}{10} = 9",
+        "result": "9 ngày",
+        "error": false
+    },
+    {
+        "question": "Câu 11: Một người đi xe đạp từ B đi về phía C với vận tốc 15 km/h, cùng lúc đó, một người đi xe máy từ A cách B 66 km với vận tốc 45 km/h và đuổi theo xe đạp. Hỏi kể từ lúc bắt đầu đi, sau bao lâu thì xe máy đuổi kịp xe đạp?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0410/20_1.PNG",
+        "solution": "Hiệu vận tốc giữa hai xe là 45 - 15 = 30 \\\\ Thời gian xe máy đuổi kịp xe đạp là \\frac{66}{30} = 2.2",
+        "result": "2.2 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 12: Trong dịp tết vừa qua, Chi đã được mừng tuổi một số tiền. Bạn đã mua đồ chơi hết \\( \\frac{1}{3} \\) số tiền đó. Sau khi mua đồ chơi, số phần tiền còn lại của Chi là \\( 1 - \\frac{1}{3} = \\frac{2}{3} \\). Số tiền Chi ủng hộ cho quỹ từ thiện của trường là \\( \\frac{2}{3} \\times \\frac{1}{3} = \\frac{2}{9} \\). Số tiền Chi còn lại sau khi ủng hộ quỹ nhà trường là \\( \\frac{2}{3} - \\frac{2}{9} = \\frac{4}{9} \\). Số tiền Chi được mừng tuổi là \\( \\frac{400}{\\frac{4}{9}} = 900 \\).",
+        "image_url": null,
+        "solution": "Sau khi mua đồ chơi, số phần tiền còn lại của Chi là \\( 1 - \\frac{1}{3} = \\frac{2}{3} \\) \\\\ Số tiền Chi ủng hộ cho quỹ từ thiện của trường là \\( \\frac{2}{3} \\times \\frac{1}{3} = \\frac{2}{9} \\) \\\\ Số tiền Chi còn lại sau khi ủng hộ quỹ nhà trường là \\( \\frac{2}{3} - \\frac{2}{9} = \\frac{4}{9} \\) \\\\ Số tiền Chi được mừng tuổi là \\( \\frac{400}{\\frac{4}{9}} = 900 \\)",
+        "result": "900 nghìn",
+        "error": false
+    },
+    {
+        "question": "Câu 13: Tính tổng tất cả các số tự nhiên nhỏ hơn 300 mà chia hết cho 3.",
+        "image_url": null,
+        "solution": "Tổng cần tính là: 3 + 6 + 9 + \\ldots + 297 \\\\ Tổng trên có số số hạng là \\( \\frac{297 - 3}{3} + 1 = 99 \\) \\\\ Tổng tất cả các số tự nhiên nhỏ hơn 300 mà chia hết cho 3 là \\( \\frac{(297 + 3) \\times 99}{2} = 14850 \\)",
+        "result": "14850",
+        "error": false
+    },
+    {
+        "question": "Câu 14: Tìm các chữ số \\( x, y \\) để số \\( \\overline{27xy} \\) chia hết cho 3, 4, 5.",
+        "image_url": null,
+        "solution": "Để số \\( \\overline{27xy} \\) chia hết cho 4 thì \\( y = 0 \\) \\\\ Để \\( \\overline{27x0} \\) chia hết cho 3, 4, 5 \\\\ Xét \\( x = 0 \\) thì 2700 chia hết cho 3, 4, 5 (thỏa mãn) \\\\ Xét \\( x = 4 \\) thì 2740 không chia hết cho 3 (loại) \\\\ Xét \\( x = 6 \\) thì 2760 chia hết cho 3, 4, 5 (thỏa mãn) \\\\ Xét \\( x = 8 \\) thì 2780 không chia hết cho 3 (loại)",
+        "result": "x = 0 và y = 0 hoặc x = 6 và y = 0",
+        "error": false
+    },
+    {
+        "question": "Câu 15: Cho hình vẽ bên, biết \\( AB = 0.6 \\text{dm}; BC = 4 \\text{cm} \\). Tính diện tích phần tô đậm.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20_6.png",
+        "solution": "Đổi 0.6 dm = 6 cm \\\\ Bán kính hình tròn đường kính AB = 6 dm là \\frac{6}{2} = 3 \\text{cm} \\\\ Diện tích nửa hình tròn",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Viết liên tiếp 10 số lẻ đầu tiên ta được 1 số tự nhiên, sau đó lại xóa đi 10 chữ số bất kì của số vừa nhận được mà không thay đổi thứ tự các chữ số thì ta được số lớn nhất là bao nhiêu?",
+        "image_url": null,
+        "solution": "Viết liên tiếp 10 số tự nhiên lẻ đầu tiên: 135791113151719. Xóa đi 1357 để chữ số 9 ở hàng cao nhất. Xóa đi 11131 để chữ số 5 ở hàng tiếp theo. Xóa đi chữ số 1 để còn chữ số 7 ở hàng tiếp theo. Suy ra, còn 95719.",
+        "result": "95719",
+        "error": false
+    },
+    {
+        "question": "Trên một khối gỗ hình lập phương cạnh 20 cm, người ta đục một lỗ hình vuông cạnh 3cm ở chính giữa, xuyên qua khối gỗ. Tính thể tích phần còn lại của khối gỗ?",
+        "image_url": null,
+        "solution": "Thể tích khối gỗ lúc đầu $20 \\times 20 \\times 20 = 8000 \\text{ cm}^3$. Thể tích khối gỗ bị đục là $3 \\times 3 \\times 20 = 180 \\text{ cm}^3$. Thể tích khối gỗ còn lại là $8000 – 180 = 7820 \\text{ cm}^3$.",
+        "result": "7820 cm3",
+        "error": false
+    },
+    {
+        "question": "Trong một tháng có 3 ngày chủ nhật trùng vào ngày chẵn. Hỏi ngày 25 tháng đó là ngày thứ mấy trong tuần?",
+        "image_url": null,
+        "solution": "Các ngày chủ nhật có thể theo các cách: 1, 8, 15, 22, 29; 2, 9, 16, 23, 30; 3, 10, 17, 24, 31. Khi có 3 ngày chủ nhật là ngày chẵn nên khả năng xảy ra là: 2, 9, 16, 23, 30. Ba ngày chủ nhật chẵn là: 2, 16, 30. Vậy ngày 25 là thứ Ba.",
+        "result": "Thứ Ba",
+        "error": false
+    },
+    {
+        "question": "Giá vé xem phim là 40 nghìn đồng một vé. Sau khi giảm giá vé, số khán giả tăng thêm 20% nên doanh thu tăng 8%. Hỏi giá vé sau khi giảm là bao nhiêu?",
+        "image_url": null,
+        "solution": "Giá vé x Số lượng khán giả ban đầu = Doanh thu. Giá vé mới x Số lượng khán giả mới = Doanh thu mới. Giá vé mới x 120% Số lượng khán giả ban đầu = 108% doanh thu ban đầu. Giá vé mới sau khi giảm: $90\\% \\times 40000 = 36000 \\text{ đồng}$.",
+        "result": "36 000 đồng",
+        "error": false
+    },
+    {
+        "question": "Tìm x biết: $x + 3.5 = 6.72 + 3.28$",
+        "image_url": null,
+        "solution": "$x + 3.5 = 6.72 + 3.28$. $x + 3.5 = 10$. $x = 10 – 3.5$. $x = 6.5$.",
+        "result": "6.5",
+        "error": false
+    },
+    {
+        "question": "Hàng ngày, Chi đạp xe đi học với vận tốc 12km/h. Nhà Chi cách trường 3km mà bạn phải đến trường lúc 7 giờ 20 phút. Hỏi muộn nhất là mấy giờ Chi phải ra khỏi nhà?",
+        "image_url": null,
+        "solution": "Thời gian đi là: $\\frac{3}{12} = \\frac{1}{4}$ giờ. Thời gian muộn nhất Chi phải ra khỏi nhà là: 7 giờ 20 phút – 15 phút = 7 giờ 5 phút.",
+        "result": "7 giờ 5 phút",
+        "error": false
+    },
+    {
+        "question": "Tìm số tự nhiên x biết $25 < x^8 < 35$",
+        "image_url": null,
+        "solution": "$16 < 5 \\times x = 20$. $x = 4$.",
+        "result": "x = 4",
+        "error": false
+    },
+    {
+        "question": "Một mảnh vườn hình chữ nhật có chiều dài gấp đôi chiều rộng và diện tích là 200m2. Tính chu vi mảnh vườn đó?",
+        "image_url": null,
+        "solution": "Gọi chiều rộng mảnh vườn là $a$ (m), chiều dài mảnh vườn là $2 \\times a$ (m). Diện tích mảnh vườn $a \\times a \\times 2 = 200$. $a \\times a = 100$. Chu vi mảnh vườn là $(10 + 20) \\times 2 = 60$ (m).",
+        "result": "60 m",
+        "error": false
+    },
+    {
+        "question": "Người ta may 25 bộ quần áo giống nhau hết 70m vải. Hỏi để may được 8 bộ quần áo như thế hết bao nhiêu mét vải?",
+        "image_url": null,
+        "solution": "Để may được 8 bộ quần áo như thế hết số mét vải là: $8 \\times \\frac{70}{25} = 22.4$ (m).",
+        "result": "22.4 m",
+        "error": false
+    },
+    {
+        "question": "Cho hình vẽ bên, biết $AE = EF = FB$, $DH = HG = GC$ và diện tích tứ giác $ABCD$ bằng $15\\text{cm}^2$. Tính diện tích tứ giác $GHEF$?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/2_1.jpg",
+        "solution": "Ba hình thang $AEHD$, $EFGH$, $FBCG$ là ba hình thang có các đáy bằng nhau, chiều cao bằng nhau. Suy ra diện tích $GHEF = 5 \\text{ cm}^2$.",
+        "result": "5cm2",
+        "error": false
+    },
+    {
+        "question": "Kết quả của phép tính: $37 \\times \\frac{5}{13} + 37 \\times \\frac{8}{13} + 547$",
+        "image_url": null,
+        "solution": "$37 \\times \\frac{5}{13} + 37 \\times \\frac{8}{13} + 547 = 37 \\times (\\frac{5}{13} + \\frac{8}{13}) + 397 = 37 \\times 1 + 397 = 427 = 6$.",
+        "result": "6",
+        "error": false
+    },
+    {
+        "question": "Năm nay bố 42 tuổi, chị 12 tuổi, em 7 tuổi. Đến năm nào thì tuổi bố bằng tổng số tuổi hai chị em?",
+        "image_url": null,
+        "solution": "Hiện nay tổng tuổi 2 chị em là 19. Sau $42 – 19 = 23$ năm nữa thì tổng tuổi 2 chị em bằng tuổi bố.",
+        "result": "23 năm nữa",
+        "error": false
+    },
+    {
+        "question": "Tính diện tích phần đánh dấu chấm trên hình vẽ bên biết bán kính mỗi đường tròn là 4cm?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0802/20_14.png",
+        "solution": "Cạnh hình vuông: 8 cm. Diện tích hình vuông là $8 \\times 8 = 64 \\text{ cm}^2$. Diện tích hình tròn là $3.14 \\times 4 \\times 4 = 13.76 \\text{ cm}^2$.",
+        "result": "13.76 cm2",
+        "error": false
+    },
+    {
+        "question": "Cho dãy số sau: 1; 1; 2; 3; 5; 8…. Hỏi số thứ 12 của dãy đó là số nào?",
+        "image_url": null,
+        "solution": "Quy luật: $1 + 1 = 2$, $1 + 2 = 3$, $2 + 3 = 5$, $3 + 5 = 8$ ……. Ta có dãy số: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144.",
+        "result": "144",
+        "error": false
+    },
+    {
+        "question": "Câu 1. 126 x 9,8 + 126 x 0,7 – 126 x 0,5",
+        "image_url": null,
+        "solution": "126 \\times 9.8 + 126 \\times 0.7 - 126 \\times 0.5 = 126 \\times (9.8 + 0.7 - 0.5) = 126 \\times 10 = 1260",
+        "result": "1260",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Diện tích toàn phần hình lập phương hơn diện tích xung quanh là 18 cm². Tính thể tích hình lập phương?",
+        "image_url": null,
+        "solution": "Gọi độ dài cạnh của hình lập phương là \\( a \\). Ta có \\( a \\times a \\times 6 - a \\times a \\times 4 = 18 \\). Vậy độ dài cạnh hình vuông là 3 cm. Thể tích hình lập phương là \\( 3 \\times 3 \\times 3 = 27 \\text{ cm}^3 \\).",
+        "result": "27 cm³",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Tìm số tự nhiên có hai chữ số, biết rằng viết thêm số 2 vào bên phải số đó ta được số mới hơn số cũ 335 đơn vị.",
+        "image_url": null,
+        "solution": "Gọi số cần tìm là \\( \\overline{ab} \\). Ta có \\( \\overline{ab2} = \\overline{ab} + 335 \\). \\( \\overline{ab} \\times 10 + 2 = \\overline{ab} + 335 \\). \\( \\overline{ab} \\times 9 = 333 \\). \\( \\overline{ab} = 333 : 9 \\). \\( \\overline{ab} = 37 \\).",
+        "result": "37",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Phân số nào bé nhất \\( \\frac{56}{56}, \\frac{20}{21}, \\frac{20}{22}, \\frac{20}{20}, \\frac{21}{20}, \\frac{21}{34}, \\frac{32}{32} \\)?",
+        "image_url": null,
+        "solution": "Ta có \\( \\frac{56}{56} < 1 \\), \\( \\frac{20}{21} < 1 \\), \\( \\frac{20}{22} < 1 \\), \\( \\frac{20}{20} = 1 \\), \\( \\frac{21}{20} > 1 \\), \\( \\frac{21}{34} < 1 \\), \\( \\frac{32}{32} = 1 \\). Để tìm phân số bé nhất, ta chỉ việc so sánh các phân số < 1. Lại có: \\( 1 - \\frac{56}{56} = 0 \\), \\( 1 - \\frac{20}{21} = \\frac{1}{21} \\), \\( 1 - \\frac{20}{22} = \\frac{1}{11} \\), \\( 1 - \\frac{21}{34} = \\frac{13}{34} \\). Vì \\( \\frac{1}{21} > \\frac{1}{11} > \\frac{13}{34} \\), nên phân số bé nhất là \\( \\frac{21}{34} \\).",
+        "result": "\\( \\frac{21}{34} \\)",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Tìm \\( x \\) sao cho \\( \\frac{60}{x} - 13 = 42 \\).",
+        "image_url": null,
+        "solution": "\\( \\frac{60}{x} - 13 = 42 \\). \\( \\frac{60}{x} = 42 + 13 \\). \\( \\frac{60}{x} = 55 \\). \\( x = \\frac{60}{5} \\). \\( x = 12 \\).",
+        "result": "x = 12",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Lớp 5A có 50 học sinh, 25% thích bóng đá, 16% thích bóng rổ, 24% thích bơi lội. Tính số học sinh thích cầu lông.",
+        "image_url": null,
+        "solution": "Ta có \\( 25\\% = 0.4 = 40\\% \\). Số học sinh thích cầu lông chiếm số phần trăm là: \\( 100\\% - (40\\% + 16\\% + 24\\%) = 20\\% \\) (số học sinh cả lớp). Số học sinh thích cầu lông là: \\( 50 \\times 20\\% = 10 \\) (học sinh).",
+        "result": "10 học sinh",
+        "error": false
+    },
+    {
+        "question": "Câu 7. Có hai bạn Nam và Tùng hẹn nhau đến một nơi lúc 9 giờ 10 phút. Nam đến điểm hẹn lúc 8 giờ 50 phút. Tùng đến muộn 18 phút. Hỏi Nam phải chờ bao lâu?",
+        "image_url": null,
+        "solution": "Nam đến sớm hơn thời gian hẹn là: \\( 9 \\text{ giờ } 10 \\text{ phút} - 8 \\text{ giờ } 50 \\text{ phút} = 20 \\text{ phút} \\). Nam phải chờ Tùng số phút là: \\( 20 \\text{ phút} + 18 \\text{ phút} = 38 \\text{ phút} \\).",
+        "result": "38 phút",
+        "error": false
+    },
+    {
+        "question": "Câu 8. Trung bình cộng hai số là 85. Hiệu hai số là 20. Tìm số lớn.",
+        "image_url": null,
+        "solution": "Tổng hai số là \\( 85 \\times 2 = 170 \\). Số lớn là \\( \\frac{170 + 20}{2} = 95 \\).",
+        "result": "95",
+        "error": false
+    },
+    {
+        "question": "Câu 9. Hiện nay anh 11 tuổi và em 5 tuổi. Hỏi sau bao nhiêu năm nữa thì tổng số tuổi hai anh em là 28 tuổi?",
+        "image_url": null,
+        "solution": "Tổng số tuổi của hai em hiện nay là: \\( 11 + 5 = 16 \\text{ tuổi} \\). Số năm để tổng số tuổi hai anh em là 28 tuổi là: \\( \\frac{28 - 16}{2} = 6 \\text{ năm} \\).",
+        "result": "6 năm",
+        "error": false
+    },
+    {
+        "question": "Câu 10. Có một dãy nhà người ta đánh số lẻ từ 1 đến 29. Mỗi lần đánh 1 chữ số hết 30,000 đ. Nếu đánh số hết cả dãy nhà đó thì mất bao nhiêu tiền?",
+        "image_url": null,
+        "solution": "Từ nhà số 1 đến nhà số 9 có 5 nhà. Từ số nhà 11 đến số nhà 29 có: \\( \\frac{29 - 11}{2} + 1 = 10 \\text{ nhà} \\). Suy ra từ nhà số 1 đến nhà số 29 có số chữ số là: \\( 5 + 10 \\times 2 = 25 \\text{ lượt chữ số} \\). Số tiền phải trả là: \\( 30,000 \\times 25 = 750,000 \\text{ đồng} \\).",
+        "result": "750,000 đồng",
+        "error": false
+    },
+    {
+        "question": "Câu 11. Có bao nhiêu cách để một con kiến đi từ điểm M đến điểm N theo chiều mũi tên như trên hình.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0628/19_1.png",
+        "solution": "Các cách con kiến đi từ M đến N: Cách 1: MBN, Cách 2: MBCN, Cách 3: MBACN, Cách 4: MBAPCN, Cách 5: MACN, Cách 6: MAPCN.",
+        "result": "6 cách",
+        "error": false
+    },
+    {
+        "question": "Câu 1. Có hai xe đi cùng chiều với nhau về phía C. Quãng đường AB dài 60 km (B nằm giữa AC). Hai người gặp nhau sau 6 giờ. A, Tính vận tốc mỗi xe ô tô. Biết vận tốc xe thứ hai bằng 56 km/h. B, Đi đến C, xe thứ hai quay lại A với vận tốc bằng vận tốc ban đầu. Sau 2 giờ tính từ lúc quay xe có một chiếc xe đạp đi với vận tốc 15 km/giờ từ A về C. Hỏi sau bao lâu hai xe gặp nhau?",
+        "image_url": null,
+        "solution": "a, Hiệu vận tốc hai xe ô tô là: \\( 60 : 6 = 10 \\text{ km/giờ} \\). Vận tốc xe ô tô thứ nhất là: \\( \\frac{10}{6 - 5} \\times 6 = 60 \\text{ km/giờ} \\). Vận tốc xe ô tô thứ hai là: \\( 60 - 10 = 50 \\text{ km/giờ} \\). b, Độ dài quãng đường AC là: \\( 60 \\times 6 = 360 \\text{ km} \\). Sau 2 giờ, tính từ lúc quay xe thì xe ô tô thứ 2 đã đi được: \\( 50 \\times 2 = 100 \\text{ km} \\). Khi đó, khoảng cách giữa ô tô thứ hai và xe đạp là: \\( 360 - 100 = 260 \\text{ km} \\). Thời gian xe ô tô thứ hai gặp xe đạp là: \\( \\frac{260}{50 + 15} = 4 \\text{ giờ} \\).",
+        "result": "a) 60 km/giờ; 50 km/giờ b) 4 giờ",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Cho hình chữ nhật ABCD, biết BM = MC, S_{ABCD} = 60 cm², S_{MNC} = 10 cm². a) Tính diện tích tam giác DMC. b) Tính tỉ số \\frac{MN}{DN}. c) Tính tỉ số \\frac{S_{ND}}{S_{NPC}}.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0628/20_1.png",
+        "solution": "a) \\( S_{DMC} = \\frac{MC \\times CD}{2} = \\frac{1}{2} \\times BC \\times CD \\times \\frac{1}{2} = \\frac{1}{4} \\times S_{ABCD} = \\frac{1}{4} \\times 60 = 15 \\text{ cm}^2 \\). b) \\( S_{DNC} = S_{DMC} - S_{MNC} = 15 - 10 = 5 \\text{ cm}^2 \\). \\( \\frac{S_{MNC}}{S_{DNC}} = \\frac{10}{5} = 2 \\). Ta thấy hai tam giác NMC và DNC có chung chiều cao hạ từ đỉnh C \\Rightarrow \\frac{MN}{DN} = 2 \\). c) \\( S_{DBM} = S_{DMC} \\) (Chung đường cao hạ từ D và đáy BM = MC). Mà \\( S_{NMB} = S_{MNC} \\) (Chung đường cao hạ từ N).",
+        "result": null,
+        "error": false
+    }
+]

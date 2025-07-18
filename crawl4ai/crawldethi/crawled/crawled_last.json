@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Câu 1. Giá trị của chữ số 8 trong số 24,684 là: A. 800 B. 80 C. 81008100 D. 810810",
+        "image_url": null,
+        "solution": "Trong số 24,684, chữ số 8 thuộc hàng phần trăm nên có giá trị là \\(81008100\\)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 2. Tính: 4,8 + 4,8 + 4,8 + 4,8 + 4,8 x 6? A. 192 B. 64 C. 4,8 D. 48",
+        "image_url": null,
+        "solution": "4,8 + 4,8 + 4,8 + 4,8 + 4,8 x 6 = 4,8 x 4 + 4,8 x 6 = 4,8 x 10 = 48",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 3. Số dư trong phép chia 1,385 : 15 (lấy 3 chữ số phần thập phân) A. 0,001 B. 1 C. 0,005 D. 5",
+        "image_url": null,
+        "solution": "Ta có: \\(1,385 : 15 = 0,092\\) (dư \\(0,005\\))",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Câu 4. Bốn người làm trong 8 ngày được 800 sản phẩm. Hỏi 12 người làm trong 16 ngày được bao nhiều sản phẩm? A. 1600 sản phẩm B. 1200 sản phẩm C. 800 sản phẩm D. 4800 sản phẩm",
+        "image_url": null,
+        "solution": "Bốn người làm trong 16 ngày được số sản phẩm là: \\(800 \\times 2 = 1600\\) (sản phẩm) 12 người làm trong 16 ngày được số sản phẩm là: \\(1600 \\times (12 : 4) = 4800\\) (sản phẩm)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Câu 5. Một người bắt đầu đi từ A đến B lúc 7 giờ 20 phút. Người đó mất 2 giờ để đi đến B. Hỏi người đó đi đến B lúc mấy giờ? (Biết giữa đường người đó nghỉ 15 phút). A. 9 giờ B. 9 giờ 35 phút C. 9 giờ 37 phút D. 9 giờ 20 phút",
+        "image_url": null,
+        "solution": "Người đó đi đến B lúc: 7 giờ 20 phút + 2 giờ + 15 phút = 9 giờ 35 phút",
+        "result": "B",
+        "error": false
+    },
+    {
+        "question": "Câu 6. Hai số có hiệu là 50. Nếu số lớn gấp lên 5 lần và số bé gấp lên 3 lần thì hiệu của chúng là 300. Tìm hai số đó.",
+        "image_url": null,
+        "solution": "Nếu số lớn và số bé đều gấp lên 3 lần thì hiệu của chúng khi đó là: \\(50 \\times 3 = 150\\) Hai lần số lớn là: \\(300 - 150 = 150\\) Số lớn là: \\(150 : 2 = 75\\) Số bé là: \\(75 - 50 = 25\\) Đáp số: Số lớn: 75; Số bé: 25",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 7. Tìm n biết \\(2^3+2^{15}+2^{35}+2^{63}+....+2^n=100101\\)",
+        "image_url": null,
+        "solution": "Nhận xét: Mẫu số là tích của hai số lẻ liên tiếp nên đặt \\(n = (k - 1) \\times k\\), trong đó \\(k\\) là số lẻ \\(2^1\\times3+2^3\\times5+2^5\\times7+2^7\\times9+....+2^{(k−1)}\\times k=100101\\) \\(1−1/3+1/3−1/5+1/5−1/7+1/7−1/9+....+1/(k−1)−1/k=100101\\) \\(1−1/k=100101\\) \\(1/k=1−100101=1/101\\) \\(k=101\\) Vậy \\(n = 101 \\times (101 - 2) = 9999\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 8. Cạnh của hình vuông ABCD là 10cm. Tính diện tích phần tô màu?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0627/20_1.jpg",
+        "solution": "Diện tích phần tô màu bằng 2 lần diện tích hình tròn đường kính 10cm trừ đi diện tích hình vuông ABCD. Vậy diện tích phần tô màu là: \\(2 \\times 3,14 \\times (10 : 2) \\times (10 : 2) - 10 \\times 10 = 57\\) (cm\\(^2\\)) Đáp số: 57 cm\\(^2\\)",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 9. Bạn Hằng đọc một quyển sách trong 4 ngày. Ngày thứ nhất đọc 141414141414",
+        "image_url": null,
+        "solution": "Quyển sách có số trang là: \\(55 : 14=14=\\) Đáp số: 220 trang",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Câu 10. Một người đi xe máy từ địa điểm A đến địa điểm B. Nếu người đó đi với vận tốc 25km/giờ thì ô tô đến B chậm mất 2 giờ. Nếu người đó đi với vận tốc 30km/giờ thì sẽ đến B chậm mất 1 giờ. Hỏi quãng đường AB dài bao nhiêu ki-lô-mét?",
+        "image_url": null,
+        "solution": "Giả sử người đó đi với vận tốc \\(v_1 = 25\\)km/giờ và thời gian đi quãng đường AB tương ứng là \\(t_1\\); người đó đi với vận tốc \\(v_2 = 30\\)km/giờ và thời gian đi quãng đường AB tương ứng là \\(t_2\\). Do đi với vận tốc \\(v_1\\) thì người đó đến B chậm mất 2 giờ còn đi với vận tốc \\(v_2\\) thì người đó đến B chậm mất 1 giờ nên ta có: \\(t_1- t_2 =1\\) Ta có tỉ số vận tốc đi và về là \\(\\frac{25}{30}=\\frac{5}{6}\\) Do trên quãng đường AB, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch Suy ra tỉ số thời gian đi và thời gian về là \\(\\frac{6}{5}\\) Thời gian đi hết quãng đường AB với vận tốc 25km/giờ là: \\(1 : (6 - 5) \\times 6 = 6\\) (giờ) Độ dài quãng đường AB là: \\(25 \\times 6 = 150\\) (km) Đáp số: 150 km",
+        "result": null,
+        "error": false
+    }
+]
