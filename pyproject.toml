@@ -21,4 +21,5 @@ dependencies = [
     "torch>=2.7.1",
     "transformers>=4.53.1",
     "unidecode>=1.4.0",
+    "unsloth>=2025.7.5",
 ]
