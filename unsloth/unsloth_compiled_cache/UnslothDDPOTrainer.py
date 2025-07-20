@@ -154,7 +154,7 @@ Parameters:
     )
     def __init__(
         self,
-        exp_name = 'ipykernel_launcher',
+        exp_name = 'quick_test',
         run_name = '',
         seed = 3407,
         log_with = None,

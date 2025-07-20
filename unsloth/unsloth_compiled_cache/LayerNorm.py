@@ -58,4 +58,4 @@ from typing import Any, List, Optional, Tuple, Union, Dict, Set, Callable
 def forward(self, input: Tensor) -> Tensor:
     return F.layer_norm(
         input, self.normalized_shape, self.weight, self.bias, self.eps
-    ).to(input.dtype).to(input.dtype).to(input.dtype)
+    ).to(input.dtype).to(input.dtype)

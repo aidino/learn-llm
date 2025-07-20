@@ -56,4 +56,4 @@ from typing import Any, List, Optional, Tuple, Union, Dict, Set, Callable
 
 
 def forward(self, input: Tensor) -> Tensor:
-    return self._conv_forward(input, self.weight, self.bias).to(input.dtype).to(input.dtype).to(input.dtype)
+    return self._conv_forward(input, self.weight, self.bias).to(input.dtype).to(input.dtype)

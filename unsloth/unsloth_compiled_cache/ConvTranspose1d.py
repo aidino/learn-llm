@@ -83,4 +83,4 @@ def forward(self, input: Tensor, output_size: Optional[list[int]] = None) -> Ten
         output_padding,
         self.groups,
         self.dilation,
-    ).to(input.dtype).to(input.dtype).to(input.dtype)
+    ).to(input.dtype).to(input.dtype)
