@@ -138,7 +138,7 @@ Parameters:
     )
     def __init__(
         self,
-        exp_name = 'quick_test',
+        exp_name = 'simple_evaluation',
         run_name = '',
         seed = 3407,
         log_with = None,

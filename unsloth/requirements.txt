@@ -28,6 +28,9 @@ tqdm>=4.66.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 
+# Evaluation framework
+deepeval>=0.20.0
+
 # Jupyter (optional for development)
 jupyter>=1.0.0
 ipywidgets>=8.0.0 

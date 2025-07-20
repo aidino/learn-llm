@@ -1,0 +1,11 @@
+BÁO CÁO ĐÁNH GIÁ MODEL
+==================================================
+
+1. TỔNG QUAN
+--------------------
+Số lượng metrics đánh giá: 3
+Loại đánh giá: Sample Cases
+
+2. KẾT QUẢ CHI TIẾT
+--------------------
+Metric: Answer Relevancy
