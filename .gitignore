@@ -204,5 +204,5 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
-__marimo__/
-/home/dino/Documents/learn-llm/trl/trained_model
+trl/trained_model
+gemma3n/my_modified_gemma_3n_model
