@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Mỗi bộ 5 số thỏa mãn yêu cầu đề bài có ít nhất 1 số chia hết cho 3.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0620/19_1.png",
+        "solution": "Giả sử cả 5 số đều không chia hết cho 3, khi đó các số này chia 3 dư 1 hoặc chia 3 dư 2. \n\n- Xét số a chia 3 dư 1. Khi đó để tổng hai số liên tiếp (có chứa số a) không chia hết cho 3 thì hai số đứng cạnh a phải chia 3 dư 1. Do đó, ta có 3 số liên tiếp cùng chia 3 dư 1, tức là tổng 3 số này chia hết cho 3 (vô lí). \n\n- Lập luận tương tự với số chia 3 dư 2, ta thấy vô lí. Vậy trong 5 số luôn có ít nhất 1 số phải chia hết cho 3.",
+        "result": null,
+        "error": false
+    },
+    {
+        "question": "Tìm x sao cho 125 < x.2 < 134",
+        "image_url": null,
+        "solution": "Ta có 125 < x.2 < 134 nên 2.4 < x.2 < 3.25. Do đó 2 < x \\leq 3.25. Suy ra x = 3",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "An đi học lúc 6 giờ 45 phút, xe bus di chuyển hết 10 phút, thời gian chờ xe bus là 0,5 giờ. Hỏi An đến trường lúc mấy giờ?",
+        "image_url": null,
+        "solution": "Đổi 0,5 giờ = 30 phút. An đến trường lúc: 6 giờ 45 phút + 10 phút + 30 phút = 7 giờ 25 phút",
+        "result": "A",
+        "error": false
+    },
+    {
+        "question": "Tổ gồm 10 công nhân hoàn thành xong một công việc trong 30 ngày. Nếu tổ có 20 công nhân thì hoàn thành công việc trong thời gian bao lâu?",
+        "image_url": null,
+        "solution": "1 công nhân hoàn thành công việc trong thời gian là 30 x 10 = 300 (ngày). 20 công nhân hoàn thành công việc trong thời gian là 300 : 20 = 15 (ngày)",
+        "result": "D",
+        "error": false
+    },
+    {
+        "question": "Phòng học có dạng hình hộp chữ nhật chiều dài 7m, chiều rộng 4,5m, chiều cao 3m. Người ta muốn sơn toàn bộ trần nhà và 4 bức tường. Biết tổng diện tích các cửa là 7,5m2, tính diện tích cần sơn.",
+        "image_url": null,
+        "solution": "Diện tích xung quanh của phòng học là (7 + 4.5) x 2 x 3 = 69 (m2). Diện tích trần nhà là: 7 x 4.5 = 31.5 (m2). Diện tích cần sơn là 69 + 31.5 - 7.5 = 93 (m2)",
+        "result": "C",
+        "error": false
+    },
+    {
+        "question": "Cho A = \\overline{52xy}. Biết A chia hết cho 2 và 9; chia 5 dư 4. Tìm A.",
+        "image_url": null,
+        "solution": "Vì A chia hết cho 2 và chia 5 dư 4 nên y = 4. Ta có số A = \\overline{52x4}. Vì A chia hết cho 9 nên 5 + 2 + x + 4 chia hết cho 9. Suy ra x = 7. Vậy A = 5274",
+        "result": "5274",
+        "error": false
+    },
+    {
+        "question": "Tổng số gạo kho I và kho II là 46 tấn. Biết 15 lần số gạo kho I bằng 8 lần số gạo kho II. Hỏi kho II chứa bao nhiêu tấn gạo?",
+        "image_url": null,
+        "solution": "Vì 15 lần số gạo kho I bằng 8 lần số gạo kho II nên số gạo kho I bằng \\frac{8}{15} số gạo kho II. Kho II chứa số tấn gạo là: 46 : (8 + 15) x 15 = 30 (tấn gạo). Đáp số: 30 tấn gạo",
+        "result": "30 tấn gạo",
+        "error": false
+    },
+    {
+        "question": "Tính tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài?",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_15.png",
+        "solution": "Số học sinh thích ăn cam và chuối là: 4 + 3 = 7 (học sinh). Số học sinh thích ăn táo và xoài là: 15 + 10 = 25 (học sinh). Tỉ số phần trăm số học sinh thích ăn cam và chuối so với số học sinh thích ăn táo và xoài là: 7 : 25 = 0.28 = 28%. Đáp số: 28%",
+        "result": "28%",
+        "error": false
+    },
+    {
+        "question": "Cho hình vuông ABCD. Vẽ nửa đường tròn đường kính AB và \\frac{1}{4} đường tròn bán kính AB. Tính diện tích phần tô đậm biết chu vi đường tròn đường kính AB là 37,68 cm.",
+        "image_url": "https://img.loigiaihay.com/picture/2023/0728/20_17.png",
+        "solution": "Độ dài đoạn thẳng AB là 37.68 : 3.14 = 12 (cm). Bán kính đường tròn đường kính AB là 12 : 2 = 6 (cm). Diện tích nửa đường tròn đường kính AB là 6 x 6 x 3.14 : 2 = 56.52 (cm2). Diện tích \\frac{1}{4} đường tròn bán kính AB là 12 x 12 x 3.14 : 4 = 113.04 (cm2). Diện tích phần tô đậm là 113.04 - 56.52 = 56.52 (cm2). Đáp số: 56.52 cm2",
+        "result": "56.52 cm2",
+        "error": false
+    }
+]
