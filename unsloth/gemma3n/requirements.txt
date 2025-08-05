@@ -1,0 +1,27 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.54.0
+datasets>=2.14.0
+accelerate>=0.21.0
+
+# Unsloth for optimized training
+unsloth[cu124-torch250] @ git+https://github.com/unslothai/unsloth.git
+
+# TRL for training
+trl>=0.7.0
+
+# PEFT for LoRA
+peft>=0.6.0
+
+# Image processing
+Pillow>=9.0.0
+requests>=2.28.0
+
+# Logging and monitoring
+tensorboard>=2.10.0
+comet-ml>=3.31.0  # For Comet ML experiment tracking
+# wandb>=0.13.0  # Uncomment if using Weights & Biases
+
+# Additional utilities
+numpy>=1.21.0
+tqdm>=4.64.0

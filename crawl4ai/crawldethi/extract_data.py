@@ -22,7 +22,7 @@ class Exam(BaseModel):
     image_url: Optional[str] = Field(None, description="URL hình ảnh minh họa, trong trường hợp câu hỏi cần hình vẽ để mô tả")
     solution: str = Field(..., description="Hướng dẫn giải, trong hướng dẫn có thể có các công thức latex")
     result: Optional[str] = Field(None, description="Đáp án của những câu hỏi trắc nghiệm")
-
+     
 async def main():
     try:
         with open(URL_FILE, 'r', encoding='utf-8') as f:
