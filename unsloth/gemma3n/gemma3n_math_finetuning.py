@@ -62,8 +62,8 @@ CONFIG = {
     "lora_alpha": 32,
     "lora_dropout": 0.0,
     
-    # System settings
-    "use_gradient_checkpointing": False,  # Disabled to avoid CheckpointError
+    # System settings  
+    "use_gradient_checkpointing": False,  # MUST be False for vision models to avoid CheckpointError
     "report_to": "comet_ml",  # Change to "tensorboard", "wandb" if needed
     "seed": 42,
     
@@ -73,6 +73,9 @@ CONFIG = {
     
     # Data collator settings
     "handle_text_only_samples": True,  # Whether to include text-only samples with placeholder images
+    "debug_data_collator": True,  # Enable detailed logging for debugging
+    "force_image_tokens": True,  # Force add image tokens even if insertion fails
+    "use_fixed_collator": True,  # Use fixed collator that modifies conversation structure
 }
 
 # =============================================================================
@@ -273,9 +276,11 @@ class HybridVisionDataCollator:
     Tự động detect và xử lý mixed batches một cách thông minh.
     """
     
-    def __init__(self, processor, handle_text_only=True):
+    def __init__(self, processor, handle_text_only=True, debug_mode=True, force_image_tokens=True):
         self.processor = processor
         self.handle_text_only = handle_text_only
+        self.debug_mode = debug_mode
+        self.force_image_tokens = force_image_tokens
         self.placeholder_image = None
         
     def _create_placeholder_image(self):
@@ -351,28 +356,26 @@ class HybridVisionDataCollator:
         if '<image>' in text:
             return text
             
-        lines = text.split('\n')
+        # Simple và reliable strategy: Insert ở đầu text
+        # Điều này đảm bảo image token luôn có mặt và ở vị trí model có thể nhận diện
+        image_tokens = ['<image>'] * num_images
         
-        # Strategy 1: Insert sau user role marker
-        for i, line in enumerate(lines):
-            if any(marker in line.lower() for marker in ['<|user|>', 'user:', 'human:']):
-                # Insert sau line này
-                insert_pos = i + 1
-                for _ in range(num_images):
-                    lines.insert(insert_pos, '<image>')
-                    insert_pos += 1
-                return '\n'.join(lines)
+        # Nếu text bắt đầu với BOS token hoặc special token, insert sau đó
+        if text.startswith(('<|', '<bos>', '<s>')):
+            lines = text.split('\n', 1)
+            if len(lines) == 2:
+                result = lines[0] + '\n' + '\n'.join(image_tokens) + '\n' + lines[1]
+            else:
+                result = text + '\n' + '\n'.join(image_tokens)
+        else:
+            # Insert ở đầu hoàn toàn
+            result = '\n'.join(image_tokens) + '\n' + text
         
-        # Strategy 2: Insert ở đầu content nếu không tìm thấy role marker
-        if len(lines) > 0:
-            # Insert sau line đầu tiên (thường là role header)
-            for _ in range(num_images):
-                lines.insert(1, '<image>')
-            return '\n'.join(lines)
+        # Debug log để track
+        if self.debug_mode:
+            print(f"🔧 Inserted {num_images} image tokens at beginning")
         
-        # Fallback: insert ở đầu
-        image_tokens = '\n'.join(['<image>'] * num_images)
-        return image_tokens + '\n' + text
+        return result
     
     def __call__(self, examples: List[Dict[str, Any]]) -> Dict[str, torch.Tensor]:
         """
@@ -477,7 +480,13 @@ class HybridVisionDataCollator:
             
             # Add 1 placeholder image và corresponding token
             placeholder = self._create_placeholder_image()
-            text_with_image_token = self._insert_image_token_strategically(text, num_images=1)
+            # Use correct Gemma3n token instead of generic <image>
+            lines = text.split('\n')
+            if len(lines) > 0 and any(token in lines[0] for token in ['<bos>', '<s>', '<|']):
+                lines.insert(1, '<image_soft_token>')
+            else:
+                lines.insert(0, '<image_soft_token>')
+            text_with_image_token = '\n'.join(lines)
             
             print(f"Text sample {idx}: Added 1 placeholder image and token")
             
@@ -542,38 +551,71 @@ class HybridVisionDataCollator:
         """Create final batch tensor."""
         print(f"Creating batch: {len(texts)} texts, {len(images_list)} image lists")
         
-        # Final validation
+        # Enhanced validation với detailed logging
         for i, (text, imgs) in enumerate(zip(texts, images_list)):
-            token_count = text.count('<image>')
+            token_count = text.count('<image_soft_token>')
             image_count = len(imgs)
+            
+            print(f"🔍 Sample {i} validation: {token_count} <image_soft_token>, {image_count} images")
             
             if token_count != image_count:
                 print(f"⚠️  Sample {i}: Token/image mismatch ({token_count} vs {image_count})")
-                # Fix mismatch
+                print(f"📝 Text preview: {repr(text[:200])}...")
+                
+                # Fix mismatch với detailed logic
                 if token_count > image_count:
+                    print(f"🔧 Adding {token_count - image_count} placeholder images")
                     while len(imgs) < token_count:
                         imgs.append(self._create_placeholder_image())
                     images_list[i] = imgs
                 elif image_count > token_count:
+                    print(f"🔧 Truncating to {token_count} images")
                     images_list[i] = imgs[:token_count] if token_count > 0 else imgs[:1]
+                elif token_count == 0 and image_count > 0:
+                    # Critical case: No tokens but have images - force add token
+                    print(f"🚨 CRITICAL: No image tokens but have {image_count} images - forcing token insertion")
+                    texts[i] = '<image_soft_token>\n' + text
+                    print(f"🔧 Fixed text preview: {repr(texts[i][:200])}...")
+        
+        # Final validation trước khi gửi to processor
+        print("🔍 Final validation before processor...")
+        total_tokens = sum(text.count('<image_soft_token>') for text in texts)
+        total_images = sum(len(imgs) for imgs in images_list)
+        print(f"📊 Total: {total_tokens} <image_soft_token>, {total_images} images")
+        
+        if total_tokens != total_images:
+            print(f"🚨 FINAL MISMATCH DETECTED: {total_tokens} tokens vs {total_images} images")
+            # Emergency fix: Ensure all samples have at least 1 image token
+            for i, text in enumerate(texts):
+                if '<image_soft_token>' not in text:
+                    print(f"🚨 Emergency fix for sample {i}: Adding <image_soft_token>")
+                    texts[i] = '<image_soft_token>\n' + text
         
         # Process with processor
         print("Sending to processor...")
-        batch = self.processor(
-            text=texts,
-            images=images_list,
-            return_tensors="pt",
-            padding=True,
-            truncation=True,
-            max_length=CONFIG["max_seq_length"]
-        )
+        try:
+            batch = self.processor(
+                text=texts,
+                images=images_list,
+                return_tensors="pt",
+                padding=True,
+                truncation=True,
+                max_length=CONFIG["max_seq_length"]
+            )
+        except Exception as e:
+            print(f"🚨 PROCESSOR ERROR: {e}")
+            # Debug information
+            for i, (text, imgs) in enumerate(zip(texts, images_list)):
+                print(f"Sample {i}: {text.count('<image_soft_token>')} <image_soft_token>, {len(imgs)} images")
+                print(f"Text: {repr(text[:100])}...")
+            raise
         
         # Create labels
         labels = batch["input_ids"].clone()
         labels[labels == self.processor.tokenizer.pad_token_id] = -100
         batch["labels"] = labels
         
-        print(f"Batch created successfully: {batch.keys()}")
+        print(f"✅ Batch created successfully: {batch.keys()}")
         if "pixel_values" in batch:
             print(f"pixel_values shape: {batch['pixel_values'].shape}")
         print(f"input_ids shape: {batch['input_ids'].shape}")
@@ -724,11 +766,22 @@ def create_trainer(model, processor, train_dataset, config: Dict[str, Any]):
     # Enable training
     FastVisionModel.for_training(model)
     
-    # Create data collator
-    data_collator = HybridVisionDataCollator(
-        processor, 
-        handle_text_only=config["handle_text_only_samples"]
-    )
+    # Create data collator với option cho fixed collator
+    if config.get("use_fixed_collator", False):
+        print("🔧 Using Fixed Gemma3n Data Collator...")
+        from fixed_data_collator import FixedGemma3nDataCollator
+        data_collator = FixedGemma3nDataCollator(
+            processor, 
+            handle_text_only=config["handle_text_only_samples"]
+        )
+    else:
+        print("📦 Using Hybrid Vision Data Collator...")
+        data_collator = HybridVisionDataCollator(
+            processor, 
+            handle_text_only=config["handle_text_only_samples"],
+            debug_mode=config["debug_data_collator"],
+            force_image_tokens=config["force_image_tokens"]
+        )
     
     # Training arguments
     training_args = SFTConfig(
@@ -745,9 +798,9 @@ def create_trainer(model, processor, train_dataset, config: Dict[str, Any]):
         optim="adamw_torch_fused",
         lr_scheduler_type="cosine",
         
-        # Memory optimization
-        gradient_checkpointing=config["use_gradient_checkpointing"],
-        gradient_checkpointing_kwargs={"use_reentrant": False} if config["use_gradient_checkpointing"] else {},
+        # Memory optimization - DISABLED for vision models to avoid CheckpointError
+        gradient_checkpointing=False,  # Must be False for Gemma3n vision models
+        gradient_checkpointing_kwargs={},  # Empty since not using checkpointing
         max_grad_norm=0.3,
         
         # Logging and saving
